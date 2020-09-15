@@ -12,6 +12,7 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
 
+    <link rel="stylesheet" href="style.css">
     <script src="quizes.js"></script>
 
     <title>Welcome</title>
@@ -32,9 +33,9 @@
         <!-- <a class="p-2 text-dark" href="#">Features</a> -->
         <!-- <a class="p-2 text-dark" href="#">Enterprise</a> -->
         <!-- <a class="p-2 text-dark" href="#">Help</a> -->
-        <!-- <a class="p-2 text-dark" href="#">Pricing</a> -->
+        <!-- <a class="p-2 text-dark" href="#">Squares</a> -->
         <div class="dropdown">
-          <button class="btn btn-light dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          <button class="btn btn-light text-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             Theme
           </button>
           <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
@@ -125,6 +126,8 @@
             //   classname_new = (theme_new==='light') ? 'text-muted' : 'text-white';
             //   console.log(`==================== ${classname_old} -> ${classname_new} ================`)
             // }
+            if(is_exempt(element)) continue;
+
             if($(element).hasClass('text-muted') && theme_new!=='light') {
               $(element).removeClass('text-muted');
               $(element).addClass('text-white');
@@ -144,7 +147,6 @@
             // if(!has_class(element, classname_old)) continue;
             // remove_class(element, classname_old);
             // add_class(element, classname_new);
-            if(is_exempt(element)) continue;
             if(!$(element).hasClass(classname_old)) continue;
             console.log(`........... changing class ................`);
             console.log(`old-class = ${classname_old}`)
@@ -160,6 +162,7 @@
       function is_exempt(element) {
         let list = ['btn0', 'btn1', 'btn2', 'btn3', 'check-progress', 'send-progress', 'clear_storage'];
         for(let id of list) { if(element.id===id) return true }
+        if($(element).hasClass("text-exempt")) return true;
         return false;
       }
       function set_theme(theme) {
@@ -181,7 +184,7 @@
       }
      </script>
 
-    <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+    <div class="squares-header px-3 py-3 pt-md-3 pb-md-3 mx-auto text-center">
       <!-- <h3 class="display-5">Colors</h3> -->
       <p class="lead" id="quiz-card-topic-text">Primary colors</p>
     </div>
@@ -192,6 +195,8 @@
       let user = {}; //name, email, id
       let info = {}; //project-name, current-quiz-topic
       let quiz;
+      let oneoff = false;
+      let building_num = 0;
       // user = { name: 'Parminder', email: 'pgill18.dev@gmail.com', id: 'pgill18.dev' };
       let fileName = 'myData.json'; // for save-as
       $( document ).ready(function(){
@@ -206,23 +211,56 @@
       });
       function load_page() {
         for(let i=0; i<quizes.length; i++) {
+          if(i>MAX_QUIZES-1) continue;
           let {info, quiz} = quizes[i];
-          load_building(i, quiz, info);
+          state = i<3 ? 1 : i<5 ? 0.5 : 0;
+          load_building(i, quiz, info, {state});
           // $(`#building-${i}-header`).text(info.header);
           // $(`#building-${i}-count`).text(quiz.length);
         }
       }
+      // function next_step() {
+      //   save_results(index);
+      //   load_question(++index);
+      // }
       function next_step() {
-        save_results(index);
-        load_question(++index);
+        // load_question(++index);
+        if(oneoff) {
+          save_results(index);
+          publish_results(results);
+          refresh_building(building_num);
+          $(".track-progress").prop("disabled", false);
+        } else {
+          save_results(index);
+          load_question(++index);
+        }
+        oneoff = false;
+      }
+      function run_step(question) {
+        load_quiz_window();
+        quiz.forEach(function(entry, i) { if(entry[0]===question) index=i });
+        load_question(index);
+        console.log(`load_question(${index})`);
+        console.log(`quiz.length=${quiz.length}`);
+        oneoff = true;
+      }
+
+      function load_quiz(x=0) {
+        quiz = quizes[x].quiz;
+        info = quizes[x].info;
+        index = 0;
+        load_quiz_window();
+        load_question(index);
+        building_num = x;
       }
       function load_question(index) {
+        console.log(`load_question(${index})`);
         clear_form(index);
         if(index > quiz.length-1) return 0;
         let entry = quiz[index]
         let choices = entry[2];
         let question = entry[0], expected = entry[1];
-        console.log(`.............................`);
+        console.log(`.............................index=${index}`);
         console.log(quiz);
         console.log(entry);
         console.log(question);
@@ -234,8 +272,10 @@
         return 1;
       }
       function clear_form() {
+        console.log(`clear_form(${index})`);
         if(index > quiz.length-1) {
           publish_results(results);
+          refresh_building(building_num);
           // $("#check-progress").prop("disabled", false);
           // $("#send-progress").prop("disabled", false);
           $(".track-progress").prop("disabled", false);
@@ -254,10 +294,13 @@
         // $("#send-progress").prop("disabled", true);
       }
       function load_quiz_window() {
+        console.log(`load_quiz_window()`);
           let results_html = `
-              <h5 class="card-title building-card-title text-left text-white" id="quiz-card-title"><span id="question" style="padding:200px; color:slategray">Color Green</span></h5>
+              <!-- <h5 class="card-title building-card-title text-center text-white col-8" id="quiz-card-title"><span id="question" style="_padding:200px; color:slategray">Color Green</span></h5> -->
               <div class="row justify-content-center">
-                <div class="btn-group-vertical col-8" role="group" aria-label="Basic example">
+                 <!-- <a type="button" class="btn btn-md btn-block btn-link col-8 text-left" style="padding-left:20px"><span style="padding-left:20px">Harra</span></a> -->
+                 <h5 class="card-title building-card-title text-left text-white col-8" id="quiz-card-title"><span id="question" style="padding:20px; color:slategray">Color Green</span></h5>
+                 <div class="btn-group-vertical col-8" role="group" aria-label="Basic example">
                   <button type="button" class="btn btn-md btn-block btn-light text-left" data-toggle="button" style="padding-left:20px" id="btn0" onclick="checkbox1(0)"><input id="cbx0" type="checkbox" onclick="checkbox(0)"><span id="choice0" style="padding-left:20px">Harra</span>
                   <button type="button" class="btn btn-md btn-block btn-light text-left" data-toggle="button" style="padding-left:20px" id="btn1" onclick="checkbox1(1)"><input id="cbx1" type="checkbox" onclick="checkbox(1)"><span id="choice1" style="padding-left:20px">Neela</span>
                   <button type="button" class="btn btn-md btn-block btn-light text-left" data-toggle="button" style="padding-left:20px" id="btn2" onclick="checkbox1(2)"><input id="cbx2" type="checkbox" onclick="checkbox(2)"><span id="choice2" style="padding-left:20px">Peela</span>
@@ -265,36 +308,79 @@
                 </div>
               </div>
               <br>
-              <button type="button" class="btn btn-md btn-outline-primary text-primary" id="btn-prev" style="width:20%">Previous</button>
-              <button type="button" class="btn btn-md btn-primary" id="btn-next" style="width:20%" onclick="next_step()">Next</button>
+              <div class="row justify-content-center">
+                <div class="btn-group col-8" role="group" aria-label="Basic example buttons">
+                  <button type="button" class="btn btn-md btn-outline-primary text-primary" id="btn-prev" style="width:20%">Prev</button>
+                  <button type="button" class="btn btn-md btn-primary" id="btn-next" style="width:20%" onclick="next_step()">Next</button>
+                </div>
+              </div>
           `;
           $("#quiz-card-body").html(results_html);
           $("#quiz-card-header-text").text(info.header);
           $("#quiz-card-topic-text").text(info.topic);
+          // $(window).scrollTop(0);
+          window.scrollTo({ top: 0, behavior: 'smooth' });
       }
-      function load_building(i, quiz, info) {
+      function load_building(i, quiz, info, {state=1}={}) {
           let results_html = `
               <div class="card-header">
-                <h4 class="my-0 font-weight-normal" id="building-${i}-header">Colors</h4>
+                <div class="row justify-content-center">
+                  <h4 class="my-0 font-weight-normal text-center" id="building-${i}-header">Colors</h4>
+                  <div class="badge badge-light text-muted text-exempt"><span id="building-${i}-count">0</span></div>
+                </div>
               </div>
-              <div class="card-body">
+              <div class="card-body pt-1">
                 <!-- <h4 class="card-title building-card-title"><span class="text-muted">Level</span> 1</h4> -->
-                <ul class="list-unstyled">
-                  <li><span id="building-${i}-count">0</span> items</li>
+                <ul class="list-unstyled mb-0">
+                  <!-- <li><span id="building-${i}-count">0</span> items</li> -->
                   <!-- <li><small class="text-muted">Avg 3</small><small class="text-muted">, Min 2</small></li> -->
-                  <!-- <li><strong class="text-muted">40% done</strong></li> -->
+                  <!-- <li><em class="text-muted text-exempt">Level 1</em></li> -->
+                  <li class="text-center"><em class="text-muted text-exempt">Level <span id="building-${i}-level">1</span></em></li>
+                  <li class="text-center"><h6 class="text-muted text-exempt"><span id="building-${i}-done">0</span>% done</h6></li>
                 </ul>
-                <button type="button" class="btn btn-link track-progress" onclick="check_progress(${i})">Check Progress</button>
+                <button type="button" class="btn btn-link btn-block track-progress" id="building-${i}-progress-btn" onclick="check_progress(${i})">Check Progress</button>
                 <hr>
-                <button type="button" class="btn btn-lg btn-block btn-outline-primary" onclick="load_quiz(${i})">Start</button>
+                <button type="button" class="btn btn-lg btn-block btn-outline-primary text-primary" id="building-${i}-start-btn" onclick="load_quiz(${i})">Start</button>
             </div>
           `;
+            // <div class="col mb-4">
+            // </div>
+
+          let building_column = document.createElement("div");
+          building_column.className = "col mb-2";
+          $("#quiz-buildings").append(building_column);
           let building = document.createElement("div");
           building.className = "card mb-4 shadow-sm";
           building.innerHTML = results_html;
-          $("#quiz-buildings").append(building);
+          // $(building).addClass('shrink60');
+          $(building_column).append(building);
+          // $("#quiz-buildings").append(building);
           $(`#building-${i}-header`).text(info.header);
           $(`#building-${i}-count`).text(quiz.length);
+          let quiz_level = 1, quiz_done = 33;
+          let {db, report, results} = get_progress(i);
+          console.log({db, report, results});
+          quiz_done = Math.round(report.summary.attempts/3 * 100) || 0;
+          $(`#building-${i}-level`).text(quiz_level);
+          $(`#building-${i}-done`).text(quiz_done);
+          // fade buildings in ruin
+          if(state<1) disable_appearance(building, {disable: true, opacity: state>0?0.3:0.1});
+          if(state<1) disable_appearance(`#building-${i}-progress-btn`, {disable: true, opacity: state>0?0.2:0.1});
+          if(state<1) disable_appearance(`#building-${i}-start-btn`, {disable: true, opacity: state>0?0.1:0.1});
+      }
+      function refresh_building(i, quiz, info) {
+          let quiz_level = 1, quiz_done = 33;
+          let {db, report, results} = get_progress(i);
+          console.log({db, report, results});
+          quiz_done = Math.round(report.summary.attempts/3 * 100) || 0;
+          quiz_done = Math.round(report.summary.attempts/3 * 100);
+          console.log(`quiz_done = ${quiz_done}`);
+          $(`#building-${i}-level`).text(quiz_level);
+          $(`#building-${i}-done`).text(quiz_done);
+      }
+      function disable_appearance(element, opt) {
+        $(element).prop("disabled", opt.disable);
+        $(element).css({opacity: opt.opacity});
       }
       function publish_results(results) {
           $("#quiz-card-title").html('Results');
@@ -307,13 +393,14 @@
             expected = capitalizeFirstLetter(expected);
             answer = capitalizeFirstLetter(answer);
             // results_html += '<li>' + JSON.stringify(results[i]) + '</li>';
-            let bgcolor = pass ? "lightgreen" : "lightsalmon";
-            // let tdquestion = `<a style="cursor: pointer;" onclick="select_index(${i});">${question}</a>`;
-            // let tdexpected = `<a style="cursor: pointer;" onclick="select_index(${i});">${expected}</a>`;
-            // let tdanswer   = `<a style="cursor: pointer;" onclick="select_index(${i});">${answer}</a>`;
-            // let tdpassfail = `<a style="cursor: pointer;" onclick="select_index(${i});">${passfail}</a>`;
-            // tablerows += `<tr style="background-color: ${bgcolor}">\n<td>${tdquestion}</td>\n<td>${tdexpected}</td>\n<td>${tdanswer}</td>\n<td>${tdpassfail}</td>\n<tr>`
-            tablerows += `<tr style="background-color: ${bgcolor}">\n<td>${question}</td>\n<td>${expected}</td>\n<td>${answer}</td>\n<td>${passfail}</td>\n<tr>`
+            // let bgcolor = pass ? "lightgreen" : "lightsalmon";
+            let bgcolor = pass ? "#ABEBC6" : "#fdd0cb";
+            // tablerows += `<tr style="background-color: ${bgcolor}" href="#"  onclick="check_progress()">\n<td  onclick="check_progress()">${question}</td>\n<td>${expected}</td>\n<td>${answer}</td>\n<td>${passfail}</td>\n<tr>`
+            tablerows += `<tr style="background-color: ${bgcolor}">\n`;
+            for(let field of [question, expected, answer, passfail]) {
+              tablerows += `<td><a style="cursor: pointer;" onclick="run_step('${question}');">${field}</a></td>\n`;
+            }
+            tablerows += `</tr>`;
           }
           // results_html = `<ul>${results_html}</ul>`;
           results_html = `
@@ -341,8 +428,14 @@
             question = capitalizeFirstLetter(question);
             expected = capitalizeFirstLetter(expected);
             let confidence = incorrect===0 ? 100 : Math.round(correct/(correct+incorrect)*100);
-            let bgcolor = correct>incorrect ? "lightgreen" : "lightsalmon";
-            tablerows += `<tr style="background-color: ${bgcolor}">\n<td>${question}</td>\n<td>${expected}</td>\n<td>${correct}</td>\n<td>${incorrect}</td>\n<td>${confidence}</td>\n<tr>`
+            // let bgcolor = correct>incorrect ? "lightgreen" : "lightsalmon";
+            let bgcolor = correct>incorrect ? "#ABEBC6" : "#fdd0cb";
+            tablerows += `<tr style="background-color: ${bgcolor}"  onclick="check_progress()">\n<td>${question}</td>\n<td>${expected}</td>\n<td>${correct}</td>\n<td>${incorrect}</td>\n<td>${confidence}</td>\n<tr>`
+            // tablerows += `<tr style="background-color: ${bgcolor}">\n`;
+            // for(let field of [question, expected, correct, incorrect, confidence]) {
+            //   tablerows += `<td><a style="cursor: pointer;" onclick="run_step('${question}')">${field}</a></td>\n`;
+            // }
+            // tablerows += `</tr>`;
           }
           // results_html = `<ul>${results_html}</ul>`;
           report_html = `
@@ -362,29 +455,36 @@
       }
       function generate_report(all_results) {
         let report = {table: [], summary: {count: 0, attempts: 0, correct: 0, incorrect: 0}};
+        let index_lookup = {};
         for(let results of all_results) { // all attempts
           for(let i=0; i<results.length; i++) { // ith question
             let {question, expected, answer, pass, choices} = results[i];
-            let correct = (report.table[i] && report.table[i].correct) ? report.table[i].correct : 0;
-            let incorrect = (report.table[i] && report.table[i].incorrect) ? report.table[i].incorrect : 0;
+            if(index_lookup[question]===undefined) index_lookup[question] = i;
+            let index = index_lookup[question];
+            let correct = (report.table[index] && report.table[index].correct) ? report.table[index].correct : 0;
+            let incorrect = (report.table[index] && report.table[index].incorrect) ? report.table[index].incorrect : 0;
             if(pass) correct++; else incorrect++;
             if(pass) report.summary.correct++; else report.summary.incorrect++;
-            report.table[i] = {question, expected, correct, incorrect, choices};
+            report.table[index] = {question, expected, correct, incorrect, choices};
           }
           report.summary.count = results.length;
-        } 
+        }
         report.summary.attempts = all_results.length;
         return report;
       }
       function store_results(results) {
         let pathkey = `${info.project}/${info.section}/${info.topic}`;
         let db = window.localStorage.getItem(user.id);
-        console.log(db);
+        // console.log(db);
         if(!db) db = {}; else db = JSON.parse(db);
         if(!db[pathkey]) db[pathkey] = {};
         if(!db[pathkey].report) db[pathkey].report = {table: [], summary: {}};
         if(!db[pathkey].results) db[pathkey].results = [];
-        db[pathkey].results.push(results);
+        // db[pathkey].results.push(results);
+        if(oneoff)
+          db[pathkey].results[db[pathkey].results.length-1] = results;
+        else
+          db[pathkey].results.push(results);
         db[pathkey].report = generate_report(db[pathkey].results);
         console.log(db);
         window.localStorage.setItem(user.id, JSON.stringify(db));
@@ -396,11 +496,13 @@
           pathkey = `${info.project}/${info.section}/${info.topic}`;
         }
         let db = window.localStorage.getItem(user.id);
-        console.log(db);
+        // console.log(db);
         if(!db) db = {}; else db = JSON.parse(db);
         if(!db[pathkey]) db[pathkey] = {};
         if(!db[pathkey].report) db[pathkey].report = {table: [], summary: {}};
         if(!db[pathkey].results) db[pathkey].results = [];
+        console.log(`i = ${i},  building_num = ${building_num}`);
+        console.log(`pathkey = ${pathkey}`);
         console.log(db);
         return {db, report: db[pathkey].report, results: db[pathkey].results};
       }
@@ -411,6 +513,11 @@
         let {db, report, results} = retrieve_results(i);
         console.log(report);
         publish_report(report);
+        oneoff = false;
+      }
+      function get_progress(i) {
+        let {db, report, results} = retrieve_results(i);
+        return {db, report, results};
       }
       function clear_local_storage() {
         window.localStorage.clear();
@@ -461,14 +568,6 @@
         console.log(results);
       }
 
-      function load_quiz(x=0) {
-        quiz = quizes[x].quiz;
-        info = quizes[x].info;
-        index = 0;
-        load_quiz_window();
-        load_question(index);
-      }
-
       function checkbox(i) {
         $("#btn"+i).click();
         $("#btn-next").prop("disabled", false);
@@ -498,7 +597,7 @@
     </div>
       <div class="container">
         <div class="card-deck mb-3 text-center">
-          <div class="card mb-4 shadow-sm" id="quiz-card">
+          <div class="card mb-4 shadow" id="quiz-card">
             <div class="card-header bg-light text-muted" id="quiz-card-header">
               <h4 class="my-0 font-weight-normal" id="quiz-card-header-text">Colors</h4>
             </div>
@@ -513,31 +612,82 @@
                 </div>
               </div>
               <br>
-              <button type="button" class="btn btn-md btn-outline-primary text-primary" id="btn-prev" style="width:20%">Previous</button>
-              <button type="button" class="btn btn-md btn-primary" id="btn-next" style="width:20%" onclick="next_step()">Next</button>
+              <div class="row justify-content-center">
+                <div class="btn-group col-8" role="group" aria-label="Basic example buttons">
+                  <button type="button" class="btn btn-md btn-outline-primary text-primary" id="btn-prev" style="width:20%">Prev</button>
+                  <button type="button" class="btn btn-md btn-primary" id="btn-next" style="width:20%" onclick="next_step()">Next</button>
+                </div>
+              </div>
             </div>
           </div>
         </div>
 
-      <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+      <!--        
+      <div class="squares-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
         <div class="card mb-4 shadow-sm">
           <div class="card-body">
-            <button type="button" class="btn btn-md btn-light col-4 track-progress" onclick="check_progress()" id="check-progress">Check Progress</button>
-            <button type="button" class="btn btn-md btn-light col-4 track-progress" onclick="download_progress()" id="send-progress">Send Progress</button>
-            <!-- <button type="button" class="btn btn-md btn-light progress" onclick="clear_local_storage()" id="clear_storage">Clear local storage</button> -->
+            <div class="row row-cols-1 row-cols-md-2">
+              <button type="button" class="btn btn-md btn-light col-5 track-progress" onclick="check_progress()" id="check-progress">Check Progress</button>
+              <button type="button" class="btn btn-md btn-light col-5 track-progress" onclick="download_progress()" id="send-progress">Send Progress</button>
+              <button type="button" class="btn btn-md btn-light progress" onclick="clear_local_storage()" id="clear_storage">Clear local storage</button>
+            </div>
+          </div>
+        </div>
+      </div> -->
+ 
+      <!-- <div class="squares-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center"> -->
+      <div class="text-center">
+        <div class="card mb-0 shadow-sm">
+          <div class="card-body py-2">
+              <div class="row row-cols-1 row-cols-md-2 justify-content-center">
+                <div class="btn-group" role="group" aria-label="Basic example buttons">
+                  <button type="button" class="btn btn-md btn-light track-progress" onclick="check_progress()" id="check-progress">Check Progress</button>
+                  <button type="button" class="btn btn-md btn-light track-progress" onclick="download_progress()" id="send-progress">Send Progress</button>
+                </div>
+              </div>
           </div>
         </div>
       </div>
 
-      <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+      <div class="squares-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
         <!-- <h3 class="display-5">Colors</h3> -->
         <p class="lead">Current setup</p>
       </div>
 
       <div class="container">
-        <div class="card-deck mb-3 text-center grid" id="quiz-buildings">
-        </div>
+        <!-- <div class="card-deck mb-3 text-center grid"> -->
+          <div class="row row-cols-1 row-cols-md-3" id="quiz-buildings">
+          </div>
+        <!-- </div> -->
       </div>
+
+      <footer class="pt-4 my-md-5 pt-md-5 border-top">
+          <div class="row">
+            <div class="col-6 col-md">
+              <!-- <h5>Reporting</h5> -->
+              <ul class="list-unstyled text-small">
+                <li><a class="text-muted text-exempt" href="#" onclick="check_progress()">Check Progress</a></li>
+                <!-- <li><a class="text-muted" href="#">Random feature</a></li> -->
+                <!-- <li><a class="text-muted" href="#">Team feature</a></li> -->
+              </ul>
+            </div>
+            <div class="col-6 col-md">
+              <!-- <h5>Resources</h5> -->
+              <ul class="list-unstyled text-small">
+                <li><a class="text-muted text-exempt" href="#" onclick="clear_local_storage()">Clear local storage</a></li>
+                <!-- <li><a class="text-muted" href="#">Resource name</a></li> -->
+                <!-- <li><a class="text-muted" href="#">Another resource</a></li> -->
+              </ul>
+            </div>
+            <div class="col-6 col-md">
+              <!-- <h5>About</h5>
+              <ul class="list-unstyled text-small">
+                <li><a class="text-muted" href="#">Team</a></li>
+                <li><a class="text-muted" href="#">Locations</a></li>
+              </ul> -->
+            </div>
+          </div>
+        </footer>
 
   </body>
 </html>

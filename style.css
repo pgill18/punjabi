@@ -1,0 +1,16 @@
+.shrink70{
+    zoom: 0.7; 
+}
+.shrink60{
+    zoom: 0.6; 
+}
+.shrink50{
+    zoom: 0.5; 
+}
+.shrink30{
+    /*-webkit-transform:scale(0.3);
+    -moz-transform:scale(0.3);
+    -ms-transform:scale(0.3);*/
+    /*transform:scale(0.3);*/
+    zoom: 0.3; 
+}
