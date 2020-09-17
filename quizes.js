@@ -65,7 +65,7 @@ function content_quiz2() {
 }
 
 function content_quiz3() {
-  let info = { project: "Punjabi", section: "Vocabulary", topic: "Vegitables", header: "Vegitables" };
+  let info = { project: "Punjabi", section: "Vocabulary", topic: "Vegetables", header: "Vegetables" };
   let options = { random: true, count: [11] };
   let quiz = build_choices([
     ['Aaloo', 'Potato'],
@@ -75,7 +75,7 @@ function content_quiz3() {
     ['Mooli', 'Radish'],
     ['Bengan', 'Eggplant'],
     ['Bhindi', 'Okra'],
-    ['Daal',    'Pulse'],
+    ['Daal',    'Lentil'],
     ['Chholle', 'Gurbanzo-beans'],
     ['Palak', 'Spinach'],
     ['Tumator', 'Tomato'],
