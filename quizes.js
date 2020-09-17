@@ -4,12 +4,12 @@ let quizes = [];
 quizes.push(content_quiz1());
 quizes.push(content_quiz2());
 quizes.push(content_quiz3());
-quizes.push(content_quiz1());
-quizes.push(content_quiz2());
-quizes.push(content_quiz3());
-quizes.push(content_quiz1());
-quizes.push(content_quiz2());
-quizes.push(content_quiz3());
+// quizes.push(content_quiz1());
+// quizes.push(content_quiz2());
+// quizes.push(content_quiz3());
+// quizes.push(content_quiz1());
+// quizes.push(content_quiz2());
+// quizes.push(content_quiz3());
 
 function content_quiz1() {
   let info = { project: "Punjabi", section: "Vocabulary", topic: "Primary Colors", header: "Colors" };
@@ -34,7 +34,7 @@ function content_quiz1() {
 
 function content_quiz2() {
   let info = { project: "Punjabi", section: "Vocabulary", topic: "Counting", header: "Counting" };
-  let options = { random: false, count: [12] };
+  let options = { random: true, count: [12] };
   let quiz = build_choices([
     ['Ik', 'One'],
     ['Do', 'Two'],
