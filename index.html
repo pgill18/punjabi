@@ -488,7 +488,7 @@
           let results_html = `
               <div class="card-header">
                 <div class="row justify-content-center">
-                  <h4 class="my-0 font-weight-normal text-center" id="building-${i}-header" debug1 onclick="produce(${i}, 'prod')">Colors</h4>
+                  <h4 class="my-0 font-weight-normal text-center" id="building-${i}-header" debug1 onclick1="produce(${i}, 'prod')">Colors</h4>
                   <div class="badge badge-light text-muted text-exempt"><span id="building-${i}-count">0</span></div>
                   <!-- <span class="oi oi-flag"></span> -->
                   <!-- <i class="material-icons" style="font-size:48px;">cloud</i> -->
@@ -503,9 +503,9 @@
                   <!-- <li><small class="text-muted">Avg 3</small><small class="text-muted">, Min 2</small></li> -->
                   <!-- <li><em class="text-muted text-exempt">Level 1</em></li> -->
 
-                  <li class="text-center"><em class="text-muted text-exempt" debug1 onclick="produce('collect-level-${i}', 'level');">Level <span id="building-${i}-level">1</span></em>
+                  <li class="text-center"><em class="text-muted text-exempt" debug1 onclick1="produce('collect-level-${i}', 'level');">Level <span id="building-${i}-level">1</span></em>
                   <i class="material-icons btn-light" id="collect-level-${i}" style="font-size:24px;color:lightgray;" data-prod="0" onclick="collect_level(${i}, 100)">school</i></li>
-                  <li class="text-center"><h6 class="text-muted text-exempt" debug1 onclick="collect_done(${i})"><span id="building-${i}-done">0</span>% done</h6></li>
+                  <li class="text-center"><h6 class="text-muted text-exempt" debug1 onclick1="collect_done(${i})"><span id="building-${i}-done">0</span>% done</h6></li>
                 </ul>
                 <button type="button" class="btn btn-link btn-block track-progress" id="building-${i}-progress-btn" onclick="check_progress(${i})">Check Progress</button>
                 <hr>
