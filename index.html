@@ -224,8 +224,11 @@
       let user = {}; //name, email, id
       let info = {}; //project-name, current-quiz-topic
       let quiz;
+      let states = [];
       let oneoff = false;
       let building_num = 0;
+      let loop_data = { day: 1, stamp: 0 };
+      let map_data = { population: 0 };
       let max_level2_plus_reached = 0;
       let max_level3_plus_reached = 0;
       // user = { name: 'Parminder', email: 'pgill18.dev@gmail.com', id: 'pgill18.dev' };
@@ -260,6 +263,8 @@
             if(i===7 && max_level3_plus_reached>=2 && max_level2_plus_reached>=5) state = 1;
             if(i===8 && max_level3_plus_reached>=3 && max_level2_plus_reached>=6) state = 1;
           }
+          states[i] = state;
+          console.log(`i = ${i}, state = ${state}, max_level2_plus_reached = ${max_level2_plus_reached}, max_level3_plus_reached = ${max_level3_plus_reached}`)
           load_building(i, quiz, info, {state});
           // $(`#building-${i}-header`).text(info.header);
           // $(`#building-${i}-count`).text(quiz.length);
@@ -420,6 +425,8 @@
       function produce(i, type='prod') {
           let id = type==='level' ? `collect-level-${i}` : `collect-prod-${i}`;
           let output = type==='level' ? 100 : type==='prod' ? 4 : 0;
+          let quiz_level = retrieve_progress(i, 'level') || 1;
+          output += quiz_level - 1;
           let elem = document.getElementById(id);
           $(elem).data('prod', output);
           elem.style.color = 'goldenrod';
@@ -540,7 +547,7 @@
           let quiz_prod = retrieve_progress(i, 'prod');
           if(quiz_prod) produce(i, type='prod');
           let coll_time = retrieve_progress(i, 'coll-time');
-          if(!coll_time) store_progress(i, 'coll-time', new Date().getTime());
+          if(!coll_time && state===1) store_progress(i, 'coll-time', new Date().getTime());
           // fade buildings in ruin
           if(state<1) disable_appearance(building, {disable: true, opacity: state>0?0.3:0.1});
           if(state<1) disable_appearance(`#building-${i}-progress-btn`, {disable: true, opacity: state>0?0.2:0.1});
@@ -560,23 +567,37 @@
       }
       function loop() {
           console.log(`entering the loop() ...`, new Date().toLocaleString());
-          let one_period = 4*60*60*10000; //24*60*60*1000; // one day in ms
-          for(let i=0; i<MAX_QUIZES-1; i++) {
+          console.log(MAX_QUIZES)
+          console.log(quizes)
+          let one_period = 24*60*60*1000; // one day in ms
+          let period = 1;
+          for(let i=0; i<MAX_QUIZES; i++) {
               if(!quizes[i]) continue;
               let curr_time = new Date().getTime();
               let coll_time = parseInt(retrieve_progress(i, 'coll-time'));
+              // console.log(`i=${i} curr_time = ${curr_time}, coll_time = ${coll_time}`);
               if(!coll_time) continue;
               if(curr_time > coll_time+one_period) {
-                  produce(i, type='prod');
+                  if(states[i]===1) produce(i, type='prod');
               }
+              let elapsed_time = (curr_time - coll_time);
+              // console.log(`i=${i} curr_time = ${curr_time}, coll_time = ${coll_time}, elapsed = ${elapsed_time/1000/60}, ratio = `, one_period/elapsed_time);
           }
+          let curr_time = new Date().getTime();
+          if(loop_data.stamp - curr_time >= one_period) {
+              loop_data.day++;
+              loop_data.stamp = curr_time;
+          }
+          console.log(`day ${loop_data.day}`)
           setTimeout(() => loop(), 30000); // runs in a loop every 30 seconds
       }
       function load_scorecard() {
+          map_data.population = retrieve_scorecard(`population/total`) || 0;
           let galleons = retrieve_scorecard("galleons") || 0;
           let reveal_points = retrieve_scorecard("revealers") || 0;
           $("#score-points").text(galleons);
-          $("#reveal-points").text(reveal_points)
+          $("#reveal-points").text(reveal_points);
+          $("#total-population").text(map_data.population);
       }
 
       function store_progress(i, key, value) {
@@ -929,7 +950,8 @@
 
       <div class="squares-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
         <!-- <h3 class="display-5">Colors</h3> -->
-        <p class="lead" onclick1="reveal_tile()">Revealed: <em id="reveal-points" class="text-muted">0<em></p>
+        <p class="lead" onclick1="reveal_tile()" hidden>Revealed: <em id="reveal-points" class="text-muted">0<em></p>
+        <p class="lead" onclick1="reveal_tile()">Population: <em id="total-population" class="text-muted">0<em></p>
       </div>
 
       <div class="container col-10" style="position:relative; height: 800px;">
@@ -947,10 +969,29 @@
           }
           function collect_map_space(i, j, cost=50) {
               let space = document.getElementById(`space-${i}-${j}`);
-              if(confirm(`I will cost ${cost} galleons, are you sure?`)) {
-                  // deduct_galleons(cost);
-                  if(reveal_tile(cost)) space.style.opacity = 0.7;
+              let revealed = retrieve_scorecard(`tiles/space-${i}-${j}`);
+              if(revealed) { return populate_tile(i, j); }
+              // if(revealed) return;
+              if(confirm(`This will cost ${cost} galleons, are you sure?`)) {
+                  if(reveal_tile(cost)) {
+                      space.innerHTML = add_grid_cell(i, j, `${i}${j}`, true);
+                      space.style.opacity = 0.7;
+                      store_scorecard(`tiles/space-${i}-${j}`, 1);
+                      let tilenum = (i+1)*(j+1);
+                      let population = 150 - Math.abs(13-tilenum)*10/2;
+                      map_data.population += population;
+                      $("#total-population").text(map_data.population);
+                      store_scorecard(`population/space-${i}-${j}`, population);
+                      store_scorecard(`population/total`, map_data.population);
+                      discovered_population(i, j, population);
+                  }
               }
+          }
+          function discovered_population(i, j, count) {
+              alert(`Congratulations! You just discovered a new population of ${count}. Now you have total population of ${map_data.population}. You need to discover total poplation of 1000 to start this next step. Continue uncovering new spaces until you reach this critical mass. Then you can start construction and build your civilization.`);
+          }
+          function populate_tile(i, j) {
+              alert(`You need to discover total poplation of 1000 to start this next step. So far you have discovered total population of ${map_data.population}. Continue uncovering new spaces until you reach this critical mass. Then you can start construction and build your civilization.`);
           }
           function add_map(xn, yn, ncol) {
               let container = document.getElementById('map-grid');
@@ -959,24 +1000,32 @@
                   row_element.className = `row col-12`;
                   container.appendChild(row_element);
                   for(let j=0; j<yn; j++) {
-                      let cell_html = add_grid_cell(i, j, `${i}${j}`)
+                      let revealed = retrieve_scorecard(`tiles/space-${i}-${j}`);
+                      let cell_html = add_grid_cell(i, j, `${i}${j}`, revealed);
                       cell_element = document.createElement('div');
                       cell_element.className = 'card col m-0 p-0';
                       cell_element.id = `space-${i}-${j}`;
                       // cell_element.style.opacity = `0.5`;
                       cell_element.innerHTML = cell_html;
                       row_element.appendChild(cell_element);
+                      if(revealed) cell_element.style.opacity = 0.7;
                   }
               }
           }
-          function add_grid_cell(i, j, ij) {
-            return `
+          function add_grid_cell(i, j, ij, revealed) {
+              let icon = (revealed) ? 'insert_comment' : 'short_text';
+              let size = (revealed) ? '140px' : '172px';
+              let color = (revealed) ? 'green' : 'lightgray';
+              let opacity_fg = (revealed) ? 1 : 0;
+              let opacity_bg = (revealed) ? 0 : 1;
+              return `
           <!-- <div class="card"> -->
             <!-- <img src="..." class="card-img-top" alt="..."> -->
             <div class="card-body m-0 p-0 mb-n2">
               <!-- <h5 class="card-title">Card title</h5> -->
               <!-- <p class="card-text"></p> -->
-              <i class="material-icons btn-light" id="grid-cell-${i}-${j}" style="font-size:172px;color:lightgray;" data-toggle1="clickover" data-prod="0" onclick="collect_map_space(${i}, ${j})">short_text</i>
+              <i class="material-icons btn-light" id="grid-cell-${i}-${j}" style="font-size:172px;color:lightgray;opacity:${opacity_bg}" data-toggle1="clickover" data-prod="0" onclick="collect_map_space(${i}, ${j})">short_text</i>
+              <i class="material-icons btn-light" id="grid-cell-${i}-${j}" style="font-size:${size}px;color:${color};opacity:${opacity_fg}; position:absolute; margin: 70px 0 0 -90px" data-toggle1="clickover" data-prod="0" onclick="populate_tile(${i}, ${j})">${icon}</i>
             </div>
           <!-- </div> -->`;
           }
