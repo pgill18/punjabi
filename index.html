@@ -11,8 +11,12 @@
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <!-- <link href="/open-iconic/font/css/open-iconic.css" rel="stylesheet"> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/font/css/open-iconic-bootstrap.min.css" integrity="sha256-BJ/G+e+y7bQdrYkS2RBTyNfBHpA9IuGaPmf9htub5MQ=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
     <link rel="stylesheet" href="style.css">
+    <script src="audio.js"></script>
     <script src="quizes.js"></script>
 
     <title>Welcome</title>
@@ -29,6 +33,18 @@
   <body>
     <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom shadow-sm">
       <h5 class="my-0 mr-md-auto font-weight-normal">Punjabi</h5>
+      <nav class="my-2 my-md-0 mr-md-3">
+        <div class="dropdown">
+          <button class="btn btn-light text-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Voice
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a class="dropdown-item" href="#" onclick="change_voice(0)">Child</a>
+            <a class="dropdown-item" href="#" onclick="change_voice(1)">Female</a>
+            <a class="dropdown-item" href="#" onclick="change_voice(2)">Male</a>
+          </div>
+        </div>
+      </nav>
       <nav class="my-2 my-md-0 mr-md-3">
         <!-- <a class="p-2 text-dark" href="#">Features</a> -->
         <!-- <a class="p-2 text-dark" href="#">Enterprise</a> -->
@@ -107,6 +123,7 @@
     </div>
 
     <script>
+      let voiceOver = new VoiceOver();
       let theme = get_theme() || 'primary';
       let classnames = ['btn-primary', 'btn-outline-primary', 'bg-primary', 'border-primary', 'text-primary'];
       // let lookup = {blue: primary, gray: secondary, green: }
@@ -182,6 +199,17 @@
         window.localStorage.removeItem(user.id+'/theme');
         if(confirm("Original theme setting needs to reload this page.\nPress 'OK' to reload now.\nPress 'Cancel' to reload later.")) location.reload();
       }
+      function init_voice() {
+        let voice = window.localStorage.getItem(user.id+'/voice');
+        console.log(`init_voice() : ${voice}, ${user.id}`)
+        voice = voice ? parseInt(voice) : 0;
+        voiceOver.change_voice(voice);
+      }
+      function change_voice(voice) {
+        console.log(`change_voice() : ${voice}, ${user.id}`)
+        voiceOver.change_voice(voice);
+        window.localStorage.setItem(user.id+'/voice', voice);
+      }
      </script>
 
     <div class="squares-header px-3 py-3 pt-md-3 pb-md-3 mx-auto text-center">
@@ -190,6 +218,7 @@
     </div>
 
     <script>
+      // let DEBUG = 1;
       let results = [];
       let index = 0;
       let user = {}; //name, email, id
@@ -197,10 +226,13 @@
       let quiz;
       let oneoff = false;
       let building_num = 0;
+      let max_level2_plus_reached = 0;
+      let max_level3_plus_reached = 0;
       // user = { name: 'Parminder', email: 'pgill18.dev@gmail.com', id: 'pgill18.dev' };
       let fileName = 'myData.json'; // for save-as
       $( document ).ready(function(){
         signin_user(user);
+        init_voice();
         // set_user(user);
         load_page();
         load_quiz();
@@ -208,16 +240,34 @@
         // quiz = load_quiz();
         // load_question(index);
         // let data = window.localStorage.getItem(user.id);
+        loop();
       });
       function load_page() {
         for(let i=0; i<quizes.length; i++) {
           if(i>MAX_QUIZES-1) continue;
-          let {info, quiz} = quizes[i];
-          state = i<3 ? 1 : i<5 ? 0.5 : 0;
+          // let {info, quiz} = quizes[i];
+          quiz = quizes[i].quiz;
+          info = quizes[i].info;
+          index = i; building_num = i;
+          state = i<3 ? 1 : i<4 ? 0.5 : 0;
+          if(max_level2_plus_reached > 0) {
+            // every level 2 or higher level adds an additional quiz to the maximum of 3
+            if(i===3 && max_level2_plus_reached>=1) state = 1;
+            if(i===4 && max_level2_plus_reached>=2) state = 1;
+            if(i===5 && max_level2_plus_reached>=3) state = 1;
+            // every level 3 or higher level adds an additional quiz to the maximum of 3
+            if(i===6 && max_level3_plus_reached>=1 && max_level2_plus_reached>=4) state = 1;
+            if(i===7 && max_level3_plus_reached>=2 && max_level2_plus_reached>=5) state = 1;
+            if(i===8 && max_level3_plus_reached>=3 && max_level2_plus_reached>=6) state = 1;
+          }
           load_building(i, quiz, info, {state});
           // $(`#building-${i}-header`).text(info.header);
           // $(`#building-${i}-count`).text(quiz.length);
         }
+        quiz = quizes[0].quiz;
+        info = quizes[0].info;
+        index = 0; building_num = 0;
+        load_scorecard();
       }
       // function next_step() {
       //   save_results(index);
@@ -269,6 +319,7 @@
           $("#choice"+i).text(capitalizeFirstLetter(choices[i]));
         }
         $("#question").text(capitalizeFirstLetter(question));
+        voiceOver.play(entry[3]+1, building_num);
         return 1;
       }
       function clear_form() {
@@ -318,15 +369,131 @@
           $("#quiz-card-body").html(results_html);
           $("#quiz-card-header-text").text(info.header);
           $("#quiz-card-topic-text").text(info.topic);
+          voiceOver.setTopic(info.header);
           // $(window).scrollTop(0);
           window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+      function collect_old(id, totid='score-points', i, factor=100) {
+          let completion = [233, 133, 33], level = 1;
+          let refval = (i!==undefined) ? completion[i] : 0;
+          console.log(`0...refval=${refval}, level=${level}`)
+          if(refval > factor) { refval -= factor; level++; }
+          if(i!==undefined) add_level(i, completion[i]);
+          console.log(`1...refval=${refval}, level=${level}`)
+          let elem = document.getElementById(id);
+          let output = parseInt($(elem).data('prod'));
+          elem.style.color = 'lightgray';
+          elem.style.fontSize = '24px';
+          $(elem).removeClass("btn-light");
+          let current_total = parseInt($("#"+totid).text());
+          // $("#"+totid).text(current_total+output);
+          console.log(output);
+          console.log($(elem).data('prod'));
+          return output;
+      }
+      function collect(i, totid='score-points', factor=33) {
+          let id = `collect-prod-${i}`;
+          let elem = document.getElementById(id);
+          let output = parseInt($(elem).data('prod'));
+          elem.style.color = 'lightgray';
+          elem.style.fontSize = '24px';
+          $(elem).removeClass("btn-light");
+          let current_total = parseInt($("#"+totid).text());
+          $("#"+totid).text(current_total+output);
+          store_scorecard('galleons', current_total+output);
+          store_progress(i, 'prod', 0);
+          store_progress(i, 'coll-time', new Date().getTime());
+          console.log(output);
+          console.log($(elem).data('prod'));
+          return output;
+      }
+      function collect_level(i, qty=100) {
+          if(i===undefined || qty===undefined) return;
+          let [total, level] = update_level(i, qty);
+          let id = `collect-level-${i}`;
+          let elem = document.getElementById(id);
+          elem.style.color = 'lightgray';
+          elem.style.fontSize = '24px';
+          $(elem).removeClass("btn-light");
+          return [total, level];
+      }
+      function produce(i, type='prod') {
+          let id = type==='level' ? `collect-level-${i}` : `collect-prod-${i}`;
+          let output = type==='level' ? 100 : type==='prod' ? 4 : 0;
+          let elem = document.getElementById(id);
+          $(elem).data('prod', output);
+          elem.style.color = 'goldenrod';
+          elem.style.fontSize = '36px';
+          $(elem).addClass("btn-light");
+          store_progress(i, type, output);
+          console.log(output);
+          console.log($(elem).data('prod'));
+      }
+      function light_up(i, type='prod') {
+          let id = type==='level' ? `collect-level-${i}` : `collect-prod-${i}`;
+          let elem = document.getElementById(id);
+          elem.style.color = 'goldenrod';
+          elem.style.fontSize = '36px';
+          $(elem).addClass("btn-light");
+      }
+      function update_level(i, step=100) {
+          if(i===undefined || step===undefined) return;
+          let done_id = `#building-${i}-done`
+          let level_id = `#building-${i}-level`;
+          let level = parseInt($(level_id).text());
+          let total = parseInt($(done_id).text());
+          console.log(`0...total=${total}`)
+          if(total >= step) {
+              total -= step; level++;
+              $(done_id).text(total);
+              $(level_id).text(level);
+              store_progress(i, 'done', total);
+              store_progress(i, 'level', level);
+          }
+          console.log(`1...total=${total}, level=${level}`)
+          return [total, level];
+      }
+      function collect_done(i, addon=33) {
+          if(i===undefined || addon===undefined) return;
+          let id = `#building-${i}-done`;
+          let total = parseInt($(id).text());
+          if(total === undefined) return;
+          if(total%100===66) total += 1;
+          total += addon;
+          $(id).text(total);
+          if(total>=100) light_up(i, type='level');
+          store_progress(i, 'done', total);
+          return total;
+      }
+      function reveal_tile(cost=50, scoreid='score-points', revealid='reveal-points') {
+          let score_points = parseInt($("#"+scoreid).text());
+          let reveal_points = parseInt($("#"+revealid).text());
+          if(score_points < cost) {
+            alert(`Not enough galleaons!\n  Current total: ${score_points}\n  Required amount: ${cost}`)
+            return 0;
+          }
+          score_points -= cost;
+          $("#"+revealid).text(++reveal_points);
+          $("#"+scoreid).text(score_points);
+          console.log(`score-points = ${score_points}`);
+          console.log(`reveal-points = ${reveal_points}`);
+          store_scorecard('galleons', score_points);
+          store_scorecard('revealers', reveal_points);
+          // elem.style.color = 'lightgray';
+          // elem.style.fontSize = '24px';
+          // $(elem).removeClass("btn-light");
+          return 1;
       }
       function load_building(i, quiz, info, {state=1}={}) {
           let results_html = `
               <div class="card-header">
                 <div class="row justify-content-center">
-                  <h4 class="my-0 font-weight-normal text-center" id="building-${i}-header">Colors</h4>
+                  <h4 class="my-0 font-weight-normal text-center" id="building-${i}-header" debug1 onclick="produce(${i}, 'prod')">Colors</h4>
                   <div class="badge badge-light text-muted text-exempt"><span id="building-${i}-count">0</span></div>
+                  <!-- <span class="oi oi-flag"></span> -->
+                  <!-- <i class="material-icons" style="font-size:48px;">cloud</i> -->
+                  <i class="material-icons btn-light" id="collect-prod-${i}" style="font-size:24px;color:lightgray" data-prod="0" onclick="collect(${i}, 'score-points')">card_giftcard</i>
+                  <!-- <div class="badge badge-light text-exempt"><h5 id="building-${i}-count2"> 12 </h5></div> -->
                 </div>
               </div>
               <div class="card-body pt-1">
@@ -335,8 +502,10 @@
                   <!-- <li><span id="building-${i}-count">0</span> items</li> -->
                   <!-- <li><small class="text-muted">Avg 3</small><small class="text-muted">, Min 2</small></li> -->
                   <!-- <li><em class="text-muted text-exempt">Level 1</em></li> -->
-                  <li class="text-center"><em class="text-muted text-exempt">Level <span id="building-${i}-level">1</span></em></li>
-                  <li class="text-center"><h6 class="text-muted text-exempt"><span id="building-${i}-done">0</span>% done</h6></li>
+
+                  <li class="text-center"><em class="text-muted text-exempt" debug1 onclick="produce('collect-level-${i}', 'level');">Level <span id="building-${i}-level">1</span></em>
+                  <i class="material-icons btn-light" id="collect-level-${i}" style="font-size:24px;color:lightgray;" data-prod="0" onclick="collect_level(${i}, 100)">school</i></li>
+                  <li class="text-center"><h6 class="text-muted text-exempt" debug1 onclick="collect_done(${i})"><span id="building-${i}-done">0</span>% done</h6></li>
                 </ul>
                 <button type="button" class="btn btn-link btn-block track-progress" id="building-${i}-progress-btn" onclick="check_progress(${i})">Check Progress</button>
                 <hr>
@@ -357,19 +526,30 @@
           // $("#quiz-buildings").append(building);
           $(`#building-${i}-header`).text(info.header);
           $(`#building-${i}-count`).text(quiz.length);
-          let quiz_level = 1, quiz_done = 33;
+          let quiz_level = retrieve_progress(i, 'level');
+          let quiz_done = retrieve_progress(i, 'done');
+          if(quiz_level===1 && quiz_done<100 && i<3) quiz_done = 100; // one time bump for their work done in earlier version
+          if(quiz_level>=2) max_level2_plus_reached++;
+          if(quiz_level>=3) max_level3_plus_reached++;
           let {db, report, results} = get_progress(i);
           console.log({db, report, results});
-          quiz_done = Math.round(report.summary.attempts/3 * 100) || 0;
+          // quiz_done = Math.round(report.summary.attempts/3 * 100) || 0;
           $(`#building-${i}-level`).text(quiz_level);
           $(`#building-${i}-done`).text(quiz_done);
+          if(quiz_done>=100) light_up(i, type='level');
+          let quiz_prod = retrieve_progress(i, 'prod');
+          if(quiz_prod) produce(i, type='prod');
+          let coll_time = retrieve_progress(i, 'coll-time');
+          if(!coll_time) store_progress(i, 'coll-time', new Date().getTime());
           // fade buildings in ruin
           if(state<1) disable_appearance(building, {disable: true, opacity: state>0?0.3:0.1});
           if(state<1) disable_appearance(`#building-${i}-progress-btn`, {disable: true, opacity: state>0?0.2:0.1});
           if(state<1) disable_appearance(`#building-${i}-start-btn`, {disable: true, opacity: state>0?0.1:0.1});
       }
       function refresh_building(i, quiz, info) {
-          let quiz_level = 1, quiz_done = 33;
+          // let quiz_level = 1, quiz_done = 33;
+          let quiz_level = retrieve_progress(i, 'level');
+          let quiz_done = retrieve_progress(i, 'done');
           let {db, report, results} = get_progress(i);
           console.log({db, report, results});
           quiz_done = Math.round(report.summary.attempts/3 * 100) || 0;
@@ -378,6 +558,87 @@
           $(`#building-${i}-level`).text(quiz_level);
           $(`#building-${i}-done`).text(quiz_done);
       }
+      function loop() {
+          console.log(`entering the loop() ...`, new Date().toLocaleString());
+          let one_period = 4*60*60*10000; //24*60*60*1000; // one day in ms
+          for(let i=0; i<MAX_QUIZES-1; i++) {
+              if(!quizes[i]) continue;
+              let curr_time = new Date().getTime();
+              let coll_time = parseInt(retrieve_progress(i, 'coll-time'));
+              if(!coll_time) continue;
+              if(curr_time > coll_time+one_period) {
+                  produce(i, type='prod');
+              }
+          }
+          setTimeout(() => loop(), 30000); // runs in a loop every 30 seconds
+      }
+      function load_scorecard() {
+          let galleons = retrieve_scorecard("galleons") || 0;
+          let reveal_points = retrieve_scorecard("revealers") || 0;
+          $("#score-points").text(galleons);
+          $("#reveal-points").text(reveal_points)
+      }
+
+      function store_progress(i, key, value) {
+        let pathkey = `${info.project}/${info.section}/${info.topic}`;
+        if(i !== undefined) {
+          let info = quizes[i].info;
+          pathkey = `${info.project}/${info.section}/${info.topic}`;
+        }
+        let db = window.localStorage.getItem(user.id);
+        // console.log(db);
+        if(!db) db = {}; else db = JSON.parse(db);
+        if(!db[pathkey]) db[pathkey] = {};
+        if(!db[pathkey].progress) db[pathkey].progress = {prod:0, done:0, level:1}
+        db[pathkey].progress[key] = value;
+        console.log(db);
+        window.localStorage.setItem(user.id, JSON.stringify(db));
+      }
+      function store_scorecard(key='galleons', value=0) {
+        let pathkey = `${info.project}`;
+        let db = window.localStorage.getItem(user.id);
+        // console.log(db);
+        if(!db) db = {}; else db = JSON.parse(db);
+        if(!db[pathkey]) db[pathkey] = {};
+        if(!db[pathkey].scorecard) db[pathkey].scorecard = {};
+        db[pathkey].scorecard[key] = value;
+        // console.log(db);
+        window.localStorage.setItem(user.id, JSON.stringify(db));
+      }
+      function retrieve_progress(i=0, key) {
+        // console.log(`retrieve_progress(${i}, ${key})`)
+        let pathkey = `${info.project}/${info.section}/${info.topic}`;
+        if(i !== undefined) {
+          let info = quizes[i].info;
+          pathkey = `${info.project}/${info.section}/${info.topic}`;
+        }
+        let db = window.localStorage.getItem(user.id);
+        // console.log(db);
+        // console.log(`0retrieve_progress(${i}, ${key}): ${pathkey}`)
+        // console.log(user.id);
+        // console.log(db);
+        if(!db) db = {}; else db = JSON.parse(db);
+        if(!db[pathkey]) return;
+        // console.log(`1retrieve_progress(${i}, ${key})`)
+        if(!db[pathkey].progress) return;
+        // console.log(`2retrieve_progress(${i}, ${key})`)
+        if(key===undefined) return db[pathkey].progress;
+        // console.log(db[pathkey].progress)
+        // console.log(db[pathkey].progress[key])
+        // console.log(db);
+        return db[pathkey].progress[key];
+      }
+      function retrieve_scorecard(key) {
+        let pathkey = `${info.project}`;
+        let db = window.localStorage.getItem(user.id);
+        // console.log(db);
+        if(!db) db = {}; else db = JSON.parse(db);
+        if(!db[pathkey]) return;
+        if(!db[pathkey].scorecard) return;
+        if(key===undefined) return db[pathkey].scorecard;
+        return db[pathkey].scorecard[key];
+      }
+
       function disable_appearance(element, opt) {
         $(element).prop("disabled", opt.disable);
         $(element).css({opacity: opt.opacity});
@@ -480,11 +741,16 @@
         if(!db[pathkey]) db[pathkey] = {};
         if(!db[pathkey].report) db[pathkey].report = {table: [], summary: {}};
         if(!db[pathkey].results) db[pathkey].results = [];
+        if(!db[pathkey].progress) db[pathkey].progress = {done: 0, level: 1};
+        if(!db[pathkey].scorecard) db[pathkey].scorecard = {galleons: 0, revealers: 0};
         // db[pathkey].results.push(results);
-        if(oneoff)
+        if(oneoff) {
           db[pathkey].results[db[pathkey].results.length-1] = results;
-        else
+        } else {
           db[pathkey].results.push(results);
+          let marks = results.map(res => res.pass ? 1 : 0).reduce((a,b) => a+b,0);
+          if(marks >= results.length/2) db[pathkey].progress['done'] += 33; // passed
+        }
         db[pathkey].report = generate_report(db[pathkey].results);
         console.log(db);
         window.localStorage.setItem(user.id, JSON.stringify(db));
@@ -651,7 +917,7 @@
 
       <div class="squares-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
         <!-- <h3 class="display-5">Colors</h3> -->
-        <p class="lead">Current setup</p>
+        <p class="lead">Current points: <em id="score-points" class="text-muted">0<em></p>
       </div>
 
       <div class="container">
@@ -660,6 +926,103 @@
           </div>
         <!-- </div> -->
       </div>
+
+      <div class="squares-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+        <!-- <h3 class="display-5">Colors</h3> -->
+        <p class="lead" onclick1="reveal_tile()">Revealed: <em id="reveal-points" class="text-muted">0<em></p>
+      </div>
+
+      <div class="container col-10" style="position:relative; height: 800px;">
+        <!-- <img src="punjab.jpg" class="card-img-top" alt="..." style="position:absolute; top:0; left:0;"> -->
+        <div class="card-group" id="map-grid" style="position:absolute; top:0; left:0; background-image: url('punjab.jpg'); background-size: 100% 100%; background-repeat: no-repeat">
+        </div>
+      </div>
+
+      <script>
+          $(() => {
+              add_map(5, 5);
+          });
+          function deduct_galleons(cost=50) {
+              console.log(`Deducting ${cost} Galleons!`);
+          }
+          function collect_map_space(i, j, cost=50) {
+              let space = document.getElementById(`space-${i}-${j}`);
+              if(confirm(`I will cost ${cost} galleons, are you sure?`)) {
+                  // deduct_galleons(cost);
+                  if(reveal_tile(cost)) space.style.opacity = 0.7;
+              }
+          }
+          function add_map(xn, yn, ncol) {
+              let container = document.getElementById('map-grid');
+              for(let i=0; i<xn; i++) {
+                  row_element = document.createElement('div');
+                  row_element.className = `row col-12`;
+                  container.appendChild(row_element);
+                  for(let j=0; j<yn; j++) {
+                      let cell_html = add_grid_cell(i, j, `${i}${j}`)
+                      cell_element = document.createElement('div');
+                      cell_element.className = 'card col m-0 p-0';
+                      cell_element.id = `space-${i}-${j}`;
+                      // cell_element.style.opacity = `0.5`;
+                      cell_element.innerHTML = cell_html;
+                      row_element.appendChild(cell_element);
+                  }
+              }
+          }
+          function add_grid_cell(i, j, ij) {
+            return `
+          <!-- <div class="card"> -->
+            <!-- <img src="..." class="card-img-top" alt="..."> -->
+            <div class="card-body m-0 p-0 mb-n2">
+              <!-- <h5 class="card-title">Card title</h5> -->
+              <!-- <p class="card-text"></p> -->
+              <i class="material-icons btn-light" id="grid-cell-${i}-${j}" style="font-size:172px;color:lightgray;" data-toggle1="clickover" data-prod="0" onclick="collect_map_space(${i}, ${j})">short_text</i>
+            </div>
+          <!-- </div> -->`;
+          }
+    //       function reveal_now(i, j) {
+    //           console.log(`${i}, ${j}`);
+    //           $(`#grid-cell-${i}-${j}`).popover(`hide`);
+    //       }
+    //       $(function () {
+    //         let content = `<a class='btn-primary' role="button" data-toggle="clickover" style="white-space: pre"><span>Cost 50</span></a>`;
+    //         // let header = `<a class='btn-light' role="button" data-toggle="clickover" style="white-space: pre"><span>Reveal</span></a>`;
+    //         let header = `<a id="close-popover" data-toggle="clickover" class="btn btn-small btn-warning pull-left" onclick="$(this.parentNode.parentNode).popover(&quot;hide&quot;);">Reveal</a>`;
+    // //         var elem = '<div class="well"><a href="google.com">Message one, From someone.</a></div>'+
+    // // '<div class="well"><a type="button" class="btn-primary" href="google.com">Message one, From someone.</a></div>'+
+    // // '<button id="close-popover" data-toggle="clickover" class="btn btn-small btn-primary pull-right" onclick="$(&quot;#meddelanden&quot;).popover(&quot;hide&quot;);">Close please!</button>';
+
+
+
+    // //         $('.pop-space').popover({animation:true, content:elem, html:true});
+
+    //         // $('.pop-space').popover({title: header, content: "Cost 50", html: true})
+    //         for(let i=0; i<5; i++) {
+    //             for(let j=0; j<5; j++) {
+    //                 // let space = document.getElementById(`space-${i}-${j}`);
+    //                 // if(!space) continue;
+    //                 // let header = `<a id="close-popover-${i}-${j}" data-toggle="clickover" class="btn btn-small btn-warning pull-left" onclick="$(&quot;#grid-cell-${i}-${j}&quot;).popover(&quot;hide&quot;);">Reveal</a>`;
+    //                 let header = `<a id="close-popover-${i}-${j}" data-toggle="clickover" class="btn btn-small btn-warning pull-left" onclick="reveal_now(${i}, ${j})">Reveal</a>`;
+    //                 let content = `<a class='btn-primary' role="button" data-toggle="clickover" style="white-space: pre"><span>Cost 50</span></a>`;
+    //                 $(`#grid-cell-${i}-${j}`).popover({title: header, content: "Cost 50", html: true})
+    //             }
+    //         }
+    //       })
+      </script>
+
+<div class="modal" tabindex="-1">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-body">
+        <p>Cost 50</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" onclick="reveal_now()">Reveal</button>
+      </div>
+    </div>
+  </div>
+</div>
 
       <footer class="pt-4 my-md-5 pt-md-5 border-top">
           <div class="row">
