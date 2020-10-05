@@ -219,7 +219,11 @@
     </div>
 
     <script>
-      // let DEBUG = 1;
+      let DEBUG_MODE = 0;
+      let nopopup = 0;
+      let automagic = 0;
+      let speedup = 1;
+      let voice_on = 1;
       let credits = 0;
       let version = 0.5;
       let results = [];
@@ -313,12 +317,21 @@
       }
 
       function load_quiz(x=0) {
+        let avg_level = round(average_level(),1) || 1;
+        let this_level = retrieve_progress(x, 'level');
+        if(this_level > (avg_level+10)) {
+          let msg = `This quiz has reached level ${this_level}, whereas average-level of all your quizes is only ${avg_level}. Difference between these two numbers can not be more than 10. You will need to work on rest of your quizes to raise their levels in order to work on next level of this quiz.`;
+          if(!nopopup) alert(msg)
+          console.log(msg);
+          return false;
+        }
         quiz = quizes[x].quiz;
         info = quizes[x].info;
         index = 0;
         load_quiz_window();
         load_question(index);
         building_num = x;
+        return true;
       }
       function load_question(index) {
         console.log(`load_question(${index})`);
@@ -336,7 +349,7 @@
           $("#choice"+i).text(capitalizeFirstLetter(choices[i]));
         }
         $("#question").text(capitalizeFirstLetter(question));
-        voiceOver.play(entry[3]+1, building_num);
+        if(voice_on) voiceOver.play(entry[3]+1, building_num);
         return 1;
       }
       function clear_form() {
@@ -344,7 +357,7 @@
         if(index > quiz.length-1) {
           publish_results(results);
           refresh_building(building_num);
-          if(!oneoff) deduct_credit();
+          // if(!oneoff) deduct_credit();
           // $("#check-progress").prop("disabled", false);
           // $("#send-progress").prop("disabled", false);
           $(".track-progress").prop("disabled", false);
@@ -428,6 +441,7 @@
       function collect_level(i, qty=100) {
           if(i===undefined || qty===undefined) return;
           let [total, level] = update_level(i, qty);
+          if(total>=100) return [total, level]; // else dim the lights
           let id = `collect-level-${i}`;
           let elem = document.getElementById(id);
           elem.style.color = 'lightgray';
@@ -435,17 +449,18 @@
           $(elem).removeClass("btn-light");
           return [total, level];
       }
-      function produce(i, type='prod') {
-          let id = type==='level' ? `collect-level-${i}` : `collect-prod-${i}`;
-          let output = type==='level' ? 100 : type==='prod' ? 4 : 0;
+      function produce(i, type='prod', src=1) {
+          if(src==='debug' && !DEBUG_MODE) return false;
+          let id = `collect-prod-${i}`;
           let quiz_level = retrieve_progress(i, 'level') || 1;
-          output += quiz_level - 1;
+          let output = 4 + quiz_level - 1;
           let elem = document.getElementById(id);
-          $(elem).data('prod', output);
           elem.style.color = 'goldenrod';
           elem.style.fontSize = '36px';
           $(elem).addClass("btn-light");
+          // output += quiz_level - 1;
           store_progress(i, type, output);
+          $(elem).data('prod', output);
           console.log(output);
           console.log($(elem).data('prod'));
       }
@@ -473,7 +488,21 @@
           console.log(`1...total=${total}, level=${level}`)
           return [total, level];
       }
-      function collect_done(i, addon=33) {
+      function add_level(i, step=1, src=1) {
+          if(src==='debug' && !DEBUG_MODE) return false;
+          if(i===undefined || step===undefined) return;
+          let level_id = `#building-${i}-level`;
+          let level = parseInt($(level_id).text()) || 1;
+          console.log(`0...level=${level}`)
+          level += step;
+          $(level_id).text(level);
+          store_progress(i, 'level', level);
+          console.log(`1...level=${level}`)
+          return level;
+      }
+      function collect_done(i, addon=0, src=1) {
+          if(!addon) addon = 33; // 33% progress for each successful quiz completion
+          if(src==='debug' && !DEBUG_MODE) return false;
           if(i===undefined || addon===undefined) return;
           let id = `#building-${i}-done`;
           let total = parseInt($(id).text());
@@ -484,6 +513,7 @@
           $(id).text(total);
           if(total>=100) light_up(i, type='level');
           store_progress(i, 'done', total);
+          deduct_credit();
           return total;
       }
       function reveal_tile(cost=50, scoreid='score-points', revealid='reveal-points') {
@@ -509,7 +539,7 @@
           let results_html = `
               <div class="card-header">
                 <div class="row justify-content-center">
-                  <h4 class="my-0 font-weight-normal text-center" id="building-${i}-header" debug1 onclick1="produce(${i}, 'prod')">Colors</h4>
+                  <h4 class="my-0 font-weight-normal text-center" id="building-${i}-header" debug1 onclick="produce(${i}, 'prod', 'debug')">Colors</h4>
                   <div class="badge badge-light text-muted text-exempt"><span id="building-${i}-count">0</span></div>
                   <!-- <span class="oi oi-flag"></span> -->
                   <!-- <i class="material-icons" style="font-size:48px;">cloud</i> -->
@@ -524,9 +554,9 @@
                   <!-- <li><small class="text-muted">Avg 3</small><small class="text-muted">, Min 2</small></li> -->
                   <!-- <li><em class="text-muted text-exempt">Level 1</em></li> -->
 
-                  <li class="text-center"><em class="text-muted text-exempt" debug1 onclick1="produce('collect-level-${i}', 'level');">Level <span id="building-${i}-level">1</span></em>
+                  <li class="text-center"><em class="text-muted text-exempt" debug1 onclick="add_level(${i}, 1, 'debug');">Level <span id="building-${i}-level">1</span></em>
                   <i class="material-icons btn-light" id="collect-level-${i}" style="font-size:24px;color:lightgray;" data-prod="0" onclick="collect_level(${i}, 100)">school</i></li>
-                  <li class="text-center"><h6 class="text-muted text-exempt" debug1 onclick1="collect_done(${i})"><span id="building-${i}-done">0</span>% done</h6></li>
+                  <li class="text-center"><h6 class="text-muted text-exempt" debug1 onclick="collect_done(${i}, 0, 'debug')"><span id="building-${i}-done">0</span>% done</h6></li>
                 </ul>
                 <button type="button" class="btn btn-link btn-block track-progress" id="building-${i}-progress-btn" onclick="check_progress(${i})">Check Progress</button>
                 <hr>
@@ -628,13 +658,14 @@
           $("#version").html(version);
           console.log(`... version is set to ${version}`)
       }
-      function credits_handling(initialize=0) {
-          let average_level = 1;
+      function credits_handling(initialize=1, speedup=1) {
+          let avg_level = average_level() || 1;
           let curr_time = new Date().getTime();
-          let duration = 1*60*60*1000; // New credit every 1 hour
-          let max_credits = 10 + Math.ceil(average_level) - 1;
+          let max_credits = 10 + Math.ceil(avg_level) - 1;
           let read_credits = retrieve_scorecard('credits');
           let coll_time = retrieve_scorecard('credit-coll-time');
+          let duration = 1*60*60*1000; // New credit every 1 hour
+          if(speedup>1) duration = Math.round(duration/speedup);
           // console.log(`credits=${credits}, max_credits=${max_credits}, read_credits=${read_credits}, credits_coll_time=${coll_time}`);
           if(read_credits===undefined || coll_time===undefined) {
               credits = max_credits;
@@ -670,13 +701,27 @@
           store_scorecard('credits', --credits);
           $("#credits").html(credits);
       }
-      function loop() {
+      function average_level() {
+          let quiz_status = [];
+          for(let i=0; i<quizes.length; i++) {
+              // if(i>MAX_QUIZES-1) continue;
+              let level = retrieve_progress(i, 'level');
+              let done = retrieve_progress(i, 'done');
+              let prod = retrieve_progress(i, 'prod');
+              // console.log(`quiz... i=${i}, level=${level}, prod=${done}, prod=${done}, MAX_QUIZES=${MAX_QUIZES}`)
+              quiz_status.push({ level: level || 1, done: done || 0, prod: prod || 0 })
+          }
+          let sum_levels = quiz_status.map(qs => qs.level).reduce((a,b) => a+b,0);
+          return sum_levels ? sum_levels/quiz_status.length : 1;
+      }
+      async function loop() {
           console.log(`entering the loop() ...`, new Date().toLocaleString());
           console.log(MAX_QUIZES)
           // console.log(quizes)
           let one_period = 24*60*60*1000; // one day in ms
+          if(speedup>1) one_period = Math.round(one_period/speedup);
           // let one_period = 10* 60*1000; // one day in ms
-          let period = 1;
+          // let period = 1;
           for(let i=0; i<MAX_QUIZES; i++) {
               if(!quizes[i]) continue;
               let curr_time = new Date().getTime();
@@ -696,10 +741,64 @@
               loop_data.day++;
               loop_data.stamp = curr_time;
           }
-          credits_handling(1);
+          credits_handling(0, speedup);
+          if(automagic) await run_automagic(one_period, speedup);
           console.log(`day ${loop_data.day}`)
-          setTimeout(() => loop(), 30000); // runs in a loop every 30 seconds
+          let loopwait = 10*1000; // loops every 10 seconds
+          if(speedup>1) loopwait = 1000; // fastest can go 1 sec maybe?
+          setTimeout(() => loop(), loopwait); // runs in a loop every 30 seconds
       }
+      async function run_automagic(one_period, speedup) {
+          console.log(`... run_automagic(one_period = ${one_period}, speedup = ${speedup})`);
+          for(let i=0; i<MAX_QUIZES; i++) {
+              if(!quizes[i]) continue;
+              if(states[i] < 1) continue;
+               // collect galleons
+              console.log(i, $(`#collect-prod-${i}`).css('color'))
+              if($(`#collect-prod-${i}`).css('color') === 'rgb(218, 165, 32)') { // goldenrod
+                  $(`#collect-prod-${i}`).click();
+                  console.log(`automagically clicking collect-prod-${i}`);
+              }
+              // take a quiz (if credits available)
+              if(credits > 0) {
+                  console.log(`... starting quiz ${i}, ` + quizes[i].info)
+                  // click start quiz
+                  // $(`#building-${i}-start-btn`).click();
+                  if(!load_quiz(i)) continue;
+                  // click next button until it's disabled
+                  let quiz = quizes[i].quiz;
+                  console.log(`quiz.length = ${quiz.length}`);
+                  for(let j=0; j<quiz.length; j++) {
+                      await delay(1, speedup);
+                      let entry = quiz[j];
+                      let choices = entry[2];
+                      let expected = entry[1];
+                      let iex = choices.indexOf(expected) || 0;
+                      if(random(1,10)==1) iex = random(0, choices.length-1);
+                      checkbox1(iex);
+                      // $(`btn${i}`).click();
+                      next_step();
+                      // $("btn-next").click();
+                      console.log(`question = ${entry[0]}, answer = ${expected}`)
+                  }
+                  await delay(1, speedup);
+                  collect_level(i);
+              }
+          }
+      }
+      function delay(seconds, speedup=1) {
+          return new Promise(resolve => setTimeout(resolve, seconds*1000/speedup));
+      }
+      function round(num, digits=0) {
+          let factor = Math.pow(10, digits);
+          return Math.round(num*factor)/factor;
+      }
+      function random(min, max, round=0) {
+          let number = Math.random() * (max - min) + min;
+          let rounder = Math.pow(10, round);
+          return round===0 ? Math.round(number) : Math.round(number*rounder)/rounder;
+      }
+
       function load_scorecard() {
           map_data.population = retrieve_scorecard(`population/total`) || 0;
           let galleons = retrieve_scorecard("galleons") || 0;
@@ -721,7 +820,7 @@
         if(!db[pathkey]) db[pathkey] = {};
         if(!db[pathkey].progress) db[pathkey].progress = {prod:0, done:0, level:1}
         db[pathkey].progress[key] = value;
-        console.log(db);
+        // console.log(db);
         window.localStorage.setItem(user.id, JSON.stringify(db));
       }
       function store_scorecard(key='galleons', value=0) {
@@ -1178,6 +1277,16 @@
     //             }
     //         }
     //       })
+          function set_automagic() {
+              automagic = parseInt($("#automagic").text()) || 0;
+              console.log(`automagic set to ${automagic}`);
+              voice_on = 0; // turn off voice mode
+              nopopup = 1;
+          }
+          function set_speedup() {
+              speedup = parseInt($("#speedup").text()) || 1;
+              console.log(`speedup set to ${speedup}`);
+          }
       </script>
 
 <div class="modal" tabindex="-1">
@@ -1208,6 +1317,8 @@
               <h6>Resources</h6>
               <ul class="list-unstyled text-small">
                 <li><a class="text-muted text-exempt" href="#" onclick="clear_local_storage()">Clear local storage</a></li>
+                <li><a class="text-muted text-exempt" href="#" onclick="set_automagic()" hidden>Auto test mode <span id="automagic">1<span></a></li>
+                <li><a class="text-muted text-exempt" href="#" onclick="set_speedup()" hidden>Speedup <span id="speedup">60<span>x</a></li>
                 <!-- <li><a class="text-muted" href="#">Resource name</a></li> -->
                 <!-- <li><a class="text-muted" href="#">Another resource</a></li> -->
               </ul>
