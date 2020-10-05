@@ -631,7 +631,7 @@
       function credits_handling(initialize=0) {
           let average_level = 1;
           let curr_time = new Date().getTime();
-          let duration = 3*60*1000; // New credit every 1 hour
+          let duration = 1*60*60*1000; // New credit every 1 hour
           let max_credits = 10 + Math.ceil(average_level) - 1;
           let read_credits = retrieve_scorecard('credits');
           let coll_time = retrieve_scorecard('credit-coll-time');
@@ -674,8 +674,8 @@
           console.log(`entering the loop() ...`, new Date().toLocaleString());
           console.log(MAX_QUIZES)
           // console.log(quizes)
-          // let one_period = 24*60*60*1000; // one day in ms
-          let one_period = 10* 60*1000; // one day in ms
+          let one_period = 24*60*60*1000; // one day in ms
+          // let one_period = 10* 60*1000; // one day in ms
           let period = 1;
           for(let i=0; i<MAX_QUIZES; i++) {
               if(!quizes[i]) continue;
