@@ -33,6 +33,7 @@
   <body>
     <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom shadow-sm">
       <h5 class="my-0 mr-md-auto font-weight-normal">Punjabi</h5>
+      <div class="demo col-4 text-center"><em class="demo4 text-muted">Credits <span id="credits"></span></em></div>
       <nav class="my-2 my-md-0 mr-md-3">
         <div class="dropdown">
           <button class="btn btn-light text-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -219,6 +220,8 @@
 
     <script>
       // let DEBUG = 1;
+      let credits = 0;
+      let version = 0.5;
       let results = [];
       let index = 0;
       let user = {}; //name, email, id
@@ -246,6 +249,9 @@
         loop();
       });
       function load_page() {
+        console.log(`a----------------`)
+        console.log(JSON.parse(window.localStorage.getItem(user.id)));
+        console.log(`b----------------`)
         for(let i=0; i<quizes.length; i++) {
           if(i>MAX_QUIZES-1) continue;
           // let {info, quiz} = quizes[i];
@@ -268,11 +274,16 @@
           load_building(i, quiz, info, {state});
           // $(`#building-${i}-header`).text(info.header);
           // $(`#building-${i}-count`).text(quiz.length);
+
         }
         quiz = quizes[0].quiz;
         info = quizes[0].info;
         index = 0; building_num = 0;
         load_scorecard();
+        // load credits
+        credits_handling();
+        version_handling()
+        // $("#version").html(version);
       }
       // function next_step() {
       //   save_results(index);
@@ -286,6 +297,7 @@
           refresh_building(building_num);
           $(".track-progress").prop("disabled", false);
         } else {
+          if(credits <= 0) { alert(`No credits available to continue! Try after some time.`);  return; }
           save_results(index);
           load_question(++index);
         }
@@ -332,6 +344,7 @@
         if(index > quiz.length-1) {
           publish_results(results);
           refresh_building(building_num);
+          if(!oneoff) deduct_credit();
           // $("#check-progress").prop("disabled", false);
           // $("#send-progress").prop("disabled", false);
           $(".track-progress").prop("disabled", false);
@@ -465,6 +478,7 @@
           let id = `#building-${i}-done`;
           let total = parseInt($(id).text());
           if(total === undefined) return;
+          if(total===66) total += 1;
           if(total%100===66) total += 1;
           total += addon;
           $(id).text(total);
@@ -533,9 +547,10 @@
           // $("#quiz-buildings").append(building);
           $(`#building-${i}-header`).text(info.header);
           $(`#building-${i}-count`).text(quiz.length);
+          // version_handling(i)
           let quiz_level = retrieve_progress(i, 'level');
           let quiz_done = retrieve_progress(i, 'done');
-          if(quiz_level===1 && quiz_done<100 && i<3) quiz_done = 100; // one time bump for their work done in earlier version
+          // if(quiz_level===1 && quiz_done<100 && i<3) quiz_done = 100; // one time bump for their work done in earlier version
           if(quiz_level>=2) max_level2_plus_reached++;
           if(quiz_level>=3) max_level3_plus_reached++;
           let {db, report, results} = get_progress(i);
@@ -554,40 +569,134 @@
           if(state<1) disable_appearance(`#building-${i}-start-btn`, {disable: true, opacity: state>0?0.1:0.1});
       }
       function refresh_building(i, quiz, info) {
-          // let quiz_level = 1, quiz_done = 33;
           let quiz_level = retrieve_progress(i, 'level');
           let quiz_done = retrieve_progress(i, 'done');
+          if(quiz_level===1 && quiz_done<100 && i<3) quiz_done = 100; // one time bump for their work done in earlier version
+          if(quiz_level>=2) max_level2_plus_reached++;
+          if(quiz_level>=3) max_level3_plus_reached++;
           let {db, report, results} = get_progress(i);
           console.log({db, report, results});
-          quiz_done = Math.round(report.summary.attempts/3 * 100) || 0;
-          quiz_done = Math.round(report.summary.attempts/3 * 100);
-          console.log(`quiz_done = ${quiz_done}`);
+          // quiz_done = Math.round(report.summary.attempts/3 * 100) || 0;
           $(`#building-${i}-level`).text(quiz_level);
           $(`#building-${i}-done`).text(quiz_done);
+          if(quiz_done>=100) light_up(i, type='level');
+      }
+      // function refresh_building(i, quiz, info) {
+      //     // let quiz_level = 1, quiz_done = 33;
+      //     let quiz_level = retrieve_progress(i, 'level');
+      //     let quiz_done = retrieve_progress(i, 'done');
+      //     let {db, report, results} = get_progress(i);
+      //     console.log({db, report, results});
+      //     quiz_done = Math.round(report.summary.attempts/3 * 100) || 0;
+      //     quiz_done = Math.round(report.summary.attempts/3 * 100);
+      //     console.log(`quiz_done = ${quiz_done}`);
+      //     $(`#building-${i}-level`).text(quiz_level);
+      //     $(`#building-${i}-done`).text(quiz_done);
+      // }
+      function version_handling() {
+          // store_scorecard("version", undefined)
+          console.log(`... version_handling()`);
+          let version = retrieve_scorecard("version") || 0;
+          console.log(`... version was set to ${version}`)
+          if(version < 0.5) {
+              console.log(`... version was previously set to ${version}, upgrading to 0.5`)
+              let reset_scores = [];
+              for(let i=0; i<quizes.length; i++) {
+                  // if(i>MAX_QUIZES-1) continue;
+                  let quiz_level = retrieve_progress(i, 'level');
+                  let quiz_done = retrieve_progress(i, 'done');
+                  console.log(`0... i=${i}, quiz_level=${quiz_level}, quiz_done=${quiz_done}, MAX_QUIZES=${MAX_QUIZES}`)
+                  reset_scores.push({ quiz_level: 0, quiz_done: 0 })
+                  if(quiz_level>=5 && i<MAX_QUIZES) { reset_scores[i].quiz_level = 5 } // one time bump for their work done in earlier version
+              }
+              alert(`A new version of this app is available. This requires you to clear local storage. Reload this page after Clear Local Storage to continue properly.`);
+              if(confirm(`Clear Local Storage?`)) {
+                  clear_local_storage();
+                  version = 0.5;
+                  store_scorecard("version", version)
+                  store_scorecard("galleons", 60)
+                  store_scorecard("population", 0)
+                  console.log(`============= reset_scores = `, reset_scores);
+                  for(let i=0; i<reset_scores.length; i++) {
+                      store_progress(i, 'level', reset_scores[i].quiz_level);
+                      store_progress(i, 'done', reset_scores[i].quiz_done);
+                      console.log(`1... i=${i}, quiz_level=${reset_scores[i].quiz_level}, quiz_done=${reset_scores[i].quiz_done}`)
+                  }
+                  // window.location.reload(false);
+              }
+          }
+          $("#version").html(version);
+          console.log(`... version is set to ${version}`)
+      }
+      function credits_handling(initialize=0) {
+          let average_level = 1;
+          let curr_time = new Date().getTime();
+          let duration = 3*60*1000; // New credit every 1 hour
+          let max_credits = 10 + Math.ceil(average_level) - 1;
+          let read_credits = retrieve_scorecard('credits');
+          let coll_time = retrieve_scorecard('credit-coll-time');
+          // console.log(`credits=${credits}, max_credits=${max_credits}, read_credits=${read_credits}, credits_coll_time=${coll_time}`);
+          if(read_credits===undefined || coll_time===undefined) {
+              credits = max_credits;
+              coll_time = curr_time;
+              store_scorecard('credits', credits);
+              store_scorecard('credit-coll-time', coll_time);
+              // $("#credits").html(credits);
+          }
+          else if(read_credits!==read_credits || coll_time!==coll_time) { // NaN scenario
+              credits = max_credits;
+              coll_time = curr_time;
+              store_scorecard('credits', credits);
+              store_scorecard('credit-coll-time', coll_time);
+              // $("#credits").html(credits);
+          } 
+          else if(curr_time > coll_time+duration) { // add new credit
+              if(read_credits < max_credits) {
+                  let new_credits = Math.floor((curr_time-coll_time)/duration);
+                  credits = read_credits + new_credits;
+                  if(credits > max_credits) credits = max_credits;
+                  store_scorecard('credits', credits);
+                  store_scorecard('credit-coll-time', curr_time);
+                  console.log(`Added ${new_credits} new credit(s) (Max ${max_credits}). Total credits set to  ` + credits);
+              } else {
+                  credits = read_credits;
+              }
+          } else if(initialize) { // run at site loading
+              credits = read_credits;
+          }
+          $("#credits").html(credits);
+      }
+      function deduct_credit() {
+          store_scorecard('credits', --credits);
+          $("#credits").html(credits);
       }
       function loop() {
           console.log(`entering the loop() ...`, new Date().toLocaleString());
           console.log(MAX_QUIZES)
-          console.log(quizes)
-          let one_period = 24*60*60*1000; // one day in ms
+          // console.log(quizes)
+          // let one_period = 24*60*60*1000; // one day in ms
+          let one_period = 10* 60*1000; // one day in ms
           let period = 1;
           for(let i=0; i<MAX_QUIZES; i++) {
               if(!quizes[i]) continue;
               let curr_time = new Date().getTime();
               let coll_time = parseInt(retrieve_progress(i, 'coll-time'));
               // console.log(`i=${i} curr_time = ${curr_time}, coll_time = ${coll_time}`);
-              if(!coll_time) continue;
-              if(curr_time > coll_time+one_period) {
+              // if(!coll_time) continue;
+              if(!coll_time || curr_time > coll_time+one_period) {
                   if(states[i]===1) produce(i, type='prod');
               }
               let elapsed_time = (curr_time - coll_time);
               // console.log(`i=${i} curr_time = ${curr_time}, coll_time = ${coll_time}, elapsed = ${elapsed_time/1000/60}, ratio = `, one_period/elapsed_time);
+              let quiz_done = retrieve_progress(i, 'done');
+              if(quiz_done>=100) light_up(i, type='level');
           }
           let curr_time = new Date().getTime();
           if(loop_data.stamp - curr_time >= one_period) {
               loop_data.day++;
               loop_data.stamp = curr_time;
           }
+          credits_handling(1);
           console.log(`day ${loop_data.day}`)
           setTimeout(() => loop(), 30000); // runs in a loop every 30 seconds
       }
@@ -664,13 +773,23 @@
         $(element).prop("disabled", opt.disable);
         $(element).css({opacity: opt.opacity});
       }
+      function passing_grade(i, score, count) {
+          console.log(`... passing_grade(i=${i}, score=${score}, count=${count})`);
+          let quiz_level = retrieve_progress(i, 'level');
+          let passpc = !quiz_level ? 50 : 50 + quiz_level*5;
+          if(passpc > 90) passpc = 90;
+          console.log(`... passing_grade(}: quiz_level=${quiz_level}, passpc=${passpc}, pass? = ${(score >= count*passpc/100)})`);
+          return (score >= count*passpc/100);
+      }
       function publish_results(results) {
           $("#quiz-card-title").html('Results');
           let results_html = '';
           let tablerows = '';
+          let score = 0;
           for(let i=0; i<results.length; i++) {
             let {question, expected, answer, pass, choices} = results[i];
             let passfail = pass ? "PASSED" : "FAILED";
+            if(pass) score++;
             question = capitalizeFirstLetter(question);
             expected = capitalizeFirstLetter(expected);
             answer = capitalizeFirstLetter(answer);
@@ -699,6 +818,7 @@
           $("#quiz-card-body").html(results_html);
           console.log(JSON.stringify(results));
           store_results(results);
+          if(passing_grade(building_num, score, results.length)) collect_done(building_num);
       }
       function publish_report(report) {
           if(!report || !report.table) return;
@@ -809,6 +929,7 @@
       function clear_local_storage() {
         window.localStorage.clear();
         set_user(user);
+        // window.location.reload(false);
       }
       function capitalizeFirstLetter(string) {
         return string.charAt(0).toUpperCase() + string.slice(1);
@@ -1076,7 +1197,7 @@
       <footer class="pt-4 my-md-5 pt-md-5 border-top">
           <div class="row">
             <div class="col-6 col-md">
-              <!-- <h5>Reporting</h5> -->
+              <h6>Reporting</h6>
               <ul class="list-unstyled text-small">
                 <li><a class="text-muted text-exempt" href="#" onclick="check_progress()">Check Progress</a></li>
                 <!-- <li><a class="text-muted" href="#">Random feature</a></li> -->
@@ -1084,7 +1205,7 @@
               </ul>
             </div>
             <div class="col-6 col-md">
-              <!-- <h5>Resources</h5> -->
+              <h6>Resources</h6>
               <ul class="list-unstyled text-small">
                 <li><a class="text-muted text-exempt" href="#" onclick="clear_local_storage()">Clear local storage</a></li>
                 <!-- <li><a class="text-muted" href="#">Resource name</a></li> -->
@@ -1092,11 +1213,11 @@
               </ul>
             </div>
             <div class="col-6 col-md">
-              <!-- <h5>About</h5>
+              <h6>About</h6>
               <ul class="list-unstyled text-small">
-                <li><a class="text-muted" href="#">Team</a></li>
-                <li><a class="text-muted" href="#">Locations</a></li>
-              </ul> -->
+                <li><a class="text-muted" href="#">Version <span id="version">0.0</span></a></li>
+                <!-- <li><a class="text-muted" href="#">Locations</a></li> -->
+              </ul>
             </div>
           </div>
         </footer>
