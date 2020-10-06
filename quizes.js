@@ -1,5 +1,5 @@
 let MAX_CHOICES = 4;
-let MAX_QUIZES = 6;
+let MAX_QUIZES = 10;
 let quizes = [];
 quizes.push(content_quiz1());
 quizes.push(content_quiz2());
@@ -7,13 +7,17 @@ quizes.push(content_quiz3());
 quizes.push(content_quiz4());
 quizes.push(content_quiz5());
 quizes.push(content_quiz6());
+quizes.push(content_quiz7());
+quizes.push(content_quiz8());
+quizes.push(content_quiz9());
+quizes.push(content_quiz10());
 // quizes.push(content_quiz1());
 // quizes.push(content_quiz2());
 // quizes.push(content_quiz3());
 
 function content_quiz1() {
   let info = { project: "Punjabi", section: "Vocabulary", topic: "Primary Colors", header: "Colors" };
-  let options = { random: true, count: [8] };
+  let options = { random: true, count: [14] };
   let quiz = build_choices([
     ['Kaala', 'Black'],
     ['Laal',  'Red'],
@@ -28,13 +32,14 @@ function content_quiz1() {
     ['Gulabi', 'Pink'],
     ['Bhoora', 'Brown'],
     ['Firozi', 'Turquoise'],
+    ['Khakhi', 'Khaki'],
   ], options);
   return {info, quiz};
 }
 
 function content_quiz2() {
   let info = { project: "Punjabi", section: "Vocabulary", topic: "Counting", header: "Counting" };
-  let options = { random: true, count: [12] };
+  let options = { random: true, count: [24] };
   let quiz = build_choices([
     ['Ik', 'One'],
     ['Do', 'Two'],
@@ -66,7 +71,7 @@ function content_quiz2() {
 
 function content_quiz3() {
   let info = { project: "Punjabi", section: "Vocabulary", topic: "Vegetables", header: "Vegetables" };
-  let options = { random: true, count: [11] };
+  let options = { random: true, count: [14] };
   let quiz = build_choices([
     ['Aaloo', 'Potato'],
     ['Gobi',  'Cauliflower'],
@@ -88,7 +93,7 @@ function content_quiz3() {
 
 function content_quiz4() {
   let info = { project: "Punjabi", section: "Vocabulary", topic: "Body", header: "Body" };
-  let options = { random: true, count: [8] };
+  let options = { random: true, count: [12] };
   let quiz = build_choices([
     ['Hath', 'Hands'],
     ['Munh', 'Mouth'],
@@ -108,7 +113,7 @@ function content_quiz4() {
 
 function content_quiz5() {
   let info = { project: "Punjabi", section: "Vocabulary", topic: "Physical", header: "Physical" };
-  let options = { random: true, count: [8] };
+  let options = { random: true, count: [9] };
   let quiz = build_choices([
     ['Lamba', 'Long'],
     ['Goal', 'Round'],
@@ -125,7 +130,7 @@ function content_quiz5() {
 
 function content_quiz6() {
   let info = { project: "Punjabi", section: "Vocabulary", topic: "Environmental", header: "Environmental" };
-  let options = { random: true, count: [8] };
+  let options = { random: true, count: [14] };
   let quiz = build_choices([
     ['Asmaan', 'Sky'],
     ['Dharti', 'Earth'],
@@ -137,9 +142,94 @@ function content_quiz6() {
     ['Raati',  'At night'],
     ['Din',  'Day'],
     ['Raat',  'Night'],
+    ['Subah',  'Morning'],
+    ['Shaam',  'Evening'],
+    ['Dopeher',  'Noon'],
+    ['Adhi-raat',  'Midnight'],
   ], options);
   return {info, quiz};
 }
+
+function content_quiz7() {
+  let info = { project: "Punjabi", section: "Vocabulary", topic: "Spatial", header: "Spatial" };
+  let options = { random: true, count: [12] };
+  let quiz = build_choices([
+    ['Utte', 'To be on something'],
+    ['Thalle', 'To be under something'],
+    ['Sub ton utte', 'At the top'],
+    ['Sub ton thalle',  'At the bottom'],
+    ['Vichaley',  'In the middle'],
+    ['Aggey',  'In front of'],
+    ['Pichchey',  'Behind'],
+    ['Dualey',  'Around something'],
+    ['Andar',  'Inside'],
+    ['Bahar',  'Outside'],
+    ['Chanan',  'Light'],
+    ['Hanera',  'Darkness'],
+  ], options);
+  return {info, quiz};
+}
+
+function content_quiz8() {
+  let info = { project: "Punjabi", section: "Vocabulary", topic: "Elements", header: "Elements" };
+  let options = { random: true, count: [12] };
+  let quiz = build_choices([
+    ['Paani', 'Water'],
+    ['Agg', 'Fire'],
+    ['Bijli', 'Electricity'],
+    ['Lakkad',  'Wood'],
+    ['Pathar',  'Stone'],
+    ['Loha',  'Iron'],
+    ['Tamba',  'Bronze'],
+    ['Sona',  'Gold'],
+    ['Chaandi',  'Silver'],
+    ['Heera',  'Diamond'],
+    ['Gehney',  'Jewelery'],
+    ['Rang',  'Color'],
+  ], options);
+  return {info, quiz};
+}
+
+function content_quiz9() {
+  let info = { project: "Punjabi", section: "Vocabulary", topic: "Social", header: "Social" };
+  let options = { random: true, count: [11] };
+  let quiz = build_choices([
+    ['Bachche', 'Children'],
+    ['Aadmi', 'Male'],
+    ['Aurat', 'Female'],
+    ['Banda',  'Man'],
+    ['Budhi',  'Woman'],
+    ['Janam',  'Birth'],
+    ['Maran',  'Death'],
+    ['Ma',  'Mother'],
+    ['Baap',  'Father'],
+    ['Ghar-wali',  'Wife'],
+    ['Ghar-wala',  'husband'],
+  ], options);
+  return {info, quiz};
+}
+
+function content_quiz10() {
+  let info = { project: "Punjabi", section: "Vocabulary", topic: "Doing", header: "Doing" };
+  let options = { random: true, count: [13] };
+  let quiz = build_choices([
+    ['Farh', 'Hold'],
+    ['Bna', 'Make'],
+    ['Saah-leh', 'Breathe'],
+    ['Sauna',  'To sleep'],
+    ['Jaagna',  'To wake up'],
+    ['Neend',  'Slumber'],
+    ['Paina',  'To lay down'],
+    ['Uthna',  'To get up'],
+    ['Kharhna',  'To stand'],
+    ['Khedna',  'To play'],
+    ['Hassna',  'To laugh'],
+    ['Rona',  'To cry'],
+    ['Gauna',  'To sing'],
+  ], options);
+  return {info, quiz};
+}
+
 
 // hands, mouth, eyes, head, ears, nose, face, teeth, fingers, skin, bones, blood  Body parts
 // long, round, flat, thin, hard, soft, sharp, smooth, heavy   Physical

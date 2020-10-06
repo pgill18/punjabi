@@ -222,8 +222,10 @@
       let DEBUG_MODE = 0;
       let nopopup = 0;
       let automagic = 0;
-      let speedup = 1;
+      let accelerate = 1; // set to 1x
+      let speedup = 1; // set to 1x
       let voice_on = 1;
+      let oncredit = 0;
       let credits = 0;
       let version = 0.5;
       let results = [];
@@ -234,7 +236,7 @@
       let states = [];
       let oneoff = false;
       let building_num = 0;
-      let loop_data = { day: 1, stamp: 0 };
+      let loop_data = { day: 1, hour: 0, minute: 0, stamp: 0 };
       let map_data = { population: 0 };
       let max_level2_plus_reached = 0;
       let max_level3_plus_reached = 0;
@@ -250,8 +252,21 @@
         // quiz = load_quiz();
         // load_question(index);
         // let data = window.localStorage.getItem(user.id);
-        loop();
+        // loop();
+        run_loop();
       });
+      async function run_loop() {
+        while(1) {
+          // let loopwait = 10*1000; // loops every 10 seconds
+          // if(speedup>1) loopwait = 1000; // fastest can go 1 sec maybe?
+          let loopwait = 10; // loops every 10 seconds
+          if(speedup>1) loopwait = 1; // fastest can go 1 sec maybe?
+          await delay(loopwait); // runsloop every 30 seconds
+          console.log(`loop time...`)
+          await loop();
+          console.log(`loopend time...`)
+        }
+      }
       function load_page() {
         console.log(`a----------------`)
         console.log(JSON.parse(window.localStorage.getItem(user.id)));
@@ -278,7 +293,6 @@
           load_building(i, quiz, info, {state});
           // $(`#building-${i}-header`).text(info.header);
           // $(`#building-${i}-count`).text(quiz.length);
-
         }
         quiz = quizes[0].quiz;
         info = quizes[0].info;
@@ -288,6 +302,7 @@
         credits_handling();
         version_handling()
         // $("#version").html(version);
+        loop_data.stamp = new Date().getTime();
       }
       // function next_step() {
       //   save_results(index);
@@ -475,8 +490,8 @@
           if(i===undefined || step===undefined) return;
           let done_id = `#building-${i}-done`
           let level_id = `#building-${i}-level`;
-          let level = parseInt($(level_id).text());
-          let total = parseInt($(done_id).text());
+          let level = parseInt($(level_id).text()) || 1;
+          let total = parseInt($(done_id).text()) || 0;
           console.log(`0...total=${total}`)
           if(total >= step) {
               total -= step; level++;
@@ -578,8 +593,8 @@
           $(`#building-${i}-header`).text(info.header);
           $(`#building-${i}-count`).text(quiz.length);
           // version_handling(i)
-          let quiz_level = retrieve_progress(i, 'level');
-          let quiz_done = retrieve_progress(i, 'done');
+          let quiz_level = retrieve_progress(i, 'level') || 1;
+          let quiz_done = retrieve_progress(i, 'done') || 0;
           // if(quiz_level===1 && quiz_done<100 && i<3) quiz_done = 100; // one time bump for their work done in earlier version
           if(quiz_level>=2) max_level2_plus_reached++;
           if(quiz_level>=3) max_level3_plus_reached++;
@@ -599,8 +614,8 @@
           if(state<1) disable_appearance(`#building-${i}-start-btn`, {disable: true, opacity: state>0?0.1:0.1});
       }
       function refresh_building(i, quiz, info) {
-          let quiz_level = retrieve_progress(i, 'level');
-          let quiz_done = retrieve_progress(i, 'done');
+          let quiz_level = retrieve_progress(i, 'level') || 1;
+          let quiz_done = retrieve_progress(i, 'done') || 0;
           if(quiz_level===1 && quiz_done<100 && i<3) quiz_done = 100; // one time bump for their work done in earlier version
           if(quiz_level>=2) max_level2_plus_reached++;
           if(quiz_level>=3) max_level3_plus_reached++;
@@ -628,24 +643,36 @@
           console.log(`... version_handling()`);
           let version = retrieve_scorecard("version") || 0;
           console.log(`... version was set to ${version}`)
-          if(version < 0.5) {
+          if(version < 0.6) {
               console.log(`... version was previously set to ${version}, upgrading to 0.5`)
               let reset_scores = [];
               for(let i=0; i<quizes.length; i++) {
                   // if(i>MAX_QUIZES-1) continue;
-                  let quiz_level = retrieve_progress(i, 'level');
-                  let quiz_done = retrieve_progress(i, 'done');
+                  let quiz_level = retrieve_progress(i, 'level') || 1;
+                  let quiz_done = retrieve_progress(i, 'done') || 0;
                   console.log(`0... i=${i}, quiz_level=${quiz_level}, quiz_done=${quiz_done}, MAX_QUIZES=${MAX_QUIZES}`)
                   reset_scores.push({ quiz_level: 0, quiz_done: 0 })
+                  if(i<3) { reset_scores[i].quiz_level = 5 } // one time bump for their work done in earlier version
                   if(quiz_level>=5 && i<MAX_QUIZES) { reset_scores[i].quiz_level = 5 } // one time bump for their work done in earlier version
+                  switch(user.id) {
+                      case 'pgill18' : if(i<3) reset_scores[i].quiz_level = 6; break;
+                      case 'darshanbal' : if(i<3) reset_scores[i].quiz_level = 6; break;
+                  }
               }
               alert(`A new version of this app is available. This requires you to clear local storage. Reload this page after Clear Local Storage to continue properly.`);
               if(confirm(`Clear Local Storage?`)) {
                   clear_local_storage();
-                  version = 0.5;
+                  version = 0.6;
+                  let galleons = 60, population = 0;
+                  switch(user.id) {
+                      case 'pgill18' : galleons=92; population=0; break;
+                      case 'darshanbal' : galleons=96; population=0; break;
+                  }
+                  console.log(`user: `, user)
+                  console.log(`user-id: `, user.id)
                   store_scorecard("version", version)
-                  store_scorecard("galleons", 60)
-                  store_scorecard("population", 0)
+                  store_scorecard("galleons", galleons)
+                  store_scorecard("population", population)
                   console.log(`============= reset_scores = `, reset_scores);
                   for(let i=0; i<reset_scores.length; i++) {
                       store_progress(i, 'level', reset_scores[i].quiz_level);
@@ -681,7 +708,7 @@
               store_scorecard('credit-coll-time', coll_time);
               // $("#credits").html(credits);
           } 
-          else if(curr_time > coll_time+duration) { // add new credit
+          else if(curr_time >= coll_time+duration) { // add new credit
               if(read_credits < max_credits) {
                   let new_credits = Math.floor((curr_time-coll_time)/duration);
                   credits = read_credits + new_credits;
@@ -737,19 +764,43 @@
               if(quiz_done>=100) light_up(i, type='level');
           }
           let curr_time = new Date().getTime();
-          if(loop_data.stamp - curr_time >= one_period) {
+          loop_data.hour = Math.floor((curr_time-loop_data.stamp)/(one_period/24));
+          if((curr_time-loop_data.stamp) >= one_period) {
               loop_data.day++;
+              loop_data.hour = 0;
               loop_data.stamp = curr_time;
           }
+          loop_data.minute = Math.floor((curr_time-loop_data.stamp)/(one_period/24/60)) - loop_data.hour*60;
+          // if((curr_time-loop_data.stamp) >= one_period/24) {
+          //     loop_data.hour++;
+          // }
+          console.log(`curr_time = ${curr_time}, loop_data.stamp = ${loop_data.stamp}`)
+          console.log(`one_period = ${one_period}, curr_time-loop_data.stamp = ${curr_time-loop_data.stamp}`)
           credits_handling(0, speedup);
-          if(automagic) await run_automagic(one_period, speedup);
-          console.log(`day ${loop_data.day}`)
-          let loopwait = 10*1000; // loops every 10 seconds
-          if(speedup>1) loopwait = 1000; // fastest can go 1 sec maybe?
-          setTimeout(() => loop(), loopwait); // runs in a loop every 30 seconds
+          if(automagic) {
+              if(speedup > 3600) {
+                  await run_automagic(one_period, speedup);
+              } else if(oncredit && credits>=1) { // everytime a credit is available
+                  await run_automagic(one_period, speedup);
+              } else if(speedup >= 360 && credits >= 6) {
+                  await run_automagic(one_period, speedup);
+              } else if(speedup >= 60 && credits >= 6) {
+                  await run_automagic(one_period, speedup);
+              } else if(speedup < 60) { // schedule
+                  if(loop_data.hour === 6 || loop_data.hour === 16 || loop_data.hour === 22 || credits >= 10)
+                      await run_automagic(one_period, speedup);
+              } else if (credits >= 10) {
+                  await run_automagic(one_period, speedup);
+              }
+          }
+          console.log(`day ${loop_data.day},    hour ${loop_data.hour},    minute ${loop_data.minute}`)
+          // let loopwait = 10*1000; // loops every 10 seconds
+          // if(speedup>1) loopwait = 1000; // fastest can go 1 sec maybe?
+          // setTimeout(() => loop(), loopwait); // runs in a loop every 30 seconds
       }
-      async function run_automagic(one_period, speedup) {
-          console.log(`... run_automagic(one_period = ${one_period}, speedup = ${speedup})`);
+      async function run_automagic(one_period, _speedup) {
+          if(accelerate>1) _speedup = accelerate;
+          console.log(`... run_automagic(one_period = ${one_period}, speedup = ${_speedup})`);
           for(let i=0; i<MAX_QUIZES; i++) {
               if(!quizes[i]) continue;
               if(states[i] < 1) continue;
@@ -769,7 +820,7 @@
                   let quiz = quizes[i].quiz;
                   console.log(`quiz.length = ${quiz.length}`);
                   for(let j=0; j<quiz.length; j++) {
-                      await delay(1, speedup);
+                      await delay(1, _speedup);
                       let entry = quiz[j];
                       let choices = entry[2];
                       let expected = entry[1];
@@ -781,7 +832,7 @@
                       // $("btn-next").click();
                       console.log(`question = ${entry[0]}, answer = ${expected}`)
                   }
-                  await delay(1, speedup);
+                  await delay(0.1, _speedup);
                   collect_level(i);
               }
           }
@@ -1283,10 +1334,27 @@
               voice_on = 0; // turn off voice mode
               nopopup = 1;
           }
-          function set_speedup() {
-              speedup = parseInt($("#speedup").text()) || 1;
-              console.log(`speedup set to ${speedup}`);
+          function set_speedup(_speedup=10) {
+              speedup = _speedup; //parseInt($("#speedup").text()) || 1;
+              console.log(`speedup set to ${speedup}x`);
+              if(speedup>=60) accelerate = speedup>=3600 ? 100 : speedup>=360 ? 10 : 3;
+              console.log(`speedup set to ${speedup}x, accelerate (${accelerate}x) `);
           }
+          function set_accelerate(_accelerate=3) {
+              accelerate = _accelerate; //parseInt($("#accelerate").text()) || 1;
+              console.log(`accelerated (${accelerate}x) speedup set to ${speedup}x`);
+          }
+          // function set_speedup() {
+          //     accelerate = 1;
+          //     speedup = parseInt($("#speedup").text()) || 1;
+          //     console.log(`speedup set to ${speedup}x`);
+          // }
+          // function set_accelerate() {
+          //     // accelerate = 10
+          //     speedup = parseInt($("#speedup").text()) || 1;
+          //     accelerate = parseInt($("#accelerate").text()) || 1;
+          //     console.log(`accelerated (${accelerate}x) speedup set to ${speedup}x`);
+          // }
       </script>
 
 <div class="modal" tabindex="-1">
@@ -1317,9 +1385,20 @@
               <h6>Resources</h6>
               <ul class="list-unstyled text-small">
                 <li><a class="text-muted text-exempt" href="#" onclick="clear_local_storage()">Clear local storage</a></li>
-                <li><a class="text-muted text-exempt" href="#" onclick="set_automagic()" hidden>Auto test mode <span id="automagic">1<span></a></li>
-                <li><a class="text-muted text-exempt" href="#" onclick="set_speedup()" hidden>Speedup <span id="speedup">60<span>x</a></li>
-                <!-- <li><a class="text-muted" href="#">Resource name</a></li> -->
+<!--                 <li><a class="text-muted text-exempt" href="#" onclick="set_automagic()" hidden1>Auto test mode <span id="automagic">1<span></a></li>
+                <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(10)" hidden1>Speedup <span id="speedup">10<span>x</a></li>
+                <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(24)" hidden1>Speedup <span id="speedup">24<span>x</a></li>
+                <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(60)" hidden1>Speedup <span id="speedup">60<span>x</a></li>
+                <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(120)" hidden1>Speedup <span id="speedup">120<span>x</a></li>
+                <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(180)" hidden1>Speedup <span id="speedup">180<span>x</a></li>
+                <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(360)" hidden1>Speedup <span id="speedup">360<span>x</a></li>
+                <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(3600)" hidden1>Speedup <span id="speedup">3600<span>x</a></li>
+                <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(24*3600)" hidden1>Speedup <span id="speedup">24*3600<span>x</a></li>
+                <li><a class="text-muted text-exempt" href="#" onclick="set_accelerate(1)" hidden1>Accelerate <span id="accelerate">1<span>x</a></li>
+                <li><a class="text-muted text-exempt" href="#" onclick="set_accelerate(3)" hidden1>Accelerate <span id="accelerate">3<span>x</a></li>
+                <li><a class="text-muted text-exempt" href="#" onclick="set_accelerate(10)" hidden1>Accelerate <span id="accelerate">10<span>x</a></li>
+                <li><a class="text-muted text-exempt" href="#" onclick="set_accelerate(100)" hidden1>Accelerate <span id="accelerate">100<span>x</a></li>
+ -->                <!-- <li><a class="text-muted" href="#">Resource name</a></li> -->
                 <!-- <li><a class="text-muted" href="#">Another resource</a></li> -->
               </ul>
             </div>

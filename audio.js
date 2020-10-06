@@ -63,7 +63,10 @@ class VoiceOver {
     //     return http.status!=404;
     // }
     play(index, num=0, startTime=0, endTime=2, voice=this.voice) {
-        [startTime, endTime] = getVoiceStamps(index-1, num, voice);
+        // [startTime, endTime] = getVoiceStamps(index-1, num, voice);
+        let output = getVoiceStamps(index-1, num, voice);
+        if(!output) return;
+        [startTime, endTime] = output;
         if(!startTime && !endTime) return;
         startTime -= 0.4; endTime += 0.4;
         let delaySec = endTime - startTime;
