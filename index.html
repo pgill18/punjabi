@@ -19,6 +19,11 @@
     <script src="audio.js"></script>
     <script src="quizes.js"></script>
 
+    <link rel="stylesheet" href="chatbot/style.css">
+    <script src="chatbot/content/conversations_basic.js"></script>
+    <script src="chatbot/src/diff_match_patch.js"></script>
+    <script src="chatbot/script.js"></script>
+
     <title>Welcome</title>
     <style>
       .btn-light, .btn-light:hover, .btn-light:active, .btn-light:visited {
@@ -219,7 +224,8 @@
     </div>
 
     <script>
-      let DEBUG_MODE = 0;
+      const VERSION = 0.7;
+      const DEBUG_MODE = 0;
       let nopopup = 0;
       let automagic = 0;
       let accelerate = 1; // set to 1x
@@ -227,7 +233,6 @@
       let voice_on = 1;
       let oncredit = 0;
       let credits = 0;
-      let version = 0.5;
       let results = [];
       let index = 0;
       let user = {}; //name, email, id
@@ -237,7 +242,7 @@
       let oneoff = false;
       let building_num = 0;
       let loop_data = { day: 1, hour: 0, minute: 0, stamp: 0 };
-      let map_data = { population: 0 };
+      let mapdata = { population: 0, enrolled: 0, tickets: 0 };
       let max_level2_plus_reached = 0;
       let max_level3_plus_reached = 0;
       // user = { name: 'Parminder', email: 'pgill18.dev@gmail.com', id: 'pgill18.dev' };
@@ -298,8 +303,10 @@
         info = quizes[0].info;
         index = 0; building_num = 0;
         load_scorecard();
+        load_mapdata();
         // load credits
         credits_handling();
+        tickets_handling();
         version_handling()
         // $("#version").html(version);
         loop_data.stamp = new Date().getTime();
@@ -398,10 +405,10 @@
                  <!-- <a type="button" class="btn btn-md btn-block btn-link col-8 text-left" style="padding-left:20px"><span style="padding-left:20px">Harra</span></a> -->
                  <h5 class="card-title building-card-title text-left text-white col-8" id="quiz-card-title"><span id="question" style="padding:20px; color:slategray">Color Green</span></h5>
                  <div class="btn-group-vertical col-8" role="group" aria-label="Basic example">
-                  <button type="button" class="btn btn-md btn-block btn-light text-left" data-toggle="button" style="padding-left:20px" id="btn0" onclick="checkbox1(0)"><input id="cbx0" type="checkbox" onclick="checkbox(0)"><span id="choice0" style="padding-left:20px">Harra</span>
-                  <button type="button" class="btn btn-md btn-block btn-light text-left" data-toggle="button" style="padding-left:20px" id="btn1" onclick="checkbox1(1)"><input id="cbx1" type="checkbox" onclick="checkbox(1)"><span id="choice1" style="padding-left:20px">Neela</span>
-                  <button type="button" class="btn btn-md btn-block btn-light text-left" data-toggle="button" style="padding-left:20px" id="btn2" onclick="checkbox1(2)"><input id="cbx2" type="checkbox" onclick="checkbox(2)"><span id="choice2" style="padding-left:20px">Peela</span>
-                  <button type="button" class="btn btn-md btn-block btn-light text-left" data-toggle="button" style="padding-left:20px" id="btn3" onclick="checkbox1(3)"><input id="cbx3" type="checkbox" onclick="checkbox(3)"><span id="choice3" style="padding-left:20px">Kaala</span>
+                  <button type="button" class="btn btn-md btn-block btn-light text-left" style="padding-left:20px" id="btn0" onclick="checkbox1(0)"><input id="cbx0" type="checkbox" onclick="checkbox(0)"><span id="choice0" style="padding-left:20px">Harra</span>
+                  <button type="button" class="btn btn-md btn-block btn-light text-left" style="padding-left:20px" id="btn1" onclick="checkbox1(1)"><input id="cbx1" type="checkbox" onclick="checkbox(1)"><span id="choice1" style="padding-left:20px">Neela</span>
+                  <button type="button" class="btn btn-md btn-block btn-light text-left" style="padding-left:20px" id="btn2" onclick="checkbox1(2)"><input id="cbx2" type="checkbox" onclick="checkbox(2)"><span id="choice2" style="padding-left:20px">Peela</span>
+                  <button type="button" class="btn btn-md btn-block btn-light text-left" style="padding-left:20px" id="btn3" onclick="checkbox1(3)"><input id="cbx3" type="checkbox" onclick="checkbox(3)"><span id="choice3" style="padding-left:20px">Kaala</span>
                 </div>
               </div>
               <br>
@@ -644,7 +651,7 @@
           let version = retrieve_scorecard("version") || 0;
           console.log(`... version was set to ${version}`)
           if(version < 0.6) {
-              console.log(`... version was previously set to ${version}, upgrading to 0.5`)
+              console.log(`... version was previously set to ${version}, upgrading to 0.6`)
               let reset_scores = [];
               for(let i=0; i<quizes.length; i++) {
                   // if(i>MAX_QUIZES-1) continue;
@@ -657,6 +664,11 @@
                   switch(user.id) {
                       case 'pgill18' : if(i<3) reset_scores[i].quiz_level = 6; break;
                       case 'darshanbal' : if(i<3) reset_scores[i].quiz_level = 6; break;
+                      case 'eshaangill12' : if(i<3) reset_scores[i].quiz_level = 2; break;
+                      case 'jaydhillon2017' : if(i<3) reset_scores[i].quiz_level = 5; break;
+                      case 'vikdhillon2017' : if(i<3) reset_scores[i].quiz_level = 5; break;
+                      case 'jay' : if(i<3) reset_scores[i].quiz_level = 5; break;
+                      case 'vik' : if(i<3) reset_scores[i].quiz_level = 5; break;
                   }
               }
               alert(`A new version of this app is available. This requires you to clear local storage. Reload this page after Clear Local Storage to continue properly.`);
@@ -667,12 +679,18 @@
                   switch(user.id) {
                       case 'pgill18' : galleons=92; population=0; break;
                       case 'darshanbal' : galleons=96; population=0; break;
+                      case 'eshaangill12' : galleons=60; population=0; break;
+                      case 'jaydhillon2017' : galleons=60; population=0; break;
+                      case 'vikdhillon2017' : galleons=60; population=0; break;
+                      case 'jay' : galleons=60; population=0; break;
+                      case 'vik' : galleons=60; population=0; break;
                   }
                   console.log(`user: `, user)
                   console.log(`user-id: `, user.id)
                   store_scorecard("version", version)
                   store_scorecard("galleons", galleons)
-                  store_scorecard("population", population)
+                  store_scorecard("population", 0) // old key
+                  store_scorecard("population/total", population)
                   console.log(`============= reset_scores = `, reset_scores);
                   for(let i=0; i<reset_scores.length; i++) {
                       store_progress(i, 'level', reset_scores[i].quiz_level);
@@ -681,6 +699,11 @@
                   }
                   window.location.reload(false);
               }
+          }
+          if(version < VERSION) {
+              console.log(`... version was previously set to ${version}, upgrading ${VERSION}`)
+              version = VERSION
+              store_scorecard("version", version)
           }
           $("#version").html(version);
           console.log(`... version is set to ${version}`)
@@ -776,6 +799,7 @@
           // }
           console.log(`curr_time = ${curr_time}, loop_data.stamp = ${loop_data.stamp}`)
           console.log(`one_period = ${one_period}, curr_time-loop_data.stamp = ${curr_time-loop_data.stamp}`)
+          tickets_handling(0, speedup);
           credits_handling(0, speedup);
           if(automagic) {
               if(speedup > 3600) {
@@ -851,12 +875,12 @@
       }
 
       function load_scorecard() {
-          map_data.population = retrieve_scorecard(`population/total`) || 0;
+          // let population = retrieve_scorecard(`population/total`) || 0;
           let galleons = retrieve_scorecard("galleons") || 0;
-          let reveal_points = retrieve_scorecard("revealers") || 0;
+          // let reveal_points = retrieve_scorecard("revealers") || 0;
           $("#score-points").text(galleons);
-          $("#reveal-points").text(reveal_points);
-          $("#total-population").text(map_data.population);
+          // $("#reveal-points").text(reveal_points);
+          // $("#total-population").text(population);
       }
 
       function store_progress(i, key, value) {
@@ -1115,6 +1139,7 @@
         for(let i=0; i<choices.length; i++) {
           console.log(`.....${i} ` + $("#cbx"+i).prop("checked"))
           if($("#cbx"+i).prop("checked")) {
+            $("#cbx"+i).prop("checked", false);
             // console.log('.....yeaah')
             answer = choices[i]; break;
           }
@@ -1133,6 +1158,13 @@
       function checkbox1(i) {
         $("#cbx"+i).prop("checked", ! $("#cbx"+i).prop("checked"));
         $("#btn-next").prop("disabled", false);
+        // automatically press "Next" if cleared first level
+        if(!building_num && building_num!==0) return;
+        let this_level = retrieve_progress(building_num, 'level');
+        if(this_level>=1 && !automagic) {
+          // $("#btn"+i).button('toggle'); // remove active state
+          next_step();
+        }
       }
 
       function download_progress() {
@@ -1163,10 +1195,10 @@
               <h5 class="card-title building-card-title text-left text-muted" id="quiz-card-title"><span id="question" style="padding:200px; color:slategray">Color Green</span></h5>
               <div class="row justify-content-center">
                 <div class="btn-group-vertical col-8" role="group" aria-label="Basic example">
-                  <button type="button" class="btn btn-md btn-block btn-light text-left" data-toggle="button" style="padding-left:20px" id="btn0" onclick="checkbox1(0)"><input id="cbx0" type="checkbox" onclick="checkbox(0)"><span id="choice0" style="padding-left:20px">Harra</span>
-                  <button type="button" class="btn btn-md btn-block btn-light text-left" data-toggle="button" style="padding-left:20px" id="btn1" onclick="checkbox1(1)"><input id="cbx1" type="checkbox" onclick="checkbox(1)"><span id="choice1" style="padding-left:20px">Neela</span>
-                  <button type="button" class="btn btn-md btn-block btn-light text-left" data-toggle="button" style="padding-left:20px" id="btn2" onclick="checkbox1(2)"><input id="cbx2" type="checkbox" onclick="checkbox(2)"><span id="choice2" style="padding-left:20px">Peela</span>
-                  <button type="button" class="btn btn-md btn-block btn-light text-left" data-toggle="button" style="padding-left:20px" id="btn3" onclick="checkbox1(3)"><input id="cbx3" type="checkbox" onclick="checkbox(3)"><span id="choice3" style="padding-left:20px">Kaala</span>
+                  <button type="button" class="btn btn-md btn-block btn-light text-left" style="padding-left:20px" id="btn0" onclick="checkbox1(0)"><input id="cbx0" type="checkbox" onclick="checkbox(0)"><span id="choice0" style="padding-left:20px">Harra</span>
+                  <button type="button" class="btn btn-md btn-block btn-light text-left" style="padding-left:20px" id="btn1" onclick="checkbox1(1)"><input id="cbx1" type="checkbox" onclick="checkbox(1)"><span id="choice1" style="padding-left:20px">Neela</span>
+                  <button type="button" class="btn btn-md btn-block btn-light text-left" style="padding-left:20px" id="btn2" onclick="checkbox1(2)"><input id="cbx2" type="checkbox" onclick="checkbox(2)"><span id="choice2" style="padding-left:20px">Peela</span>
+                  <button type="button" class="btn btn-md btn-block btn-light text-left" style="padding-left:20px" id="btn3" onclick="checkbox1(3)"><input id="cbx3" type="checkbox" onclick="checkbox(3)"><span id="choice3" style="padding-left:20px">Kaala</span>
                 </div>
               </div>
               <br>
@@ -1209,7 +1241,7 @@
 
       <div class="squares-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
         <!-- <h3 class="display-5">Colors</h3> -->
-        <p class="lead">Current points: <em id="score-points" class="text-muted">0<em></p>
+        <p class="lead" debug1 onclick="add_galleons('50', 'debug')">Current points: <em id="score-points" class="text-muted">0<em></p>
       </div>
 
       <div class="container">
@@ -1221,8 +1253,10 @@
 
       <div class="squares-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
         <!-- <h3 class="display-5">Colors</h3> -->
-        <p class="lead" onclick1="reveal_tile()" hidden>Revealed: <em id="reveal-points" class="text-muted">0<em></p>
-        <p class="lead" onclick1="reveal_tile()">Population: <em id="total-population" class="text-muted">0<em></p>
+        <!-- <p class="lead" onclick1="reveal_tile()" hidden>Revealed: <em id="reveal-points" class="text-muted">0<em></p> -->
+        <a class="lead col text-muted" onclick1="reveal_tile()">Population: <em id="total-population" class="text-muted">0<em></a>
+        <a class="lead col text-muted" onclick1="reveal_tile()">Enrolled: <em id="total-enrolled" class="text-muted">0<em></a>
+        <a class="lead col text-muted" onclick1="reveal_tile()">Tickets: <em id="total-tickets" class="text-muted">0<em></a>
       </div>
 
       <div class="container col-10" style="position:relative; height: 800px;">
@@ -1238,6 +1272,14 @@
           function deduct_galleons(cost=50) {
               console.log(`Deducting ${cost} Galleons!`);
           }
+          function add_galleons(value=50, src=1) {
+              if(src==='debug' && !DEBUG_MODE) return false;
+              value = parseInt(value);
+              console.log(`value=${value}`);
+              let galleons = retrieve_scorecard("galleons") || 0;
+              store_scorecard(`galleons`, galleons+value);
+              $("#score-points").text(galleons+value);
+          }
           function collect_map_space(i, j, cost=50) {
               let space = document.getElementById(`space-${i}-${j}`);
               let revealed = retrieve_scorecard(`tiles/space-${i}-${j}`);
@@ -1250,27 +1292,27 @@
                       store_scorecard(`tiles/space-${i}-${j}`, 1);
                       let tilenum = (i+1)*(j+1);
                       let population = 150 - Math.abs(13-tilenum)*10/2;
-                      map_data.population += population;
-                      $("#total-population").text(map_data.population);
+                      mapdata.population += population;
+                      $("#total-population").text(mapdata.population);
                       store_scorecard(`population/space-${i}-${j}`, population);
-                      store_scorecard(`population/total`, map_data.population);
+                      store_scorecard(`population/total`, mapdata.population);
                       discovered_population(i, j, population);
                   }
               }
           }
           function discovered_population(i, j, count) {
-              alert(`Congratulations! You just discovered a new population of ${count}. Now you have total population of ${map_data.population}. You need to discover total poplation of 1000 to start this next step. Continue uncovering new spaces until you reach this critical mass. Then you can start construction and build your civilization.`);
+              alert(`Congratulations! You just discovered a new population of ${count}. Now you have total population of ${mapdata.population}. You need to discover total poplation of 200 to start this next step. Continue uncovering new spaces until you reach this critical mass. Then you can start construction and build your civilization.`);
           }
           function populate_tile(i, j) {
-              alert(`You need to discover total poplation of 1000 to start this next step. So far you have discovered total population of ${map_data.population}. Continue uncovering new spaces until you reach this critical mass. Then you can start construction and build your civilization.`);
+              alert(`You need to discover total poplation of 200 to start this next step. So far you have discovered total population of ${mapdata.population}. Continue uncovering new spaces until you reach this critical mass. Then you can start construction and build your civilization.`);
           }
           function add_map(xn, yn, ncol) {
               let container = document.getElementById('map-grid');
-              for(let i=0; i<xn; i++) {
+              for(let j=0; j<xn; j++) {
                   row_element = document.createElement('div');
                   row_element.className = `row col-12`;
                   container.appendChild(row_element);
-                  for(let j=0; j<yn; j++) {
+                  for(let i=0; i<yn; i++) {
                       let revealed = retrieve_scorecard(`tiles/space-${i}-${j}`);
                       let cell_html = add_grid_cell(i, j, `${i}${j}`, revealed);
                       cell_element = document.createElement('div');
@@ -1283,23 +1325,219 @@
                   }
               }
           }
-          function add_grid_cell(i, j, ij, revealed) {
+
+          function tickets_handling(initialize=1, speedup=1) {
+              let tickets = mapdata.tickets;
+              let avg_level = average_level() || 1;
+              let curr_time = new Date().getTime();
+              let max_tickets = 10 + Math.ceil(avg_level) - 1;
+              let read_tickets = retrieve_scorecard('tickets');
+              let coll_time = retrieve_scorecard('ticket-coll-time');
+              let duration = 1*60*60*1000; // New ticket every 1 hour
+              if(speedup>1) duration = Math.round(duration/speedup);
+              // console.log(`tickets=${tickets}, max_tickets=${max_tickets}, read_tickets=${read_tickets}, tickets_coll_time=${coll_time}`);
+              if(read_tickets===undefined || coll_time===undefined) {
+                  tickets = max_tickets;
+                  coll_time = curr_time;
+                  store_scorecard('tickets', tickets);
+                  store_scorecard('ticket-coll-time', coll_time);
+                  // $("#tickets").html(tickets);
+              }
+              else if(read_tickets!==read_tickets || coll_time!==coll_time) { // NaN scenario
+                  tickets = max_tickets;
+                  coll_time = curr_time;
+                  store_scorecard('tickets', tickets);
+                  store_scorecard('ticket-coll-time', coll_time);
+                  // $("#tickets").html(tickets);
+              } 
+              else if(curr_time >= coll_time+duration) { // add new ticket
+                  if(read_tickets < max_tickets) {
+                      let new_tickets = Math.floor((curr_time-coll_time)/duration);
+                      tickets = read_tickets + new_tickets;
+                      if(tickets > max_tickets) tickets = max_tickets;
+                      store_scorecard('tickets', tickets);
+                      store_scorecard('ticket-coll-time', curr_time);
+                      console.log(`Added ${new_tickets} new ticket(s) (Max ${max_tickets}). Total tickets set to  ` + tickets);
+                  } else {
+                      tickets = read_tickets;
+                  }
+              } else if(initialize) { // run at site loading
+                  tickets = read_tickets;
+              }
+              mapdata.tickets = tickets;
+              $("#total-tickets").html(tickets);
+          }
+          function deduct_eticket() {
+              store_scorecard(`tickets`, --mapdata.tickets);
+              $("#total-tickets").text(mapdata.tickets);
+          }
+          function clear_mapdata() {
+              if(!confirm("Are you sure you want to clear MapData from localStorage?")) return;
+              mapdata.population = 0; mapdata.enrolled = 0; mapdata.tickets = 0;
+              remove_item_scorecard('population/total');
+              store_scorecard(`population/total`, 1001); // TBD
+              remove_item_scorecard('enrolled/total');
+              remove_item_scorecard('tickets');
+              remove_item_scorecard('ticket-coll-time');
+              load_mapdata();
+              tickets_handling(1); // run in initialize mode
+              console.log(mapdata)
+          }
+          function remove_item_scorecard(key='tickets') {
+              let pathkey = `${info.project}`;
+              let db = window.localStorage.getItem(user.id);
+              // console.log(db);
+              if(!db) db = {}; else db = JSON.parse(db);
+              if(!db[pathkey]) db[pathkey] = {};
+              if(!db[pathkey].scorecard) db[pathkey].scorecard = {};
+              delete db[pathkey].scorecard[key];
+              console.log(`db[pathkey].scorecard: (where pathkey = ${pathkey})`)
+              console.log(db[pathkey].scorecard);
+              window.localStorage.setItem(user.id, JSON.stringify(db));
+          }
+
+          function load_mapdata() {
+              mapdata.population = retrieve_scorecard(`population/total`) || 0;
+              mapdata.enrolled = retrieve_scorecard(`enrolled/total`) || 0;
+              mapdata.tickets = retrieve_scorecard(`tickets`) || 0;
+              $("#total-population").text(mapdata.population);
+              $("#total-enrolled").text(mapdata.enrolled);
+              $("#total-tickets").text(mapdata.tickets);
+          }
+          function store_mapdata() {
+              store_scorecard(`population/total`, mapdata.population);
+              store_scorecard(`enrolled/total`, mapdata.enrolled);
+              store_scorecard(`tickets`, mapdata.tickets);
+              $("#total-population").text(mapdata.population);
+              $("#total-enrolled").text(mapdata.enrolled);
+              $("#total-tickets").text(mapdata.tickets);
+          }
+          function update_mapdata({population=0, enrolled=0, tickets=0}={}) {
+              mapdata.population += population;
+              mapdata.enrolled += enrolled;
+              mapdata.tickets += tickets;
+              store_mapdata();
+          }
+          function update_mapdata_temp({population=0, enrolled=0, tickets=0}={}) {
+              mapdata.population += population;
+              mapdata.enrolled += enrolled;
+              mapdata.tickets += tickets;
+              $("#total-population").text(mapdata.population);
+              $("#total-enrolled").text(mapdata.enrolled);
+              $("#total-tickets").text(mapdata.tickets);
+          }
+          function store_mapdata_region(i, j, data={}) {
+              store_scorecard(`population/space-${i}-${j}`, data.population||0);
+              store_scorecard(`enrolled/space-${i}-${j}`, data.enrolled||0);
+              // store_scorecard(`tiles/space-${i}-${j}`, data.revealed||0);
+          }
+          function retrieve_mapdata_region(i, j) {
+              let population = retrieve_scorecard(`population/space-${i}-${j}`) || 0;
+              let enrolled = retrieve_scorecard(`enrolled/space-${i}-${j}`) || 0;
+              let revealed = retrieve_scorecard(`tiles/space-${i}-${j}`) || 0;
+              return {population, enrolled, revealed};
+          }
+          function update_mapdata_region(i, j, data={}) {
+              if(i===undefined || j===undefined) return;
+              let stored = retrieve_mapdata_region(i, j);
+              let population = stored.population + (data.population||0);
+              let enrolled = stored.enrolled + (data.enrolled||0);
+              // let revealed = s_revealed + (data.revealed||0);
+              store_scorecard(`population/space-${i}-${j}`, population);
+              store_scorecard(`enrolled/space-${i}-${j}`, enrolled);
+              // store_scorecard(`tiles/space-${i}-${j}`, revealed?1:0);
+          }
+          function update_mapdata_region_temp(i, j, data={}) {
+              let stored = retrieve_mapdata_region(i, j);
+              let population = stored.population + (data.population||0);
+              let enrolled = stored.enrolled + (data.enrolled||0);
+              // let revealed = s_revealed + (data.revealed||0);
+              console.log(`s_population/space-${i}-${j}`, stored.population);
+              console.log(`s_enrolled/space-${i}-${j}`, stored.enrolled);
+              // console.log(`s_tiles/space-${i}-${j}`, s_revealed?1:0);
+
+              console.log(`population/space-${i}-${j}`, population);
+              console.log(`enrolled/space-${i}-${j}`, enrolled);
+              // console.log(`tiles/space-${i}-${j}`, revealed?1:0);
+          }
+          function get_difficulty_skill(i, j) {
+              let {population, enrolled, revealed} = retrieve_mapdata_region(i, j);
+              let skill = round(average_level()) || 1;
+              let difficulty = round(enrolled/population*100) || 0;
+              return {difficulty, skill};
+          }
+          function get_grid_cell_style(i, j, revealed) {
+              let {population, enrolled, tickets} = mapdata;
+              let {difficulty, skill} = get_difficulty_skill(i, j);
               let icon = (revealed) ? 'insert_comment' : 'short_text';
-              let size = (revealed) ? '140px' : '172px';
+              let size = (revealed) ? '30px' : '72px';
               let color = (revealed) ? 'green' : 'lightgray';
+              if(population < 200) { color = 'dimgray'; size = '30px'; }
+              else if(tickets <= 0) { color = 'dimgray'; size = '30px'; }
+              else if(tickets >= 1) {
+                  if(skill > difficulty/2) { color = 'brown'; size = '30px'; }
+                  if(skill > difficulty) { color = 'red'; size = '30px'; }
+              }
               let opacity_fg = (revealed) ? 1 : 0;
               let opacity_bg = (revealed) ? 0 : 1;
+              return {icon, color, size, opacity_fg, opacity_bg};
+          }
+
+          function add_grid_cell(i, j, ij, revealed) {
+              if(i===undefined || j===undefined) return;
+              let {icon, color, size, opacity_fg, opacity_bg} = get_grid_cell_style(i, j, revealed);
               return `
           <!-- <div class="card"> -->
             <!-- <img src="..." class="card-img-top" alt="..."> -->
             <div class="card-body m-0 p-0 mb-n2">
               <!-- <h5 class="card-title">Card title</h5> -->
               <!-- <p class="card-text"></p> -->
-              <i class="material-icons btn-light" id="grid-cell-${i}-${j}" style="font-size:172px;color:lightgray;opacity:${opacity_bg}" data-toggle1="clickover" data-prod="0" onclick="collect_map_space(${i}, ${j})">short_text</i>
-              <i class="material-icons btn-light" id="grid-cell-${i}-${j}" style="font-size:${size}px;color:${color};opacity:${opacity_fg}; position:absolute; margin: 70px 0 0 -90px" data-toggle1="clickover" data-prod="0" onclick="populate_tile(${i}, ${j})">${icon}</i>
+              <i class="material-icons btn-light" id="grid-cell-bg-${i}-${j}" style="font-size:172px;color:lightgray;opacity:${opacity_bg}" data-toggle1="clickover" data-prod="0" onclick="collect_map_space(${i}, ${j})">short_text</i>
+              <i class="material-icons btn-light" id="grid-cell-ppl-${i}-${j}" style="font-size:${size};color:${color};opacity:${opacity_fg}; position:absolute; margin: 70px 0 0 -90px" data-toggle1="clickover" data-prod="0" onclick="launch_enrollment_quest(${i}, ${j}, this)">${icon}</i>
             </div>
           <!-- </div> -->`;
           }
+          function update_grid_cell(i, j, revealed=true) {
+              if(i===undefined || j===undefined) return;
+              let {icon, color, size, opacity_fg, opacity_bg} = get_grid_cell_style(i, j, revealed);
+              $(`#grid-cell-ppl-${i}-${j}`).html(icon);
+              $(`#grid-cell-ppl-${i}-${j}`).css('color', color);
+              $(`#grid-cell-ppl-${i}-${j}`).css('size', size);
+              $(`#grid-cell-ppl-${i}-${j}`).css('opacity', opacity_fg);
+              $(`#grid-cell-bg-${i}-${j}`).css('opacity', opacity_bg);
+          }
+
+          // function add_grid_cell(i, j, ij, revealed) {
+          //     if(i===undefined || j===undefined) return;
+          //     // let revealed = retrieve_scorecard(`tiles/space-${i}-${j}`);
+          //     // let [population, tickets] = get_population_tickets();
+          //     // let [difficulty, skill] = get_difficulty_skill();
+          //     // let {population, enrolled, tickets} = retrieve_mapdata_top();
+          //     let {population, enrolled, tickets} = mapdata;
+          //     let {difficulty, skill} = get_difficulty_skill(i, j);
+          //     let icon = (revealed) ? 'insert_comment' : 'short_text';
+          //     let size = (revealed) ? '30px' : '72px';
+          //     let color = (revealed) ? 'green' : 'lightgray';
+          //     if(population < 1000) { color = 'dimgray'; size = '30px'; }
+          //     else if(tickets <= 0) { color = 'dimgray'; size = '30px'; }
+          //     else if(tickets >= 1) {
+          //         if(skill > difficulty/2) { color = 'brown'; size = '30px'; }
+          //         if(skill > difficulty) { color = 'red'; size = '30px'; }
+          //     }
+          //     let opacity_fg = (revealed) ? 1 : 0;
+          //     let opacity_bg = (revealed) ? 0 : 1;
+          //     return `
+          // <!-- <div class="card"> -->
+          //   <!-- <img src="..." class="card-img-top" alt="..."> -->
+          //   <div class="card-body m-0 p-0 mb-n2">
+          //     <!-- <h5 class="card-title">Card title</h5> -->
+          //     <!-- <p class="card-text"></p> -->
+          //     <i class="material-icons btn-light" id="grid-cell-bg-${i}-${j}" style="font-size:172px;color:lightgray;opacity:${opacity_bg}" data-toggle1="clickover" data-prod="0" onclick="collect_map_space(${i}, ${j})">short_text</i>
+          //     <i class="material-icons btn-light" id="grid-cell-ppl-${i}-${j}" style="font-size:${size};color:${color};opacity:${opacity_fg}; position:absolute; margin: 70px 0 0 -90px" data-toggle1="clickover" data-prod="0" onclick="launch_enrollment_quest(${i}, ${j}, this)">${icon}</i>
+          //   </div>
+          // <!-- </div> -->`;
+          // }
+
     //       function reveal_now(i, j) {
     //           console.log(`${i}, ${j}`);
     //           $(`#grid-cell-${i}-${j}`).popover(`hide`);
@@ -1357,19 +1595,233 @@
           // }
       </script>
 
-<div class="modal" tabindex="-1">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-body">
-        <p>Cost 50</p>
+      <div class="modal" tabindex="-1">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-body">
+              <p>Cost 50</p>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary" onclick="reveal_now()">Reveal</button>
+            </div>
+          </div>
+        </div>
       </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary" onclick="reveal_now()">Reveal</button>
-      </div>
-    </div>
-  </div>
-</div>
+
+      <script type="text/javascript">
+
+          // function begin_enrollment(i) {
+          //   let population = get_population(i);
+          //   let enrolled = get_enrolled(i);
+          //   let avg_level = round(average_level()) || 1;
+          //   launch_chatbot(i, aaa, avg_level);
+          // }
+
+          // function retrieve_mapdata_region(i, j) {
+          //     let population = retrieve_scorecard(`population/space-${i}-${j}`) || 0;
+          //     let enrolled = retrieve_scorecard(`enrolled/space-${i}-${j}`) || 0;
+          //     let revealed = retrieve_scorecard(`tiles/space-${i}-${j}`) || 0;
+          //     return {population, enrolled, revealed};
+          // }
+
+          async function launch_enrollment_quest(i, j, _this) {
+              let index = i + j*5;
+              let region = retrieve_mapdata_region(i, j);
+              console.log(`region (${i}, ${j}) `, region);
+              if(!region.revealed) { console.log(`Region (${i}, ${j}) not yet revealed. Can't enroll.`); return; }
+              if(mapdata.population < 200) { return populate_tile(i, j) }
+              if(mapdata.tickets < 1) if(confirm('You have used up all your tickets today. Come back tomorrow!\nPress "cancel" if you want to try anyway (using borrowed tickets)./')) return;
+              let {difficulty, skill} = get_difficulty_skill(i, j);
+              console.log(`initial region`, region)
+              console.log(`initial map`, mapdata)
+
+              console.log(`launch_chatbot(index=${index}, difficulty=${difficulty}, skill=${skill})`);
+              let enrolled = await launch_chatbot(index, difficulty, skill);
+              console.log(`done with launch_chatbot. enrolled ${enrolled}`);
+              if(enrolled) {
+                  region.enrolled += enrolled;
+                  mapdata.enrolled += enrolled;
+                  mapdata.tickets -= enrolled;
+                  // update_mapdata_temp();
+                  // update_mapdata_region_temp(i, j, {enrolled});
+                  update_mapdata();
+                  update_mapdata_region(i, j, {enrolled});
+                  update_grid_cell(i, j);
+              }
+              console.log(`final region`, region)
+              console.log(`final map`, mapdata)
+          }
+
+          // async function launch_enrollment_quest_old(i, j, _this) {
+          //     let index = i + j*5;
+          //     let map = { population: 1000, enrolled: 0, tickets: 1, coll_time: 0, regions: [] };
+          //     let region = map.regions[index];
+          //     if(!region) {
+          //       region = { population: 100, enrolled: 20 };
+          //       map.regions[0] = region;
+          //     }
+
+          //     // let index = parseInt($(_this).prep('data-index')) || 0;
+          //     let avg_level = round(average_level()) || 1;
+          //     let expertize = avg_level;
+          //     let difficulty = round(region.enrolled/region.population*100) || 0;
+          //     if(map.population < 1000) { return populate_tile(i, j) }
+          //     if(map.tickets < 1) if(confirm('You have used up all your tickets today. Come back tomorrow!\nPress "cancel" if you want to try anyway (using borrowed tickets)./')) return;
+
+          //     console.log(`launch_chatbot(index=${index}, difficulty=${difficulty}, expertize=${expertize})`);
+          //     let enrolled = await launch_chatbot(index, difficulty, expertize);
+          //     if(enrolled) {
+          //         region.enrolled += enrolled;
+          //         map.enrolled += enrolled;
+          //         map.tickets -= enrolled;
+          //         update_mapdata_top_temp({population: map.population, enrolled: map.enrolled, tickets: map.tickets});
+          //     }
+          //     console.log(`final region`, region)
+          //     console.log(`final map`, map)
+          // }
+
+          // async function launch_chatbot(count, expertize, _this) {
+          //     let enrolled = await launch_chatbot(i, count, expertize);
+          //     total = (parseInt($(_this).prop('data-enrolled')) || 0) + enrolled;
+          //     $(_this).prop('data-enrolled', total);
+          //     // console.log(_this);
+          //     // console.log($(_this).prop('data-enrolled'));
+          //     $(_this).find('a').text(total);
+          //     $(_this).find('a').css('color', 'dimgray');
+          //     tickets = 3 - total;
+          //     let color = tickets<=0 ? 'lightgray' : tickets<=1 ? '#6699cc' : tickets<=2 ? 'yellowgreen' : tickets<=2 ? 'yellow' : 'orange';
+          //     $(_this).find('i').css('color', color);
+          // }
+      </script>
+
+        <!-- Activate modal as: $('#chatbotModal').modal() -->
+        <!-- Modal -->
+        <div class="modal xmodal-wide fade" id="chatbotModal" tabindex="-1" role="dialog" aria-labelledby="chatbotModalTitle" aria-hidden="true" style1="width:90%">
+          <div class="modal-dialog modal-dialog-centered modal-lg xmodal-wide" role="document" style1="width:90%">
+            <div class="modal-content modal-widepx" style1="xwidth:800px">
+              <div class="modal-header theme_light">
+                <div class="row col-12 xrow-cols-sm-1">
+                    <h1 class="modal-title lead col-4" id="enrollModalTitle" xstyle="display:inline;float:left">Conversing ...</h1>
+                    <!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close"> -->
+                      <!-- <span aria-hidden="true">&times;</span> -->
+                    <!-- </button> -->
+                    <h2 class="modal-title lead col-4 text-center" xstyle="display:inline;margin-left:25%;color:dimgray">Points <span id="joinModalPoints">0</span></h2>
+                    <h2 class="modal-title lead col-3 text-right" xstyle="display:inline;float:left;margin: 0px 12px 0 0;color:dimgray">Joined <span id="joinModalJoined">0</span></h2>
+                    <button type="button" class="close xco text-right" data-dismiss="modal" style="color:black">&times;</button>
+                </div>
+              </div>
+              <div class="modal-body modal-widepx bg_light" style1="xwidth:800px">
+                <!-- <div class="card-group cols-12" id="chatbot-cards"> -->
+                <div class="col-sm-12 col-sm-offset-0 chatbot-frame bg_light">
+                    <ul id="chatbot-ul"></ul>
+                    <div>
+                        <div class="chatbot-msj-rta chatbot-macro">                        
+                            <div class="chatbot-text chatbot-text-r" style="background:whitesmoke !important">
+                                <input class="chatbot-mytext" placeholder="Type a message"/>
+                            </div> 
+                        </div>
+                        <div style="padding:10px;">
+                            <!-- <span class="glyphicon glyphicon-share-alt"></span> -->
+                            <!-- <i class="material-icons" style="color:dimgray; font-size:24px;">send</i> -->
+                        </div>                
+                            <p>
+                              <button class="btn btn-light px-2" type="button" data-toggle="collapse" data-target="#chatbotSettings" aria-expanded="false" aria-controls="chatbotSettings">
+                                  <i class="material-icons" style="color:lightgray; font-size:20px;">settings</i>
+                              </button>
+                            </p>
+                            <div class="collapse" id="chatbotSettings">
+                              <div class="card card-body">
+
+                                    <form>
+                                      <div class="form-row align-items-center">
+                                        <div class="col-auto my-1">
+                                          <label class="mr-sm-2 sr-only" for="inlineFormCustomSelect">Preference</label>
+                                          <select class="custom-select mr-sm-2" id="inlineFormPromptsSelect" onchange="chatbotPromptsSettingsChange(this)">
+                                            <!-- <option selected>Prompts...</option> -->
+                                            <option value="1">Complete sentences</option>
+                                            <option value="2" selected>Phrases (multi word)</option>
+                                            <option value="3">Words (single word)</option>
+                                          </select>
+                                        </div>
+                                        <div class="col-auto my-1">
+                                          <label class="mr-sm-2 sr-only" for="inlineFormCustomSelect">Preference</label>
+                                          <select class="custom-select mr-sm-2" id="inlineFormHintsSelect" onchange="chatbotHintsSettingsChange(this)">
+                                            <!-- <option selected>Hints...</option> -->
+                                            <option value="1">English lines only (100% points)</option>
+                                            <option value="2" selected>Hints in English (50% points)</option>
+                                            <option value="3">Hints in Punjabi (25% points)</option>
+                                          </select>
+                                        </div>
+                                        <div>
+                                            <label for="customRange3">Font Size</label>
+                                            <input type="range" class="custom-range" min="10" max="30" step="1" value="16" id="chatbotFontSize" onchange="chatbotFontSizeChange(this)">     
+                                        </div>                                   
+                                        <br>
+                                        <div class="col-auto my-1">
+                                          <div class="custom-control custom-checkbox mr-sm-2">
+                                            <input type="checkbox" class="custom-control-input" id="chatbotFeedbackSetting" onclick="chatbotModeSettingsChange(this, 'feedback')" checked>
+                                            <label class="custom-control-label" for="chatbotFeedbackSetting">Show feedback</label>
+                                          </div><hr>
+                                          <div class="custom-control custom-checkbox mr-sm-2">
+                                            <input type="checkbox" class="custom-control-input" id="chatbotExpertSetting" onclick="chatbotModeSettingsChange(this, 'expert')">
+                                            <label class="custom-control-label" for="chatbotExpertSetting">Expert mode</label><br>
+                                          </div>
+                                          <div class="custom-control custom-checkbox mr-sm-2">
+                                            <input type="checkbox" class="custom-control-input" id="chatbotDuplexSetting" onclick="chatbotModeSettingsChange(this, 'duplex')" checked>
+                                            <label class="custom-control-label" for="chatbotDuplexSetting">Duplex mode</label><br>
+                                          </div>
+                                          <div class="custom-control custom-checkbox mr-sm-2">
+                                            <input type="checkbox" class="custom-control-input" id="chatbotQuietSetting" onclick="chatbotModeSettingsChange(this, 'quiet')" checked>
+                                            <label class="custom-control-label" for="chatbotQuietSetting">Quiet mode</label><br>
+                                          </div>
+                                          <div class="custom-control custom-checkbox mr-sm-2" hidden>
+                                            <input type="checkbox" class="custom-control-input" id="chatbotTestSetting" onclick="chatbotModeSettingsChange(this, 'test')">
+                                            <label class="custom-control-label" for="chatbotTestSetting">Test mode</label>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </form>
+
+                              </div>
+                            </div>
+
+                    </div>
+                </div>
+
+                <!-- </div> -->
+              </div>
+              <!-- <div class="modal-footer theme_primary"> -->
+                <!-- <div class="row col-12"> -->
+                    <!-- <button class="btn btn-light col-3" disabled></button> -->
+                    <!-- <button type="button" class="btn btn-info col-6" id="offering" style="float:center" onclick="on_click_accept()">Accept my offerings</button> -->
+                    <!-- <button type="button" class="btn btn-info col-6" data-dismiss="modal" id="offering" style="float:center">Accept my offerings</button> -->
+                    <!-- <button class="btn btn-light col-3" disabled></button> -->
+                <!-- </div> -->
+              <!-- </div> -->
+            </div>
+          </div>
+        </div>
+
+        <div class="modal fade" id="utilModal" tabindex="-1">
+          <div class="modal-dialog modal-sm xmodal-dialog-centered" id="utilModalDialog" style="max-width:400px">
+            <div class="modal-content">
+            <!-- <div class="modal-header">
+                <h5 class="modal-title" id="utilModalTitle"></h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div> -->
+              <div class="modal-body" id="utilModalBody">
+                    <h5 class="modal-title" id="utilModalTitle"></h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                      <span aria-hidden="true">&times;</span>
+                    </button>
+                    <p id="utilModalBodyText">Placeholder</p>
+              </div>
+            </div>
+          </div>
+        </div>
 
       <footer class="pt-4 my-md-5 pt-md-5 border-top">
           <div class="row">
@@ -1377,6 +1829,9 @@
               <h6>Reporting</h6>
               <ul class="list-unstyled text-small">
                 <li><a class="text-muted text-exempt" href="#" onclick="check_progress()">Check Progress</a></li>
+                <div hidden>
+                  <li><a class="text-muted text-exempt" href="#" onclick="launch_chatbot(1, 3, this)">Launch Chatbot</a></li>
+                </div>
                 <!-- <li><a class="text-muted" href="#">Random feature</a></li> -->
                 <!-- <li><a class="text-muted" href="#">Team feature</a></li> -->
               </ul>
@@ -1385,20 +1840,23 @@
               <h6>Resources</h6>
               <ul class="list-unstyled text-small">
                 <li><a class="text-muted text-exempt" href="#" onclick="clear_local_storage()">Clear local storage</a></li>
-<!--                 <li><a class="text-muted text-exempt" href="#" onclick="set_automagic()" hidden1>Auto test mode <span id="automagic">1<span></a></li>
-                <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(10)" hidden1>Speedup <span id="speedup">10<span>x</a></li>
-                <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(24)" hidden1>Speedup <span id="speedup">24<span>x</a></li>
-                <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(60)" hidden1>Speedup <span id="speedup">60<span>x</a></li>
-                <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(120)" hidden1>Speedup <span id="speedup">120<span>x</a></li>
-                <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(180)" hidden1>Speedup <span id="speedup">180<span>x</a></li>
-                <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(360)" hidden1>Speedup <span id="speedup">360<span>x</a></li>
-                <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(3600)" hidden1>Speedup <span id="speedup">3600<span>x</a></li>
-                <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(24*3600)" hidden1>Speedup <span id="speedup">24*3600<span>x</a></li>
-                <li><a class="text-muted text-exempt" href="#" onclick="set_accelerate(1)" hidden1>Accelerate <span id="accelerate">1<span>x</a></li>
-                <li><a class="text-muted text-exempt" href="#" onclick="set_accelerate(3)" hidden1>Accelerate <span id="accelerate">3<span>x</a></li>
-                <li><a class="text-muted text-exempt" href="#" onclick="set_accelerate(10)" hidden1>Accelerate <span id="accelerate">10<span>x</a></li>
-                <li><a class="text-muted text-exempt" href="#" onclick="set_accelerate(100)" hidden1>Accelerate <span id="accelerate">100<span>x</a></li>
- -->                <!-- <li><a class="text-muted" href="#">Resource name</a></li> -->
+                <div hidden>
+                  <li><a class="text-muted text-exempt" href="#" onclick="clear_mapdata()">Clear mapdata</a></li>
+                  <li><a class="text-muted text-exempt" href="#" onclick="set_automagic()" hidden1>Auto test mode <span id="automagic">1<span></a></li>
+                  <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(10)" hidden1>Speedup <span id="speedup">10<span>x</a></li>
+                  <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(24)" hidden1>Speedup <span id="speedup">24<span>x</a></li>
+                  <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(60)" hidden1>Speedup <span id="speedup">60<span>x</a></li>
+                  <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(120)" hidden1>Speedup <span id="speedup">120<span>x</a></li>
+                  <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(180)" hidden1>Speedup <span id="speedup">180<span>x</a></li>
+                  <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(360)" hidden1>Speedup <span id="speedup">360<span>x</a></li>
+                  <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(3600)" hidden1>Speedup <span id="speedup">3600<span>x</a></li>
+                  <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(24*3600)" hidden1>Speedup <span id="speedup">24*3600<span>x</a></li>
+                  <li><a class="text-muted text-exempt" href="#" onclick="set_accelerate(1)" hidden1>Accelerate <span id="accelerate">1<span>x</a></li>
+                  <li><a class="text-muted text-exempt" href="#" onclick="set_accelerate(3)" hidden1>Accelerate <span id="accelerate">3<span>x</a></li>
+                  <li><a class="text-muted text-exempt" href="#" onclick="set_accelerate(10)" hidden1>Accelerate <span id="accelerate">10<span>x</a></li>
+                  <li><a class="text-muted text-exempt" href="#" onclick="set_accelerate(100)" hidden1>Accelerate <span id="accelerate">100<span>x</a></li>
+                </div>
+                <!-- <li><a class="text-muted" href="#">Resource name</a></li> -->
                 <!-- <li><a class="text-muted" href="#">Another resource</a></li> -->
               </ul>
             </div>

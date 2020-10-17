@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> -->
+
+        <!-- Latest compiled and minified CSS -->
+        <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> -->
+
+        <!-- Latest compiled and minified JavaScript -->
+        <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script> -->
+        <!-- Required meta tags -->
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+
+        <link rel="stylesheet" href="style.css">
+        <script src="diff_match_patch.js"></script>
+        <script src="content/conversations_basic.js"></script>
+        <!-- <script src="content/conversations.js"></script> -->
+        <script src="script.js"></script>
+
+    </head>
+    <body>
+
+        <br>
+        <div class="container" id="map">
+            <div class="row-cols-1">
+                <div class="row-cols-5">
+                    <button class="btn btn-lg btn-outline-link col-2" type="button" onclick="launch_chatbot(1, 1, this)" style="height:140px" data-enrolled="0"></button>
+                    <button class="btn btn-lg btn-outline-link col-2" type="button" onclick="launch_chatbot(2, 1, this)" style="height:140px" data-enrolled="0"></button>
+                    <button class="btn btn-lg btn-outline-link col-2" type="button" onclick="launch_chatbot(3, 1, this)" style="height:140px" data-enrolled="0"></button>
+                    <button class="btn btn-lg btn-outline-link col-2" type="button" onclick="launch_chatbot(4, 1, this)" style="height:140px" data-enrolled="0"></button>
+                    <button class="btn btn-lg btn-outline-link col-2" type="button" onclick="launch_chatbot(5, 1, this)" style="height:140px" data-enrolled="0"></button>
+                </div>
+                <div class="row-cols-5">
+                    <button class="btn btn-lg btn-outline-link col-2" type="button" onclick="launch_chatbot(6, 2, this)" style="height:140px" data-enrolled="0"></button>
+                    <button class="btn btn-lg btn-outline-link col-2" type="button" onclick="launch_chatbot(7, 2, this)" style="height:140px" data-enrolled="0"></button>
+                    <button class="btn btn-lg btn-outline-link col-2" type="button" onclick="launch_chatbot(8, 2, this)" style="height:140px" data-enrolled="0"></button>
+                    <button class="btn btn-lg btn-outline-link col-2" type="button" onclick="launch_chatbot(9, 2, this)" style="height:140px" data-enrolled="0"></button>
+                    <button class="btn btn-lg btn-outline-link col-2" type="button" onclick="launch_chatbot(10, 2, this)" style="height:140px" data-enrolled="0"></button>
+                </div>
+                <div class="row-cols-5">
+                    <button class="btn btn-lg btn-outline-link col-2" type="button" onclick="launch_chatbot(11, 3, this)" style="height:140px" data-enrolled="0"></button>
+                    <button class="btn btn-lg btn-outline-link col-2" type="button" onclick="launch_chatbot(12, 3, this)" style="height:140px" data-enrolled="0"></button>
+                    <button class="btn btn-lg btn-outline-link col-2" type="button" onclick="launch_chatbot(13, 3, this)" style="height:140px" data-enrolled="0"></button>
+                    <button class="btn btn-lg btn-outline-link col-2" type="button" onclick="launch_chatbot(14, 3, this)" style="height:140px" data-enrolled="0"></button>
+                    <button class="btn btn-lg btn-outline-link col-2" type="button" onclick="launch_chatbot(15, 3, this)" style="height:140px" data-enrolled="0"></button>
+                </div>
+                <div class="row-cols-5">
+                    <button class="btn btn-lg btn-outline-link col-2" type="button" onclick="launch_chatbot(16, 4, this)" style="height:140px" data-enrolled="0"></button>
+                    <button class="btn btn-lg btn-outline-link col-2" type="button" onclick="launch_chatbot(17, 4, this)" style="height:140px" data-enrolled="0"></button>
+                    <button class="btn btn-lg btn-outline-link col-2" type="button" onclick="launch_chatbot(18, 4, this)" style="height:140px" data-enrolled="0"></button>
+                    <button class="btn btn-lg btn-outline-link col-2" type="button" onclick="launch_chatbot(19, 4, this)" style="height:140px" data-enrolled="0"></button>
+                    <button class="btn btn-lg btn-outline-link col-2" type="button" onclick="launch_chatbot(20, 4, this)" style="height:140px" data-enrolled="0"></button>
+                </div>
+                <div class="row-cols-5">
+                    <button class="btn btn-lg btn-outline-link col-2" type="button" onclick="launch_chatbot(30, 5, this)" style="height:140px" data-enrolled="0"></button>
+                    <button class="btn btn-lg btn-outline-link col-2" type="button" onclick="launch_chatbot(40, 5, this)" style="height:140px" data-enrolled="0"></button>
+                    <button class="btn btn-lg btn-outline-link col-2" type="button" onclick="launch_chatbot(60, 5, this)" style="height:140px" data-enrolled="0"></button>
+                    <button class="btn btn-lg btn-outline-link col-2" type="button" onclick="launch_chatbot(80, 5, this)" style="height:140px" data-enrolled="0"></button>
+                    <button class="btn btn-lg btn-outline-link col-2" type="button" onclick="launch_chatbot(100, 5, this)" style="height:140px" data-enrolled="0"></button>
+                </div>
+            </div>
+        </div>
+
+        <script type="text/javascript">
+            $(() => {
+                // $('#map').find('button').css('color', 'green');
+                $('#map').find('button').append(`<i class="material-icons" style="color:orange; font-size:48px">wysiwyg</i>`);
+                $('#map').find('button').append(`<br><a style="color:lightgray">0</a>`);
+            })
+        </script>
+
+        <!-- Button trigger modal -->
+        <!-- $('#chatbotModal').modal({backdrop: 'static', keyboard: false})  -->
+        <!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#chatbotModal"> -->
+        <button type="button" class="btn btn-link" data-toggle="modal" data-target="#chatbotModal" data-backdrop="static" data-keyboard="false">
+          Launch chatbot modal
+        </button>
+
+        <!-- Activate modal as: $('#chatbotModal').modal() -->
+        <!-- Modal -->
+        <div class="modal xmodal-wide fade" id="chatbotModal" tabindex="-1" role="dialog" aria-labelledby="chatbotModalTitle" aria-hidden="true" style1="width:90%">
+          <div class="modal-dialog modal-dialog-centered modal-lg xmodal-wide" role="document" style1="width:90%">
+            <div class="modal-content modal-widepx" style1="xwidth:800px">
+              <div class="modal-header theme_light">
+                <div class="row col-12 xrow-cols-sm-1">
+                    <h1 class="modal-title lead col-4" id="enrollModalTitle" xstyle="display:inline;float:left">Conversing ...</h1>
+                    <!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close"> -->
+                      <!-- <span aria-hidden="true">&times;</span> -->
+                    <!-- </button> -->
+                    <h2 class="modal-title lead col-4 text-center" xstyle="display:inline;margin-left:25%;color:dimgray">Points <span id="joinModalPoints">0</span></h2>
+                    <h2 class="modal-title lead col-3 text-right" xstyle="display:inline;float:left;margin: 0px 12px 0 0;color:dimgray">Joined <span id="joinModalJoined">0</span></h2>
+                    <button type="button" class="close xco text-right" data-dismiss="modal" style="color:black">&times;</button>
+                </div>
+              </div>
+              <div class="modal-body modal-widepx bg_light" style1="xwidth:800px">
+                <!-- <div class="card-group cols-12" id="chatbot-cards"> -->
+                <div class="col-sm-12 col-sm-offset-0 chatbot-frame bg_light">
+                    <ul id="chatbot-ul"></ul>
+                    <div>
+                        <div class="chatbot-msj-rta chatbot-macro">                        
+                            <div class="chatbot-text chatbot-text-r" style="background:whitesmoke !important">
+                                <input class="chatbot-mytext" placeholder="Type a message"/>
+                            </div> 
+                        </div>
+                        <div style="padding:10px;">
+                            <!-- <span class="glyphicon glyphicon-share-alt"></span> -->
+                            <!-- <i class="material-icons" style="color:dimgray; font-size:24px;">send</i> -->
+                        </div>                
+                            <p>
+                              <button class="btn btn-light px-2" type="button" data-toggle="collapse" data-target="#chatbotSettings" aria-expanded="false" aria-controls="chatbotSettings">
+                                  <i class="material-icons" style="color:lightgray; font-size:20px;">settings</i>
+                              </button>
+                            </p>
+                            <div class="collapse" id="chatbotSettings">
+                              <div class="card card-body">
+
+                                    <form>
+                                      <div class="form-row align-items-center">
+                                        <div class="col-auto my-1">
+                                          <label class="mr-sm-2 sr-only" for="inlineFormCustomSelect">Preference</label>
+                                          <select class="custom-select mr-sm-2" id="inlineFormPromptsSelect" onchange="chatbotPromptsSettingsChange(this)">
+                                            <!-- <option selected>Prompts...</option> -->
+                                            <option value="1">Complete sentences</option>
+                                            <option value="2" selected>Phrases (multi word)</option>
+                                            <option value="3">Words (single word)</option>
+                                          </select>
+                                        </div>
+                                        <div class="col-auto my-1">
+                                          <label class="mr-sm-2 sr-only" for="inlineFormCustomSelect">Preference</label>
+                                          <select class="custom-select mr-sm-2" id="inlineFormHintsSelect" onchange="chatbotHintsSettingsChange(this)">
+                                            <!-- <option selected>Hints...</option> -->
+                                            <option value="1">English lines only (100% points)</option>
+                                            <option value="2" selected>Hints in English (50% points)</option>
+                                            <option value="3">Hints in Punjabi (25% points)</option>
+                                          </select>
+                                        </div>
+                                        <div>
+                                            <label for="customRange3">Font Size</label>
+                                            <input type="range" class="custom-range" min="10" max="30" step="1" value="16" id="chatbotFontSize" onchange="chatbotFontSizeChange(this)">     
+                                        </div>                                   
+                                        <br>
+                                        <div class="col-auto my-1">
+                                          <div class="custom-control custom-checkbox mr-sm-2">
+                                            <input type="checkbox" class="custom-control-input" id="chatbotFeedbackSetting" onclick="chatbotModeSettingsChange(this, 'feedback')" checked>
+                                            <label class="custom-control-label" for="chatbotFeedbackSetting">Show feedback</label>
+                                          </div><hr>
+                                          <div class="custom-control custom-checkbox mr-sm-2">
+                                            <input type="checkbox" class="custom-control-input" id="chatbotExpertSetting" onclick="chatbotModeSettingsChange(this, 'expert')">
+                                            <label class="custom-control-label" for="chatbotExpertSetting">Expert mode</label><br>
+                                          </div>
+                                          <div class="custom-control custom-checkbox mr-sm-2">
+                                            <input type="checkbox" class="custom-control-input" id="chatbotDuplexSetting" onclick="chatbotModeSettingsChange(this, 'duplex')" checked>
+                                            <label class="custom-control-label" for="chatbotDuplexSetting">Duplex mode</label><br>
+                                          </div>
+                                          <div class="custom-control custom-checkbox mr-sm-2">
+                                            <input type="checkbox" class="custom-control-input" id="chatbotQuietSetting" onclick="chatbotModeSettingsChange(this, 'quiet')" checked>
+                                            <label class="custom-control-label" for="chatbotQuietSetting">Quiet mode</label><br>
+                                          </div>
+                                          <div class="custom-control custom-checkbox mr-sm-2" hidden>
+                                            <input type="checkbox" class="custom-control-input" id="chatbotTestSetting" onclick="chatbotModeSettingsChange(this, 'test')">
+                                            <label class="custom-control-label" for="chatbotTestSetting">Test mode</label>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </form>
+
+                              </div>
+                            </div>
+
+                    </div>
+                </div>
+
+                <!-- </div> -->
+              </div>
+              <!-- <div class="modal-footer theme_primary"> -->
+                <!-- <div class="row col-12"> -->
+                    <!-- <button class="btn btn-light col-3" disabled></button> -->
+                    <!-- <button type="button" class="btn btn-info col-6" id="offering" style="float:center" onclick="on_click_accept()">Accept my offerings</button> -->
+                    <!-- <button type="button" class="btn btn-info col-6" data-dismiss="modal" id="offering" style="float:center">Accept my offerings</button> -->
+                    <!-- <button class="btn btn-light col-3" disabled></button> -->
+                <!-- </div> -->
+              <!-- </div> -->
+            </div>
+          </div>
+        </div>
+
+        <div class="modal fade" id="utilModal" tabindex="-1">
+          <div class="modal-dialog modal-sm xmodal-dialog-centered" id="utilModalDialog" style="max-width:400px">
+            <div class="modal-content">
+            <!-- <div class="modal-header">
+                <h5 class="modal-title" id="utilModalTitle"></h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div> -->
+              <div class="modal-body" id="utilModalBody">
+                    <h5 class="modal-title" id="utilModalTitle"></h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                      <span aria-hidden="true">&times;</span>
+                    </button>
+                    <p id="utilModalBodyText">Placeholder</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+    </body>
+</html>
