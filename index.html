@@ -1632,7 +1632,7 @@
               if(!region.revealed) { console.log(`Region (${i}, ${j}) not yet revealed. Can't enroll.`); return; }
               if(mapdata.population < 200) { return populate_tile(i, j) }
               if(mapdata.tickets < -10) { alert('You have used up all your tickets today. Come back later!. One new ticket gets added every hour.'); return; }
-              if(mapdata.tickets < 1) { if(confirm('You have used up all your tickets today. Come back tomorrow!\nPress "cancel" if you want to try anyway (using borrowed tickets).')); return; }
+              if(mapdata.tickets < 1) { if(confirm('You have used up all your tickets today. Come back tomorrow!\nPress "cancel" if you want to try anyway (using borrowed tickets).')) return; }
               let {difficulty, skill} = get_difficulty_skill(i, j);
               console.log(`initial region`, region)
               console.log(`initial map`, mapdata)
