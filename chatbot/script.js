@@ -1,4 +1,4 @@
-var avatar_chatbot = { me: 'chatbot/img/king2.jpg', you: 'chatbot/img/assist2.png', they: 'chatbot/img/they2.png', sys: 'chatbot/img/sys2.png' };
+var avatar_chatbot = { me: 'chatbot/img/king2.jpg', you: 'chatbot/img/assistant2.png', they: 'chatbot/img/they2.png', sys: 'chatbot/img/sys2.png' };
 var score_chatbot = { points: 0, joined: 0 };
 var settings_chatbot = { font_size: 16, speedup: 2, hints: 2, prompt: 1, mult: 1, feedback: 1, duplex: 1, expert: 0, quiet: 1, test: 0 };
 var data_chatbot = { hint_text: '', hint_tooltip: 'Will reduce points earned' };
