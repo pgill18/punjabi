@@ -21,3 +21,11 @@
     /*background-color: #5D8D89;*/
     text-shadow: 0px 1px 0px rgba(255,255,255,.3), 0px -1px 0px rgba(0,0,0,.7);
 }
+
+.card-placeholder {
+    border: 1px dotted black;
+  border-radius: 4px;
+    margin: 0 15px 20px 15px;
+  padding: 0;
+    height: 50px;
+}

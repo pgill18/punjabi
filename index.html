@@ -11,12 +11,20 @@
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-sortable/0.9.13/jquery-sortable.js"></script>
+
     <!-- <link href="/open-iconic/font/css/open-iconic.css" rel="stylesheet"> -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/font/css/open-iconic-bootstrap.min.css" integrity="sha256-BJ/G+e+y7bQdrYkS2RBTyNfBHpA9IuGaPmf9htub5MQ=" crossorigin="anonymous" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
     <link rel="stylesheet" href="style.css">
     <script src="audio.js"></script>
+
+    <script src="content/common.js"></script>
+    <script src="content/quizzes1.js"></script>
+    <script src="content/quizzes2.js"></script>
+    <script src="content/quizzes3.js"></script>
+    <script src="content/quizzes4.js"></script>
     <script src="quizes.js"></script>
 
     <link rel="stylesheet" href="chatbot/style.css">
@@ -273,11 +281,19 @@
         }
       }
       function load_page() {
+        quiz = quizes[0].quiz;
+        info = quizes[0].info;
         console.log(`a----------------`)
         console.log(JSON.parse(window.localStorage.getItem(user.id)));
         console.log(`b----------------`)
+        let layout = retrieve_scorecard(`layout`);
+        let layout_list = Array.isArray(layout) ? layout : make_layout();
+        // let layout_list = layout ? JSON.parse(layout) : make_layout();
+        // console.log(layout);
+        // console.log(layout_list);
+        let loaded_count = 0;
         for(let i=0; i<quizes.length; i++) {
-          if(i>MAX_QUIZES-1) continue;
+          // if(i>MAX_QUIZES-1) continue;
           // let {info, quiz} = quizes[i];
           quiz = quizes[i].quiz;
           info = quizes[i].info;
@@ -293,9 +309,13 @@
             if(i===7 && max_level3_plus_reached>=2 && max_level2_plus_reached>=5) state = 1;
             if(i===8 && max_level3_plus_reached>=3 && max_level2_plus_reached>=6) state = 1;
           }
+          // // if(layout_list.length>0 && !match_info(info, layout_list[loaded_count])) continue;
+          // if(layout_list.length>0 && !match_info_any(info, layout_list)) continue; else state = 1;
           states[i] = state;
           console.log(`i = ${i}, state = ${state}, max_level2_plus_reached = ${max_level2_plus_reached}, max_level3_plus_reached = ${max_level3_plus_reached}`)
           load_building(i, quiz, info, {state});
+          loaded_count++;
+          if(loaded_count>=MAX_QUIZES) break;
           // $(`#building-${i}-header`).text(info.header);
           // $(`#building-${i}-count`).text(quiz.length);
         }
@@ -310,6 +330,27 @@
         version_handling()
         // $("#version").html(version);
         loop_data.stamp = new Date().getTime();
+      }
+      function match_info(info, ipath) {
+        let pathkey = `${info.project}/${info.section}/${info.topic}`;
+        return (ipath===pathkey);
+      }
+      function match_info_any(info, list) {
+        for(let pathkey of list) {
+          if(match_info(info, pathkey)) return true;
+        }
+      }
+      function make_layout() {
+        let layout_list = [];
+        for(let irow=0; irow<4; irow++) {
+          for(let i=0; i<quizzes[irow].length; i++) {
+            if(i>=3) break;
+            let info = quizzes[irow][i].info;
+            let pathkey = `${info.project}/${info.section}/${info.topic}`;
+            layout_list.push(pathkey);
+          }
+        }
+        return layout_list;
       }
       // function next_step() {
       //   save_results(index);
@@ -565,7 +606,7 @@
                   <div class="badge badge-light text-muted text-exempt"><span id="building-${i}-count">0</span></div>
                   <!-- <span class="oi oi-flag"></span> -->
                   <!-- <i class="material-icons" style="font-size:48px;">cloud</i> -->
-                  <i class="material-icons btn-light" id="collect-prod-${i}" style="font-size:24px;color:lightgray" data-prod="0" onclick="collect(${i}, 'score-points')">card_giftcard</i>
+                  <i class="material-icons btn-light" id="collect-prod-${i}" style="font-size:24px;color:lightgray;cursor:pointer;" data-prod="0" onclick="collect(${i}, 'score-points')">card_giftcard</i>
                   <!-- <div class="badge badge-light text-exempt"><h5 id="building-${i}-count2"> 12 </h5></div> -->
                 </div>
               </div>
@@ -577,7 +618,7 @@
                   <!-- <li><em class="text-muted text-exempt">Level 1</em></li> -->
 
                   <li class="text-center"><em class="text-muted text-exempt" debug1 onclick="add_level(${i}, 1, 'debug');">Level <span id="building-${i}-level">1</span></em>
-                  <i class="material-icons btn-light" id="collect-level-${i}" style="font-size:24px;color:lightgray;" data-prod="0" onclick="collect_level(${i}, 100)">school</i></li>
+                  <i class="material-icons btn-light" id="collect-level-${i}" style="font-size:24px;color:lightgray;cursor:pointer;" data-prod="0" onclick="collect_level(${i}, 100)">school</i></li>
                   <li class="text-center"><h6 class="text-muted text-exempt" debug1 onclick="collect_done(${i}, 0, 'debug')"><span id="building-${i}-done">0</span>% done</h6></li>
                 </ul>
                 <button type="button" class="btn btn-link btn-block track-progress" id="building-${i}-progress-btn" onclick="check_progress(${i})">Check Progress</button>
@@ -645,12 +686,24 @@
       //     $(`#building-${i}-level`).text(quiz_level);
       //     $(`#building-${i}-done`).text(quiz_done);
       // }
+      function set_mapdata_manually(i, j, enrolled=0) {
+          let tilenum = (i+1)*(j+1);
+          let population = 150 - Math.abs(13-tilenum)*10/2;
+          store_scorecard(`tiles/space-${i}-${j}`, 1); // revealed
+          store_scorecard(`enrolled/space-${i}-${j}`, enrolled);
+          let total_enrolled = (retrieve_scorecard(`enrolled/total`) || 0) + enrolled;
+          store_scorecard("enrolled/total", total_enrolled);
+          let total_population = (retrieve_scorecard(`population/total`) || 0) + population;
+          store_scorecard("population/total", total_population);
+          store_scorecard(`population/space-${i}-${j}`, population);
+      }
+
       function version_handling() {
           // store_scorecard("version", undefined)
           console.log(`... version_handling()`);
           let version = retrieve_scorecard("version") || 0;
           console.log(`... version was set to ${version}`)
-          if(version < 0.6) {
+          if(version < 0.6 || (version < 0.75 && user.id==='darshanbal')) {
               console.log(`... version was previously set to ${version}, upgrading to 0.6`)
               let reset_scores = [];
               for(let i=0; i<quizes.length; i++) {
@@ -663,7 +716,7 @@
                   if(quiz_level>=5 && i<MAX_QUIZES) { reset_scores[i].quiz_level = 5 } // one time bump for their work done in earlier version
                   switch(user.id) {
                       case 'pgill18' : if(i<3) reset_scores[i].quiz_level = 6; break;
-                      case 'darshanbal' : if(i<3) reset_scores[i].quiz_level = 6; break;
+                      case 'darshanbal' : if(i<3) reset_scores[i].quiz_level = 8; else if(i<9) reset_scores[i].quiz_level = 2; break;
                       case 'eshaangill12' : if(i<3) reset_scores[i].quiz_level = 2; break;
                       case 'jaydhillon2017' : if(i<3) reset_scores[i].quiz_level = 5; break;
                       case 'vikdhillon2017' : if(i<3) reset_scores[i].quiz_level = 5; break;
@@ -674,11 +727,11 @@
               alert(`A new version of this app is available. This requires you to clear local storage. Reload this page after Clear Local Storage to continue properly.`);
               if(confirm(`Clear Local Storage?`)) {
                   clear_local_storage();
-                  version = 0.6;
-                  let galleons = 60, population = 0;
+                  version = 0.75;
+                  let galleons = 60, population = 0, enrolled = 0;
                   switch(user.id) {
                       case 'pgill18' : galleons=92; population=0; break;
-                      case 'darshanbal' : galleons=96; population=0; break;
+                      case 'darshanbal' : galleons=60; population=0; enrolled=0; break;
                       case 'eshaangill12' : galleons=60; population=0; break;
                       case 'jaydhillon2017' : galleons=60; population=0; break;
                       case 'vikdhillon2017' : galleons=60; population=0; break;
@@ -690,7 +743,14 @@
                   store_scorecard("version", version)
                   store_scorecard("galleons", galleons)
                   store_scorecard("population", 0) // old key
-                  store_scorecard("population/total", population)
+                  if(population) store_scorecard("population/total", population);
+                  if(enrolled) store_scorecard(`enrolled/total`, enrolled);
+                  if(user.id==='darshanbal') {
+                    let data = [[0,0,6],[1,0,6],[2,0,6],[3,0,6],[4,0,6],[0,1,6],[1,1,6],[2,1,6],[3,1,5],[4,1,5],[0,2,5],[1,2,5],[2,2,5]];
+                    for(let [i, j, enr] of data) {
+                      set_mapdata_manually(i, j, enr);
+                    }
+                  }
                   console.log(`============= reset_scores = `, reset_scores);
                   for(let i=0; i<reset_scores.length; i++) {
                       store_progress(i, 'level', reset_scores[i].quiz_level);
@@ -1240,8 +1300,13 @@
       </div>
 
       <div class="squares-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
-        <!-- <h3 class="display-5">Colors</h3> -->
-        <p class="lead" debug1 onclick="add_galleons('50', 'debug')">Current points: <em id="score-points" class="text-muted">0<em></p>
+        <div class="row row-cols-5 row-cols-md-5 row-cols-sm-1 jjustify-content-center">
+          <p class="col"></p>
+          <i class="material-icons btn-light col" id="organize-prod-org" style="font-size:30px;color:dimgray;background:white;cursor:pointer;" data-prod="0" xonclick="launch_organizer()">sort</i>
+          <p class="lead col" debug1 onclick="add_galleons('50', 'debug')">Current points: <em id="score-points" class="text-muted">0<em></p>
+          <i class="material-icons btn-light col" id="collect-prod-org" style="font-size:30px;color:gray;background:white;cursor: pointer;" data-prod="0" xonclick="collect(-1, 'score-points')">card_giftcard</i>
+          <p class="col"></p>
+        </div>
       </div>
 
       <div class="container">
@@ -1324,6 +1389,47 @@
                       if(revealed) cell_element.style.opacity = 0.7;
                   }
               }
+          }
+
+          function add_grid_cell(i, j, ij, revealed) {
+              if(i===undefined || j===undefined) return;
+              let {icon, color, size, opacity_fg, opacity_bg} = get_grid_cell_style(i, j, revealed);
+              return `
+              <!-- <div class="card"> -->
+                <!-- <img src="..." class="card-img-top" alt="..."> -->
+                <div class="card-body m-0 p-0 mb-n2">
+                  <!-- <h5 class="card-title">Card title</h5> -->
+                  <!-- <p class="card-text"></p> -->
+                  <i class="material-icons btn-light" id="grid-cell-bg-${i}-${j}" style="font-size:172px;color:lightgray;opacity:${opacity_bg}" data-toggle1="clickover" data-prod="0" onclick="collect_map_space(${i}, ${j})">short_text</i>
+                  <i class="material-icons btn-light" id="grid-cell-ppl-${i}-${j}" style="font-size:${size};color:${color};opacity:${opacity_fg}; position:absolute; margin: 70px 0 0 -90px" data-toggle1="clickover" data-prod="0" onclick="launch_enrollment_quest(${i}, ${j}, this)">${icon}</i>
+                </div>
+              <!-- </div> -->`;
+          }
+          function update_grid_cell(i, j, revealed=true) {
+              if(i===undefined || j===undefined) return;
+              let {icon, color, size, opacity_fg, opacity_bg} = get_grid_cell_style(i, j, revealed);
+              $(`#grid-cell-ppl-${i}-${j}`).html(icon);
+              $(`#grid-cell-ppl-${i}-${j}`).css('color', color);
+              $(`#grid-cell-ppl-${i}-${j}`).css('size', size);
+              $(`#grid-cell-ppl-${i}-${j}`).css('opacity', opacity_fg);
+              $(`#grid-cell-bg-${i}-${j}`).css('opacity', opacity_bg);
+          }
+
+          function get_grid_cell_style(i, j, revealed) {
+              let {population, enrolled, tickets} = mapdata;
+              let {difficulty, skill} = get_difficulty_skill(i, j);
+              let icon = (revealed) ? 'insert_comment' : 'short_text';
+              let size = (revealed) ? '30px' : '72px';
+              let color = (revealed) ? 'green' : 'lightgray';
+              if(population < 200) { color = 'dimgray'; size = '30px'; }
+              else if(tickets <= 0) { color = 'dimgray'; size = '30px'; }
+              else if(tickets >= 1) {
+                  if(skill > difficulty/2) { color = 'brown'; size = '30px'; }
+                  if(skill > difficulty) { color = 'red'; size = '30px'; }
+              }
+              let opacity_fg = (revealed) ? 1 : 0;
+              let opacity_bg = (revealed) ? 0 : 1;
+              return {icon, color, size, opacity_fg, opacity_bg};
           }
 
           function tickets_handling(initialize=1, speedup=1) {
@@ -1466,106 +1572,7 @@
               let difficulty = round(enrolled/population*100) || 0;
               return {difficulty, skill};
           }
-          function get_grid_cell_style(i, j, revealed) {
-              let {population, enrolled, tickets} = mapdata;
-              let {difficulty, skill} = get_difficulty_skill(i, j);
-              let icon = (revealed) ? 'insert_comment' : 'short_text';
-              let size = (revealed) ? '30px' : '72px';
-              let color = (revealed) ? 'green' : 'lightgray';
-              if(population < 200) { color = 'dimgray'; size = '30px'; }
-              else if(tickets <= 0) { color = 'dimgray'; size = '30px'; }
-              else if(tickets >= 1) {
-                  if(skill > difficulty/2) { color = 'brown'; size = '30px'; }
-                  if(skill > difficulty) { color = 'red'; size = '30px'; }
-              }
-              let opacity_fg = (revealed) ? 1 : 0;
-              let opacity_bg = (revealed) ? 0 : 1;
-              return {icon, color, size, opacity_fg, opacity_bg};
-          }
 
-          function add_grid_cell(i, j, ij, revealed) {
-              if(i===undefined || j===undefined) return;
-              let {icon, color, size, opacity_fg, opacity_bg} = get_grid_cell_style(i, j, revealed);
-              return `
-          <!-- <div class="card"> -->
-            <!-- <img src="..." class="card-img-top" alt="..."> -->
-            <div class="card-body m-0 p-0 mb-n2">
-              <!-- <h5 class="card-title">Card title</h5> -->
-              <!-- <p class="card-text"></p> -->
-              <i class="material-icons btn-light" id="grid-cell-bg-${i}-${j}" style="font-size:172px;color:lightgray;opacity:${opacity_bg}" data-toggle1="clickover" data-prod="0" onclick="collect_map_space(${i}, ${j})">short_text</i>
-              <i class="material-icons btn-light" id="grid-cell-ppl-${i}-${j}" style="font-size:${size};color:${color};opacity:${opacity_fg}; position:absolute; margin: 70px 0 0 -90px" data-toggle1="clickover" data-prod="0" onclick="launch_enrollment_quest(${i}, ${j}, this)">${icon}</i>
-            </div>
-          <!-- </div> -->`;
-          }
-          function update_grid_cell(i, j, revealed=true) {
-              if(i===undefined || j===undefined) return;
-              let {icon, color, size, opacity_fg, opacity_bg} = get_grid_cell_style(i, j, revealed);
-              $(`#grid-cell-ppl-${i}-${j}`).html(icon);
-              $(`#grid-cell-ppl-${i}-${j}`).css('color', color);
-              $(`#grid-cell-ppl-${i}-${j}`).css('size', size);
-              $(`#grid-cell-ppl-${i}-${j}`).css('opacity', opacity_fg);
-              $(`#grid-cell-bg-${i}-${j}`).css('opacity', opacity_bg);
-          }
-
-          // function add_grid_cell(i, j, ij, revealed) {
-          //     if(i===undefined || j===undefined) return;
-          //     // let revealed = retrieve_scorecard(`tiles/space-${i}-${j}`);
-          //     // let [population, tickets] = get_population_tickets();
-          //     // let [difficulty, skill] = get_difficulty_skill();
-          //     // let {population, enrolled, tickets} = retrieve_mapdata_top();
-          //     let {population, enrolled, tickets} = mapdata;
-          //     let {difficulty, skill} = get_difficulty_skill(i, j);
-          //     let icon = (revealed) ? 'insert_comment' : 'short_text';
-          //     let size = (revealed) ? '30px' : '72px';
-          //     let color = (revealed) ? 'green' : 'lightgray';
-          //     if(population < 1000) { color = 'dimgray'; size = '30px'; }
-          //     else if(tickets <= 0) { color = 'dimgray'; size = '30px'; }
-          //     else if(tickets >= 1) {
-          //         if(skill > difficulty/2) { color = 'brown'; size = '30px'; }
-          //         if(skill > difficulty) { color = 'red'; size = '30px'; }
-          //     }
-          //     let opacity_fg = (revealed) ? 1 : 0;
-          //     let opacity_bg = (revealed) ? 0 : 1;
-          //     return `
-          // <!-- <div class="card"> -->
-          //   <!-- <img src="..." class="card-img-top" alt="..."> -->
-          //   <div class="card-body m-0 p-0 mb-n2">
-          //     <!-- <h5 class="card-title">Card title</h5> -->
-          //     <!-- <p class="card-text"></p> -->
-          //     <i class="material-icons btn-light" id="grid-cell-bg-${i}-${j}" style="font-size:172px;color:lightgray;opacity:${opacity_bg}" data-toggle1="clickover" data-prod="0" onclick="collect_map_space(${i}, ${j})">short_text</i>
-          //     <i class="material-icons btn-light" id="grid-cell-ppl-${i}-${j}" style="font-size:${size};color:${color};opacity:${opacity_fg}; position:absolute; margin: 70px 0 0 -90px" data-toggle1="clickover" data-prod="0" onclick="launch_enrollment_quest(${i}, ${j}, this)">${icon}</i>
-          //   </div>
-          // <!-- </div> -->`;
-          // }
-
-    //       function reveal_now(i, j) {
-    //           console.log(`${i}, ${j}`);
-    //           $(`#grid-cell-${i}-${j}`).popover(`hide`);
-    //       }
-    //       $(function () {
-    //         let content = `<a class='btn-primary' role="button" data-toggle="clickover" style="white-space: pre"><span>Cost 50</span></a>`;
-    //         // let header = `<a class='btn-light' role="button" data-toggle="clickover" style="white-space: pre"><span>Reveal</span></a>`;
-    //         let header = `<a id="close-popover" data-toggle="clickover" class="btn btn-small btn-warning pull-left" onclick="$(this.parentNode.parentNode).popover(&quot;hide&quot;);">Reveal</a>`;
-    // //         var elem = '<div class="well"><a href="google.com">Message one, From someone.</a></div>'+
-    // // '<div class="well"><a type="button" class="btn-primary" href="google.com">Message one, From someone.</a></div>'+
-    // // '<button id="close-popover" data-toggle="clickover" class="btn btn-small btn-primary pull-right" onclick="$(&quot;#meddelanden&quot;).popover(&quot;hide&quot;);">Close please!</button>';
-
-
-
-    // //         $('.pop-space').popover({animation:true, content:elem, html:true});
-
-    //         // $('.pop-space').popover({title: header, content: "Cost 50", html: true})
-    //         for(let i=0; i<5; i++) {
-    //             for(let j=0; j<5; j++) {
-    //                 // let space = document.getElementById(`space-${i}-${j}`);
-    //                 // if(!space) continue;
-    //                 // let header = `<a id="close-popover-${i}-${j}" data-toggle="clickover" class="btn btn-small btn-warning pull-left" onclick="$(&quot;#grid-cell-${i}-${j}&quot;).popover(&quot;hide&quot;);">Reveal</a>`;
-    //                 let header = `<a id="close-popover-${i}-${j}" data-toggle="clickover" class="btn btn-small btn-warning pull-left" onclick="reveal_now(${i}, ${j})">Reveal</a>`;
-    //                 let content = `<a class='btn-primary' role="button" data-toggle="clickover" style="white-space: pre"><span>Cost 50</span></a>`;
-    //                 $(`#grid-cell-${i}-${j}`).popover({title: header, content: "Cost 50", html: true})
-    //             }
-    //         }
-    //       })
           function set_automagic() {
               automagic = parseInt($("#automagic").text()) || 0;
               console.log(`automagic set to ${automagic}`);
@@ -1609,7 +1616,172 @@
         </div>
       </div>
 
+
+      <div class="modal fade" id="organizerModal" tabindex="-1">
+        <div class="modal-dialog modal-xl modal-dialog-centered" id="organizerModalDialog" style="max-width:1000px">
+          <div class="modal-content">
+          <div class="modal-header">
+              <h5 class="modal-title" id="organizerModalTitle">Organizer</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body px-10" id="organizerModalBody" style="padding: 16px 16px 16px 40px">
+                <!-- <div id="organizer-grid"> -->
+                  <!-- <ul class="list-group list-group-horizontal-xl" id="organizer-sortable2">
+                    <li class="list-group-item">Cras justo odio<span class="badge badge-primary badge-pill">8</span></li>
+                    <li class="list-group-item">Dapibus ac facilisis in<span class="badge badge-primary badge-pill">14</span></li>
+                    <li class="list-group-item">Morbi leo risus<span class="badge badge-primary badge-pill">11</span></li>
+                  </ul> -->
+
+                  <!-- <ul class="list-group" id="organizer-sortable2">
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                      Cras justo odio
+                      <span class="badge badge-primary badge-pill">14</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                      Dapibus ac facilisis in
+                      <span class="badge badge-primary badge-pill">2</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                      Morbi leo risus
+                      <span class="badge badge-primary badge-pill">1</span>
+                    </li>
+
+                  </ul> -->
+<!-- <hr><br> -->
+                <!-- </div> -->
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
+              <button type="button" class="btn btn-primary" onclick="organize()">Submit</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
       <script type="text/javascript">
+
+          function launch_organizer() {
+              add_organizer_grid(4, 12);
+              // $("#organizer-sortable2").sortable();
+              // $("#organizer-sortable3").sortable();
+              $(`#organizerModal`).modal('show');
+          }
+
+// <div class="row row-cols-8 row-cols-md-8">
+//   <div class="col mx-1 my-1 p-1">
+//     <div class="card p-0">
+//       <div class="card-body">
+
+          function add_organizer_grid(xn, yn, ncol) {
+              let container = document.getElementById('organizerModalBody');
+              container.innerHTML = "";
+              for(let j=0; j<xn; j++) {
+                  let row_element = document.createElement('div');
+                  row_element.className = `row row-cols-8 row-cols-md-8`;
+                  row_element.id = `org-row-${j}`;
+                  container.appendChild(row_element);
+                  for(let i=0; i<yn; i++) {
+                      if(!quizzes[j][i]) continue;
+                      let col_element = document.createElement('div');
+                      col_element.className = `col-1.5 mx-1 my-1 p-1`;
+                      row_element.appendChild(col_element);
+                      let cell_html = add_organizer_grid_cell(i, j);
+                      cell_element = document.createElement('div');
+                      cell_element.className = 'card p-1';
+                      cell_element.id = `org-card-${i}-${j}`;
+                      cell_element.style.border = `none`;
+                      // cell_element.style.opacity = `0.5`;
+                      cell_element.innerHTML = cell_html;
+                      col_element.appendChild(cell_element);
+                  }
+                  if(j<xn-1) container.appendChild(document.createElement('hr'));
+              }
+          }
+
+          function add_organizer_grid_cell(i, j) {
+              if(i===undefined || j===undefined) return;
+              let quiz_title = 'TBD';
+              let quiz_level = 1;
+              // let quizzes = quizes;
+              if(i<quizzes[j].length) {
+                quiz_title = quizzes[j][i].info.header;
+                quiz_level = retrieve_progress(i, 'level') || 1;
+              }
+              return `
+              <!-- <div class="card"> -->
+                <div class="card-body m-0 p-1 mb-n2" id="org-card-body-${i}-${j}">
+                  <div class="btn btn-outline-secondary m-0 p-n2 mb-n2" xonclick="org_btn_click(${i},${j})" type="button" data-toggle="button" aria-pressed="true">
+                    <h6 class="card-title" id="org-card-title-${i}-${j}">${quiz_title}</h6>
+                    <p class="card-text" id="org-card-text-${i}-${j}">Level ${quiz_level}</p>
+                  </div>
+                </div>
+              <!-- </div> -->`;
+          }
+
+      </script>
+
+      <script type="text/javascript">
+          let new_quizzes = [];
+          let new_indexes = [];
+          // $(function() {
+              // $('#organizerModal').on('hide.bs.modal', function (e) {
+                  // console.log('hiding');
+              function organize() {
+                  console.log('... organize()');
+                  new_quizzes = []; new_indexes = [];
+                  for(let irow=0; irow<4; irow++) {
+                      // sel_quizzes = quizes; // irow===2 ? quizzes2 : irow===1 ? quizzes1 : quizzes0;
+                      sel_quizzes = quizzes[irow];
+                      $('#organizerModalBody').find(`#org-row-${irow}`).find('.card').each((i, obj) => {
+                          console.log(i); //console.log(obj);
+                          if($(obj).find('.btn').hasClass('active')) {
+                              console.log(`selected ${irow} ${i}`)
+                              console.log(obj);
+                              new_quizzes.push(sel_quizzes[i]);
+                              new_indexes.push(`${irow},${i}`);
+                          }
+                      });
+                      // for(let quiz of quizzes[irow]) {
+                      for(let i=0; i<quizzes[irow].length; i++) {
+                          if(new_quizzes.length>=(irow*3+3)) break;
+                          if(new_indexes.includes(`${irow},${i}`)) continue;
+                          new_quizzes.push(quizzes[irow][i]);
+                          new_indexes.push(`${irow},${i}`);
+                      }
+                  }
+                  // rearrange list in proper order
+                  new_quizzes = [];
+                  for(let irow=0; irow<4; irow++) {
+                      for(let i=0; i<quizzes[irow].length; i++) {
+                          if(new_indexes.includes(`${irow},${i}`))
+                              new_quizzes.push(quizzes[irow][i]);
+                      }
+                  }
+                  let layout_list = new_quizzes.map(quiz => {
+                    let info = quiz.info;
+                    let pathkey = `${info.project}/${info.section}/${info.topic}`;
+                    return pathkey;
+                  });
+                  // store_scorecard(`layout`, JSON.stringify(layout_list));
+                  store_scorecard(`layout`, layout_list);
+                  console.log(JSON.parse(window.localStorage.getItem(user.id)));
+                  console.log('layout_list:');
+                  console.log(layout_list);
+                  console.log('new_quizzes:');
+                  console.log(new_quizzes);
+                  quizes = new_quizzes;
+                  $("#quiz-buildings").html("");
+                  for(let i=0; i<quizes.length; i++) {
+                      let quiz = quizes[i];
+                      load_building(i, quiz, quiz.info, {state:1});
+                  }
+                  $(`#organizerModal`).modal('hide');
+              }
+              // })
+          // })
 
           // function begin_enrollment(i) {
           //   let population = get_population(i);
@@ -1694,6 +1866,86 @@
           //     let color = tickets<=0 ? 'lightgray' : tickets<=1 ? '#6699cc' : tickets<=2 ? 'yellowgreen' : tickets<=2 ? 'yellow' : 'orange';
           //     $(_this).find('i').css('color', color);
           // }
+
+          let gameboard_id = 0;
+
+          function activate_gameboard(id) {
+              gameboard_id = id;
+          }
+
+          function launch_gameboard() {
+              print_database();
+              let stone = retrieve_gameboard(`stone`);
+              let lumber = retrieve_gameboard(`lumber`);
+              console.log(`stone = ${stone}, lumber = ${lumber}`)
+              print_database();
+              store_gameboard(`stone`, 100);
+              stone = retrieve_gameboard(`stone`);
+              lumber = retrieve_gameboard(`lumber`);
+              console.log(`stone = ${stone}, lumber = ${lumber}`)
+              print_database();
+          }
+
+          function store_gameboard(key, value) {
+              return store_gameboard_byid(key, value);
+          }
+          function retrieve_gameboard(key) {
+              return retrieve_gameboard_byid(key);
+          }
+
+          function print_gameboard() {
+              console.log(retrieve_gameboard());
+          }
+          function print_scoreboard() {
+              console.log(retrieve_scorecard());
+          }
+          function print_database() {
+              console.log(retrieve_database());
+          }
+          function retrieve_database() {
+            let pathkey = `${info.project}`;
+            let db = window.localStorage.getItem(user.id);
+            if(!db) db = {}; else db = JSON.parse(db);
+            return db[pathkey];
+          }
+          
+          function store_gameboard_byid(key, value, id) {
+              if(id===undefined) id = gameboard_id;
+              let gameboard = retrieve_gameboard_db(id) || {};
+              // gameboard = JSON.parse(gameboard);
+              gameboard[key] = value;
+              // store_scorecard(`gameboard/id-${id}`, JSON.stringify(gameboard));
+              store_gameboard_db(id, gameboard);
+          }
+          function retrieve_gameboard_byid(key, id) {
+              if(id===undefined) id = gameboard_id;
+              let gameboard = retrieve_gameboard_db(id) || {};
+              // gameboard = JSON.parse(gameboard);
+              return key ? gameboard[key] : gameboard;
+          }
+
+          function store_gameboard_db(key='galleons', value=0) {
+            let pathkey = `${info.project}`;
+            let db = window.localStorage.getItem(user.id);
+            // console.log(db);
+            if(!db) db = {}; else db = JSON.parse(db);
+            if(!db[pathkey]) db[pathkey] = {};
+            if(!db[pathkey].gameboard) db[pathkey].gameboard = {};
+            db[pathkey].gameboard[key] = value;
+            // console.log(db);
+            window.localStorage.setItem(user.id, JSON.stringify(db));
+          }
+          function retrieve_gameboard_db(key) {
+            let pathkey = `${info.project}`;
+            let db = window.localStorage.getItem(user.id);
+            // console.log(db);
+            if(!db) db = {}; else db = JSON.parse(db);
+            if(!db[pathkey]) return;
+            if(!db[pathkey].gameboard) return;
+            if(key===undefined) return db[pathkey].gameboard;
+            return db[pathkey].gameboard[key];
+          }
+
       </script>
 
         <!-- Activate modal as: $('#chatbotModal').modal() -->
@@ -1710,6 +1962,7 @@
                     <h2 class="modal-title lead col-4 text-center" xstyle="display:inline;margin-left:25%;color:dimgray">Points <span id="joinModalPoints">0</span></h2>
                     <h2 class="modal-title lead col-3 text-right" xstyle="display:inline;float:left;margin: 0px 12px 0 0;color:dimgray">Joined <span id="joinModalJoined">0</span></h2>
                     <button type="button" class="close xco text-right" data-dismiss="modal" style="color:black">&times;</button>
+                    <!-- <button type="button" class="close xco text-right" onclick="close_chatbot_modal()" style="color:black">&times;</button> -->
                 </div>
               </div>
               <div class="modal-body modal-widepx bg_light" style1="xwidth:800px">
@@ -1830,8 +2083,10 @@
               <h6>Reporting</h6>
               <ul class="list-unstyled text-small">
                 <li><a class="text-muted text-exempt" href="#" onclick="check_progress()">Check Progress</a></li>
+                <li><a class="text-muted text-exempt" href="#" onclick="launch_organizer()">Launch Organizer</a></li>
+                <li><a class="text-muted text-exempt" href="#" onclick="launch_gameboard()">Launch Gameboard</a></li>
                 <div hidden>
-                  <li><a class="text-muted text-exempt" href="#" onclick="launch_chatbot(1, 3, this)">Launch Chatbot</a></li>
+                  <li><a class="text-muted text-exempt" href="#" onclick="launch_chatbot_top(1, 3, this)">Launch Chatbot</a></li>
                 </div>
                 <!-- <li><a class="text-muted" href="#">Random feature</a></li> -->
                 <!-- <li><a class="text-muted" href="#">Team feature</a></li> -->

@@ -2,6 +2,7 @@ var avatar_chatbot = { me: 'chatbot/img/king2.jpg', you: 'chatbot/img/assistant2
 var score_chatbot = { points: 0, joined: 0 };
 var settings_chatbot = { font_size: 16, speedup: 2, hints: 2, prompt: 1, mult: 1, feedback: 1, duplex: 1, expert: 0, quiet: 1, test: 0 };
 var data_chatbot = { hint_text: '', hint_tooltip: 'Will reduce points earned' };
+var status_chatbot = { closed: 0 };
 
 function formatAMPM_chatbot(date) {
     var hours = date.getHours();
@@ -133,7 +134,12 @@ function keyboard_chatbot() {
                     console.log(`enter found after "${text}"...resolving`)
                     resolve(text);
                 }
-                console.log(`enter found after "${text}"...empty, not resolving`)
+                else console.log(`enter found after "${text}"...empty, not resolving`)
+            }
+            if(status_chatbot.closed) {
+                $(".chatbot-mytext").off("keydown");
+                console.log(`status_chatbot.closed...resolving`)
+                resolve('');
             }
         });
     });
@@ -156,10 +162,10 @@ async function launch_standalone_chatbot(count, expertize, _this) {
     return launch_chatbot(count, expertize, total, enrolled);
 }
 
-async function launch_chatbot(count, expertize, _this) {
+async function launch_chatbot_top(count, expertize, _this) {
     let total = parseInt($(_this).prop('data-enrolled')) || 0;
     let credits = 3 - total;
-    if(credits <= 0) if(confirm('You have used up all your credits today. Come back tomorrow!\nPress "cancel" if you want to try anyway (using borrowed credits)./')) return;
+    if(credits <= 0) if(confirm('You have used up all your tickets. Come back later!\nPress "cancel" if you want to try anyway (using borrowed tickets)./')) return;
 
     let enrolled = await launch_chatbot(i, count, expertize);
     total = (parseInt($(_this).prop('data-enrolled')) || 0) + enrolled;
@@ -180,9 +186,21 @@ async function launch_chatbot(i, difficulty, expertize) {
     $("#joinModalJoined").parent().css('background', '');
     resetChat_chatbot();
 
+    status_chatbot.closed = 0;
     $('#chatbotModal').modal({backdrop: 'static', keyboard: false});
+    $('#chatbotModal').on('hide.bs.modal', () => {
+        status_chatbot.closed = 1;
+        $(".chatbot-mytext").keydown();
+    });
     let enrolled = await run_chatbot(i, difficulty, expertize);
+    console.log(`ending launch_chatbot(${i}, ${difficulty}, ${expertize}) ...`)
     return enrolled
+}
+async function close_chatbot_modal() {
+    status_chatbot.closed = 1;
+    $(".chatbot-mytext").keydown();
+    $('#chatbotModal').modal('hide');
+    status_chatbot.closed = 1;
 }
 
 async function run_chatbot(inx, difficulty, expertize=1) {
@@ -220,6 +238,7 @@ async function run_chatbot(inx, difficulty, expertize=1) {
                 }
                 // let [_count, _score, _scorex, _length, _clear] = await one_run_chatbot(i);
                 let [_score10, _score1, _score, _length, _joined_now, _clear_chat] = await one_run_chatbot(i, converse, 100/sents_count);
+                if(status_chatbot.closed) return Math.floor(count);
                 score1 += _score1;   score += _score;
                 score10 += _score10;   length += _length;
                 console.log(`-------------`)
@@ -323,6 +342,7 @@ async function one_run_chatbot(i, converse, max_points=100) {
 
         await delays(1);
         let answer = getAutoAnswer_chatbot(i, aword, alist);
+        if(status_chatbot.closed) return [];
         if(!settings_chatbot.test) answer = await keyboard_chatbot();
         answer = answer.trim();
         console.log('...');
