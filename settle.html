@@ -427,7 +427,7 @@
                       <div class="row" id="${id}-r6"></div>
                     </div>
             `,
-            cancel:'', submit:'', maxwidth: '1000px'});
+            cancel:'', submit:'', maxwidth: '950px'});
       }
       function createMiniProduction6Modal(id='miniProduction6Modal', title='Production') {
           createModal(id, {
@@ -443,7 +443,7 @@
                       <div class="row" id="${id}-r6"></div>
                     </div>
             `,
-            cancel:'', submit:'', maxwidth: '1000px'});
+            cancel:'', submit:'', maxwidth: '900px'});
       }
       function createMiniTechTreeBasicModal(id='miniTechTreeBasicModal') {
           createModal(id, {
@@ -477,7 +477,7 @@
                       <div class="row" id="${id}-r3"></div>
                     </div>
             `,
-            cancel:{}, submit:{}, maxwidth: '1100px'});
+            cancel:{}, submit:{}, maxwidth: '1050px'});
       }
       function createMiniGenericModal(id='miniGenericModal') {
           createModal(id, {
@@ -814,12 +814,13 @@ function callMiniExpeditionBasic(mode={run:0,build:0,alert:1}) {
           let clist = Array.isArray(list) ? list[icol] : list ? list.replace('<i>', index) : list;
           let opts = Object.assign({}, options, {title: ctitle, text: ctext, data: clist, onclick: conclick, i: icol});
           let core_html = add_child(rowid, opts);
-          let colm_html = add_col(`${rowid}-c${icol}`, core_html, {colwidth, cls_col});
+          let padding = icol===0 ? 'pr-1' : icol===ncols-1 ? 'pl-1' : 'px-1';
+          let colm_html = add_col(`${rowid}-c${icol}`, core_html, {colwidth, cls_col, padding});
           add_element(colm_html, rowid);
         }
       }
-      function add_col(id, html, {colwidth, cls_col}) {
-        return`    <div class="col-md-${colwidth} ml-auto" id="${id}">${html}</div>`;
+      function add_col(id, html, {colwidth, cls_col, padding=''}) {
+        return`    <div class="col-md-${colwidth} ml-auto ${padding}" id="${id}">${html}</div>`;
       }
       function add_card1(id, {title, cls_child="card-secondary", onclick=""}={}) {
         return `
@@ -871,7 +872,7 @@ function callMiniExpeditionBasic(mode={run:0,build:0,alert:1}) {
               return result;
           }, []);
           // console.log(`2obj2html() => `, list);
-          let list_html = '<p style="font-size:16px">' + list.map(pair => `${pair[0].key}=${pair[0].value}, ${pair[1].key}=${pair[1].value}`).join('') + '<p>';
+          let list_html = '<p style="font-size:17px">' + list.map(pair => `${pair[0].key}=${pair[0].value}, ${pair[1].key}=${pair[1].value}`).join('') + '<p>';
           if(title==='Gain') {
             list_html = list_html.replace('coins', 'House Level');
             list_html = list_html.replace('supplies', 'Supplies Building Level');
@@ -936,9 +937,9 @@ function callMiniExpeditionBasic(mode={run:0,build:0,alert:1}) {
               <!-- <img src="..." class="card-img-top" alt="..."> -->
               <div class="card-body d-flex flex-column" id="${id}-card-body">
                 <h5 class="card-title text-center" id="${id}-card-title">${title}</h5>
-                ${dd_list.list ? `<p class="card-text mb-2 text-center" id="${id}-card-text">${text}</p>` :
-                  compact ? `<p class="card-text mb-2" id="${id}-card-text">Produce ${quantity} units${name} in ${interval}.</p>` : 
-                          `<p class="card-text mb-2" id="${id}-card-text">Produce ${quantity} units${name} in ${interval}.</p>` }
+                ${dd_list.list ? `<p class="card-text mb-2 text-center" id="${id}-card-text" style="font-size:16px">${text}</p>` :
+                  compact ? `<p class="card-text mb-2" id="${id}-card-text" style="font-size:16px">Produce ${quantity} units${name} in ${interval}.</p>` : 
+                          `<p class="card-text mb-2" id="${id}-card-text" style="font-size:16px">Produce ${quantity} units${name} in ${interval}.</p>` }
                 <span id="${id}-card-text2"></span>`;
           if(dd_list.hints) html += `
                 <a href="#" class="btn btn-link text-muted btn-block mt-auto" data-dismiss="modal" style="bottom-5px; postion:fixed" ${dd_list.hintclick}>Hint</a>`;
