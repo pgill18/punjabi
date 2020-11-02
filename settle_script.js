@@ -368,7 +368,7 @@ function ready(piece) {
     console.log(`piece.entity.start_time(${piece.entity.start_time})..2`)
     console.log(`piece.entity.duration[isel]=${piece.entity.duration[isel]})..2`)
     console.log(`ready(${piece.entity})..3`)
-    if(duration/1 > piece.entity.duration[isel]*60) {
+    if(duration/1000 > piece.entity.duration[isel]*60) {
         return true;
     }
     console.log(`ready(${piece.entity})..4`)

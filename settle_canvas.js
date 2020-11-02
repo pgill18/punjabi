@@ -172,9 +172,9 @@ async function loop() {
     console.log(`current_time(${current_time})..2i`)
     console.log(`piece.start_time(${piece.entity.start_time})..2i`)
     console.log(`piece.duration[isel]=${piece.entity.duration[isel]})..2i`)
-    let remaining = (duration/1 - piece.entity.duration[isel]*60)/1000;
+    let remaining = (duration/1000 - piece.entity.duration[isel]*60)/1;
     console.log(`time remaining = ${-remaining} seconds ...2i`)
-        if(duration/1 > piece.entity.duration[isel]*60) {
+        if(duration/1000 > piece.entity.duration[isel]*60) {
             return true;
         }
     }

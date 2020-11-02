@@ -411,7 +411,7 @@
                       <div class="row" id="${id}-r6"></div>
                     </div>
             `,
-            cancel:'', submit:{name:'Accept Selection'}, maxwidth: '900px'});
+            cancel:'', submit:{name:'Accept Selection'}, maxwidth: '1000px'});
       }
       function createMiniProduction4Modal(id='miniProduction4Modal', title='Production') {
           createModal(id, {
@@ -427,7 +427,7 @@
                       <div class="row" id="${id}-r6"></div>
                     </div>
             `,
-            cancel:'', submit:'', maxwidth: '900px'});
+            cancel:'', submit:'', maxwidth: '1000px'});
       }
       function createMiniProduction6Modal(id='miniProduction6Modal', title='Production') {
           createModal(id, {
@@ -443,7 +443,7 @@
                       <div class="row" id="${id}-r6"></div>
                     </div>
             `,
-            cancel:'', submit:'', maxwidth: '900px'});
+            cancel:'', submit:'', maxwidth: '1000px'});
       }
       function createMiniTechTreeBasicModal(id='miniTechTreeBasicModal') {
           createModal(id, {
@@ -477,7 +477,7 @@
                       <div class="row" id="${id}-r3"></div>
                     </div>
             `,
-            cancel:{}, submit:{}, maxwidth: '1000px'});
+            cancel:{}, submit:{}, maxwidth: '1100px'});
       }
       function createMiniGenericModal(id='miniGenericModal') {
           createModal(id, {
@@ -839,6 +839,7 @@ function callMiniExpeditionBasic(mode={run:0,build:0,alert:1}) {
           if(data.unlocked) { disabled='disabled'; btn_type='btn-sucess'; btn_name='Unlocked' }
           if(data.unlocked===-1) { disabled=''; btn_type='btn-primary'; btn_name=btn.name }
           if(data.name==='Finish') btn_name = data.name;
+          let btn_font_size = (data.name.length>6) ? '16px' : '18px';
           if(btn.onclick) onclick = btn.onclick;
             onclick = onclick ? onclick.replace('<i>', i) : '';
             if(onclick) onclick = `onclick="${onclick}"`;
@@ -855,7 +856,7 @@ function callMiniExpeditionBasic(mode={run:0,build:0,alert:1}) {
               </div>
               <div class="card-footer bg-light" id="${id}-card-footer">`;
           if(btn && btn.type) html += `
-                <a href="#" class="btn ${btn_type} btn-block mt-auto ${disabled}" style="bottom-5px; postion:fixed" ${onclick}>${btn_name}</a>`;
+                <a href="#" class="btn ${btn_type} btn-block mt-auto ${disabled}" style="bottom-5px; postion:fixed; font-size:${btn_font_size}" ${onclick}>${btn_name}</a>`;
           html += `
               </div>
             </div>`;
@@ -870,7 +871,7 @@ function callMiniExpeditionBasic(mode={run:0,build:0,alert:1}) {
               return result;
           }, []);
           // console.log(`2obj2html() => `, list);
-          let list_html = '<p>' + list.map(pair => `${pair[0].key}=${pair[0].value}, ${pair[1].key}=${pair[1].value}`).join('') + '<p>';
+          let list_html = '<p style="font-size:16px">' + list.map(pair => `${pair[0].key}=${pair[0].value}, ${pair[1].key}=${pair[1].value}`).join('') + '<p>';
           if(title==='Gain') {
             list_html = list_html.replace('coins', 'House Level');
             list_html = list_html.replace('supplies', 'Supplies Building Level');
@@ -951,7 +952,7 @@ function callMiniExpeditionBasic(mode={run:0,build:0,alert:1}) {
                         if(dd_list.list)
                           output += `                    <li class="list-group-item col-12" id="${id}-card-li-${j}"><img src="content/img/coins-1.jpg" width="25" hidden/>...</li>`;
                         else
-                          output += `                    <li class="list-group-item col-6">${name} ${cost[j]}</li>`;
+                          output += `                    <li class="list-group-item col-6"><span style="font-size:10px">${name}</span> <span style="font-size:18px">${cost[j]}</span></li>`;
                           // output += `                    <li class="list-group-item col-6"><img src="content/img/coins-1.jpg" width="25"/>${cost[j]}</li>`;
                       }
                       return output; })()}
@@ -1267,7 +1268,7 @@ function callMiniExpeditionBasic(mode={run:0,build:0,alert:1}) {
     <script type="text/javascript">
       $(async function() {
           // setTimeout(function() { $('#canvas').click(); }, 1000);
-          setTimeout(function() { load_saved_data() }, 100);
+          setTimeout(function() { load_saved_data() }, 500);
       });
     </script>
   </body>

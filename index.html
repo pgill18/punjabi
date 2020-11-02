@@ -1407,7 +1407,12 @@
               let {icon, color, size, opacity_fg, opacity_bg} = get_grid_cell_style(i, j, revealed);
               let {icon2, color2, size2} = {icon2: 'foundation', color2: 'dimgray', size2: '40px' };
               let tilenum = i + j*5;
-              let build = [0,6,8,12,14,16,18].includes(tilenum);
+              // let build = [0,6,8,12,14,16,18].includes(tilenum);
+              let build = [6,8,14,16,18].includes(tilenum);
+              let build_disabled = tilenum!==6 ? 'disabled' : '';
+              let xonclick2 = build_disabled ? 'xonclick' : 'onclick';
+              let pointer2 = build_disabled ? 'text' : 'pointer';
+              color2 = build_disabled ? 'lightgray' : 'dimgray';
               return `
               <!-- <div class="card"> -->
                 <!-- <img src="..." class="card-img-top" alt="..."> -->
@@ -1416,7 +1421,7 @@
                   <!-- <p class="card-text"></p> -->
                   <i class="material-icons btn-light" id="grid-cell-bg-${i}-${j}" style="font-size:172px;color:lightgray;opacity:${opacity_bg}" data-toggle1="clickover" data-prod="0" onclick="collect_map_space(${i}, ${j})">short_text</i>
                   <i class="material-icons btn-light" id="grid-cell-ppl-${i}-${j}" style="font-size:${size};color:${color};opacity:${opacity_fg}; position:absolute; margin: 70px 0 0 -120px; cursor:pointer" data-toggle1="clickover" data-prod="0" onclick="launch_enrollment_quest(${i}, ${j}, this)">${icon}</i>
-                  ${build ? `<i class="material-icons btn-light" id="grid-cell-ppl-${i}-${j}" style="font-size:${size2};color:${color2};opacity:${opacity_fg}; position:absolute; margin: 90px 0 0 -80px; cursor:pointer" data-toggle1="clickover" data-prod="0" onclick="launch_building_project(${i}, ${j}, this)">${icon2}</i>` : ``}
+                  ${build ? `<i class="material-icons btn-light" id="grid-cell-ppl-${i}-${j}" style="font-size:${size2};color:${color2};opacity:${opacity_fg}; position:absolute; margin: 90px 0 0 -80px; cursor:${pointer2}" data-toggle1="clickover" data-prod="0" ${xonclick2}="launch_building_project(${i}, ${j}, this)" ${build_disabled}>${icon2}</i>` : ``}
                 </div>
               <!-- </div> -->`;
           }
