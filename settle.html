@@ -1,0 +1,1274 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/css/bootstrap.min.css" integrity="sha384-DhY6onE6f3zzKbjUPRc2hOzGAdEf4/Dz+WJwBvEYL/lkkIsI3ihufq9hk9K4lVoK" crossorigin="anonymous">
+
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> -->
+    <!-- <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css"> -->
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script> -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper.js -->
+    <!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/js/bootstrap.bundle.min.js" integrity="sha384-BOsAfwzjNJHrJ8cZidOg56tcQWfp6y72vEJ8xQ9w6Quywb24iOsW913URv1IS4GD" crossorigin="anonymous"></script> -->
+
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+
+    <!-- <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/font/css/open-iconic-bootstrap.min.css" integrity="sha256-BJ/G+e+y7bQdrYkS2RBTyNfBHpA9IuGaPmf9htub5MQ=" crossorigin="anonymous" /> -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+    <script src="settle_canvas.js"></script>
+    <script src="settle_script.js"></script>
+    <link rel="stylesheet" href="settle_styles.css"></link>
+
+    <style type="text/css">
+        .navbar, .input-group {
+          padding-top:    0.25rem; /* 0px does not look good on small screens */
+          padding-bottom: 0.25rem;
+          font-size: smaller;      /* Just because I am using big size font */
+          line-height: 1em;
+        } 
+    </style>
+
+    <title>Hello, settler!</title>
+  </head>
+  <!-- <body onload="init(5, 'img/buildings-base.jpg');"> -->
+  <body onload="init(6, 'content/img/palace-base-0.jpg');">
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <!-- <a class="navbar-brand" href="#">Make</a> -->
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTop" aria-controls="navbarTop" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarTop">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link" style="color:#C9B037; font-size: 16px; font-weight: 600; float:right">Coins <span id="score-coins">2000</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" style="color:olive; font-size: 16px; font-weight: 600; float:right">Supplies <span id="score-supplies">6000</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" style="color:goldenrod; font-size: 16px; font-weight: 600; float:right" hidden>Joy <span id="score-happiness">100</span></a>
+          </li>
+          <li class="nav-item float-right">
+            <a class="nav-link" style="color:dimgray; font-size: 16px; font-weight: 600; float:right" data-toggle="tooltip" data-placement="top" title="Available workers are currently 10% of total population. You can increase this with your hiring skills.">
+                People <span id="score-people-used">0</span>/<span id="score-people-housed">0 </span> [<small id="score-people-roster"></small>]</a>
+          </li>
+        </ul>
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <em class="nav-link" style="color:darkgray; font-size: 20px; font-weight: 500">Build <small id="era">0</small></em>
+          </li>
+        </ul>
+        <ul class="navbar-nav float-right">
+          <li class="nav-item">
+            <a class="nav-link" style="color:#38464B; font-size: 16px; font-weight: 600">Stone <span id="score-stone">0</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" style="color:#966F33; font-size: 16px; font-weight: 600">Lumber <span id="score-lumber">0</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" style="color:#966F33; font-size: 16px; font-weight: 600" hidden>Iron <span id="score-iron">0</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" style="color:#966F33; font-size: 16px; font-weight: 600" hidden>Dye <span id="score-dye">0</span></a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <nav class="navbar navbar-expand-lg" style="margin-top:10px">
+      <div class="collapse navbar-collapse" id="navbarTop2">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="collect-once" style="font-size:22px;color:gray;background:white; float-left" onclick="launchMiniLeftStoryModal()" data-toggle="tooltip" title="Story quest">face</i><span id="score-collect-restart-once"></span></a>
+          </li>
+          <li class="nav-item">
+            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="collect-once" style="font-size:22px;color:gray;background:white; float-left" onclick="launchMiniLeftEventModal()" data-toggle="tooltip" title="Event quest" hidden>loupe</i><span id="score-collect-once"></span></a>
+          </li>
+          <li class="nav-item">
+            <a type="button"><i class="material-icons btn-light mt-1 ml-1 mr-3" id="unlock-era" style="font-size:22px;color:gray;background:white; float-left" onclick="launchMiniLeftDailyModal()" data-toggle="tooltip" title="Daily quest" hidden>blur_circular</i></a>
+          </li>
+          <li class="nav-item">
+            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-3" id="unlock-era" style="font-size:22px;color:gray;background:white; float-left" onclick="launchMiniLeftProgressModal()" data-toggle="tooltip" title="Event progress" hidden>list_alt</i></a>
+          </li>
+          <li class="nav-item">
+            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-3" id="unlock-era" style="font-size:22px;color:gray;background:white; float-left" onclick="launchMiniExpeditionBasicModal()" data-toggle="tooltip" title="Expedition" hidden>streetview</i></a>
+          </li>
+          <li class="nav-item">
+            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-3" id="unlock-era" style="font-size:22px;color:gray;background:white; float-left" onclick="save_data()" data-toggle="tooltip" title="Expedition">save</i></a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="container-fluid d-flex justify-content-center">
+        <div class="canvas-wrapper">
+            <canvas id="canvas"></canvas>
+        </div>
+    </div>
+
+
+    <nav class="navbar navbar-expand-lg" hidden>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTop3" aria-controls="navbarTop3" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarTop3">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="collect-once" style="font-size:22px;color:gray;background:white; float-left" onclick="collect_all_once({run:0})" data-toggle="tooltip" title="Collect all once (no restart)">check_circle_outline</i><span id="score-collect-restart-once"></span></a>
+          </li>
+          <li class="nav-item">
+            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="collect-once" style="font-size:22px;color:gray;background:white; float-left" onclick="collect_all_once({run:1})" data-toggle="tooltip" title="Collect all once (and restart all)">add_task</i><span id="score-collect-once"></span></a>
+          </li>
+          <li class="nav-item">
+            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="collect-loop" style="font-size:22px;color:gray;background:white; float-left" onclick="collect_all_loop({run:40,build:1})" data-toggle="tooltip" title="Collect all repeatedly in a loop (and restart each time)">published_with_changes</i><span id="score-autopilot"></span></a>
+
+          <div class="btn-group dropup">
+            <a type="button" class="dropdown-toggle text-muted" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">set</a>
+            <div class="dropdown-menu">
+              <h6 class="ml-2">Housing</h6>
+              <button class="btn btn-sm" onclick="addTile(0, 0)"> <img src="content/img/house-top-1.png" width="70" /></button>
+              <button class="btn btn-sm" onclick="addTile(0, 0)"> <img src="content/img/house-top-2.jpg" width="70" /></button>
+              <div class="dropdown-divider"></div>
+              <h6 class="ml-2">Supplies</h6>
+              <button class="btn btn-sm" onclick="addTile(1, 0)"> <img src="content/img/market-icon-1.jpg" width="60" /></button>
+              <button class="btn btn-sm" onclick="addTile(1, 1)"> <img src="content/img/market-icon-2.png" width="60" /></button>
+              <div class="dropdown-divider"></div>
+              <h6 class="ml-2">Production</h6>
+              <button class="btn btn-sm" onclick="addTile(2, 0)"> <img src="content/img/industrial-building-icon-1.png" width="60" /></button>
+              <button class="btn btn-sm" onclick="addTile(2, 1)"> <img src="content/img/industrial-building-icon-2.png" width="60" /></button>
+              <div class="dropdown-divider"></div>
+              <button class="btn btn-sm" onclick="addTile(2, 2)"> <img src="content/img/industrial-building-icon-3.jpg" width="60" /></button>
+              <button class="btn btn-sm" onclick="addTile(2, 3)"> <img src="content/img/industrial-building-icon-4.jpg" width="60" /></button>
+            </div>
+          </div>
+
+
+          </li>
+          <li class="nav-item">
+            <a type="button"><i class="material-icons btn-light mt-1 ml-1 mr-3" id="unlock-era" style="font-size:22px;color:gray;background:white; float-left" onclick="unlock_era()" data-toggle="tooltip" title="Unlock next season">unlock</i></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-muted" id="mini-form" style="color:#966F33; font-size: 16px; font-weight: 600; opacity: 0.5; float:right" onclick="launchMiniFormModal()" data-toggle="tooltip" title="Skilled in filling locale forms?">Form <span id="xscore-coins"></span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-muted" id="mini-negotiation" style="color:#966F33; font-size: 16px; font-weight: 600; opacity: 0.5; float:right" onclick="launchMiniNegotiatorModal()" data-toggle="tooltip" title="Negotiate to aquire additional resources">Negotiator <span id="xscore-supplies"></span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-muted" id="mini-harness" style="color:#966F33; font-size: 16px; font-weight: 600; opacity: 0.5" onclick="launchMiniGenericModal()" data-toggle="tooltip" title="Harness resources based on main page progress">Harness <span id="xscore-dye"></span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-muted" id="mini-chatbot" style="color:#966F33; font-size: 16px; font-weight: 600; opacity: 0.5" onclick="launchMiniGenericModal()" data-toggle="tooltip" title="Chatbot to hire more temps?">ChatBot <span id="xscore-stone"></span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-muted" id="mini-chalkboard" style="color:#966F33; font-size: 16px; font-weight: 600; opacity: 0.5" onclick="launchMiniGenericModal()" data-toggle="tooltip" title="Chalkboard, for a teacher and a mentor">Chalkboard <span id="xscore-lumber"></span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-muted" id="mini-chalkboard" style="color:#966F33; font-size: 16px; font-weight: 600; opacity: 0.5" onclick="launchMiniGenericModal()" data-toggle="tooltip" title="Chalkboard, for a teacher and a mentor">Storyboard <span id="xscore-lumber"></span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-muted" id="mini-chalkboard" style="color:#966F33; font-size: 16px; font-weight: 600; opacity: 0.5" onclick="launchMiniGenericModal()" data-toggle="tooltip" title="Chalkboard, for a teacher and a mentor" hidden>Kanban <span id="xscore-lumber"></span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-muted" id="mini-puzzle" style="color:#966F33; font-size: 16px; font-weight: 600; opacity: 0.5" onclick="launchMiniGenericModal()" data-toggle="tooltip" title="Puzzle! Your instant fix.">Puzzle <span id="xscore-iron"></span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-muted" id="mini-falling" style="color:#966F33; font-size: 16px; font-weight: 600; opacity: 0.5" onclick="launchMiniGenericModal()" data-toggle="tooltip" title="Falling Words">Falling <span id="xscore-dye"></span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-muted" id="mini-shooting" style="color:#966F33; font-size: 16px; font-weight: 600; opacity: 0.5" onclick="launchMiniGenericModal()" data-toggle="tooltip" title="Shooting Balloons">Shooting <span id="xscore-dye"></span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-muted" id="mini-paintball" style="color:#966F33; font-size: 16px; font-weight: 600; opacity: 0.5" onclick="launchMiniGenericModal()" data-toggle="tooltip" title="Paintball shooting">Paintball <span id="xscore-dye"></span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-muted" id="mini-tower" style="color:#966F33; font-size: 16px; font-weight: 600; opacity: 0.5" onclick="launchMiniGenericModal()" data-toggle="tooltip" title="Tower defence">Tower <span id="xscore-dye"></span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-muted" id="mini-quiz" style="color:#966F33; font-size: 16px; font-weight: 600; opacity: 0.5" onclick="launchMiniGenericModal()" data-toggle="tooltip" title="Quiz on a topic?">Quizme <span id="xscore-dye"></span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-muted" id="mini-math" style="color:#966F33; font-size: 16px; font-weight: 600; opacity: 0.5" onclick="launchMiniGenericModal()" data-toggle="tooltip" title="Math tables">Arithmatics <span id="xscore-dye"></span></a>
+          </li>
+          <li class="nav-item">
+            <a type="button"><i class="material-icons btn-light mt-1 ml-1 mr-3" id="unlock-era" style="font-size:22px;color:gray;background:white; float-left" onclick="populate_era()" data-toggle="tooltip" title="Build automatically">construction</i></a>
+          </li>
+          <li class="nav-item">
+            <a type="button"><i class="material-icons btn-light mt-1 ml-1 mr-3" id="unlock-era" style="font-size:22px;color:gray;background:white; float-left" onclick="unpopulate_all()" data-toggle="tooltip" title="Delete all buildings">delete_sweep</i></a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+
+    <nav class="navbar fixed-bottom navbar-expand-sm navbar-light bg-light pos-f-t">
+      <!-- <a class="navbar-brand" href="#">Library</a> -->
+      <button class="navbar-toggler btn-sm" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+
+      <div class="btn-group btn-group-sm dropup">
+        <button type="button" class="btn btn-light btn-sm dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size:18px;font-weight:400">
+          Start
+        </button>
+        <div class="dropdown-menu">
+          <h6 class="ml-2">Housing</h6>
+          <button class="btn btn-sm" id="lib-coins-0" onclick="addTile(0, 0)"> <img src="content/img/house-top-1.png" width="70" /></button>
+          <button class="btn btn-sm" id="lib-coins-1" onclick="addTile(0, 0)" disabled> <img src="content/img/house-top-2.jpg" width="70" /></button>
+          <div class="dropdown-divider"></div>
+          <h6 class="ml-2">Supplies</h6>
+          <button class="btn btn-sm" id="lib-supplies-0" onclick="addTile(1, 0)"> <img src="content/img/market-icon-1.jpg" width="60" /></button>
+          <button class="btn btn-sm" id="lib-supplies-1" onclick="addTile(1, 1)" disabled> <img src="content/img/market-icon-2.png" width="60" /></button>
+          <div class="dropdown-divider"></div>
+          <h6 class="ml-2">Production</h6>
+          <button class="btn btn-sm" id="lib-stone-0" onclick="addTile(2, 0)"> <img src="content/img/industrial-building-icon-1.png" width="60" /></button>
+          <button class="btn btn-sm" id="lib-lumber-0" onclick="addTile(3, 0)" disabled> <img src="content/img/industrial-building-icon-2.png" width="60" /></button>
+          <button class="btn btn-sm" id="lib-iron-0" onclick="addTile(4, 0)" hidden> <img src="content/img/industrial-building-icon-3.png" width="60" /></button>
+          <button class="btn btn-sm" id="lib-dye-0" onclick="addTile(5, 0)" hidden> <img src="content/img/industrial-building-icon-4.jpg" width="60" /></button>
+          <!-- <div class="dropdown-divider"></div> -->
+          <!-- <button class="btn btn-sm" id="lib-joy-0" onclick="addTile(6, 0)"> <img src="content/img/decoration-grasslands1.jpg" width="30" /> + </button> -->
+          <!-- <button class="btn btn-sm" id="lib-joy-0" onclick="addTile(6, 0)"> <img src="content/img/decoration-grasslands2.jpg" width="30" /> + </button> -->
+          <div class="dropdown-divider"></div>
+          <button class="btn btn-lg" disabled> </button>
+      </div>
+      <div></div>
+
+      <ul class="navbar-nav nav-sm mr-auto">
+        <li class="nav-item ml-2">
+          <button class="btn xbtn-sm btn-light material-icons" style="xcolor:orange" onclick="launchMiniExpeditionBasicModal()">view_comfy</button>
+        </li>
+        <li class="nav-item ml-2">
+          <button class="btn xbtn-sm btn-light material-icons active" style="xcolor:orange" onclick="editTiles()" data-toggle="button" aria-pressed="true" active>open_with</button>
+        </li>
+        <li><div class="ml-2"></div></li>       
+        <li class="nav-item">
+          <button class="btn xbtn-sm btn-light material-icons" style="xcolor:black" onclick="deleteTile()" xdata-toggle="button" xaria-pressed="true">delete_forever</button>
+        </li>
+      </ul>
+      <ul class="navbar-nav fade" style="float:right">
+        <li class="nav-item active">
+            <button class="btn btn-light btn-sm"><i class="material-icons btn-light" id="collect-prod-${i}" style="font-size:28px;color:black" onclick="collect_run(0)">gavel</i></button>
+        </li>
+        <li class="nav-item active">
+            <button class="btn btn-light btn-sm"><i class="material-icons btn-light" id="collect-prod-${i}" style="font-size:28px;color:brown" onclick="collect_run(1)">security</i></button>
+        </li>
+        <li class="nav-item active">
+            <button class="btn btn-light btn-sm"><i class="material-icons btn-light" id="collect-prod-${i}" style="font-size:28px;color:black" onclick="collect_run(1)">extension</i></button>
+        </li>
+        <li class="nav-item active">
+            <button class="btn btn-light btn-sm"><i class="material-icons btn-light" id="collect-prod-${i}" style="font-size:28px;color:teal" onclick="collect_run(1)">tour</i></button>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <script type="text/javascript">
+      // Initialize modal html
+      $(() => {
+          createMiniLeftStoryModal();
+          createMiniLeftEventModal();
+          createMiniLeftProgressModal();
+          createMiniGenericModal();
+      });
+      // Register modal event listner 
+      // $(() => {
+      //     $('#mini-negotiation').click(function() {
+      //         $('#negotiatorModal').modal()
+      //     });
+      // });
+      function launchMiniTechTreeModal() {
+          $('#miniTechTreeModal').modal()
+      }
+      function launchMiniLeftStoryModal() {
+          $('#miniLeftStoryModal').modal()
+      }
+      function launchMiniLeftEventModal() {
+          $('#miniLeftEventModal').modal()
+      }
+      function launchMiniLeftDailyModal() {
+          $('#miniLeftDailyModal').modal()
+      }
+      function launchMiniLeftProgressModal() {
+          // $('#miniLeftProgressModal').modal()
+          $('#miniTechTreeBasicModal').modal()
+      }
+      $(() => {
+          createMiniFormModal();
+          // createMiniNegotiatorModal()
+          // createMiniTechTreeBasicModal();
+      });
+      function launchMiniFormModal() {
+          $('#miniFormModal').modal()
+      }
+      function launchMiniGenericModal() {
+          $('#miniGenericModal').modal()
+      }
+
+      function createMiniLeftStoryModal(id='miniLeftStoryModal') {
+          createModal(id, {
+            cls_modal: `fade`, cls_dialog: `modal-xl modal-dialog-centered`, cls_body: ``,
+            title: 'Story', header: '', footer: '',
+            body:`
+                    <div class="container-fluid">
+                      Initial setup
+                      <ul>
+                        <li>Build at least 3 houses </li>
+                        <li>Build one production building </li>
+                        <li>Run production </li>
+                      </ul>
+                      <br>
+                      <hr>
+                      At some point you will run out of supplies. To produce more supplies you will need more people. Alternatively you can free up people by removing other production building(s). <br>
+                      <ul>
+                        <li>Build as many supplies building as you can </li>
+                        <li>Run supplies production to build enough supplies </li>
+                        <li>Build one or more production buildings to produce building material </li>
+                      </ul>
+                      <br>
+                      <hr>
+                      At this point if you have enough people you can run supplies production and build materials production in parallel. <br>
+                      If you don't have neough people, you will need to alternate between producing supplies and producing building materials. <br>
+                      <br>
+                    </div>
+            `,
+            cancel:{}, submit:{}, maxwidth: '900px'});
+      }
+      function createMiniLeftEventModal(id='miniLeftEventModal') {
+          createModal(id, {
+            cls_modal: `fade`, cls_dialog: `modal-xl modal-dialog-centered`, cls_body: ``,
+            title: 'Story', header: '', footer: '',
+            body:`
+                    <div class="container-fluid">
+                      Place an event here ...
+                    </div>
+            `,
+            cancel:undefined, submit:undefined, maxwidth: '900px'});
+      }
+      function createMiniLeftDailyModal(id='miniLeftEventModal') {
+          createModal(id, {
+            cls_modal: `fade`, cls_dialog: `modal-xl modal-dialog-centered`, cls_body: ``,
+            title: 'Story', header: '', footer: '',
+            body:`
+                    <div class="container-fluid">
+                      Place an event here ...
+                    </div>
+            `,
+            cancel:undefined, submit:undefined, maxwidth: '900px'});
+      }
+      function createMiniLeftProgressModal(id='miniLeftProgressModal') {
+          createModal(id, {
+            cls_modal: `fade`, cls_dialog: `modal-xl modal-dialog-centered`, cls_body: ``,
+            title: 'Story', header: '', footer: '',
+            body:`
+                    <div class="container-fluid">
+                      Place a progress here ...
+                    </div>
+            `,
+            cancel:undefined, submit:undefined, maxwidth: '900px'});
+      }
+
+      function createMiniFormModal(id='miniFormModal') {
+          createModal(id, {
+            cls_modal: `fade`, cls_dialog: `modal-xl modal-dialog-centered`, cls_body: ``,
+            title: 'Fill a form', header: '', footer: '',
+            body:`
+                    <div class="container-fluid">
+                      <div class="row" id="${id}-r0"></div>
+                      <div class="row mb-3" id="${id}-r1"></div>
+                      <div class="row" id="${id}-r2">
+                        <hr style="color:gray">
+                      </div>
+                      <div class="row" id="${id}-r3"></div>
+                      <div class="row" id="${id}-r4"></div>
+                    </div>
+            `,
+            cancel:undefined, submit:undefined, maxwidth: '900px'});
+      }
+      function createMiniNegotiatorModal(id='miniNegotiatorModal', title='Negotiate') {
+          createModal(id, {
+            cls_modal: `fade`, cls_dialog: `modal-xl modal-dialog-centered`, cls_body: ``,
+            title: title, header: '', footer: '',
+            body:`
+                    <div class="container-fluid">
+                      <div class="row" id="${id}-r0"></div>
+                      <div class="row mb-3" id="${id}-r1"></div>
+                      <div class="row" id="${id}-r3"></div>
+                      <div class="row" id="${id}-r4"></div>
+                      <div class="row" id="${id}-r5"></div>
+                      <div class="row" id="${id}-r6"></div>
+                    </div>
+            `,
+            cancel:'', submit:{name:'Accept Selection'}, maxwidth: '900px'});
+      }
+      function createMiniProduction4Modal(id='miniProduction4Modal', title='Production') {
+          createModal(id, {
+            cls_modal: `fade`, cls_dialog: `modal-xl modal-dialog-centered`, cls_body: ``,
+            title: title, header: '', footer: '',
+            body:`
+                    <div class="container-fluid">
+                      <div class="row" id="${id}-r0"></div>
+                      <div class="row mb-3" id="${id}-r1"></div>
+                      <div class="row" id="${id}-r3"></div>
+                      <div class="row" id="${id}-r4"></div>
+                      <div class="row" id="${id}-r5"></div>
+                      <div class="row" id="${id}-r6"></div>
+                    </div>
+            `,
+            cancel:'', submit:'', maxwidth: '900px'});
+      }
+      function createMiniProduction6Modal(id='miniProduction6Modal', title='Production') {
+          createModal(id, {
+            cls_modal: `fade`, cls_dialog: `modal-xl modal-dialog-centered`, cls_body: ``,
+            title: title, header: '', footer: '',
+            body:`
+                    <div class="container-fluid">
+                      <div class="row" id="${id}-r0"></div>
+                      <div class="row mb-3" id="${id}-r1"></div>
+                      <div class="row" id="${id}-r3"></div>
+                      <div class="row" id="${id}-r4"></div>
+                      <div class="row" id="${id}-r5"></div>
+                      <div class="row" id="${id}-r6"></div>
+                    </div>
+            `,
+            cancel:'', submit:'', maxwidth: '900px'});
+      }
+      function createMiniTechTreeBasicModal(id='miniTechTreeBasicModal') {
+          createModal(id, {
+            cls_modal: `fade`, cls_dialog: `modal-xl modal-dialog-centered`, cls_body: ``,
+            title: 'Negotiator', header: '', footer: '',
+            body:`
+                    <div class="container-fluid">
+                      <div class="row" id="${id}-r0"></div>
+                      <div class="row mb-3" id="${id}-r1"></div>
+                      <div class="row" id="${id}-r2">
+                        <hr style="color:gray">
+                      </div>
+                      <div class="row" id="${id}-r3"></div>
+                      <div class="row" id="${id}-r4"></div>
+                    </div>
+            `,
+            cancel:undefined, submit:undefined, maxwidth: '900px'});
+      }
+      function createMiniExpeditionBasicModal(id='miniExpeditionBasicModal') {
+          createModal(id, {
+            cls_modal: `fade`, cls_dialog: `modal-xl modal-dialog-centered`, cls_body: ``,
+            title: 'Progress', header: '', footer: '',
+            body:`
+                    <div class="container-fluid">
+                      <div class="row" id="${id}-r0"></div>
+                      <div class="row"><hr style="color:gray"></div>
+                      <div class="row" id="${id}-r1"></div>
+                      <div class="row"><hr style="color:gray"></div>
+                      <div class="row" id="${id}-r2"></div>
+                      <div class="row"><hr style="color:gray"></div>
+                      <div class="row" id="${id}-r3"></div>
+                    </div>
+            `,
+            cancel:{}, submit:{}, maxwidth: '1000px'});
+      }
+      function createMiniGenericModal(id='miniGenericModal') {
+          createModal(id, {
+            cls_modal: `fade`, cls_dialog: `modal-xl modal-dialog-centered`, cls_body: ``,
+            title: 'Generic modal', header: '', footer: '',
+            body:`
+                    <div class="container-fluid">
+                      Place content here ...
+                    </div>
+            `,
+            cancel:undefined, submit:undefined, maxwidth: '900px'});
+      }
+
+      function createModal(id='modal1', {header, footer, title, body, cls_modal, cls_dialog, cls_body, cancel, submit, maxwidth}={}) {
+          let modal_html = createModalHTML(id, {header, footer, title, body, cls_modal, cls_dialog, cls_body, cancel, submit, maxwidth});
+          let modal_container = document.createElement('div');
+          modal_container.innerHTML = modal_html;
+          document.body.appendChild(modal_container);
+      }
+      function createModalHTML(id, {header, footer, title, body, cls_modal, cls_dialog, cls_body, cancel={name:'Cancel'}, submit={name:'Submit',onclick:''}, maxwidth}={}) {
+          return `
+            <!-- Modal -->
+            <div class="modal ${cls_modal}" id="${id}" tabindex="-1" aria-labelledby="${id}Label" aria-hidden="true">
+              <div class="modal-dialog ${cls_dialog}" id="${id}-dialog" style="max-width: ${maxwidth}">
+                <div class="modal-content" id="${id}-content">
+                  <div class="modal-header" id="${id}-header">
+                    ${title ? `<h5 class="modal-title" id="${id}Label">${title}</h5>` : ''}
+                    ${header}
+                    <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
+                  </div>
+                  <div class="modal-body ${cls_body}" id="${id}-body">
+                    ${body}
+                  </div>
+                  <div class="modal-footer justify-content-center" id="${id}-footer">
+                    ${footer}
+                    ${cancel.name ? `<button type="button" class="btn btn-secondary" data-dismiss="modal">${cancel.name}</button>` : ''}
+                    ${submit.name ? `<button type="button block-btn" class="btn btn-primary col-4">${submit.name}</button>` : ''}
+                  </div>
+                </div>
+              </div>
+            </div>
+          `;
+      }
+  </script>
+
+   <script type="text/javascript">
+
+      setTimeout(() => {
+          createMiniTechTreeBasicModal();
+          createMiniTechTreeBasic();
+          createMiniProduction4Modal()
+          createMiniProduction4();
+          createMiniProduction6Modal()
+          createMiniProduction6();
+          createMiniNegotiatorModal()
+          createMiniNegotiator();
+          createMiniExpeditionBasicModal();
+          createMiniExpeditionBasic();
+      }, 100);
+      function launchMiniTechTreeBasicModal() {
+          $('#miniTechTreeBasicModal').modal()
+      }
+      function launchMiniProduction4Modal() {
+          $('#miniProduction4Modal').modal()
+      }
+      function launchMiniProduction6Modal() {
+          $('#miniProduction6Modal').modal()
+      }
+      function launchMiniNegotiatorModal() {
+          $('#miniNegotiatorModal').modal()
+      }
+      function launchMiniExpeditionBasicModal() {
+          createMiniExpeditionBasic();
+          $('#miniExpeditionBasicModal').modal()
+      }
+
+// let current_era = 0;
+const expedition_db_bak = [
+    // stone era
+    { cost: {stone:  0, lumber: 0, iron: 0, dye: 0 },       gain: { coins: 0,    knock: 0,        spaces: 0, temps: 0} },
+    { cost: {stone: 10, lumber: 0, iron: 0, dye: 0 },       gain: { supplies: 0, greet: 0,        spaces: 0, temps: 5 } },
+    { cost: {stone: 20, lumber: 0, iron: 0, dye: 0 },       gain: { supplies: 1, lumber: 0,       spaces: 0, temps: 5 } },
+    // lumber era
+    { cost: {stone: 20, lumber: 0, iron: 0, dye: 0 },       gain: { coins: 1,    form: 0,         spaces: 0, temps: 5} },
+    { cost: {stone: 10, lumber: 30, iron: 0, dye: 0 },      gain: { happiness: 1, negotiation: 0, spaces: 1, temps: 5 } },
+    { cost: {stone: 30, lumber: 30, iron: 0, dye: 0 },      gain: { harness: 0,  iron: 0,         spaces: 1, temps: 5 } },
+    // iron era
+    { cost: {stone: 10, lumber: 10, iron: 30, dye: 0 },     gain: { coins: 2,     chatbot: 0,     spaces: 1, temps: 5 } },
+    { cost: {stone: 20, lumber: 10, iron: 20, dye: 0 },     gain: { harness: 2,   chalkboard: 0,  spaces: 1, temps: 5 } },
+    { cost: {stone: 20, lumber: 10, iron: 20, dye: 0 },     gain: { supplies: 2,  puzzle: 0,      spaces: 1, temps: 5 } },
+    { cost: {stone: 10, lumber: 20, iron: 20, dye: 0 },     gain: { harness: 3,   dye: 0,         spaces: 1, temps: 5 } },
+    // dye era
+    { cost: {stone: 10, lumber: 10, iron: 10, dye: 30 },    gain: { happiness: 2,  falling: 0,    spaces: 1, temps: 5 } },
+    { cost: {stone: 10, lumber: 10, iron: 10, dye: 30 },    gain: { happiness: 2,  shooting: 0,   spaces: 1, temps: 5 } },
+    { cost: {stone: 10, lumber: 10, iron: 10, dye: 30 },    gain: { happiness: 2,  paintball: 0,  spaces: 1, temps: 5 } },
+    { cost: {stone: 10, lumber: 10, iron: 10, dye: 30 },    gain: { happiness: 2,  tower: 0,      spaces: 1, temps: 5 } },
+    { cost: {stone: 20, lumber: 0, iron: 10, dye: 20 },     gain: { harness: 4,    quiz: 0,       spaces: 1, temps: 5 } },
+    { cost: {stone: 10, lumber: 20, iron: 0, dye: 20 },     gain: { happiness: 3,  math: 0,       spaces: 1, temps: 5 } },
+    { cost: {stone: 0, lumber: 10, iron: 20, dye: 20 },     gain: { harness: 5,    none: 0,       spaces: 1, temps: 5 } },
+];
+
+const expedition_db = [
+    // stone era
+    { cost: {stone:  0, lumber: 0, iron: 0, dye: 0 },       gain: { coins: 0,    none: 0,        spaces: 0, temps: 0} },
+    { cost: {stone: 10, lumber: 0, iron: 0, dye: 0 },       gain: { coins: 1,    none: 0,        spaces: 0, temps: 5 } },
+    { cost: {stone: 20, lumber: 0, iron: 0, dye: 0 },       gain: { lumber: 0,   none: 0,         spaces: 0, temps: 5 } },
+    // lumber era
+    { cost: {stone: 20, lumber: 0, iron: 0, dye: 0 },       gain: { supplies: 1,    none: 0,       spaces: 0, temps: 5} },
+];
+
+
+let productionData4 = [
+    { interval: 4*60,  quantity: 5,  name: 'stone', header: 'small', cost: { supplies: 1000 }},
+    { interval: 8*60,  quantity: 10, name: 'stone', header: 'medium', cost: { supplies: 2000 }},
+    { interval: 24*60, quantity: 20, name: 'stone', header: 'large', cost: { supplies: 4000 }},
+    { interval: 48*60, quantity: 30, name: 'stone', header: 'larger', cost: { supplies: 8000 }},
+];
+let productionData6 = [
+    { interval: 1*5,   quantity: 5,  name: 'supplies', header: 'nano' },
+    { interval: 1*15,  quantity: 5,  name: 'supplies', header: 'micro' },
+    { interval: 1*60,  quantity: 5,  name: 'supplies', header: 'mini' },
+    { interval: 4*60,  quantity: 5,  name: 'supplies', header: 'small' },
+    { interval: 8*60,  quantity: 10, name: 'supplies', header: 'medium' },
+    { interval: 24*60, quantity: 20, name: 'supplies', header: 'large' },
+];
+let storyquests = [
+    { quest: 'build 3 houses', reward: { name: 'coins', qty: 30  }, goal: { name: 'house', qty: 3 } },
+    { quest: 'build 1 stone-mill', reward: { name: 'coins', qty: 10  }, goal: { name: 'stone-mill', qty: 1 } },
+    { quest: 'build 1 supplies production', reward: { name: 'coins', qty: 10  }, goal: { name: 'supplies-production', qty: 1 } },
+    { quest: 'build 1 stone-mill', reward: { name: 'coins', qty: 10  }, goal: { name: 'stone-mill', qty: 1 } },
+    { quest: 'build 1 lumber-mill', reward: { name: 'coins', qty: 10  }, goal: { name: 'lumber-mill', qty: 1 } },
+    { quest: 'build 1 large house', reward: { name: 'coins', qty: 10  }, goal: { name: 'house', qty: 1, level: 2 } },
+    { quest: 'build 1 iron-mill', reward: { name: 'coins', qty: 10  }, goal: { name: 'iron-mill', qty: 1 } },
+    { quest: 'build 1 large supplies production', reward: { name: 'coins', qty: 10  }, goal: { name: 'supplies-production', qty: 1, level: 2 } },
+    { quest: 'build 1 dye-mill', reward: { name: 'coins', qty: 10  }, goal: { name: 'dye-mill', qty: 1 } },
+];
+let sidequests = [
+    { quest: 'complete 1 negotiation', reward: { name: 'coins', qty: 10  }, goal: { name: 'negotiation', qty: 1 } },
+    { quest: 'complete 1 form-filling', reward: { name: 'coins', qty: 10  }, goal: { name: 'form', qty: 1 } },
+    { quest: 'complete 1 conversation', reward: { name: 'coins', qty: 10  }, goal: { name: 'chatbot', qty: 1 } },
+];
+
+let negotiationData4 = {
+    goods: ['coins', 'supplies', 'stone', 'lumber',],
+    hints: ['no-hint', 'any-letter', 'first-letter'],
+    quantity: 1, difficulty: 1, turns: 3,
+};
+let negotiationData6 = {
+    goods: ['coins', 'supplies', 'stone', 'lumber', 'iron', 'dye'],
+    hints: ['no-hint', 'no-hint', 'any-letter', 'first-letter'],
+    quantity: 1, difficulty: 1, turns: 4,
+};
+function callMiniExpeditionBasic(mode={run:0,build:0,alert:1}) {
+    let expedition_db = unlocking_db; // TBD
+    unlock_era(mode);
+    createMiniExpeditionBasic();
+    if(current_era >= expedition_db.length-1) setTimeout(function() {
+        if(confirm('You have completed this level!\nTo claim this level now, click Okay. To claim later, click Cancel.')) {
+          alert(`You have leveled-up your building on the main map. Go back to the map to see it for yourself.`)
+        }
+    }, 100);
+    // $('#miniExpeditionBasicModal').modal()
+}
+
+      function createMiniTechTreeBasic(id='miniTechTreeBasic') {
+        let nrows = 1, ncols = 4, modal_id = id + 'Modal'; 
+        let colwidth = Math.round(12/ncols);
+        let options0 = { title: 'Select <i>', cls_child: 'btn-secondary btn-block' };
+        let options1 = { title: 'Title <i>', cls_child: 'mb-0', cls_row: 'mb-3' };
+        let options2 = {}; options3 = { title: 'Miles <i>', cls_child: 'mb-2' };
+        let options4 = {};
+        add_row(`${modal_id}-r0`, ncols, add_button, options0)
+        add_row(`${modal_id}-r1`, ncols, add_card3, options1)
+        add_row(`${modal_id}-r3`, ncols, add_card1, options3)
+        add_list(`${modal_id}-r4`, ['One', 'Two', 'Three', 'Four'], options4)
+      }
+
+      function createMiniExpeditionBasic(id='miniExpeditionBasic') {
+        console.log(`createMiniExpeditionBasic(id='miniExpeditionBasic')`);
+        let expedition_db = unlocking_db; // TBD
+        let nrows = 1, ncols = 6, modal_id = id + 'Modal'; 
+        let colwidth = Math.round(12/ncols);
+        let btn = { type: 'btn-secondary', name: 'Unlock', onclick: 'callMiniExpeditionBasic(<i>,this)' };
+        let options1 = { title: 'Step <i>', cls_child: 'mb-0', cls_row: 'mb-3', btn };
+        let list = [], rowindex = 0;
+        for(let i=0; i<expedition_db.length; i++) {
+          let name = i<=current_era ? 'Unlocked' : i>current_era ? 'Unlock' : 'Unlock';
+          let disabled = i<=current_era ? 1 : i>(current_era+1) ? 0 : -1;
+          let unlocked = i<=current_era ? 1 : i>(current_era+1) ? 0 : -1;
+          if(i===expedition_db.length-1) name = 'Finish';
+          let expedition_db_entry = Object.assign({name, unlocked, disabled, i:i+1}, expedition_db[i]);
+          list.push(expedition_db_entry);
+          // console.log(`............................. i = ${i}, (i+1)%ncols = ${(i+1)%ncols}`)
+          if((i+1)%ncols===0 || i===expedition_db.length-1) {
+            options1.list = list; ncols = list.length; list = [];
+            // console.log(`............................. rowindex = ${rowindex}`)
+            console.log(list);
+            $(`#${modal_id}-r`+rowindex).html('');
+            add_row(`${modal_id}-r`+rowindex++, ncols, add_card2, options1)
+          }
+        }
+      }
+
+      function createMiniProduction4(id='miniProduction4') {
+        let nrows = 1, ncols = 4, modal_id = id + 'Modal'; 
+        let interval = ['4 Hours', '8 Hours', '24 Hours', '48 Hours'];
+        let quantity = [5, 10, 20, 30];
+        let cost = [[100,1000], [100,2000], [100,4000], [100,8000]];
+        let colwidth = Math.round(12/ncols);
+        let options0 = { title: interval, cls_child: 'btn-secondary btn-block' };
+        let options1 = { title: '', quantity, interval, cost: cost, onclick: 'produce(<i>)', cls_child: 'mb-0', cls_row: 'mb-3' };
+        add_row(`${modal_id}-r0`, ncols, add_button, options0)
+        add_row(`${modal_id}-r1`, ncols, add_card3, options1)
+      }
+
+      function createMiniProduction6(id='miniProduction6') {
+        let nrows = 1, ncols = 3, modal_id = id + 'Modal'; 
+        let interval = ['5 Minutes', '15 Minutes', '1 Hour'];
+        let quantity = [20, 50, 100];
+        let cost = [[100,0], [100,0], [100,0]];
+        let colwidth = Math.round(12/ncols);
+        let options0 = { title: interval, cls_child: 'btn-secondary btn-block', compact: true };
+        let options1 = { title: '', quantity, interval, cost: cost, onclick: 'produce(<i>)', cls_child: 'mb-0', cls_row: 'mb-3', compact: true };
+        add_row(`${modal_id}-r0`, ncols, add_button, options0)
+        add_row(`${modal_id}-r1`, ncols, add_card3, options1)
+        interval = ['4 Hours', '8 Hours', '24 Hours'];
+        quantity = [200, 500, 1000];
+        cost = [[100,0], [100,0], [100,0]];
+        colwidth = Math.round(12/ncols);
+        options0 = { title: interval, cls_child: 'btn-secondary btn-block', compact: true };
+        options1 = { title: '', quantity, interval, cost: cost, offset: 3, onclick: 'produce(<i>)', cls_child: 'mb-0', cls_row: 'mb-3', compact: true };
+        add_row(`${modal_id}-r3`, ncols, add_button, options0)
+        add_row(`${modal_id}-r4`, ncols, add_card3, options1)
+      }
+
+      function createMiniNegotiator(id='miniNegotiator') {
+        let nrows = 1, ncols = 4, modal_id = id + 'Modal'; 
+        let cost = [[1,1,1], [1,1,1], [1,1,1], [1,1,1]];
+        let colwidth = Math.round(12/ncols);
+        let text = ['Walks', 'Runs', 'Swims', 'Flies'];
+        let dd_list = { name: 'Select', count: 3, ddiclick: 'negotiate(<i>, <j>)',
+                        list: [{name:'Coins', qty:10}, {name:'Supplies', qty:10}, {name:'Stone', qty:1}, {name:'Lumber', qty:1}] };
+        let options0 = { title: 'Trader', cls_child: 'btn-secondary btn-block' };
+        let options1 = { title: '', cost: cost, text, dd_list,  onclick: 'produce(<i>)', cls_child: 'mb-0', cls_row: 'mb-3' };
+        let options4 = {};
+        add_row(`${modal_id}-r0`, ncols, add_button, options0)
+        add_row(`${modal_id}-r1`, ncols, add_card3, options1)
+      }
+
+      function add_button(id, {title, cls_child="btn-secondary", onclick=""}={}) {
+        if(onclick) onclick=`onclick="${onclick}(this, '${id}')"`;
+        return `       <button type="button" class="btn ${cls_child}" id="${id}-btn"${onclick}>${title}</button>`;
+      }
+      function add_list(rowid, list, {title, cls_child="", onclick=""}={}) {
+        if(onclick) onclick=`onclick="${onclick}(this, '${id}')"`;
+        let html = `          <ul class="list-group list-group-horizontal-md btn-block ml-2" id="${rowid}-ul">`;
+        list.forEach((val,i) => html += `            <li class="list-group-item col-md-3 ml-auto text-center" id="${rowid}-li-${i}">${val}</li>`);
+        html += `          </ul>`;
+        add_element(html, rowid);
+      }
+  </script>
+
+    <!-- Activate modal as: $('#productionModal').modal() -->
+    <!-- Modal -->
+    <div class="modal" id="mini1Modal" tabindex="-1" role="dialog" aria-labelledby="mini1Title" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-info modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <!-- <h5 class="modal-title" id="productionModalLongTitle">Produce</h5> -->
+            <!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close"> -->
+              <!-- <span aria-hidden="true">&times;</span> -->
+            <!-- </button> -->
+          </div>
+          <div class="modal-body">
+            <canvas id="mini-canvas"></canvas>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+            <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body" id="modal1-body">
+            <div class="row" id="modal1-r1">
+            </div>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-primary">Save changes</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <script type="text/javascript">
+      let nrows = 4, ncols = 4; let colwidth = Math.round(12/ncols);
+
+      setTimeout(() => {
+        let nrows = 4, ncols = 4; let colwidth = Math.round(12/ncols);
+        for(let irow=0; irow<nrows; irow++) {
+          add_row_cols('modal1-r1', ncols, add_card1, colwidth);
+        }
+      }, 100);
+
+      $(() => {
+          $("#modal1-r1").sortable();
+      });
+
+      function add_element(html, pid) {
+        // console.log(`add_element(html, ${pid})`);
+        let elm = document.createElement('div'); elm.innerHTML = html.trim();
+        document.getElementById(pid).appendChild(elm.firstChild)
+      }
+      function add_row(rowid, ncols, add_child, options) {
+          add_row_cols(rowid, ncols, add_child, options);
+      }
+      function add_row_cols(rowid, ncols, add_child, options={}) {
+        let {colwidth, cls_child, cls_col, title, text, offset, list, dd_list, quantity, interval, cost, onclick} = options;
+        if(!colwidth) colwidth = Math.round(12/ncols);
+        for(let icol=0; icol<ncols; icol++) {
+          let index = offset ? offset+icol : icol;
+          let ctitle = Array.isArray(title) ? title[icol] : title ? title.replace('<i>', index) : title;
+          let conclick = Array.isArray(onclick) ? onclick[icol] : onclick ? onclick.replace('<i>', index) : onclick;
+          let ctext = Array.isArray(text) ? text[icol] : text ? text.replace('<i>', index) : text;
+          let clist = Array.isArray(list) ? list[icol] : list ? list.replace('<i>', index) : list;
+          let opts = Object.assign({}, options, {title: ctitle, text: ctext, data: clist, onclick: conclick, i: icol});
+          let core_html = add_child(rowid, opts);
+          let colm_html = add_col(`${rowid}-c${icol}`, core_html, {colwidth, cls_col});
+          add_element(colm_html, rowid);
+        }
+      }
+      function add_col(id, html, {colwidth, cls_col}) {
+        return`    <div class="col-md-${colwidth} ml-auto" id="${id}">${html}</div>`;
+      }
+      function add_card1(id, {title, cls_child="card-secondary", onclick=""}={}) {
+        return `
+            <div class="card ${cls_child}" id="${id}-card">
+              <!-- <img src="..." class="card-img-top" alt="..."> -->
+              <div class="card-body" id="${id}-card-body">
+                <h5 class="card-title" id="${id}-card-title">${title}</h5>
+                <p class="card-text" id="${id}-card-text">This is a longer card with supporting text ...</p>
+              </div>
+            </div>`;
+      }
+      function add_card2(id, {title, i, btn, data, cls_child="card-secondary", onclick=""}={}) {
+          if(data.i) title = 'Step ' + data.i;
+          let disabled = '';
+          let btn_type = btn ? btn.type : null;
+          let btn_name = btn ? btn.name : null;
+          if(data.unlocked) { disabled='disabled'; btn_type='btn-sucess'; btn_name='Unlocked' }
+          if(data.unlocked===-1) { disabled=''; btn_type='btn-primary'; btn_name=btn.name }
+          if(data.name==='Finish') btn_name = data.name;
+          if(btn.onclick) onclick = btn.onclick;
+            onclick = onclick ? onclick.replace('<i>', i) : '';
+            if(onclick) onclick = `onclick="${onclick}"`;
+            let html = `
+            <div class="card ${cls_child}" id="${id}-card" style="height:400px">
+              <!-- <img src="..." class="card-img-top" alt="..."> -->
+              <div class="card-body" id="${id}-card-body">
+                <h5 class="card-title" id="${id}-card-title">${title}</h5>
+                <p class="card-text" id="${id}-card-text">${obj2html(data.gain, {title: 'Gain'})}</p>
+                <p class="card-text" id="${id}-card-text">${obj2html(data.cost, {title: 'Cost'})}</p>`;
+          // if(btn && btn.type) html += `
+                // <a href="#" class="btn ${btn_type} btn-block mt-auto ${disabled}" style="bottom-5px; postion:fixed" ${onclick}>${btn_name}</a>`;
+          html += `
+              </div>
+              <div class="card-footer bg-light" id="${id}-card-footer">`;
+          if(btn && btn.type) html += `
+                <a href="#" class="btn ${btn_type} btn-block mt-auto ${disabled}" style="bottom-5px; postion:fixed" ${onclick}>${btn_name}</a>`;
+          html += `
+              </div>
+            </div>`;
+          return html;
+      }
+      function obj2html(obj, {title}={}) {
+          // output html will be a list of pairs. so first convert object into a list, then list into a list of pairs
+          let list = Object.keys(obj).map(key => { return {key, value: obj[key]}});
+          // console.log(`1obj2html() => `, list);
+          list = list.reduce(function(result, value, index, array) {
+              if(index%2 === 0) result.push(array.slice(index, index + 2));
+              return result;
+          }, []);
+          // console.log(`2obj2html() => `, list);
+          let list_html = '<p>' + list.map(pair => `${pair[0].key}=${pair[0].value}, ${pair[1].key}=${pair[1].value}`).join('') + '<p>';
+          if(title==='Gain') {
+            list_html = list_html.replace('coins', 'House Level');
+            list_html = list_html.replace('supplies', 'Supplies Building Level');
+            list_html = list_html.replace('lumber', 'Lumber Building Level');
+            list_html = list_html.replace('none=0, ', '');
+            list_html = list_html.replace('temps', 'Temps');
+          }
+          let html = `
+              <div class="mt-auto" style="bottom-5px; postion:fixed">
+                <em>${title}:</em>
+                  ${list_html}
+              </div>`;
+          return html;
+      }
+      function obj2html1(obj, {title}={}) {
+          // output html will be a list of pairs. so first convert object into a list, then list into a list of pairs
+          let list = Object.keys(obj).map(key => { return {key, value: obj[key]}});
+          // console.log(`1obj2html() => `, list);
+          list = list.reduce(function(result, value, index, array) {
+              if(index%2 === 0) result.push(array.slice(index, index + 2));
+              return result;
+          }, []);
+          // console.log(`2obj2html() => `, list);
+          let list_html = '<li>' + list.map(pair => pair2ul(pair)).join('') + '</li>';
+          let html = `
+              <div class="mt-auto" style="bottom-5px; postion:fixed">
+                <em>${title}:</em>
+                <ul class="list-group list-group-sm btn-block mb-2">
+                  ${list_html}
+                </ul>
+              </div>`;
+          return html;
+      }
+      function pair2ul(list) {
+          console.log(`pair2ul() `, list);
+          let html = `
+                <ul class="list-group list-group-horizontal-sm btn-block">
+                  ${(() => { let output = '';
+                    for(let obj of list) {
+                        // output += `                    <li class="list-group-item col-6"><img src="content/img/coins-1.jpg" width="25"/>${obj.key} ${obj.value}</li>`;
+                        output += `                    <li class="list-group-item col-6"><img src="content/img/coins-1.jpg" width="25"/>${obj.value}</li>`;
+                    }
+                    return output; })()}
+                </ul>`;
+          return html;
+      }
+      function obj2string(obj) {
+        return JSON.stringify(obj);
+      }
+      function add_card3(id, {title, i, text, cls_child="card-secondary", ul_name="Cost", dd_list={}, btn_name="Produce", onclick="", compact, quantity, interval, cost={}}={}) {
+          cost = Array.isArray(cost) ? cost[i] : cost;
+          quantity = Array.isArray(quantity) ? quantity[i] : quantity;
+          interval = Array.isArray(interval) ? interval[i] : interval;
+          let height = compact ? '12rem' : '22rem';
+          let name = _configuringPiece ? name_lookup[_configuringPiece.entity.content.index] : '';
+          let btn_type = dd_list.list ? undefined : 'btn-primary';
+          let list_group_type = dd_list.list ? `list-group` : `list-group-horizontal-sm`;
+          if(!title) title = dd_list.list ? '' : quantity;
+          if(onclick) onclick = `onclick="${onclick}"`;
+          let html = `
+            <div class="card ${cls_child}" style="height: ${height};" id="${id}-card">
+              <!-- <img src="..." class="card-img-top" alt="..."> -->
+              <div class="card-body d-flex flex-column" id="${id}-card-body">
+                <h5 class="card-title text-center" id="${id}-card-title">${title}</h5>
+                ${dd_list.list ? `<p class="card-text mb-2 text-center" id="${id}-card-text">${text}</p>` :
+                  compact ? `<p class="card-text mb-2" id="${id}-card-text">Produce ${quantity} units${name} in ${interval}.</p>` : 
+                          `<p class="card-text mb-2" id="${id}-card-text">Produce ${quantity} units${name} in ${interval}.</p>` }
+                <span id="${id}-card-text2"></span>`;
+          if(dd_list.hints) html += `
+                <a href="#" class="btn btn-link text-muted btn-block mt-auto" data-dismiss="modal" style="bottom-5px; postion:fixed" ${dd_list.hintclick}>Hint</a>`;
+          if(ul_name) html += `
+                <div class="mt-auto" style="bottom-5px; postion:fixed">
+                  ${compact || dd_list.list ? '' : `<em>${ul_name}:</em>`}
+                  <ul class="list-group ${list_group_type} btn-block mb-2">
+                    ${(() => { let output = '';
+                      for(let j in cost) {
+                        let name = j==0 ? 'Coins' : j==1 ? 'Supplies' : j==2 ? 'Stone' : 'Lumber'
+                        if(dd_list.list)
+                          output += `                    <li class="list-group-item col-12" id="${id}-card-li-${j}"><img src="content/img/coins-1.jpg" width="25" hidden/>...</li>`;
+                        else
+                          output += `                    <li class="list-group-item col-6">${name} ${cost[j]}</li>`;
+                          // output += `                    <li class="list-group-item col-6"><img src="content/img/coins-1.jpg" width="25"/>${cost[j]}</li>`;
+                      }
+                      return output; })()}
+                  </ul>
+                </div>`;
+          if(dd_list.list) html += `
+                <div class="dropdown mt-auto" style="bottom-5px; postion:fixed">
+                  <button class="btn btn-secondary dropdown-toggle btn-block" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    ${dd_list.name}
+                  </button>
+                  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                  ${(() => { let output = '';
+                    for(let j in dd_list.list) { let item = dd_list.list[j];
+                      let onclick = dd_list.ddiclick ? dd_list.ddiclick.replace('<i>', i).replace('<j>', j) : '';
+                      output += `                    <a class="dropdown-item" id="${id}-card-ddi-${j}" href="#" onclick="${onclick}">${item.qty} ${item.name}</a>`;
+                    }
+                    return output; })()}
+                  </div>
+                </div>`;
+          if(btn_type) html += `
+                <a href="#" class="btn ${btn_type} btn-block mt-auto" data-dismiss="modal" style="bottom-5px; postion:fixed" ${onclick}>${btn_name}</a>`;
+              html += `
+              </div>
+            </div>
+        `;
+        return html;
+      }
+    </script>
+
+    <!-- Button trigger modal -->
+    <!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal1"> -->
+      <!-- Launch 1 -->
+    <!-- </button> -->
+
+   <script type="text/javascript">
+
+      setTimeout(() => {
+        create_techTreeBasic();
+        create_negotiator();
+      }, 100);
+
+      function create_techTreeBasic() {
+        let nrows = 1, ncols = 4; 
+        let colwidth = Math.round(12/ncols);
+        let options0 = { title: 'Select <i>', cls_child: 'btn-secondary btn-block' };
+        let options1 = { title: 'Title <i>', cls_child: 'mb-0', cls_row: 'mb-3' };
+        let options2 = {}; options3 = { title: 'Miles <i>', cls_child: 'mb-2' };
+        let options4 = {};
+        add_row(`modal2-r0`, ncols, add_button, options0)
+        add_row(`modal2-r1`, ncols, add_card3, options1)
+        add_row(`modal2-r3`, ncols, add_card1, options3)
+        add_list(`modal2-r4`, ['One', 'Two', 'Three', 'Four'], options4)
+      }
+
+      function create_negotiator() {
+        let nrows = 1, ncols = 4; 
+        let colwidth = Math.round(12/ncols);
+        let options0 = { title: 'Select <i>', cls_child: 'btn-secondary btn-block' };
+        let options1 = { title: 'Title <i>', cls_child: 'mb-0', cls_row: 'mb-3' };
+        let options2 = {}; options3 = { title: 'Miles <i>', cls_child: 'mb-2' };
+        let options4 = {};
+        add_row(`modal2b-r0`, ncols, add_button, options0)
+        add_row(`modal2b-r1`, ncols, add_card3, options1)
+        add_row(`modal2b-r3`, ncols, add_card1, options3)
+        add_list(`modal2b-r4`, ['One', 'Two', 'Three', 'Four'], options4)
+      }
+
+      function add_button(id, {title, cls_child="btn-secondary", onclick=""}={}) {
+        if(onclick) onclick=`onclick="${onclick}(this, '${id}')"`;
+        return `       <button type="button" class="btn ${cls_child}" id="${id}-btn"${onclick}>${title}</button>`;
+      }
+      function add_list(rowid, list, {title, cls_child="", onclick=""}={}) {
+        if(onclick) onclick=`onclick="${onclick}(this, '${id}')"`;
+        let html = `          <ul class="list-group list-group-horizontal-md btn-block ml-2" id="${rowid}-ul">`;
+        list.forEach((val,i) => html += `            <li class="list-group-item col-md-3 ml-auto text-center" id="${rowid}-li-${i}">${val}</li>`);
+        html += `          </ul>`;
+        add_element(html, rowid);
+      }
+  </script>
+
+    <!-- Button trigger modal -->
+    <!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal2"> -->
+      <!-- Launch 2 -->
+    <!-- </button> -->
+
+    <!-- Modal -->
+    <div class="modal fade" id="productionModal" tabindex="-1" aria-labelledby="productionModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-xl modal-dialog-centered" style="max-width: 1000px">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="productionModalLabel">Modal title</h5>
+            <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body" id="modal2-body">
+            <div class="container-fluid">
+              <div class="row" id="modal2-r0"></div>
+              <div class="row mb-3" id="modal2-r1"></div>
+              <div class="row" id="modal2-r2">
+                <hr style="color:gray">
+              </div>
+              <div class="row" id="modal2-r3"></div>
+              <div class="row" id="modal2-r4"></div>
+            </div>
+          </div>
+          <div class="modal-footer">
+            <!-- <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button> -->
+            <!-- <button type="button" class="btn btn-primary">Done</button> -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="miniNegotiatorModalx" tabindex="-1" aria-labelledby="miniNegotiatorModalLabelx" aria-hidden="true">
+      <div class="modal-dialog modal-xl modal-dialog-centered" style="max-width: 1000px">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="miniNegotiatorModalLabelx">Modal title</h5>
+            <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body" id="modal2b-body">
+            <div class="container-fluid">
+              <div class="row" id="modal2b-r0"></div>
+              <div class="row mb-3" id="modal2b-r1"></div>
+              <div class="row" id="modal2b-r2">
+                <hr style="color:gray">
+              </div>
+              <div class="row" id="modal2b-r3"></div>
+              <div class="row" id="modal2b-r4"></div>
+            </div>
+          </div>
+          <div class="modal-footer">
+            <!-- <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button> -->
+            <!-- <button type="button" class="btn btn-primary">Done</button> -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+<!-- Activate modal as: $('#productionModal').modal() -->
+<!-- Modal -->
+<div class="modal fade" id="productionModal1" tabindex="-1" role="dialog" aria-labelledby="productionModal1Title" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-info modal-lg" role="document">
+    <div class="modal-content">
+      <!-- <div class="modal-header"> -->
+        <!-- <h5 class="modal-title" id="productionModalLongTitle">Produce</h5> -->
+        <!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close"> -->
+          <!-- <span aria-hidden="true">&times;</span> -->
+        <!-- </button> -->
+      <!-- </div> -->
+      <div class="modal-body">
+
+        <div class="card-group cols-12">
+          <div class="card">
+            <!-- <img class="card-img-top" src="..." alt="Card image cap"> -->
+            <div class="card-body">
+                <ul class="list-group">
+                  <li class="list-group-item text-center lead" style="color:black; font-weight: 600;">4 Hour</li>
+                  <li class="list-group-item text-center lead" style="color:black; font-weight: 600;">5</li>
+                  <li class="list-group-item text-center" style="color:black; font-weight: 500;">Short production</li>
+                  <!-- <li class="list-group-item text-center" style="color:black; font-weight: 500;"></li> -->
+                  <!-- <li class="list-group-item text-center" style="color:black; font-weight: 500;"></li> -->
+                </ul>
+            </div>
+            <div class="card-footer text-center">
+                <button type="button" class="btn btn-info" data-dismiss="modal" onclick="produce(0)">Produce</button>
+            </div>
+          </div>
+          <div class="card">
+            <!-- <img class="card-img-top" src="..." alt="Card image cap"> -->
+            <div class="card-body">
+                <ul class="list-group">
+                  <li class="list-group-item text-center lead" style="color:black; font-weight: 600;">8 Hour</li>
+                  <li class="list-group-item text-center lead" style="color:black; font-weight: 600;">10</li>
+                  <li class="list-group-item text-center" style="color:black; font-weight: 500;">Medium production</li>
+                  <!-- <li class="list-group-item text-center" style="color:black; font-weight: 500;"></li> -->
+                  <!-- <li class="list-group-item text-center" style="color:black; font-weight: 500;"></li> -->
+                </ul>
+            </div>
+            <div class="card-footer text-center">
+                <button type="button" class="btn btn-info" data-dismiss="modal" onclick="produce(1)">Produce</button>
+            </div>
+          </div>
+          <div class="card">
+            <!-- <img class="card-img-top" src="..." alt="Card image cap"> -->
+            <div class="card-body">
+                <ul class="list-group">
+                  <li class="list-group-item text-center lead" style="color:black; font-weight: 600;">24 Hour</li>
+                  <li class="list-group-item text-center lead" style="color:black; font-weight: 600;">20</li>
+                  <li class="list-group-item text-center" style="color:black; font-weight: 500;">Long production</li>
+                  <!-- <li class="list-group-item text-center" style="color:black; font-weight: 500;"></li> -->
+                  <!-- <li class="list-group-item text-center" style="color:black; font-weight: 500;"></li> -->
+                </ul>
+            </div>
+            <div class="card-footer text-center">
+                <button type="button" class="btn btn-info" data-dismiss="modal" onclick="produce(2)">Produce</button>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+   <script type="text/javascript">
+      let index = 0;
+
+      let db3 = [
+        [ {header: 'Select 1a'}, {title: 'Select 1a', text: 'Text for select 1a', aaa: {stone:12, lumber:15}, go: 'Gosome 1a'}, {}, {title: 'Miles 1a', text: 'Miles 1a text...'}, {text: 'One'} ],
+        [ {header: 'Select 2a'}, {title: 'Select 2a', text: 'Text for select 2a', aaa: {stone:15, lumber:17}, go: 'Gosome 2a'}, {}, {title: 'Miles 2a', text: 'Miles 2a text...'}, {text: 'Two'} ],
+        [ {header: 'Select 3a'}, {title: 'Select 3a', text: 'Text for select 3a', aaa: {stone:18, lumber:25}, go: 'Gosome 3a'}, {}, {title: 'Miles 3a', text: 'Miles 3a text...'}, {text: 'Three'} ],
+        [ {header: 'Select 4a'}, {title: 'Select 4a', text: 'Text for select 4a', aaa: {stone:20, lumber:27}, go: 'Gosome 4a'}, {}, {title: 'Miles 4a', text: 'Miles 4a text...'}, {text: 'Four'} ],
+        [ {header: 'Select 5a'}, {title: 'Select 5a', text: 'Text for select 5a', aaa: {stone:22, lumber:31}, go: 'Gosome 5a'}, {}, {title: 'Miles 5a', text: 'Miles 5a text...'}, {text: 'Five'} ],
+        [ {header: 'Select 6a'}, {title: 'Select 6a', text: 'Text for select 6a', aaa: {stone:25, lumber:35}, go: 'Gosome 6a'}, {}, {title: 'Miles 6a', text: 'Miles 6a text...'}, {text: 'Six'} ],
+        [ {header: 'Select 7a'}, {title: 'Select 7a', text: 'Text for select 7a', aaa: {stone:27, lumber:37}, go: 'Gosome 7a'}, {}, {title: 'Miles 7a', text: 'Miles 7a text...'}, {text: 'Seven'} ],
+        [ {header: 'Select 8a'}, {title: 'Select 8a', text: 'Text for select 8a', aaa: {stone:32, lumber:43}, go: 'Gosome 8a'}, {}, {title: 'Miles 8a', text: 'Miles 8a text...'}, {text: 'Eight'} ],
+        [ {header: 'Select 9a'}, {title: 'Select 9a', text: 'Text for select 9a', aaa: {stone:36, lumber:45}, go: 'Gosome 9a'}, {}, {title: 'Miles 9a', text: 'Miles 9a text...'}, {text: 'Nine'} ],
+        [ {header: 'Select 10a'}, {title: 'Select 10a', text: 'Text for select 10a', aaa: {stone:38, lumber:47}, go: 'Gosome 10a'}, {}, {title: 'Miles 10a', text: 'Miles 10a text...'}, {text: 'Ten'} ],
+      ];
+
+      setTimeout(() => {
+        create_techTreePaged(db3);
+      }, 100);
+
+      function create_techTreePaged(db, i=0) {
+        // if(i < db.length-4) db = db.slice(i);
+        // else db = db.slice(-4);
+        let nrows = 1, ncols = 4; 
+        let colwidth = Math.round(12/ncols);
+        let options0 = { title: 'Select <i>', cls_child: 'btn-secondary btn-block', i };
+        let options1 = { title: 'Title <i>', cls_child: 'mb-0', cls_row: 'mb-3', i };
+        let options2 = {i}; options3 = { title: 'Miles <i>', cls_child: 'mb-2', i };
+        let options4 = {i, db, ncols: 4};
+        add_row('modal3-r0', ncols, add_button, options0)
+        add_row('modal3-r1', ncols, add_card3, options1)
+        add_row('modal3-r3', ncols, add_card1, options3)
+        add_list('modal3-r4', ['One', 'Two', 'Three', 'Four'], options4)
+      }
+
+      function add_button(id, {title, cls_child="btn-secondary", onclick=""}={}) {
+        if(onclick) onclick=`onclick="${onclick}(this, '${id}')"`;
+        return `       <button type="button" class="btn ${cls_child}" id="${id}-btn"${onclick}>${title}</button>`;
+      }
+      function add_list(rowid, list, {i, db, ncols, title, cls_child="", onclick=""}={}) {
+        if(onclick) onclick=`onclick="${onclick}(this, '${id}')"`;
+        if(i!==undefined && db!==undefined) list = db.filter((a,x) => x>=i && x<i+ncols).map(a => a[4].text);
+        let html = `          <ul class="list-group list-group-horizontal-md btn-block ml-2" id="${rowid}-ul">`;
+        list.forEach((val,i) => html += `            <li class="list-group-item col-md-3 ml-auto text-center" id="${rowid}-li-${i}">${val}</li>`);
+        html += `          </ul>`;
+        add_element(html, rowid);
+      }
+      function paginate_modal1({value=0, prev=0, next=0}={}) {
+        if(prev) index--; else if(next) index++;
+        else index = value;
+        [`modal3-r0`, `modal3-r1`, `modal3-r3`, `modal3-r4`].map(id => $(`#${id}`).html(''));
+        create_techTreePaged(db3, index);
+        console.log(`{value=${value}, prev=${prev}, next=${next}}`);
+      }
+  </script>
+
+    <!-- Button trigger modal -->
+    <!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal3"> -->
+      <!-- Launch 3 -->
+    <!-- </button> -->
+
+    <!-- Modal -->
+    <div class="modal fade" id="miniTechTreeModal" tabindex="-1" aria-labelledby="miniTechTreeModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-xl modal-dialog-centered" style="max-width: 1000px">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="miniTechTreeModalLabel">Modal title</h5>
+            <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body" id="modal3-body">
+            <div class="container-fluid">
+              <div class="row" id="modal3-r0"></div>
+              <div class="row mb-3" id="modal3-r1"></div>
+              <div class="row" id="modal3-r2">
+                <hr style="color:gray">
+              </div>
+              <div class="row" id="modal3-r3"></div>
+              <div class="row" id="modal3-r4"></div>
+            </div>
+          </div>
+          <div class="modal-footer">
+            <div class="container-fluid">
+              <div class="row">
+                <div class="col-md-4"></div>
+                <!-- <button type="button" class="btn btn-outline-secondary col-md-2 ml-1">Prev</button> -->
+                <!-- <button type="button" class="btn btn-outline-secondary col-md-2 ml-1">Next</button> -->
+                <!-- <div class="col-md-4 ml-1"></div> -->
+
+                <nav class="col-md-4" aria-label="Page navigation example">
+                  <ul class="pagination">
+                    <li class="page-item"><a class="page-link" onclick="paginate_modal1({prev:1})"  href="#" style="color:dimgray">Previous</a></li>
+                    <li class="page-item"><a class="page-link" onclick="paginate_modal1({value:1})" href="#" style="color:dimgray">1</a></li>
+                    <li class="page-item"><a class="page-link" onclick="paginate_modal1({value:2})" href="#" style="color:dimgray">2</a></li>
+                    <li class="page-item"><a class="page-link" onclick="paginate_modal1({value:3})" href="#" style="color:dimgray">3</a></li>
+                    <li class="page-item"><a class="page-link" onclick="paginate_modal1({next:1})"  href="#" style="color:dimgray">Next</a></li>
+                  </ul>
+                </nav>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Optional JavaScript -->
+    <script type="text/javascript">
+      $(async function() {
+          // setTimeout(function() { $('#canvas').click(); }, 1000);
+          setTimeout(function() { load_saved_data() }, 100);
+      });
+    </script>
+  </body>
+</html>

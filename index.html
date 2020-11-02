@@ -1371,6 +1371,17 @@
           function populate_tile(i, j) {
               alert(`You need to discover total poplation of 200 to start this next step. So far you have discovered total population of ${mapdata.population}. Continue uncovering new spaces until you reach this critical mass. Then you can start construction and build your civilization.`);
           }
+          function launch_building_project(i, j, _this) {
+              let revealed = retrieve_scorecard(`tiles/space-${i}-${j}`);
+              if(!revealed) return;
+              store_scorecard(`active`, {i, j});
+              console.log(`location.href = ${location.href}`)
+              let location_parts = location.href.split('/');
+              location_parts.pop();
+              let location_base = location_parts.join('/');
+              console.log(`location_base = ${location_base}`)
+              location.href = location_base + '/settle.html';
+          }
           function add_map(xn, yn, ncol) {
               let container = document.getElementById('map-grid');
               for(let j=0; j<xn; j++) {
@@ -1394,6 +1405,9 @@
           function add_grid_cell(i, j, ij, revealed) {
               if(i===undefined || j===undefined) return;
               let {icon, color, size, opacity_fg, opacity_bg} = get_grid_cell_style(i, j, revealed);
+              let {icon2, color2, size2} = {icon2: 'foundation', color2: 'dimgray', size2: '40px' };
+              let tilenum = i + j*5;
+              let build = [0,6,8,12,14,16,18].includes(tilenum);
               return `
               <!-- <div class="card"> -->
                 <!-- <img src="..." class="card-img-top" alt="..."> -->
@@ -1401,7 +1415,8 @@
                   <!-- <h5 class="card-title">Card title</h5> -->
                   <!-- <p class="card-text"></p> -->
                   <i class="material-icons btn-light" id="grid-cell-bg-${i}-${j}" style="font-size:172px;color:lightgray;opacity:${opacity_bg}" data-toggle1="clickover" data-prod="0" onclick="collect_map_space(${i}, ${j})">short_text</i>
-                  <i class="material-icons btn-light" id="grid-cell-ppl-${i}-${j}" style="font-size:${size};color:${color};opacity:${opacity_fg}; position:absolute; margin: 70px 0 0 -90px" data-toggle1="clickover" data-prod="0" onclick="launch_enrollment_quest(${i}, ${j}, this)">${icon}</i>
+                  <i class="material-icons btn-light" id="grid-cell-ppl-${i}-${j}" style="font-size:${size};color:${color};opacity:${opacity_fg}; position:absolute; margin: 70px 0 0 -120px; cursor:pointer" data-toggle1="clickover" data-prod="0" onclick="launch_enrollment_quest(${i}, ${j}, this)">${icon}</i>
+                  ${build ? `<i class="material-icons btn-light" id="grid-cell-ppl-${i}-${j}" style="font-size:${size2};color:${color2};opacity:${opacity_fg}; position:absolute; margin: 90px 0 0 -80px; cursor:pointer" data-toggle1="clickover" data-prod="0" onclick="launch_building_project(${i}, ${j}, this)">${icon2}</i>` : ``}
                 </div>
               <!-- </div> -->`;
           }
