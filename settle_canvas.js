@@ -74,6 +74,12 @@ var _people_values; // = people_db.values;
 var _images = []; // its a 2d-array
 var _images_special = {};
 
+var _game_speedx = 1;
+var _delay_speedx = 1;
+
+var _pieces_status = [];
+var _status_report = '';
+
 // var _blocked = [1,2,4,5]
 var _blocked = [3,4,5,9,10,11,15,16,17];
 var _locked = [18,19,20,21,22,23,24,25,26,27,28,29,31,32,33,34,35];
@@ -128,7 +134,7 @@ async function loop() {
     // let ready = 0;
     let counter = 0;
     while(1) {
-        await delay(1);
+        await delay(1, _delay_speedx);
         for(i=0; i < _pieces.length; i+=1) {
             piece = _pieces[i];
             if(!piece.entity) continue;
@@ -141,7 +147,7 @@ async function loop() {
             if(!piece.entity) continue;
             // console.log(`loop....4`)
             console.log(`loop....i=${i}`)
-            if(!ready(piece)) continue;
+            if(!ready(piece, i)) continue;
             // console.log(`loop....5`)
             piece.entity.flagged = 1;
             changeImage(piece, {ready:1});
@@ -155,28 +161,69 @@ async function loop() {
             // save_data();
             counter = 0;
         }
+        update_status();
      }
 
     function timenow() {
         return (new Date).getTime();
     }
-    function ready(piece) {
+    function ready(piece, location=-1) {
         if(!piece || !piece.entity) return;
         if(piece.entity.collected) return 0;
         let current_time = timenow();
         let duration = current_time - piece.entity.start_time;
         let isel = piece.entity.isel || 0;
     console.log(piece)
-    console.log(`location = ${piece.entity.i})`)
+    console.log(`location = ${location})`)
     console.log(`duration(${duration})..2i`)
     console.log(`current_time(${current_time})..2i`)
     console.log(`piece.start_time(${piece.entity.start_time})..2i`)
     console.log(`piece.duration[isel]=${piece.entity.duration[isel]})..2i`)
-    let remaining = (duration/1000 - piece.entity.duration[isel]*60)/1;
-    console.log(`time remaining = ${-remaining} seconds ...2i`)
-        if(duration/1000 > piece.entity.duration[isel]*60) {
+    // let remaining = (duration/1000 - piece.entity.duration[isel]*60)/1;
+    // console.log(`time remaining = ${-remaining} seconds ...2i`)
+    //     if(duration/1000 > piece.entity.duration[isel]*60) {
+    //         return true;
+    //     }
+    // }
+        let divisor = 1000/_game_speedx;
+        let remaining = -(duration/divisor - piece.entity.duration[isel]*60)/_game_speedx;
+        console.log(`time remaining = ${remaining} seconds ...2i`)
+        if(remaining > 0) piece.entity.remaining = Math.floor(remaining);
+        else piece.entity.remaining = 0;
+        if(duration/divisor > piece.entity.duration[isel]*60) {
             return true;
         }
+    }
+    function update_status() {
+        let report = ''; _pieces_status = [];
+        for(let i in _pieces) {
+            let piece = _pieces[i];
+            let status = 'Idle';
+            ready(piece, i);
+            // console.log(`0...${i}...${status}`)
+            // console.log(`0...${i}...`, piece.entity)
+            if(!piece || !piece.entity) continue;
+            if(!piece.entity.collected) status = `Ready`;
+            let interval = piece.entity.interval;
+            let quantity = piece.entity.quantity;
+            let intervalplus = (interval>=60) ? round(interval/60)+'h' : interval+'m';
+            // console.log(`1...${i}...${status}`)
+            let remaining = piece.entity.remaining;
+            if(remaining > 0) {
+                let hours = Math.floor(remaining/3600);
+                let minutes = remaining%3600;
+                let seconds = minutes%60;
+                minutes = Math.floor(minutes/60);
+                status = `<b>Running</b>. [interval ${intervalplus}, quantity ${quantity}]     Time remaining <b>${hours}h: ${minutes}m: ${seconds}s</b>`;
+            } else if(!piece.entity.collected) { status = `<b>Ready.</b>   [interval ${intervalplus}, quantity ${quantity}]`; }
+            // console.log(`2...${i}...${status} `, remaining)
+            _pieces_status.push({i, status});
+            report += `Location ${i}        ${status}\n`;
+            // console.log(`3...${i}...${status}`)
+        }
+        _status_report = report;
+        // console.log(`_status_report = ${_status_report}`);
+        return _status_report;
     }
 }
 function changeImage(piece, {ready=0, idle=0, running=0}) {
@@ -332,7 +379,7 @@ function allocate_people(index, level) {
     let needed = _people_values[index][level];
     let roster = _people.enrolled + _people.temps;
     let available = roster - _people.housed;
-    if(_people.temps) available += _people.temps;
+    // if(_people.temps) available += _people.temps;
     let message = '';
     if(index===0) { // housing building
         if(available >= needed) _people.housed += needed;
@@ -381,9 +428,12 @@ function addTile(index=0, level=0, variant=0, i=_scorner, {ready=1}={}) {
 }
 function loadTile(piece, i=_scorner, {load=1}={}) {
     if(!piece || !piece.entity) return;
+    let state = 0; // idle
+    if(ready(piece, i)) state = 1;
+    else if(piece.entity.remaining>0) state = 2;
     let level = piece.entity.content.level;
     let index = piece.entity.content.index;
-    let image = _images[index][level][0];
+    let image = _images[index][level][state];
     _stage.drawImage(image, 0, 0, image.width, image.height, piece.sx, piece.sy, _pieceWidth, _pieceHeight);
     _stage.strokeRect(piece.sx, piece.sy, _pieceWidth,_pieceHeight);
     if(load) _img.src = _canvas.toDataURL();
@@ -542,6 +592,11 @@ function configure(piece) {
     _configuringPiece = piece;
     let index = piece.entity.content.index;
     let modal_id = (index===0 || index===1) ? 'miniProduction6Modal' : 'miniProduction4Modal';
+    if(index===0 || index===1) {
+        createMiniProduction6();
+    } else {
+        createMiniProduction4();
+    }
     $(`#${modal_id}`).on('hidden.bs.modal', async function (e) {
         // await delay(1);
         document.onmousedown = _edit_mode ? onPuzzleClick : onPuzzleClick2;

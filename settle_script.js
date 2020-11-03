@@ -121,7 +121,7 @@ const content_values_db = {
 };
 
 const people_db = {
-    people: { max: 200, enrolled: 50, housed: 0, used: 0, temps: 0 },
+    people: { max: 200, enrolled: 50, housed: 0, used: 0, temps: 5 },
     values: [
         [16, 59],
         [17, 38],
@@ -145,7 +145,7 @@ const unlocked_db = {
 
 const unlocking_db_bak = [
     // stone era
-    { cost: {stone:  0, lumber: 0, iron: 0, dye: 0 },       gain: { coins: 0,    knock: 0,        spaces: 0, temps: 0} },
+    { cost: {stone:  0, lumber: 0, iron: 0, dye: 0 },       gain: { coins: 0,    knock: 0,        spaces: 0, temps: 5 } },
     { cost: {stone: 10, lumber: 0, iron: 0, dye: 0 },       gain: { supplies: 0, greet: 0,        spaces: 0, temps: 5 } },
     { cost: {stone: 20, lumber: 0, iron: 0, dye: 0 },       gain: { supplies: 1, lumber: 0,       spaces: 0, temps: 5 } },
     // lumber era
@@ -169,13 +169,13 @@ const unlocking_db_bak = [
 
 const unlocking_db = [
     // stone era
-    { cost: {stone:  0, lumber: 0 },       gain: { coins: 0,    temps: 0} },
-    { cost: {stone: 10, lumber: 0 },       gain: { coins: 1,    temps: 5 } },
+    { cost: {stone:  0, lumber: 0 },       gain: { coins: 0,    temps: 5 } },
+    { cost: {stone: 10, lumber: 0 },       gain: { coins: 1,    temps: 10 } },
     { cost: {stone: 20, lumber: 0 },       gain: { lumber: 0,   temps: 5 } },
     // lumber era
-    { cost: {stone: 20, lumber: 0 },       gain: { supplies: 1,    temps: 5} },
-    { cost: {stone: 10, lumber: 30 },      gain: { trading: 0,   temps: 5 } },
-    { cost: {stone: 30, lumber: 30 },      gain: { none: 0,   temps: 5 } },
+    { cost: {stone:  0, lumber: 20 },      gain: { supplies: 1,     temps: 10} },
+    { cost: {stone: 30, lumber: 20 },      gain: { trading: 0,      temps: 5 } },
+    { cost: {stone: 30, lumber: 30 },      gain: { none: 0,         temps: 5 } },
 ];
 let current_era = 0;
 
@@ -202,6 +202,33 @@ let auto_pilot = {
 
 function timenow() {
     return (new Date).getTime();
+}
+function deleteAllProgress() {
+    store_scorecard(`build/space-${tile.i}-${tile.j}`);
+}
+function runWithSpeedup(speedx, _this) {
+    if(_this) {
+        // if(_this.parentNode.tagName==='a') _this = _this.parentNode;
+        if(_this.parentNode.style.color==='red') {
+            _this.parentNode.style.color="dimgray";
+            _game_speedx = 1;  _delay_speedx = 1;
+        } else {
+            _this.parentNode.style.color="red";
+            _game_speedx = speedx;
+            _delay_speedx = (_game_speedx>100) ? 5 : 1;
+        }
+    }
+}
+function editTilesWrapper(_this) {
+    editTiles();
+    if($(_this).hasClass('btn-outline-primary')) {
+        $(_this).removeClass('btn-outline-primary')
+        $(_this).addClass('btn-light')
+    }
+    else if($(_this).hasClass('btn-light')) {
+        $(_this).removeClass('btn-light')
+        $(_this).addClass('btn-outline-primary')
+    }
 }
 
 function get_collected(name) {
@@ -321,6 +348,18 @@ function display_collection(collection) {
     display_collected('iron', collection.iron);
     display_collected('dye', collection.dye);
 }
+function get_interval_quantity_cost(piece, op='run', i) {
+    if(!piece) piece = _configuringPiece;
+    if(!piece || !piece.entity) return;
+    let index = piece.entity.content.index;
+    let level = piece.entity.content.level;
+    let name = name_lookup[index];
+    let interval = content_values_db.interval[name][level];
+    let quantity = content_values_db.quantity[name][level];
+    let cost = dependencies_db[op][name][level]
+    console.log(`index=${index}, name=${name}, level=${level}, cost=`, dependencies_db[op][name]);
+    return {interval, quantity, cost};
+}
 function set_interval_quantity(piece, i) {
     let index = piece.entity.content.index;
     let level = piece.entity.content.level;
@@ -354,8 +393,8 @@ function produce(i) {
     start(piece);
 }
 
-function ready(piece) {
-    console.log(`ready(${piece.entity})..0`)
+function ready(piece, location=-1) {
+    console.log(`ready(${piece.entity}, ${location})..0`)
     if(!piece || !piece.entity) return;
     console.log(`ready(${piece.entity})..1`)
     if(piece.entity.collected) return 0;
@@ -363,14 +402,21 @@ function ready(piece) {
     let current_time = timenow();
     let duration = current_time - piece.entity.start_time;
     let isel = piece.entity.isel || 0;
+    console.log(`location = ${location})`)
     console.log(`duration(${duration})..2`)
     console.log(`current_time(${current_time})..2`)
     console.log(`piece.entity.start_time(${piece.entity.start_time})..2`)
     console.log(`piece.entity.duration[isel]=${piece.entity.duration[isel]})..2`)
     console.log(`ready(${piece.entity})..3`)
-    if(duration/1000 > piece.entity.duration[isel]*60) {
+    let divisor = 1000/_game_speedx;
+    let remaining = -(duration/divisor - piece.entity.duration[isel]*60)/_game_speedx;
+    console.log(`time remaining = ${remaining} seconds ...2i`)
+    if(duration/divisor > piece.entity.duration[isel]*60) {
         return true;
     }
+    // if(duration/1000 > piece.entity.duration[isel]*60) {
+    //     return true;
+    // }
     console.log(`ready(${piece.entity})..4`)
     return false; //TBD
 }
@@ -430,7 +476,8 @@ function collect_all_once(mode={collect:1, run:1}) {
     if(mode.run===undefined) mode.run = 1;
     console.log(`collect_all()`);
     let collected = 0, running = 0, instances = [];
-    for(let piece of _pieces) {
+    for(let index in _pieces) {
+        let piece = _pieces[index];
         console.log(`0piece.entity=${piece.entity}`);
         if(!piece.entity) continue;
         instances[piece.entity.content.index] = 1;
@@ -443,7 +490,8 @@ function collect_all_once(mode={collect:1, run:1}) {
         console.log(`3piece.entity=${piece.entity}`);
         if(!piece.entity.running && mode.run) {
             _configuringPiece = piece;
-            produce(auto_pilot.interval);
+            let interval = piece.entity.content.index>1 ? auto_pilot.interval : auto_pilot.interval+3;
+            produce(interval);
             console.log(`4piece.entity=${piece.entity}`);
             running++;
             continue;
@@ -494,7 +542,7 @@ async function collect_all_loop(mode={run:10,build:0}) {
         }
         update_autopilot_display();
         if(auto_pilot.counter>=auto_pilot.maxturns) break;
-        await delay(1);
+        await delay(1, _delay_speedx);
     }
     update_autopilot_display();
     $('#collect-loop').css('color', 'gray');
@@ -531,6 +579,9 @@ function unlock_era(mode={build:1,alert:0}) {
     //     unpopulate_all();
     //     populate_era();
     // }
+    // if(current_era>=unlocking_db.length-1) {
+    //     tile.level++;
+    // }
 }
 function populate_era() {
     let house=0, supplies=1, stone=2, lumber=3, iron=4, dye=5;
@@ -542,33 +593,33 @@ function populate_era() {
     else if(collection.iron < 50 && current_era>=5) production = iron;
     else if(collection.dye < 50 && current_era>=8) production = dye;
     // addTile(index=0, level=0, variant=0, loc=i)
-    add_building(house, 0, 2, 0);
-    add_building(house, 0, 2, 1);
-    add_building(house, 0, 2, 6);
-    if(have_resources1(1)) add_building(house, 0, 2, 7);  else if(have_resources1(0)) add_building(0, 0, 2, 7);
-    if(have_resources1(1)) add_building(house, 0, 2, 12); else if(have_resources1(0)) add_building(0, 0, 2, 12);
-    if(have_resources1(1)) add_building(house, 0, 2, 13); else if(have_resources1(0)) add_building(0, 0, 2, 13);
-    if(have_resources1(1)) add_building(house, 0, 2, 18); else if(have_resources1(0)) add_building(0, 0, 2, 18);
-    if(have_resources1(1)) add_building(house, 0, 2, 19); else if(have_resources1(0)) add_building(0, 0, 2, 19);
-    if(have_resources1(1)) add_building(house, 0, 2, 24); else if(have_resources1(0)) add_building(0, 0, 2, 24);
-    if(have_resources1(1)) add_building(house, 0, 2, 25); else if(have_resources1(0)) add_building(0, 0, 2, 25);
-    if(have_resources1(1)) add_building(house, 0, 2, 30); else if(have_resources1(0)) add_building(0, 0, 2, 24);
-    if(have_resources1(1)) add_building(house, 0, 2, 31); else if(have_resources1(0)) add_building(0, 0, 2, 25);
-    add_building(supplies, 0, 2, 2);
-    if(have_resources2(supplies,1)) add_building(supplies, 0, 2, 8);  else if(have_resources2(supplies,0)) add_building(supplies, 0, 2, 8);
-    if(have_resources2(production,1)) add_building(production, 0, 2, 14); else if(have_resources2(production,0)) add_building(production, 0, 2, 14);
-    if(have_resources2(production,1)) add_building(production, 0, 2, 22); else if(have_resources2(production,0)) add_building(production, 0, 2, 22);
-    if(have_resources2(production,1)) add_building(production, 0, 2, 23); else if(have_resources2(production,0)) add_building(production, 0, 2, 23);
-    if(have_resources2(production,1)) add_building(production, 0, 2, 27); else if(have_resources2(production,0)) add_building(production, 0, 2, 27);
-    if(have_resources2(production,1)) add_building(production, 0, 2, 28); else if(have_resources2(production,0)) add_building(production, 0, 2, 28);
-    if(have_resources2(production,1)) add_building(production, 0, 2, 29); else if(have_resources2(production,0)) add_building(production, 0, 2, 29);
-    if(have_resources2(production,1)) add_building(production, 0, 2, 33); else if(have_resources2(production,0)) add_building(production, 0, 2, 33);
-    if(have_resources2(production,1)) add_building(production, 0, 2, 34); else if(have_resources2(production,0)) add_building(production, 0, 2, 34);
-    if(have_resources2(production,1)) add_building(production, 0, 2, 35); else if(have_resources2(production,0)) add_building(production, 0, 2, 35);
-    if(have_resources2(supplies,1)) add_building(supplies, 0, 2, 14); else if(have_resources2(supplies,0)) add_building(supplies, 0, 2, 14);
-    if(have_resources2(supplies,1)) add_building(supplies, 0, 2, 13); else if(have_resources2(supplies,0)) add_building(supplies, 0, 2, 13);
-    if(have_resources2(supplies,1)) add_building(supplies, 0, 2, 26); else if(have_resources2(supplies,0)) add_building(supplies, 0, 2, 26);
-    if(have_resources2(supplies,1)) add_building(supplies, 0, 2, 32); else if(have_resources2(supplies,0)) add_building(supplies, 0, 2, 26);
+    add_building(house, 0, 0, 0);
+    add_building(house, 0, 0, 1);
+    add_building(house, 0, 0, 6);
+    if(have_resources1(1)) add_building(house, 0, 0, 7);  else if(have_resources1(0)) add_building(0, 0, 0, 7);
+    if(have_resources1(1)) add_building(house, 0, 0, 12); else if(have_resources1(0)) add_building(0, 0, 0, 12);
+    if(have_resources1(1)) add_building(house, 0, 0, 13); else if(have_resources1(0)) add_building(0, 0, 0, 13);
+    if(have_resources1(1)) add_building(house, 0, 0, 18); else if(have_resources1(0)) add_building(0, 0, 0, 18);
+    if(have_resources1(1)) add_building(house, 0, 0, 19); else if(have_resources1(0)) add_building(0, 0, 0, 19);
+    if(have_resources1(1)) add_building(house, 0, 0, 24); else if(have_resources1(0)) add_building(0, 0, 0, 24);
+    if(have_resources1(1)) add_building(house, 0, 0, 25); else if(have_resources1(0)) add_building(0, 0, 0, 25);
+    if(have_resources1(1)) add_building(house, 0, 0, 30); else if(have_resources1(0)) add_building(0, 0, 0, 24);
+    if(have_resources1(1)) add_building(house, 0, 0, 31); else if(have_resources1(0)) add_building(0, 0, 0, 25);
+    add_building(supplies, 0, 0, 2);
+    if(have_resources2(supplies,1)) add_building(supplies, 0, 0, 8);  else if(have_resources2(supplies,0)) add_building(supplies, 0, 0, 8);
+    if(have_resources2(production,1)) add_building(production, 0, 0, 14); else if(have_resources2(production,0)) add_building(production, 0, 0, 14);
+    if(have_resources2(production,1)) add_building(production, 0, 0, 22); else if(have_resources2(production,0)) add_building(production, 0, 0, 22);
+    if(have_resources2(production,1)) add_building(production, 0, 0, 23); else if(have_resources2(production,0)) add_building(production, 0, 0, 23);
+    if(have_resources2(production,1)) add_building(production, 0, 0, 27); else if(have_resources2(production,0)) add_building(production, 0, 0, 27);
+    if(have_resources2(production,1)) add_building(production, 0, 0, 28); else if(have_resources2(production,0)) add_building(production, 0, 0, 28);
+    if(have_resources2(production,1)) add_building(production, 0, 0, 29); else if(have_resources2(production,0)) add_building(production, 0, 0, 29);
+    if(have_resources2(production,1)) add_building(production, 0, 0, 33); else if(have_resources2(production,0)) add_building(production, 0, 0, 33);
+    if(have_resources2(production,1)) add_building(production, 0, 0, 34); else if(have_resources2(production,0)) add_building(production, 0, 0, 34);
+    if(have_resources2(production,1)) add_building(production, 0, 0, 35); else if(have_resources2(production,0)) add_building(production, 0, 0, 35);
+    if(have_resources2(supplies,1)) add_building(supplies, 0, 0, 14); else if(have_resources2(supplies,0)) add_building(supplies, 0, 0, 14);
+    if(have_resources2(supplies,1)) add_building(supplies, 0, 0, 13); else if(have_resources2(supplies,0)) add_building(supplies, 0, 0, 13);
+    if(have_resources2(supplies,1)) add_building(supplies, 0, 0, 26); else if(have_resources2(supplies,0)) add_building(supplies, 0, 0, 26);
+    if(have_resources2(supplies,1)) add_building(supplies, 0, 0, 32); else if(have_resources2(supplies,0)) add_building(supplies, 0, 0, 26);
 }
 function populate_era_old() {
     let house=0, supplies=1, stone=2, lumber=3, iron=4, dye=5;
@@ -633,8 +684,8 @@ function have_resources2(ib=1, level=0) {
     if(available >= needed) return 1;
     return 0;
 }
-function add_building(index, level, aaa, location) {
-    return addTile(index, level, aaa, location);
+function add_building(index, level, variant, location) {
+    return addTile(index, level, variant, location, {ready:0});
 }
 
 function display_unlocked(gain) {
@@ -658,6 +709,9 @@ function display_unlocked(gain) {
     if(gain.lumber!==undefined) $(document.getElementById('lib-lumber-'+gain.lumber)).prop('hidden', false);
     if(gain.iron!==undefined) $(document.getElementById('lib-iron-'+gain.iron)).prop('hidden', false);
     if(gain.dye!==undefined) $(document.getElementById('lib-dye-'+gain.dye)).prop('hidden', false);
+    // add temps
+    let roster = people_db.people.enrolled + people_db.people.temps;
+    document.getElementById('score-people-roster').textContent = roster;
 }
 function display_unlocked2(gain) {
     if(gain.form!==undefined) $(document.getElementById('mini-form')).removeClass('text-muted');
@@ -800,6 +854,11 @@ function load_saved_data(i=1, j=1) {
         build_db.unlocked_db  = Object.assign(unlocked_db, _build_db.unlocked_db);
         build_db.unlocking_db  = Object.assign(unlocking_db, _build_db.unlocking_db);
         document.getElementById('era').textContent = current_era;
+        for(let name in unlocked_db) {
+            for(let i in unlocked_db[name]) {
+                if(unlocked_db[name][i]) $(`#lib-${name}-${i}`).prop('disabled', false);
+            }
+        }
     }
     function load_tile_levels(data) {
         if(!data) return;

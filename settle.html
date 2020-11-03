@@ -109,6 +109,27 @@
           <li class="nav-item">
             <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-3" id="unlock-era" style="font-size:22px;color:gray;background:white; float-left" onclick="save_data()" data-toggle="tooltip" title="Expedition">save</i></a>
           </li>
+          <li class="nav-item">
+            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-3" id="status-report" style="font-size:22px;color:gray;background:white; float-left" onclick="launchStatusReportModal()" data-toggle="tooltip" title="Production status">network_check</i></a>
+          </li>
+          <!-- <div class="col-2"></div> -->
+          <div style="display: inline-flex;" hidden>
+              <li class="nav-item">
+                <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="status-report" style="font-size:24px;color:gray;background:white; float-left" onclick="runWithSpeedup(10,this)" data-toggle="tooltip" title="Production status">fast_forward</i>10x</a>
+              </li>
+              <li class="nav-item">
+                <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="status-report" style="font-size:24px;color:gray;background:white; float-left" onclick="runWithSpeedup(100,this)" data-toggle="tooltip" title="Production status">fast_forward</i>100x</a>
+              </li>
+              <li class="nav-item">
+                <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="status-report" style="font-size:24px;color:gray;background:white; float-left" onclick="runWithSpeedup(1000,this)" data-toggle="tooltip" title="Production status">fast_forward</i>1000x</a>
+              </li>
+              <li class="nav-item">
+                <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="status-report" style="font-size:24px;color:gray;background:white; float-left" onclick="runWithSpeedup(10000,this)" data-toggle="tooltip" title="Production status">fast_forward</i>10000x</a>
+              </li>
+              <li class="nav-item">
+                <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="status-report" style="font-size:24px;color:gray;background:white; float-right" onclick="deleteAllProgress(this)" data-toggle="tooltip" title="Production status">clear</i></a>
+              </li>
+          </div>
         </ul>
       </div>
     </nav>
@@ -205,12 +226,18 @@
           <li class="nav-item">
             <a type="button"><i class="material-icons btn-light mt-1 ml-1 mr-3" id="unlock-era" style="font-size:22px;color:gray;background:white; float-left" onclick="populate_era()" data-toggle="tooltip" title="Build automatically">construction</i></a>
           </li>
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <a type="button"><i class="material-icons btn-light mt-1 ml-1 mr-3" id="unlock-era" style="font-size:22px;color:gray;background:white; float-left" onclick="unpopulate_all()" data-toggle="tooltip" title="Delete all buildings">delete_sweep</i></a>
-          </li>
+          </li> -->
         </ul>
       </div>
     </nav>
+
+      <ul class="navbar-nav nav-sm">
+        <li class="nav-item ml-auto mr-5">
+          <a type="button"><i class="material-icons btn-light mt-1" id="unlock-era" style="font-size:24px;color:gray;background:white;" onclick="unpopulate_all()" data-toggle="tooltip" title="Delete all buildings">delete_sweep</i></a>
+        </li>
+      </ul>
 
 
     <nav class="navbar fixed-bottom navbar-expand-sm navbar-light bg-light pos-f-t">
@@ -227,7 +254,7 @@
         <div class="dropdown-menu">
           <h6 class="ml-2">Housing</h6>
           <button class="btn btn-sm" id="lib-coins-0" onclick="addTile(0, 0)"> <img src="content/img/house-top-1.png" width="70" /></button>
-          <button class="btn btn-sm" id="lib-coins-1" onclick="addTile(0, 0)" disabled> <img src="content/img/house-top-2.jpg" width="70" /></button>
+          <button class="btn btn-sm" id="lib-coins-1" onclick="addTile(0, 1)" disabled> <img src="content/img/house-top-2.jpg" width="70" /></button>
           <div class="dropdown-divider"></div>
           <h6 class="ml-2">Supplies</h6>
           <button class="btn btn-sm" id="lib-supplies-0" onclick="addTile(1, 0)"> <img src="content/img/market-icon-1.jpg" width="60" /></button>
@@ -251,14 +278,14 @@
           <button class="btn xbtn-sm btn-light material-icons" style="xcolor:orange" onclick="launchMiniExpeditionBasicModal()">view_comfy</button>
         </li>
         <li class="nav-item ml-2">
-          <button class="btn xbtn-sm btn-light material-icons active" style="xcolor:orange" onclick="editTiles()" data-toggle="button" aria-pressed="true" active>open_with</button>
+          <button class="btn xbtn-sm btn-outline-primary material-icons active" style="xcolor:orange" onclick="editTilesWrapper(this)" data-toggle="button" aria-pressed="true" active>open_with</button>
         </li>
         <li><div class="ml-2"></div></li>       
         <li class="nav-item">
           <button class="btn xbtn-sm btn-light material-icons" style="xcolor:black" onclick="deleteTile()" xdata-toggle="button" xaria-pressed="true">delete_forever</button>
         </li>
       </ul>
-      <ul class="navbar-nav fade" style="float:right">
+      <!-- <ul class="navbar-nav fade" style="float:right">
         <li class="nav-item active">
             <button class="btn btn-light btn-sm"><i class="material-icons btn-light" id="collect-prod-${i}" style="font-size:28px;color:black" onclick="collect_run(0)">gavel</i></button>
         </li>
@@ -271,7 +298,7 @@
         <li class="nav-item active">
             <button class="btn btn-light btn-sm"><i class="material-icons btn-light" id="collect-prod-${i}" style="font-size:28px;color:teal" onclick="collect_run(1)">tour</i></button>
         </li>
-      </ul>
+      </ul> -->
     </div>
   </nav>
 
@@ -282,6 +309,7 @@
           createMiniLeftEventModal();
           createMiniLeftProgressModal();
           createMiniGenericModal();
+          createStatusReportModal();
       });
       // Register modal event listner 
       // $(() => {
@@ -304,6 +332,10 @@
       function launchMiniLeftProgressModal() {
           // $('#miniLeftProgressModal').modal()
           $('#miniTechTreeBasicModal').modal()
+      }
+      function launchStatusReportModal() {
+          callStatusReportModal();
+          $('#statusReportModal').modal()
       }
       $(() => {
           createMiniFormModal();
@@ -479,6 +511,18 @@
             `,
             cancel:{}, submit:{}, maxwidth: '1050px'});
       }
+      function createStatusReportModal(id='statusReportModal') {
+          let status = _status_report ? _status_report : 'Nothing is running!';
+          createModal(id, {
+            cls_modal: ``, cls_dialog: `modal-xl modal-dialog`, cls_body: ``,
+            title: 'Status', header: '', footer: '',
+            body:`
+                    <div class="container-fluid">
+                      ${status}
+                    </div>
+            `,
+            cancel:{}, submit:{}, maxwidth: '900px'});
+      }
       function createMiniGenericModal(id='miniGenericModal') {
           createModal(id, {
             cls_modal: `fade`, cls_dialog: `modal-xl modal-dialog-centered`, cls_body: ``,
@@ -541,9 +585,11 @@
           $('#miniTechTreeBasicModal').modal()
       }
       function launchMiniProduction4Modal() {
+          createMiniProduction4();
           $('#miniProduction4Modal').modal()
       }
       function launchMiniProduction6Modal() {
+          createMiniProduction6();
           $('#miniProduction6Modal').modal()
       }
       function launchMiniNegotiatorModal() {
@@ -636,11 +682,34 @@ function callMiniExpeditionBasic(mode={run:0,build:0,alert:1}) {
     createMiniExpeditionBasic();
     if(current_era >= expedition_db.length-1) setTimeout(function() {
         if(confirm('You have completed this level!\nTo claim this level now, click Okay. To claim later, click Cancel.')) {
-          alert(`You have leveled-up your building on the main map. Go back to the map to see it for yourself.`)
+          alert(`You have leveled-up your building on the main map. Go back to the map to see it for yourself.`);
+          if(tile.level < 9) tile.level++;
         }
     }, 100);
     // $('#miniExpeditionBasicModal').modal()
 }
+function callStatusReportModal() {
+    let report = '';
+    let elm = document.getElementById('statusReportModal-body');
+    for(let {i, status} of _pieces_status) {
+        let piece = _pieces[i];
+        if(!piece || !piece.entity) return;
+        let state = 0; // idle
+        if(ready(piece, i)) state = 1;
+        else if(piece.entity.remaining>0) state = 2;
+        if(state===0) report += `<label>Location ${i}</label>        <i style="color:gray">${status}</i><br>`;
+        if(state===1) report += `<label>Location ${i}</label>        <lead style="color:green">${status}</lead><br>`;
+        if(state===2) report += `<label>Location ${i}</label>        <lead style="color:black">${status}</lead><br>`;
+    }
+    if(!report) report = 'Nothing is running!';
+    if(elm) elm.innerHTML = `<div style="margin-left:10px;white-space:pre;">${report}</div>`;
+}
+function cleanupElementsInnerHTML(id) {
+    for(let i of [0,1,2,3,4,5]) {  if($(`#${id}${i}`)) $(`#${id}${i}`).html('');  }
+}
+// function cleanupElementsInnerHTML(...list) {
+//     for(let id of list) {  $(`#${id}`).html('');  }
+// }
 
       function createMiniTechTreeBasic(id='miniTechTreeBasic') {
         let nrows = 1, ncols = 4, modal_id = id + 'Modal'; 
@@ -684,8 +753,15 @@ function callMiniExpeditionBasic(mode={run:0,build:0,alert:1}) {
       function createMiniProduction4(id='miniProduction4') {
         let nrows = 1, ncols = 4, modal_id = id + 'Modal'; 
         let interval = ['4 Hours', '8 Hours', '24 Hours', '48 Hours'];
-        let quantity = [5, 10, 20, 30];
-        let cost = [[100,1000], [100,2000], [100,4000], [100,8000]];
+        // let quantity = [5, 10, 20, 30];
+        // let cost = [[100,1000], [100,2000], [100,4000], [100,8000]];
+        let quantity = [0, 0, 0, 0];
+        let cost = [[0,0], [0,0], [0,0], [0,0]];
+        let data = get_interval_quantity_cost();
+        if(!data) return;
+        let [intervals, quantities, costs] = [data.interval, data.quantity, data.cost];   quantity = quantities.slice(0,4);
+        if(costs) cost = [0,1,2,3].map(function(i) { let coins=costs.coins||[]; let supplies=costs.supplies||[]; return [coins[i]||0, supplies[i]||0] });
+        cleanupElementsInnerHTML(`${modal_id}-r`);
         let colwidth = Math.round(12/ncols);
         let options0 = { title: interval, cls_child: 'btn-secondary btn-block' };
         let options1 = { title: '', quantity, interval, cost: cost, onclick: 'produce(<i>)', cls_child: 'mb-0', cls_row: 'mb-3' };
@@ -696,16 +772,30 @@ function callMiniExpeditionBasic(mode={run:0,build:0,alert:1}) {
       function createMiniProduction6(id='miniProduction6') {
         let nrows = 1, ncols = 3, modal_id = id + 'Modal'; 
         let interval = ['5 Minutes', '15 Minutes', '1 Hour'];
-        let quantity = [20, 50, 100];
-        let cost = [[100,0], [100,0], [100,0]];
+        // let quantity = [20, 50, 100];
+        // let cost = [[100,0], [100,0], [100,0]];
+        let quantity = [0, 0, 0];
+        let cost = [[0,0], [0,0], [0,0]];
+        let data = get_interval_quantity_cost();
+        // console.log(`-----------------------------------------data=`, data)
+        if(!data) return;
+        let [intervals, quantities, costs] = [data.interval, data.quantity, data.cost];   quantity = quantities.slice(0,3);
+        if(costs) cost = [0,1,2].map(function(i) { let coins=costs.coins||[]; let supplies=costs.supplies||[]; return [coins[i]||0, supplies[i]||0] });
+        // console.log(`-----------------------------------------quantity=`, quantity)
+        // console.log(`-----------------------------------------cost=`, cost)
+        // cleanupElementsInnerHTML(`${modal_id}-r0`, `${modal_id}-r1`, `${modal_id}-r3`, `${modal_id}-r4`);
+        cleanupElementsInnerHTML(`${modal_id}-r`);
         let colwidth = Math.round(12/ncols);
         let options0 = { title: interval, cls_child: 'btn-secondary btn-block', compact: true };
         let options1 = { title: '', quantity, interval, cost: cost, onclick: 'produce(<i>)', cls_child: 'mb-0', cls_row: 'mb-3', compact: true };
         add_row(`${modal_id}-r0`, ncols, add_button, options0)
         add_row(`${modal_id}-r1`, ncols, add_card3, options1)
         interval = ['4 Hours', '8 Hours', '24 Hours'];
-        quantity = [200, 500, 1000];
-        cost = [[100,0], [100,0], [100,0]];
+        // quantity = [200, 500, 1000];
+        quantity = [0, 0, 0];
+        cost = [[0,0], [0,0], [0,0]];
+        [intervals, quantities, costs] = [data.interval, data.quantity, data.cost];   quantity = quantities.slice(3,6);
+        if(costs) cost = [3,4,5].map(function(i) { let coins=costs.coins||[]; let supplies=costs.supplies||[]; return [coins[i]||0, supplies[i]||0] });
         colwidth = Math.round(12/ncols);
         options0 = { title: interval, cls_child: 'btn-secondary btn-block', compact: true };
         options1 = { title: '', quantity, interval, cost: cost, offset: 3, onclick: 'produce(<i>)', cls_child: 'mb-0', cls_row: 'mb-3', compact: true };
