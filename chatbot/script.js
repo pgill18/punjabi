@@ -115,8 +115,8 @@ function launchUtilModal_chatbot(_this, title, {text, size=''}={}) {
     $(`#utilModal`).modal('show');
 }
 
-function typeAnswer_chatbot(debug) {
-    if(!debug) return;
+function typeAnswer_chatbot(src) {
+    if(src==='debug' && !DEBUG_MODE) return false;
     $(".chatbot-mytext").val(data_chatbot.answer);
     const ke = new KeyboardEvent('keydown', {
         bubbles: true, cancelable: true, keyCode: 13
@@ -124,10 +124,10 @@ function typeAnswer_chatbot(debug) {
     // document.body.dispatchEvent(ke);
     document.getElementsByClassName("chatbot-mytext")[0].dispatchEvent(ke);
 }
-function addJoined_chatbot(debug) {
-    if(!debug) return;
+function addJoined_chatbot(src) {
+    if(src==='debug' && !DEBUG_MODE) return false;
     score_chatbot.points = 100;
-    typeAnswer_chatbot(debug);
+    typeAnswer_chatbot(src);
 }
 
 function readKey_chatbot() {
