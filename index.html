@@ -1913,7 +1913,7 @@
           }
 
           function is_active_quiz(quiz) {
-              let layout_list = retrieve_scorecard(`layout`);
+              let layout_list = retrieve_scorecard(`layout`) || make_layout();
               if(layout_list.length>0 && match_info_any(quiz.info, layout_list)) {
                   return true;
               }
