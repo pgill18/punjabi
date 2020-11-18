@@ -12,29 +12,35 @@ quizzes2.push(content_quizzes2_quiz8());
 quizzes2.push(content_quizzes2_quiz9());
 quizzes2.push(content_quizzes2_quiz10());
 quizzes2.push(content_quizzes2_quiz11());
+quizzes2.push(content_quizzes2_quiz12());
+quizzes2.push(content_quizzes2_quiz13());
+quizzes2.push(content_quizzes2_quiz14());
+// quizzes2.push(content_quizzes2_quiz15());
+quizzes2.push(content_quizzes2_quiz16());
+// quizzes2.push(content_quizzes2_quiz17());
+quizzes2.push(content_quizzes2_quiz18());
 
-
-function content_quizzes2_quiz1() {
-  let info = { project: "Punjabi", section: "Vocabulary", topic: "Primary Colors", header: "Colors" };
-  let options = { random: true, count: [14] };
-  let quiz = build_choices([
-    ['Kaala', 'Black'],
-    ['Laal',  'Red'],
-    ['Haraa', 'Green'],
-    ['Neela',  'Blue'],
-    ['Peela',  'Yellow'],
-    ['Chitta', 'White'],
-    ['Slati',  'Gray'],
-    ['Kesri',  'Saffron'],
-    ['Santri', 'Orange'],
-    ['Jaamni', 'Purple'],
-    ['Gulabi', 'Pink'],
-    ['Bhoora', 'Brown'],
-    ['Firozi', 'Turquoise'],
-    ['Khakhi', 'Khaki'],
-  ], options);
-  return {info, quiz};
-}
+// function content_quizzes2_quiz1() {
+//   let info = { project: "Punjabi", section: "Vocabulary", topic: "Primary Colors", header: "Colors" };
+//   let options = { random: true, count: [14] };
+//   let quiz = build_choices([
+//     ['Kaala', 'Black'],
+//     ['Laal',  'Red'],
+//     ['Haraa', 'Green'],
+//     ['Neela',  'Blue'],
+//     ['Peela',  'Yellow'],
+//     ['Chitta', 'White'],
+//     ['Slati',  'Gray'],
+//     ['Kesri',  'Saffron'],
+//     ['Santri', 'Orange'],
+//     ['Jaamni', 'Purple'],
+//     ['Gulabi', 'Pink'],
+//     ['Bhoora', 'Brown'],
+//     ['Firozi', 'Turquoise'],
+//     ['Khakhi', 'Khaki'],
+//   ], options);
+//   return {info, quiz};
+// }
 
 function content_quizzes2_quiz2() {
   let info = { project: "Punjabi", section: "Vocabulary", topic: "Nouns-1", header: "Nouns-1" };

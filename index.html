@@ -249,6 +249,7 @@
       let states = [];
       let oneoff = false;
       let building_num = 0;
+      let minGroupCollLevel = 3;
       let loop_data = { day: 1, hour: 0, minute: 0, stamp: 0 };
       let mapdata = { population: 0, enrolled: 0, tickets: 0 };
       let max_level2_plus_reached = 0;
@@ -280,7 +281,7 @@
           console.log(`loopend time...`)
         }
       }
-      function load_page() {
+      function load_page__orig() {
         quiz = quizes[0].quiz;
         info = quizes[0].info;
         console.log(`a----------------`)
@@ -331,6 +332,82 @@
         // $("#version").html(version);
         loop_data.stamp = new Date().getTime();
       }
+      function load_page() {
+        quiz = quizes[0].quiz;
+        info = quizes[0].info;
+        quizes = [];
+        console.log(`a----------------`)
+        console.log(JSON.parse(window.localStorage.getItem(user.id)));
+        console.log(`b----------------`)
+        let layout = retrieve_scorecard(`layout`);
+        let layout_list = Array.isArray(layout) ? layout : make_layout();
+        // let layout_list = layout ? JSON.parse(layout) : make_layout();
+        console.log(`layout: `, layout);
+        console.log(`layout_list: `, layout_list);
+        let loaded_count = 0;
+        for(let x=0; x<4; x++) {
+          let cols_count = 0;
+          for(let i=0; i<quizzes[x].length; i++) {
+            // if(i>MAX_QUIZES-1) continue;
+            // let {info, quiz} = quizes[i];
+            // quiz = quizes[i].quiz;
+            // info = quizes[i].info;
+            quiz = quizzes[x][i].quiz;
+            info = quizzes[x][i].info;
+            console.log(`quiz: `, quiz)
+            console.log(`info: `, info)
+            console.log(`layout_list: `, layout_list)
+            if(layout_list.length>0 && !match_info_any(info, layout_list)) continue;
+            quizes.push(quizzes[x][i]);
+            building_num = index = loaded_count;
+            // state = i<3 ? 1 : i<4 ? 0.5 : 0;
+            state = 1;
+            if(max_level2_plus_reached > 0) {
+              // every level 2 or higher level adds an additional quiz to the maximum of 3
+              if(i===3 && max_level2_plus_reached>=1) state = 1;
+              if(i===4 && max_level2_plus_reached>=2) state = 1;
+              if(i===5 && max_level2_plus_reached>=3) state = 1;
+              // every level 3 or higher level adds an additional quiz to the maximum of 3
+              if(i===6 && max_level3_plus_reached>=1 && max_level2_plus_reached>=4) state = 1;
+              if(i===7 && max_level3_plus_reached>=2 && max_level2_plus_reached>=5) state = 1;
+              if(i===8 && max_level3_plus_reached>=3 && max_level2_plus_reached>=6) state = 1;
+            }
+            // // if(layout_list.length>0 && !match_info(info, layout_list[loaded_count])) continue;
+            // if(layout_list.length>0 && !match_info_any(info, layout_list)) continue; else state = 1;
+            // states[index] = state;
+            console.log(`i = ${i}, state = ${state}, max_level2_plus_reached = ${max_level2_plus_reached}, max_level3_plus_reached = ${max_level3_plus_reached}`)
+            // load_building(index, quiz, info, {state});
+            loaded_count++;  cols_count++;
+            // if(cols_count>=3) break;
+            // if(loaded_count>=MAX_QUIZES) break;
+            // $(`#building-${i}-header`).text(info.header);
+            // $(`#building-${i}-count`).text(quiz.length);
+          }
+        }
+        quiz = quizes[0].quiz;
+        info = quizes[0].info;
+        index = 0; building_num = 0;
+        let quizes_all = [].concat(...quizzes);
+        quizes = quizes.concat( quizes_all.filter(quiz => !match_quizes_any(quiz, quizes)) );
+        console.log('quizes:');
+        console.log(quizes);
+        for(let i=0; i<quizes.length; i++) {
+            states[i] = 1;
+            let quiz = quizes[i];
+            load_building(i, quiz, quiz.info, {state:1});
+        }
+        quiz = quizes[0].quiz;
+        info = quizes[0].info;
+        index = 0; building_num = 0;
+        load_scorecard();
+        load_mapdata();
+        // load credits
+        credits_handling();
+        tickets_handling();
+        version_handling()
+        // $("#version").html(version);
+        loop_data.stamp = new Date().getTime();
+      }
       function match_info(info, ipath) {
         let pathkey = `${info.project}/${info.section}/${info.topic}`;
         return (ipath===pathkey);
@@ -338,6 +415,27 @@
       function match_info_any(info, list) {
         for(let pathkey of list) {
           if(match_info(info, pathkey)) return true;
+        }
+      }
+      function match_infos(info1, info2) {
+        let pathkey1 = `${info1.project}/${info1.section}/${info1.topic}`;
+        let pathkey2 = `${info2.project}/${info2.section}/${info2.topic}`;
+        return (pathkey1===pathkey2);
+      }
+      function match_infos_any(info, list) {
+        for(let linfo of list) {
+          if(match_infos(info, linfo)) return true;
+        }
+      }
+      function match_quizes(quiz1, quiz2) {
+        let info1=quiz1.info; info2=quiz2.info;
+        let pathkey1 = `${info1.project}/${info1.section}/${info1.topic}`;
+        let pathkey2 = `${info2.project}/${info2.section}/${info2.topic}`;
+        return (pathkey1===pathkey2);
+      }
+      function match_quizes_any(quiz, list) {
+        for(let lquiz of list) {
+          if(match_quizes(quiz, lquiz)) return true;
         }
       }
       function make_layout() {
@@ -467,6 +565,21 @@
           // $(window).scrollTop(0);
           window.scrollTo({ top: 0, behavior: 'smooth' });
       }
+      function collect_all(ii=0, totid='score-points', minlevel=1) {
+          let output = 0;
+          for(let i=ii; i<quizes.length; i++) {
+              let level = retrieve_progress(i, 'level') || 1;
+              if(level < minlevel) continue;
+              output += collect(i, totid);
+              console.log(`collect_all => i=${i}, ii=${ii}, level=${level}, output=${output}`)
+          }
+          let id = `collect-prod-org`;
+          let elem = document.getElementById(id);
+          elem.style.color = 'gray';
+          elem.style.fontSize = '30px';
+          $(elem).removeClass("btn-light");
+          return output;
+      }
       function collect_old(id, totid='score-points', i, factor=100) {
           let completion = [233, 133, 33], level = 1;
           let refval = (i!==undefined) ? completion[i] : 0;
@@ -497,6 +610,7 @@
           store_scorecard('galleons', current_total+output);
           store_progress(i, 'prod', 0);
           store_progress(i, 'coll-time', new Date().getTime());
+          console.log(`i=${i}`);
           console.log(output);
           console.log($(elem).data('prod'));
           return output;
@@ -524,8 +638,10 @@
           // output += quiz_level - 1;
           store_progress(i, type, output);
           $(elem).data('prod', output);
-          console.log(output);
+          $(elem).prop('title', output);
+          console.log(`produce(${i}) => `, output);
           console.log($(elem).data('prod'));
+          if(i>=MAX_QUIZES) if(quiz_level>=minGroupCollLevel) light_up_one(i);
       }
       function light_up(i, type='prod') {
           let id = type==='level' ? `collect-level-${i}` : `collect-prod-${i}`;
@@ -533,6 +649,20 @@
           elem.style.color = 'goldenrod';
           elem.style.fontSize = '36px';
           $(elem).addClass("btn-light");
+      }
+      function light_up_one(i, type='prod') {
+          let elem = document.getElementById(`collect-prod-org`);
+          elem.style.color = 'goldenrod';
+          elem.style.fontSize = '36px';
+          $(elem).addClass("btn-light");
+          // add tooltip with output sum
+          let level = retrieve_progress(i, 'level') || 1;
+          if(level < minGroupCollLevel) return;
+          elem = document.getElementById(`collect-prod-${i}`);
+          let output = parseInt($(elem).data('prod'));
+          elem = document.getElementById(`collect-prod-org`);
+          output += parseInt($(elem).prop('title')) || 0;
+          $(elem).prop('title', output);
       }
       function update_level(i, step=100) {
           if(i===undefined || step===undefined) return;
@@ -634,6 +764,7 @@
           $("#quiz-buildings").append(building_column);
           let building = document.createElement("div");
           building.className = "card mb-4 shadow-sm";
+          if(i>=MAX_QUIZES) building.setAttribute('hidden', true);
           building.innerHTML = results_html;
           // $(building).addClass('shrink60');
           $(building_column).append(building);
@@ -830,15 +961,20 @@
           // console.log(quizes)
           let one_period = 24*60*60*1000; // one day in ms
           if(speedup>1) one_period = Math.round(one_period/speedup);
+          let elem = document.getElementById(`collect-prod-org`);
+          $(elem).prop('title', 0); // clear ready status first
           // let one_period = 10* 60*1000; // one day in ms
           // let period = 1;
-          for(let i=0; i<MAX_QUIZES; i++) {
+          for(let i=0; i<quizes.length; i++) {
               if(!quizes[i]) continue;
+              let level = retrieve_progress(i, 'level') || 1;
+              if(level<2) continue;
               let curr_time = new Date().getTime();
-              let coll_time = parseInt(retrieve_progress(i, 'coll-time'));
-              // console.log(`i=${i} curr_time = ${curr_time}, coll_time = ${coll_time}`);
+              let coll_time = parseInt(retrieve_progress(i, 'coll-time')) || 0;
+              console.log(`i=${i} curr_time = ${curr_time}, coll_time = ${coll_time}`);
               // if(!coll_time) continue;
               if(!coll_time || curr_time > coll_time+one_period) {
+                  console.log(`i=${i} ...`);
                   if(states[i]===1) produce(i, type='prod');
               }
               let elapsed_time = (curr_time - coll_time);
@@ -942,6 +1078,27 @@
           // $("#reveal-points").text(reveal_points);
           // $("#total-population").text(population);
       }
+      function store_scorecard(key='galleons', value=0) {
+        let pathkey = `${info.project}`;
+        let db = window.localStorage.getItem(user.id);
+        // console.log(db);
+        if(!db) db = {}; else db = JSON.parse(db);
+        if(!db[pathkey]) db[pathkey] = {};
+        if(!db[pathkey].scorecard) db[pathkey].scorecard = {};
+        db[pathkey].scorecard[key] = value;
+        // console.log(db);
+        window.localStorage.setItem(user.id, JSON.stringify(db));
+      }
+      function retrieve_scorecard(key) {
+        let pathkey = `${info.project}`;
+        let db = window.localStorage.getItem(user.id);
+        // console.log(db);
+        if(!db) db = {}; else db = JSON.parse(db);
+        if(!db[pathkey]) return;
+        if(!db[pathkey].scorecard) return;
+        if(key===undefined) return db[pathkey].scorecard;
+        return db[pathkey].scorecard[key];
+      }
 
       function store_progress(i, key, value) {
         let pathkey = `${info.project}/${info.section}/${info.topic}`;
@@ -955,17 +1112,6 @@
         if(!db[pathkey]) db[pathkey] = {};
         if(!db[pathkey].progress) db[pathkey].progress = {prod:0, done:0, level:1}
         db[pathkey].progress[key] = value;
-        // console.log(db);
-        window.localStorage.setItem(user.id, JSON.stringify(db));
-      }
-      function store_scorecard(key='galleons', value=0) {
-        let pathkey = `${info.project}`;
-        let db = window.localStorage.getItem(user.id);
-        // console.log(db);
-        if(!db) db = {}; else db = JSON.parse(db);
-        if(!db[pathkey]) db[pathkey] = {};
-        if(!db[pathkey].scorecard) db[pathkey].scorecard = {};
-        db[pathkey].scorecard[key] = value;
         // console.log(db);
         window.localStorage.setItem(user.id, JSON.stringify(db));
       }
@@ -992,15 +1138,35 @@
         // console.log(db);
         return db[pathkey].progress[key];
       }
-      function retrieve_scorecard(key) {
-        let pathkey = `${info.project}`;
+      function store_progress_byinfo(info, key, value) {
+        let pathkey = `${info.project}/${info.section}/${info.topic}`;
         let db = window.localStorage.getItem(user.id);
         // console.log(db);
         if(!db) db = {}; else db = JSON.parse(db);
+        if(!db[pathkey]) db[pathkey] = {};
+        if(!db[pathkey].progress) db[pathkey].progress = {prod:0, done:0, level:1}
+        db[pathkey].progress[key] = value;
+        // console.log(db);
+        window.localStorage.setItem(user.id, JSON.stringify(db));
+      }
+      function retrieve_progress_byinfo(info, key) {
+        // console.log(`retrieve_progress(${info}, ${key})`)
+        let pathkey = `${info.project}/${info.section}/${info.topic}`;
+        let db = window.localStorage.getItem(user.id);
+        // console.log(db);
+        // console.log(`0retrieve_progress(${i}, ${key}): ${pathkey}`)
+        // console.log(user.id);
+        // console.log(db);
+        if(!db) db = {}; else db = JSON.parse(db);
         if(!db[pathkey]) return;
-        if(!db[pathkey].scorecard) return;
-        if(key===undefined) return db[pathkey].scorecard;
-        return db[pathkey].scorecard[key];
+        // console.log(`1retrieve_progress(${i}, ${key})`)
+        if(!db[pathkey].progress) return;
+        // console.log(`2retrieve_progress(${i}, ${key})`)
+        if(key===undefined) return db[pathkey].progress;
+        // console.log(db[pathkey].progress)
+        // console.log(db[pathkey].progress[key])
+        // console.log(db);
+        return db[pathkey].progress[key];
       }
 
       function disable_appearance(element, opt) {
@@ -1181,7 +1347,7 @@
         if(!user || !user.id) user = load_user();
         console.log(user);
         window.localStorage.setItem('user', JSON.stringify(user));
-        let firstname = user.name.replace(/(\w+)\s.*/, '$1'); // display only first name
+        let firstname = !user.name ? user.id : user.name.replace(/(\w+)\s.*/, '$1'); // display only first name
         $("#user").text(firstname);
       }
       function signin_user(user) {
@@ -1302,9 +1468,9 @@
       <div class="squares-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
         <div class="row row-cols-5 row-cols-md-5 row-cols-sm-1 jjustify-content-center">
           <p class="col"></p>
-          <i class="material-icons btn-light col" id="organize-prod-org" style="font-size:30px;color:dimgray;background:white;cursor:pointer;" data-prod="0" xonclick="launch_organizer()">sort</i>
+          <i class="material-icons btn-light col" id="organize-prod-org" style="font-size:30px;color:dimgray;background:white;cursor:pointer;" data-prod="0" onclick="launch_organizer()">sort</i>
           <p class="lead col" debug1 onclick="add_galleons('50', 'debug')">Current points: <em id="score-points" class="text-muted">0<em></p>
-          <i class="material-icons btn-light col" id="collect-prod-org" style="font-size:30px;color:gray;background:white;cursor: pointer;" data-prod="0" xonclick="collect(-1, 'score-points')">card_giftcard</i>
+          <i class="material-icons btn-light col" id="collect-prod-org" style="font-size:30px;color:gray;background:white;cursor: pointer;" data-toggle="tooltip" title="0" data-prod="0" onclick="collect_all(MAX_QUIZES, 'score-points', minGroupCollLevel)">card_giftcard</i>
           <p class="col"></p>
         </div>
       </div>
@@ -1324,7 +1490,7 @@
         <a class="lead col text-muted" onclick1="reveal_tile()">Tickets: <em id="total-tickets" class="text-muted">0<em></a>
       </div>
 
-      <div class="container col-10" style="position:relative; height: 800px;">
+      <div class="container col-10" style="position:relative; height: 900px;">
         <!-- <img src="punjab.jpg" class="card-img-top" alt="..." style="position:absolute; top:0; left:0;"> -->
         <div class="card-group" id="map-grid" style="position:absolute; top:0; left:0; background-image: url('punjab.jpg'); background-size: 100% 100%; background-repeat: no-repeat">
         </div>
@@ -1638,7 +1804,7 @@
 
 
       <div class="modal fade" id="organizerModal" tabindex="-1">
-        <div class="modal-dialog modal-xl modal-dialog-centered" id="organizerModalDialog" style="max-width:1000px">
+        <div class="modal-dialog modal-xl modal-dialog-centered" id="organizerModalDialog" style="max-width:90%">
           <div class="modal-content">
           <div class="modal-header">
               <h5 class="modal-title" id="organizerModalTitle">Organizer</h5>
@@ -1725,15 +1891,20 @@
               if(i===undefined || j===undefined) return;
               let quiz_title = 'TBD';
               let quiz_level = 1;
+              let active = '';
               // let quizzes = quizes;
               if(i<quizzes[j].length) {
-                quiz_title = quizzes[j][i].info.header;
-                quiz_level = retrieve_progress(i, 'level') || 1;
+                // quiz_title = quizzes[j][i].info.header;
+                // quiz_level = retrieve_progress(i, 'level') || 1;
+                let quiz = quizzes[j][i];
+                quiz_title = quiz.info.header;
+                quiz_level = retrieve_progress_byinfo(quiz.info, 'level') || 1;
+                if(is_active_quiz(quiz)) active = ' active';
               }
               return `
               <!-- <div class="card"> -->
                 <div class="card-body m-0 p-1 mb-n2" id="org-card-body-${i}-${j}">
-                  <div class="btn btn-outline-secondary m-0 p-n2 mb-n2" xonclick="org_btn_click(${i},${j})" type="button" data-toggle="button" aria-pressed="true">
+                  <div class="btn btn-outline-secondary m-0 p-n2 mb-n2${active}" xonclick="org_btn_click(${i},${j})" type="button" data-toggle="button" aria-pressed="true">
                     <h6 class="card-title" id="org-card-title-${i}-${j}">${quiz_title}</h6>
                     <p class="card-text" id="org-card-text-${i}-${j}">Level ${quiz_level}</p>
                   </div>
@@ -1741,6 +1912,13 @@
               <!-- </div> -->`;
           }
 
+          function is_active_quiz(quiz) {
+              let layout_list = retrieve_scorecard(`layout`);
+              if(layout_list.length>0 && match_info_any(quiz.info, layout_list)) {
+                  return true;
+              }
+              return false;
+          }
       </script>
 
       <script type="text/javascript">
@@ -1792,7 +1970,14 @@
                   console.log(layout_list);
                   console.log('new_quizzes:');
                   console.log(new_quizzes);
-                  quizes = new_quizzes;
+                  // reorder quizes data
+                  // let quizes_bak = quizes;  quizes = [];
+                  // quizes = new_quizzes.slice(0);
+                  // quizes = quizes.concat( quizes_bak.filter(quiz => !match_quizes_any(quiz, quizes)) );
+                  console.log(quizes);
+                  quizes = new_quizzes.concat( quizes.filter(quiz => !match_quizes_any(quiz, new_quizzes)) );
+                  console.log(quizes);
+                  // refill quiz buildings
                   $("#quiz-buildings").html("");
                   for(let i=0; i<quizes.length; i++) {
                       let quiz = quizes[i];
@@ -2118,6 +2303,11 @@
                 <li><a class="text-muted text-exempt" href="#" onclick="clear_local_storage()">Clear local storage</a></li>
                 <div hidden>
                   <li><a class="text-muted text-exempt" href="#" onclick="clear_mapdata()">Clear mapdata</a></li>
+                  <li><a class="text-muted text-exempt" href="#" onclick="update_mapdata({population:1})">Increase population</a></li>
+                  <li><a class="text-muted text-exempt" href="#" onclick="update_mapdata({enrolled:1})">Increase enrolled</a></li>
+                  <li><a class="text-muted text-exempt" href="#" onclick="update_mapdata({tickets:1})">Increase tickets</a></li>
+                </div>
+                <div hidden>
                   <li><a class="text-muted text-exempt" href="#" onclick="set_automagic()" hidden1>Auto test mode <span id="automagic">1<span></a></li>
                   <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(10)" hidden1>Speedup <span id="speedup">10<span>x</a></li>
                   <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(24)" hidden1>Speedup <span id="speedup">24<span>x</a></li>

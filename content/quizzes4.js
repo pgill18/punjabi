@@ -3,64 +3,68 @@
 // let MAX_QUIZES = 10;
 let quizzes4 = [];
 quizzes4.push(content_quizzes4_quiz1());
-quizzes4.push(content_quizzes4_quiz2());
+// quizzes4.push(content_quizzes4_quiz2());
 quizzes4.push(content_quizzes4_quiz3());
-quizzes4.push(content_quizzes4_quiz4());
+// quizzes4.push(content_quizzes4_quiz4());
 quizzes4.push(content_quizzes4_quiz5());
 quizzes4.push(content_quizzes4_quiz6());
-quizzes4.push(content_quizzes4_quiz7());
+// quizzes4.push(content_quizzes4_quiz7());
 quizzes4.push(content_quizzes4_quiz8());
-quizzes4.push(content_quizzes4_quiz9());
+// quizzes4.push(content_quizzes4_quiz9());
 quizzes4.push(content_quizzes4_quiz10());
-	
+// quizzes4.push(content_quizzes4_quiz11());
+quizzes4.push(content_quizzes4_quiz12());
+// quizzes4.push(content_quizzes4_quiz13());
+quizzes4.push(content_quizzes4_quiz14());
+quizzes4.push(content_quizzes4_quiz15());
+// quizzes4.push(content_quizzes4_quiz16());
+quizzes4.push(content_quizzes4_quiz17());
+
 
 function content_quizzes4_quiz1() {
-  let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-be-[man]", header: "Pvn-be-[man]" };
+  let info = { project: "Punjabi", section: "Grammar", topic: "Simple-[man]", header: "Simple-[man]" };
   let options = { random: true, count: [18] };
   let quiz = build_choices([
-    ["it was a man",	"eh ik aadmi si"],
-    ["it is a man",	"eh ik aadmi hai hai"],
-    ["it will be a man",	"eh ik aadmi hai vega"],
-    ["i were two men",	"mein doh aadmi si"],
-    ["i are two men",	"mein doh aadmi han haan"],
-    ["i will be two men",	"mein doh aadmi hai vaange"],
+    ["it was a man",	"[eh] ik aadmi si"],
+    ["it is a man",	"[eh] ik aadmi hai"],
+    ["it will be a man",	"[eh] ik aadmi hovey_ga"],
+    // ["i was a man",	"mein ik aadmi si"],
+    ["i am a man",	"mein ik aadmi haan"],
+    ["i will be a man",	"mein ik aadmi hovaan_ga"],
     ["you were two men",	"tusi doh aadmi si"],
-    ["you are two men",	"tusi doh aadmi han ho"],
-    ["you will be two men",	"tusi doh aadmi hai vaange"],
-    ["he was two men",	"oh doh aadmi si"],
-    ["he is two men",	"oh doh aadmi hai hai"],
-    ["he will be two men",	"oh doh aadmi hai vega"],
+    ["you are two men",	"tusi doh aadmi ho"],
+    ["you will be two men",	"tusi doh aadmi hovo_ge"],
+    ["he was a man",	"oh [ik] aadmi si"],
+    ["he is a man",	"oh [ik] aadmi hai"],
+    ["he will be a man",	"oh [ik] aadmi hovey_ga"],
+    ["they were two men", "oh doh aadmi si"],
+    ["they are two men",  "oh doh aadmi han"],
+    ["they will be two men",  "oh doh aadmi hovun_ge"],
+    ["we were two men", "asi doh aadmi si"],
+    ["we are two men",  "asi doh aadmi haan"],
+    ["we will be two men",  "asi doh aadmi hovaan_ge"],
   ], options);
   return {info, quiz};
 }
 
-function content_quizzes4_quiz2() {
-  let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-be-[man,child]", header: "Pvn-be-[man,child]" };
-  let options = { random: true, count: [18] };
-  let quiz = build_choices([
-    ["they were two men",	"oh doh aadmi si"],
-    ["they are two men",	"oh doh aadmi han han"],
-    ["they will be two men",	"oh doh aadmi hai vaange"],
-    ["we were two men",	"asi doh aadmi si"],
-    ["we are two men",	"asi doh aadmi han haan"],
-    ["we will be two men",	"asi doh aadmi hai vaange"],
-    ["she was two men",	"oh doh aadmi si"],
-    ["she is two men",	"oh doh aadmi hai hai"],
-    ["she will be two men",	"oh doh aadmi hai vegi"],
-    ["it was child",	"eh bachcha si"],
-    ["it is child",	"eh bachcha hai hai"],
-    ["it will be child",	"eh bachcha hai vega"],
-  ], options);
-  return {info, quiz};
-}
+// function content_quizzes4_quiz2() {
+//   let info = { project: "Punjabi", section: "Grammar", topic: "Simple-[man,child]", header: "Simple-[man,child]" };
+//   let options = { random: true, count: [18] };
+//   let quiz = build_choices([
+//   ], options);
+//   return {info, quiz};
+// }
 
 function content_quizzes4_quiz3() {
-  let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-be-[child]", header: "Pvn-be-[child]" };
+  let info = { project: "Punjabi", section: "Grammar", topic: "Simple-[child]", header: "Simple-[child]" };
   let options = { random: true, count: [18] };
   let quiz = build_choices([
-    ["i were two children",	"mein doh bachchey si"],
-    ["i are two children",	"mein doh bachchey han haan"],
-    ["i will be two children",	"mein doh bachchey hai vaange"],
+    ["it was a child",  "[eh] ik bachcha si"],
+    ["it is a child", "[eh] ik bachcha hai"],
+    ["it will be a child",  "[eh] ik bachcha hovey_ga"],
+    ["i was a child",	"mein doh bachchey si"],
+    ["i am a child",	"mein doh bachchey han haan"],
+    ["i will be a child",	"mein doh bachchey hai vaange"],
     ["you were two children",	"tusi doh bachchey si"],
     ["you are two children",	"tusi doh bachchey han ho"],
     ["you will be two children",	"tusi doh bachchey hai vaange"],
@@ -74,36 +78,36 @@ function content_quizzes4_quiz3() {
   return {info, quiz};
 }
 
-function content_quizzes4_quiz4() {
-  let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-be-[child,woman]", header: "Pvn-be-[child,woman]" };
-  let options = { random: true, count: [18] };
-  let quiz = build_choices([
-    ["we were two children",	"asi doh bachchey si"],
-    ["we are two children",	"asi doh bachchey han haan"],
-    ["we will be two children",	"asi doh bachchey hai vaange"],
-    ["she was two children",	"oh doh bachchey si"],
-    ["she is two children",	"oh doh bachchey hai hai"],
-    ["she will be two children",	"oh doh bachchey hai vegi"],
-    ["it was two women",	"eh doh auratan si"],
-    ["it is two women",	"eh doh auratan hai hai"],
-    ["it will be two women",	"eh doh auratan hai vega"],
-    ["i were two women",	"mein doh auratan si"],
-    ["i are two women",	"mein doh auratan han haan"],
-    ["i will be two women",	"mein doh auratan hai vaange"],
-  ], options);
-  return {info, quiz};
-}
+// function content_quizzes4_quiz4() {
+//   let info = { project: "Punjabi", section: "Grammar", topic: "Simple-[woman]", header: "Simple-[woman]" };
+//   let options = { random: true, count: [18] };
+//   let quiz = build_choices([
+//     ["it was two women",	"eh doh auratan si"],
+//     ["it is two women",	"eh doh auratan hai hai"],
+//     ["it will be two women",	"eh doh auratan hai vega"],
+//     ["i were two women",	"mein doh auratan si"],
+//     ["i are two women",	"mein doh auratan han haan"],
+//     ["i will be two women",	"mein doh auratan hai vaange"],
+//   ], options);
+//   return {info, quiz};
+// }
 
 function content_quizzes4_quiz5() {
-  let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-be-[woman]", header: "Pvn-be-[woman]" };
+  let info = { project: "Punjabi", section: "Grammar", topic: "Simple-[woman]", header: "Simple-[woman]" };
   let options = { random: true, count: [18] };
   let quiz = build_choices([
+    ["it was two women",  "eh doh auratan si"],
+    ["it is two women", "eh doh auratan hai hai"],
+    ["it will be two women",  "eh doh auratan hai vega"],
+    ["i was a woman",  "mein doh auratan si"],
+    ["i am a woman", "mein doh auratan han haan"],
+    ["i will be a woman", "mein doh auratan hai vaange"],
     ["you were two women",	"tusi doh auratan si"],
     ["you are two women",	"tusi doh auratan han ho"],
     ["you will be two women",	"tusi doh auratan hai vaange"],
-    ["he was woman",	"oh aurat si"],
-    ["he is woman",	"oh aurat hai hai"],
-    ["he will be woman",	"oh aurat hai vega"],
+    ["she was a woman",	"oh aurat si"],
+    ["she is a woman",	"oh aurat hai hai"],
+    ["she will be a woman",	"oh aurat hai vega"],
     ["they were two women",	"oh doh auratan si"],
     ["they are two women",	"oh doh auratan han han"],
     ["they will be two women",	"oh doh auratan hai vaange"],
@@ -118,9 +122,9 @@ function content_quizzes4_quiz6() {
   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-be,have-[woman,time]", header: "Pvn-be,have-[woman,time]" };
   let options = { random: true, count: [18] };
   let quiz = build_choices([
-    ["she was a woman",	"oh ik aurat si"],
-    ["she is a woman",	"oh ik aurat hai hai"],
-    ["she will be a woman",	"oh ik aurat hai vegi"],
+    // ["she was a woman",	"oh ik aurat si"],
+    // ["she is a woman",	"oh ik aurat hai hai"],
+    // ["she will be a woman",	"oh ik aurat hai vegi"],
     ["it had time",	"eh samah kol_si"],
     ["it has time",	"eh samah kol_hai hai"],
     ["it will have time",	"eh samah hai vega"],
@@ -130,29 +134,41 @@ function content_quizzes4_quiz6() {
     ["you had time",	"tusi samah kol_si"],
     ["you have time",	"tusi samah kol_hai ho"],
     ["you will have time",	"tusi samah hai vaange"],
+    ["he had time", "oh samah kol_si"],
+    ["he has time", "oh samah kol_hai hai"],
+    ["he will have time", "oh samah hai vega"],
+    ["they had time", "oh samah kol_si"],
+    ["they have time",  "oh samah kol_hai han"],
+    ["they will have time", "oh samah hai vaange"],
+    ["we had time", "asi samah kol_si"],
+    ["we have time",  "asi samah kol_hai haan"],
+    ["we will have time", "asi samah hai vaange"],
+    ["she had time",  "oh samah kol_si"],
+    ["she has time",  "oh samah kol_hai hai"],
+    ["she will have time",  "oh samah hai vegi"],
   ], options);
   return {info, quiz};
 }
 
-function content_quizzes4_quiz7() {
-  let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[time]", header: "Pvn-have-[time]" };
-  let options = { random: true, count: [18] };
-  let quiz = build_choices([
-    ["he had time",	"oh samah kol_si"],
-    ["he has time",	"oh samah kol_hai hai"],
-    ["he will have time",	"oh samah hai vega"],
-    ["they had time",	"oh samah kol_si"],
-    ["they have time",	"oh samah kol_hai han"],
-    ["they will have time",	"oh samah hai vaange"],
-    ["we had time",	"asi samah kol_si"],
-    ["we have time",	"asi samah kol_hai haan"],
-    ["we will have time",	"asi samah hai vaange"],
-    ["she had time",	"oh samah kol_si"],
-    ["she has time",	"oh samah kol_hai hai"],
-    ["she will have time",	"oh samah hai vegi"],
-  ], options);
-  return {info, quiz};
-}
+// function content_quizzes4_quiz7() {
+//   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[time]", header: "Pvn-have-[time]" };
+//   let options = { random: true, count: [18] };
+//   let quiz = build_choices([
+//     ["he had time",	"oh samah kol_si"],
+//     ["he has time",	"oh samah kol_hai hai"],
+//     ["he will have time",	"oh samah hai vega"],
+//     ["they had time",	"oh samah kol_si"],
+//     ["they have time",	"oh samah kol_hai han"],
+//     ["they will have time",	"oh samah hai vaange"],
+//     ["we had time",	"asi samah kol_si"],
+//     ["we have time",	"asi samah kol_hai haan"],
+//     ["we will have time",	"asi samah hai vaange"],
+//     ["she had time",	"oh samah kol_si"],
+//     ["she has time",	"oh samah kol_hai hai"],
+//     ["she will have time",	"oh samah hai vegi"],
+//   ], options);
+//   return {info, quiz};
+// }
 
 function content_quizzes4_quiz8() {
   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[year]", header: "Pvn-have-[year]" };
@@ -170,34 +186,46 @@ function content_quizzes4_quiz8() {
     ["he had two years",	"oh doh saalan kol_si"],
     ["he has two years",	"oh doh saalan kol_hai hai"],
     ["he will have two years",	"oh doh saalan hai vega"],
+    ["they had two years",  "oh doh saalan kol_si"],
+    ["they have two years", "oh doh saalan kol_hai han"],
+    ["they will have two years",  "oh doh saalan hai vaange"],
+    ["we had two years",  "asi doh saalan kol_si"],
+    ["we have two years", "asi doh saalan kol_hai haan"],
+    ["we will have two years",  "asi doh saalan hai vaange"],
+    ["she had two years", "oh doh saalan kol_si"],
+    ["she has two years", "oh doh saalan kol_hai hai"],
+    ["she will have two years", "oh doh saalan hai vegi"],
   ], options);
   return {info, quiz};
 }
 
-function content_quizzes4_quiz9() {
-  let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[year,way]", header: "Pvn-have-[year,way]" };
-  let options = { random: true, count: [18] };
-  let quiz = build_choices([
-    ["they had two years",	"oh doh saalan kol_si"],
-    ["they have two years",	"oh doh saalan kol_hai han"],
-    ["they will have two years",	"oh doh saalan hai vaange"],
-    ["we had two years",	"asi doh saalan kol_si"],
-    ["we have two years",	"asi doh saalan kol_hai haan"],
-    ["we will have two years",	"asi doh saalan hai vaange"],
-    ["she had two years",	"oh doh saalan kol_si"],
-    ["she has two years",	"oh doh saalan kol_hai hai"],
-    ["she will have two years",	"oh doh saalan hai vegi"],
-    ["it had way",	"eh rasta kol_si"],
-    ["it has way",	"eh rasta kol_hai hai"],
-    ["it will have way",	"eh rasta hai vega"],
-  ], options);
-  return {info, quiz};
-}
+// function content_quizzes4_quiz9() {
+//   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[year,way]", header: "Pvn-have-[year,way]" };
+//   let options = { random: true, count: [18] };
+//   let quiz = build_choices([
+//     ["they had two years",	"oh doh saalan kol_si"],
+//     ["they have two years",	"oh doh saalan kol_hai han"],
+//     ["they will have two years",	"oh doh saalan hai vaange"],
+//     ["we had two years",	"asi doh saalan kol_si"],
+//     ["we have two years",	"asi doh saalan kol_hai haan"],
+//     ["we will have two years",	"asi doh saalan hai vaange"],
+//     ["she had two years",	"oh doh saalan kol_si"],
+//     ["she has two years",	"oh doh saalan kol_hai hai"],
+//     ["she will have two years",	"oh doh saalan hai vegi"],
+//     ["it had way",	"eh rasta kol_si"],
+//     ["it has way",	"eh rasta kol_hai hai"],
+//     ["it will have way",	"eh rasta hai vega"],
+//   ], options);
+//   return {info, quiz};
+// }
 
 function content_quizzes4_quiz10() {
   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[way]", header: "Pvn-have-[way]" };
   let options = { random: true, count: [18] };
   let quiz = build_choices([
+    ["it had way",  "eh rasta kol_si"],
+    ["it has way",  "eh rasta kol_hai hai"],
+    ["it will have way",  "eh rasta hai vega"],
     ["i had way",	"mein rasta kol_si"],
     ["i have way",	"mein rasta kol_hai haan"],
     ["i will have way",	"mein rasta hai vaange"],
@@ -210,34 +238,46 @@ function content_quizzes4_quiz10() {
     ["they had way",	"oh rasta kol_si"],
     ["they have way",	"oh rasta kol_hai han"],
     ["they will have way",	"oh rasta hai vaange"],
+    ["we had way",  "asi rasta kol_si"],
+    ["we have way", "asi rasta kol_hai haan"],
+    ["we will have way",  "asi rasta hai vaange"],
+    ["she had way", "oh rasta kol_si"],
+    ["she has way", "oh rasta kol_hai hai"],
+    ["she will have way", "oh rasta hai vegi"],
   ], options);
   return {info, quiz};
 }
 
-function content_quizzes4_quiz11() {
-  let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[way,day]", header: "Pvn-have-[way,day]" };
-  let options = { random: true, count: [18] };
-  let quiz = build_choices([
-    ["we had way",	"asi rasta kol_si"],
-    ["we have way",	"asi rasta kol_hai haan"],
-    ["we will have way",	"asi rasta hai vaange"],
-    ["she had way",	"oh rasta kol_si"],
-    ["she has way",	"oh rasta kol_hai hai"],
-    ["she will have way",	"oh rasta hai vegi"],
-    ["it had two days",	"eh doh dinan kol_si"],
-    ["it has two days",	"eh doh dinan kol_hai hai"],
-    ["it will have two days",	"eh doh dinan hai vega"],
-    ["i had two days",	"mein doh dinan kol_si"],
-    ["i have two days",	"mein doh dinan kol_hai haan"],
-    ["i will have two days",	"mein doh dinan hai vaange"],
-  ], options);
-  return {info, quiz};
-}
+// function content_quizzes4_quiz11() {
+//   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[way,day]", header: "Pvn-have-[way,day]" };
+//   let options = { random: true, count: [18] };
+//   let quiz = build_choices([
+//     ["we had way",	"asi rasta kol_si"],
+//     ["we have way",	"asi rasta kol_hai haan"],
+//     ["we will have way",	"asi rasta hai vaange"],
+//     ["she had way",	"oh rasta kol_si"],
+//     ["she has way",	"oh rasta kol_hai hai"],
+//     ["she will have way",	"oh rasta hai vegi"],
+//     ["it had two days",	"eh doh dinan kol_si"],
+//     ["it has two days",	"eh doh dinan kol_hai hai"],
+//     ["it will have two days",	"eh doh dinan hai vega"],
+//     ["i had two days",	"mein doh dinan kol_si"],
+//     ["i have two days",	"mein doh dinan kol_hai haan"],
+//     ["i will have two days",	"mein doh dinan hai vaange"],
+//   ], options);
+//   return {info, quiz};
+// }
 
 function content_quizzes4_quiz12() {
   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[day]", header: "Pvn-have-[day]" };
   let options = { random: true, count: [18] };
   let quiz = build_choices([
+    ["it had two days", "eh doh dinan kol_si"],
+    ["it has two days", "eh doh dinan kol_hai hai"],
+    ["it will have two days", "eh doh dinan hai vega"],
+    ["i had two days",  "mein doh dinan kol_si"],
+    ["i have two days", "mein doh dinan kol_hai haan"],
+    ["i will have two days",  "mein doh dinan hai vaange"],
     ["you had two days",	"tusi doh dinan kol_si"],
     ["you have two days",	"tusi doh dinan kol_hai ho"],
     ["you will have two days",	"tusi doh dinan hai vaange"],
@@ -250,34 +290,46 @@ function content_quizzes4_quiz12() {
     ["we had day",	"asi din kol_si"],
     ["we have day",	"asi din kol_hai haan"],
     ["we will have day",	"asi din hai vaange"],
+    ["she had two days",  "oh doh dinan kol_si"],
+    ["she has two days",  "oh doh dinan kol_hai hai"],
+    ["she will have two days",  "oh doh dinan hai vegi"],
   ], options);
   return {info, quiz};
 }
 
-function content_quizzes4_quiz13() {
-  let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[day,thing]", header: "Pvn-have-[day,thing]" };
-  let options = { random: true, count: [18] };
-  let quiz = build_choices([
-    ["she had two days",	"oh doh dinan kol_si"],
-    ["she has two days",	"oh doh dinan kol_hai hai"],
-    ["she will have two days",	"oh doh dinan hai vegi"],
-    ["it had two things",	"eh doh cheezan kol_si"],
-    ["it has two things",	"eh doh cheezan kol_hai hai"],
-    ["it will have two things",	"eh doh cheezan hai vega"],
-    ["i had a thing",	"mein ik cheez kol_si"],
-    ["i have a thing",	"mein ik cheez kol_hai haan"],
-    ["i will have a thing",	"mein ik cheez hai vaange"],
-    ["you had two things",	"tusi doh cheezan kol_si"],
-    ["you have two things",	"tusi doh cheezan kol_hai ho"],
-    ["you will have two things",	"tusi doh cheezan hai vaange"],
-  ], options);
-  return {info, quiz};
-}
+// function content_quizzes4_quiz13() {
+//   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[day,thing]", header: "Pvn-have-[day,thing]" };
+//   let options = { random: true, count: [18] };
+//   let quiz = build_choices([
+//     ["she had two days",	"oh doh dinan kol_si"],
+//     ["she has two days",	"oh doh dinan kol_hai hai"],
+//     ["she will have two days",	"oh doh dinan hai vegi"],
+//     ["it had two things",	"eh doh cheezan kol_si"],
+//     ["it has two things",	"eh doh cheezan kol_hai hai"],
+//     ["it will have two things",	"eh doh cheezan hai vega"],
+//     ["i had a thing",	"mein ik cheez kol_si"],
+//     ["i have a thing",	"mein ik cheez kol_hai haan"],
+//     ["i will have a thing",	"mein ik cheez hai vaange"],
+//     ["you had two things",	"tusi doh cheezan kol_si"],
+//     ["you have two things",	"tusi doh cheezan kol_hai ho"],
+//     ["you will have two things",	"tusi doh cheezan hai vaange"],
+//   ], options);
+//   return {info, quiz};
+// }
 
 function content_quizzes4_quiz14() {
   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[thing]", header: "Pvn-have-[thing]" };
   let options = { random: true, count: [18] };
   let quiz = build_choices([
+    ["it had two things", "eh doh cheezan kol_si"],
+    ["it has two things", "eh doh cheezan kol_hai hai"],
+    ["it will have two things", "eh doh cheezan hai vega"],
+    ["i had a thing", "mein ik cheez kol_si"],
+    ["i have a thing",  "mein ik cheez kol_hai haan"],
+    ["i will have a thing", "mein ik cheez hai vaange"],
+    ["you had two things",  "tusi doh cheezan kol_si"],
+    ["you have two things", "tusi doh cheezan kol_hai ho"],
+    ["you will have two things",  "tusi doh cheezan hai vaange"],
     ["he had two things",	"oh doh cheezan kol_si"],
     ["he has two things",	"oh doh cheezan kol_hai hai"],
     ["he will have two things",	"oh doh cheezan hai vega"],
@@ -310,34 +362,46 @@ function content_quizzes4_quiz15() {
     ["he had life",	"oh zindgi kol_si"],
     ["he has life",	"oh zindgi kol_hai hai"],
     ["he will have life",	"oh zindgi hai vega"],
+    ["they had life", "oh zindgi kol_si"],
+    ["they have life",  "oh zindgi kol_hai han"],
+    ["they will have life", "oh zindgi hai vaange"],
+    ["we had life", "asi zindgi kol_si"],
+    ["we have life",  "asi zindgi kol_hai haan"],
+    ["we will have life", "asi zindgi hai vaange"],
+    ["she had life",  "oh zindgi kol_si"],
+    ["she has life",  "oh zindgi kol_hai hai"],
+    ["she will have life",  "oh zindgi hai vegi"],
   ], options);
   return {info, quiz};
 }
 
-function content_quizzes4_quiz16() {
-  let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[life,hand]", header: "Pvn-have-[life,hand]" };
-  let options = { random: true, count: [18] };
-  let quiz = build_choices([
-    ["they had life",	"oh zindgi kol_si"],
-    ["they have life",	"oh zindgi kol_hai han"],
-    ["they will have life",	"oh zindgi hai vaange"],
-    ["we had life",	"asi zindgi kol_si"],
-    ["we have life",	"asi zindgi kol_hai haan"],
-    ["we will have life",	"asi zindgi hai vaange"],
-    ["she had life",	"oh zindgi kol_si"],
-    ["she has life",	"oh zindgi kol_hai hai"],
-    ["she will have life",	"oh zindgi hai vegi"],
-    ["it had two hands",	"eh doh hathan kol_si"],
-    ["it has two hands",	"eh doh hathan kol_hai hai"],
-    ["it will have two hands",	"eh doh hathan hai vega"],
-  ], options);
-  return {info, quiz};
-}
+// function content_quizzes4_quiz16() {
+//   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[life,hand]", header: "Pvn-have-[life,hand]" };
+//   let options = { random: true, count: [18] };
+//   let quiz = build_choices([
+//     ["they had life",	"oh zindgi kol_si"],
+//     ["they have life",	"oh zindgi kol_hai han"],
+//     ["they will have life",	"oh zindgi hai vaange"],
+//     ["we had life",	"asi zindgi kol_si"],
+//     ["we have life",	"asi zindgi kol_hai haan"],
+//     ["we will have life",	"asi zindgi hai vaange"],
+//     ["she had life",	"oh zindgi kol_si"],
+//     ["she has life",	"oh zindgi kol_hai hai"],
+//     ["she will have life",	"oh zindgi hai vegi"],
+//     ["it had two hands",	"eh doh hathan kol_si"],
+//     ["it has two hands",	"eh doh hathan kol_hai hai"],
+//     ["it will have two hands",	"eh doh hathan hai vega"],
+//   ], options);
+//   return {info, quiz};
+// }
 
 function content_quizzes4_quiz17() {
   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[hand]", header: "Pvn-have-[hand]" };
   let options = { random: true, count: [18] };
   let quiz = build_choices([
+    ["it had two hands",  "eh doh hathan kol_si"],
+    ["it has two hands",  "eh doh hathan kol_hai hai"],
+    ["it will have two hands",  "eh doh hathan hai vega"],
     ["i had two hands",	"mein doh hathan kol_si"],
     ["i have two hands",	"mein doh hathan kol_hai haan"],
     ["i will have two hands",	"mein doh hathan hai vaange"],
@@ -350,34 +414,46 @@ function content_quizzes4_quiz17() {
     ["they had hand",	"oh hath kol_si"],
     ["they have hand",	"oh hath kol_hai han"],
     ["they will have hand",	"oh hath hai vaange"],
+    ["we had two hands",  "asi doh hathan kol_si"],
+    ["we have two hands", "asi doh hathan kol_hai haan"],
+    ["we will have two hands",  "asi doh hathan hai vaange"],
+    ["she had two hands", "oh doh hathan kol_si"],
+    ["she has two hands", "oh doh hathan kol_hai hai"],
+    ["she will have two hands", "oh doh hathan hai vegi"],
   ], options);
   return {info, quiz};
 }
 
-function content_quizzes4_quiz18() {
-  let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[hand,child]", header: "Pvn-have-[hand,child]" };
-  let options = { random: true, count: [18] };
-  let quiz = build_choices([
-    ["we had two hands",	"asi doh hathan kol_si"],
-    ["we have two hands",	"asi doh hathan kol_hai haan"],
-    ["we will have two hands",	"asi doh hathan hai vaange"],
-    ["she had two hands",	"oh doh hathan kol_si"],
-    ["she has two hands",	"oh doh hathan kol_hai hai"],
-    ["she will have two hands",	"oh doh hathan hai vegi"],
-    ["it had a child",	"eh ik bachcha kol_si"],
-    ["it has a child",	"eh ik bachcha kol_hai hai"],
-    ["it will have a child",	"eh ik bachcha hai vega"],
-    ["i had two children",	"mein doh bachchey kol_si"],
-    ["i have two children",	"mein doh bachchey kol_hai haan"],
-    ["i will have two children",	"mein doh bachchey hai vaange"],
-  ], options);
-  return {info, quiz};
-}
+// function content_quizzes4_quiz18() {
+//   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[hand,child]", header: "Pvn-have-[hand,child]" };
+//   let options = { random: true, count: [18] };
+//   let quiz = build_choices([
+//     ["we had two hands",	"asi doh hathan kol_si"],
+//     ["we have two hands",	"asi doh hathan kol_hai haan"],
+//     ["we will have two hands",	"asi doh hathan hai vaange"],
+//     ["she had two hands",	"oh doh hathan kol_si"],
+//     ["she has two hands",	"oh doh hathan kol_hai hai"],
+//     ["she will have two hands",	"oh doh hathan hai vegi"],
+//     ["it had a child",	"eh ik bachcha kol_si"],
+//     ["it has a child",	"eh ik bachcha kol_hai hai"],
+//     ["it will have a child",	"eh ik bachcha hai vega"],
+//     ["i had two children",	"mein doh bachchey kol_si"],
+//     ["i have two children",	"mein doh bachchey kol_hai haan"],
+//     ["i will have two children",	"mein doh bachchey hai vaange"],
+//   ], options);
+//   return {info, quiz};
+// }
 
 function content_quizzes4_quiz19() {
   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[child]", header: "Pvn-have-[child]" };
   let options = { random: true, count: [18] };
   let quiz = build_choices([
+    ["it had a child",  "eh ik bachcha kol_si"],
+    ["it has a child",  "eh ik bachcha kol_hai hai"],
+    ["it will have a child",  "eh ik bachcha hai vega"],
+    ["i had two children",  "mein doh bachchey kol_si"],
+    ["i have two children", "mein doh bachchey kol_hai haan"],
+    ["i will have two children",  "mein doh bachchey hai vaange"],
     ["you had two children",	"tusi doh bachchey kol_si"],
     ["you have two children",	"tusi doh bachchey kol_hai ho"],
     ["you will have two children",	"tusi doh bachchey hai vaange"],
@@ -390,34 +466,46 @@ function content_quizzes4_quiz19() {
     ["we had two children",	"asi doh bachchey kol_si"],
     ["we have two children",	"asi doh bachchey kol_hai haan"],
     ["we will have two children",	"asi doh bachchey hai vaange"],
+    ["she had two children",  "oh doh bachchey kol_si"],
+    ["she has two children",  "oh doh bachchey kol_hai hai"],
+    ["she will have two children",  "oh doh bachchey hai vegi"],
   ], options);
   return {info, quiz};
 }
 
-function content_quizzes4_quiz20() {
-  let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[child,eye]", header: "Pvn-have-[child,eye]" };
-  let options = { random: true, count: [18] };
-  let quiz = build_choices([
-    ["she had two children",	"oh doh bachchey kol_si"],
-    ["she has two children",	"oh doh bachchey kol_hai hai"],
-    ["she will have two children",	"oh doh bachchey hai vegi"],
-    ["it had an eye",	"eh ik akh kol_si"],
-    ["it has an eye",	"eh ik akh kol_hai hai"],
-    ["it will have an eye",	"eh ik akh hai vega"],
-    ["i had two eyes",	"mein doh akhan kol_si"],
-    ["i have two eyes",	"mein doh akhan kol_hai haan"],
-    ["i will have two eyes",	"mein doh akhan hai vaange"],
-    ["you had two eyes",	"tusi doh akhan kol_si"],
-    ["you have two eyes",	"tusi doh akhan kol_hai ho"],
-    ["you will have two eyes",	"tusi doh akhan hai vaange"],
-  ], options);
-  return {info, quiz};
-}
+// function content_quizzes4_quiz20() {
+//   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[child,eye]", header: "Pvn-have-[child,eye]" };
+//   let options = { random: true, count: [18] };
+//   let quiz = build_choices([
+//     ["she had two children",	"oh doh bachchey kol_si"],
+//     ["she has two children",	"oh doh bachchey kol_hai hai"],
+//     ["she will have two children",	"oh doh bachchey hai vegi"],
+//     ["it had an eye",	"eh ik akh kol_si"],
+//     ["it has an eye",	"eh ik akh kol_hai hai"],
+//     ["it will have an eye",	"eh ik akh hai vega"],
+//     ["i had two eyes",	"mein doh akhan kol_si"],
+//     ["i have two eyes",	"mein doh akhan kol_hai haan"],
+//     ["i will have two eyes",	"mein doh akhan hai vaange"],
+//     ["you had two eyes",	"tusi doh akhan kol_si"],
+//     ["you have two eyes",	"tusi doh akhan kol_hai ho"],
+//     ["you will have two eyes",	"tusi doh akhan hai vaange"],
+//   ], options);
+//   return {info, quiz};
+// }
 
 function content_quizzes4_quiz21() {
   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[eye]", header: "Pvn-have-[eye]" };
   let options = { random: true, count: [18] };
   let quiz = build_choices([
+    ["it had an eye", "eh ik akh kol_si"],
+    ["it has an eye", "eh ik akh kol_hai hai"],
+    ["it will have an eye", "eh ik akh hai vega"],
+    ["i had two eyes",  "mein doh akhan kol_si"],
+    ["i have two eyes", "mein doh akhan kol_hai haan"],
+    ["i will have two eyes",  "mein doh akhan hai vaange"],
+    ["you had two eyes",  "tusi doh akhan kol_si"],
+    ["you have two eyes", "tusi doh akhan kol_hai ho"],
+    ["you will have two eyes",  "tusi doh akhan hai vaange"],
     ["he had eye",	"oh akh kol_si"],
     ["he has eye",	"oh akh kol_hai hai"],
     ["he will have eye",	"oh akh hai vega"],
@@ -450,34 +538,46 @@ function content_quizzes4_quiz22() {
     ["he had place",	"oh jagah kol_si"],
     ["he has place",	"oh jagah kol_hai hai"],
     ["he will have place",	"oh jagah hai vega"],
+    ["they had two places", "oh doh jagahan kol_si"],
+    ["they have two places",  "oh doh jagahan kol_hai han"],
+    ["they will have two places", "oh doh jagahan hai vaange"],
+    ["we had two places", "asi doh jagahan kol_si"],
+    ["we have two places",  "asi doh jagahan kol_hai haan"],
+    ["we will have two places", "asi doh jagahan hai vaange"],
+    ["she had a place", "oh ik jagah kol_si"],
+    ["she has a place", "oh ik jagah kol_hai hai"],
+    ["she will have a place", "oh ik jagah hai vegi"],
   ], options);
   return {info, quiz};
 }
 
-function content_quizzes4_quiz23() {
-  let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[place,work]", header: "Pvn-have-[place,work]" };
-  let options = { random: true, count: [18] };
-  let quiz = build_choices([
-    ["they had two places",	"oh doh jagahan kol_si"],
-    ["they have two places",	"oh doh jagahan kol_hai han"],
-    ["they will have two places",	"oh doh jagahan hai vaange"],
-    ["we had two places",	"asi doh jagahan kol_si"],
-    ["we have two places",	"asi doh jagahan kol_hai haan"],
-    ["we will have two places",	"asi doh jagahan hai vaange"],
-    ["she had a place",	"oh ik jagah kol_si"],
-    ["she has a place",	"oh ik jagah kol_hai hai"],
-    ["she will have a place",	"oh ik jagah hai vegi"],
-    ["it had work",	"eh kamm kol_si"],
-    ["it has work",	"eh kamm kol_hai hai"],
-    ["it will have work",	"eh kamm hai vega"],
-  ], options);
-  return {info, quiz};
-}
+// function content_quizzes4_quiz23() {
+//   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[place,work]", header: "Pvn-have-[place,work]" };
+//   let options = { random: true, count: [18] };
+//   let quiz = build_choices([
+//     ["they had two places",	"oh doh jagahan kol_si"],
+//     ["they have two places",	"oh doh jagahan kol_hai han"],
+//     ["they will have two places",	"oh doh jagahan hai vaange"],
+//     ["we had two places",	"asi doh jagahan kol_si"],
+//     ["we have two places",	"asi doh jagahan kol_hai haan"],
+//     ["we will have two places",	"asi doh jagahan hai vaange"],
+//     ["she had a place",	"oh ik jagah kol_si"],
+//     ["she has a place",	"oh ik jagah kol_hai hai"],
+//     ["she will have a place",	"oh ik jagah hai vegi"],
+//     ["it had work",	"eh kamm kol_si"],
+//     ["it has work",	"eh kamm kol_hai hai"],
+//     ["it will have work",	"eh kamm hai vega"],
+//   ], options);
+//   return {info, quiz};
+// }
 
 function content_quizzes4_quiz24() {
   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[work]", header: "Pvn-have-[work]" };
   let options = { random: true, count: [18] };
   let quiz = build_choices([
+    ["it had work", "eh kamm kol_si"],
+    ["it has work", "eh kamm kol_hai hai"],
+    ["it will have work", "eh kamm hai vega"],
     ["i had work",	"mein kamm kol_si"],
     ["i have work",	"mein kamm kol_hai haan"],
     ["i will have work",	"mein kamm hai vaange"],
@@ -490,34 +590,46 @@ function content_quizzes4_quiz24() {
     ["they had work",	"oh kamm kol_si"],
     ["they have work",	"oh kamm kol_hai han"],
     ["they will have work",	"oh kamm hai vaange"],
+    ["we had work", "asi kamm kol_si"],
+    ["we have work",  "asi kamm kol_hai haan"],
+    ["we will have work", "asi kamm hai vaange"],
+    ["she had work",  "oh kamm kol_si"],
+    ["she has work",  "oh kamm kol_hai hai"],
+    ["she will have work",  "oh kamm hai vegi"],
   ], options);
   return {info, quiz};
 }
 
-function content_quizzes4_quiz25() {
-  let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[work,week]", header: "Pvn-have-[work,week]" };
-  let options = { random: true, count: [18] };
-  let quiz = build_choices([
-    ["we had work",	"asi kamm kol_si"],
-    ["we have work",	"asi kamm kol_hai haan"],
-    ["we will have work",	"asi kamm hai vaange"],
-    ["she had work",	"oh kamm kol_si"],
-    ["she has work",	"oh kamm kol_hai hai"],
-    ["she will have work",	"oh kamm hai vegi"],
-    ["it had two weeks",	"eh doh haftey kol_si"],
-    ["it has two weeks",	"eh doh haftey kol_hai hai"],
-    ["it will have two weeks",	"eh doh haftey hai vega"],
-    ["i had two weeks",	"mein doh haftey kol_si"],
-    ["i have two weeks",	"mein doh haftey kol_hai haan"],
-    ["i will have two weeks",	"mein doh haftey hai vaange"],
-  ], options);
-  return {info, quiz};
-}
+// function content_quizzes4_quiz25() {
+//   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[work,week]", header: "Pvn-have-[work,week]" };
+//   let options = { random: true, count: [18] };
+//   let quiz = build_choices([
+//     ["we had work",	"asi kamm kol_si"],
+//     ["we have work",	"asi kamm kol_hai haan"],
+//     ["we will have work",	"asi kamm hai vaange"],
+//     ["she had work",	"oh kamm kol_si"],
+//     ["she has work",	"oh kamm kol_hai hai"],
+//     ["she will have work",	"oh kamm hai vegi"],
+//     ["it had two weeks",	"eh doh haftey kol_si"],
+//     ["it has two weeks",	"eh doh haftey kol_hai hai"],
+//     ["it will have two weeks",	"eh doh haftey hai vega"],
+//     ["i had two weeks",	"mein doh haftey kol_si"],
+//     ["i have two weeks",	"mein doh haftey kol_hai haan"],
+//     ["i will have two weeks",	"mein doh haftey hai vaange"],
+//   ], options);
+//   return {info, quiz};
+// }
 
 function content_quizzes4_quiz26() {
   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[week]", header: "Pvn-have-[week]" };
   let options = { random: true, count: [18] };
   let quiz = build_choices([
+    ["it had two weeks",  "eh doh haftey kol_si"],
+    ["it has two weeks",  "eh doh haftey kol_hai hai"],
+    ["it will have two weeks",  "eh doh haftey hai vega"],
+    ["i had two weeks", "mein doh haftey kol_si"],
+    ["i have two weeks",  "mein doh haftey kol_hai haan"],
+    ["i will have two weeks", "mein doh haftey hai vaange"],
     ["you had a week",	"tusi ik hafta kol_si"],
     ["you have a week",	"tusi ik hafta kol_hai ho"],
     ["you will have a week",	"tusi ik hafta hai vaange"],
@@ -530,34 +642,46 @@ function content_quizzes4_quiz26() {
     ["we had two weeks",	"asi doh haftey kol_si"],
     ["we have two weeks",	"asi doh haftey kol_hai haan"],
     ["we will have two weeks",	"asi doh haftey hai vaange"],
+    ["she had two weeks", "oh doh haftey kol_si"],
+    ["she has two weeks", "oh doh haftey kol_hai hai"],
+    ["she will have two weeks", "oh doh haftey hai vegi"],
   ], options);
   return {info, quiz};
 }
 
-function content_quizzes4_quiz27() {
-  let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[week,point]", header: "Pvn-have-[week,point]" };
-  let options = { random: true, count: [18] };
-  let quiz = build_choices([
-    ["she had two weeks",	"oh doh haftey kol_si"],
-    ["she has two weeks",	"oh doh haftey kol_hai hai"],
-    ["she will have two weeks",	"oh doh haftey hai vegi"],
-    ["it had point",	"eh mudda kol_si"],
-    ["it has point",	"eh mudda kol_hai hai"],
-    ["it will have point",	"eh mudda hai vega"],
-    ["i had point",	"mein mudda kol_si"],
-    ["i have point",	"mein mudda kol_hai haan"],
-    ["i will have point",	"mein mudda hai vaange"],
-    ["you had point",	"tusi mudda kol_si"],
-    ["you have point",	"tusi mudda kol_hai ho"],
-    ["you will have point",	"tusi mudda hai vaange"],
-  ], options);
-  return {info, quiz};
-}
+// function content_quizzes4_quiz27() {
+//   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[week,point]", header: "Pvn-have-[week,point]" };
+//   let options = { random: true, count: [18] };
+//   let quiz = build_choices([
+//     ["she had two weeks",	"oh doh haftey kol_si"],
+//     ["she has two weeks",	"oh doh haftey kol_hai hai"],
+//     ["she will have two weeks",	"oh doh haftey hai vegi"],
+//     ["it had point",	"eh mudda kol_si"],
+//     ["it has point",	"eh mudda kol_hai hai"],
+//     ["it will have point",	"eh mudda hai vega"],
+//     ["i had point",	"mein mudda kol_si"],
+//     ["i have point",	"mein mudda kol_hai haan"],
+//     ["i will have point",	"mein mudda hai vaange"],
+//     ["you had point",	"tusi mudda kol_si"],
+//     ["you have point",	"tusi mudda kol_hai ho"],
+//     ["you will have point",	"tusi mudda hai vaange"],
+//   ], options);
+//   return {info, quiz};
+// }
 
 function content_quizzes4_quiz28() {
   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[point]", header: "Pvn-have-[point]" };
   let options = { random: true, count: [18] };
   let quiz = build_choices([
+    ["it had point",  "eh mudda kol_si"],
+    ["it has point",  "eh mudda kol_hai hai"],
+    ["it will have point",  "eh mudda hai vega"],
+    ["i had point", "mein mudda kol_si"],
+    ["i have point",  "mein mudda kol_hai haan"],
+    ["i will have point", "mein mudda hai vaange"],
+    ["you had point", "tusi mudda kol_si"],
+    ["you have point",  "tusi mudda kol_hai ho"],
+    ["you will have point", "tusi mudda hai vaange"],
     ["he had point",	"oh mudda kol_si"],
     ["he has point",	"oh mudda kol_hai hai"],
     ["he will have point",	"oh mudda hai vega"],
@@ -590,34 +714,46 @@ function content_quizzes4_quiz29() {
     ["he had two governments",	"oh doh sarkaran kol_si"],
     ["he has two governments",	"oh doh sarkaran kol_hai hai"],
     ["he will have two governments",	"oh doh sarkaran hai vega"],
+    ["they had two governments",  "oh doh sarkaran kol_si"],
+    ["they have two governments", "oh doh sarkaran kol_hai han"],
+    ["they will have two governments",  "oh doh sarkaran hai vaange"],
+    ["we had government", "asi sarkar kol_si"],
+    ["we have government",  "asi sarkar kol_hai haan"],
+    ["we will have government", "asi sarkar hai vaange"],
+    ["she had two governments", "oh doh sarkaran kol_si"],
+    ["she has two governments", "oh doh sarkaran kol_hai hai"],
+    ["she will have two governments", "oh doh sarkaran hai vegi"],
   ], options);
   return {info, quiz};
 }
 
-function content_quizzes4_quiz30() {
-  let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[government,group]", header: "Pvn-have-[government,group]" };
-  let options = { random: true, count: [18] };
-  let quiz = build_choices([
-    ["they had two governments",	"oh doh sarkaran kol_si"],
-    ["they have two governments",	"oh doh sarkaran kol_hai han"],
-    ["they will have two governments",	"oh doh sarkaran hai vaange"],
-    ["we had government",	"asi sarkar kol_si"],
-    ["we have government",	"asi sarkar kol_hai haan"],
-    ["we will have government",	"asi sarkar hai vaange"],
-    ["she had two governments",	"oh doh sarkaran kol_si"],
-    ["she has two governments",	"oh doh sarkaran kol_hai hai"],
-    ["she will have two governments",	"oh doh sarkaran hai vegi"],
-    ["it had two groups",	"eh doh tolian kol_si"],
-    ["it has two groups",	"eh doh tolian kol_hai hai"],
-    ["it will have two groups",	"eh doh tolian hai vega"],
-  ], options);
-  return {info, quiz};
-}
+// function content_quizzes4_quiz30() {
+//   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[government,group]", header: "Pvn-have-[government,group]" };
+//   let options = { random: true, count: [18] };
+//   let quiz = build_choices([
+//     ["they had two governments",	"oh doh sarkaran kol_si"],
+//     ["they have two governments",	"oh doh sarkaran kol_hai han"],
+//     ["they will have two governments",	"oh doh sarkaran hai vaange"],
+//     ["we had government",	"asi sarkar kol_si"],
+//     ["we have government",	"asi sarkar kol_hai haan"],
+//     ["we will have government",	"asi sarkar hai vaange"],
+//     ["she had two governments",	"oh doh sarkaran kol_si"],
+//     ["she has two governments",	"oh doh sarkaran kol_hai hai"],
+//     ["she will have two governments",	"oh doh sarkaran hai vegi"],
+//     ["it had two groups",	"eh doh tolian kol_si"],
+//     ["it has two groups",	"eh doh tolian kol_hai hai"],
+//     ["it will have two groups",	"eh doh tolian hai vega"],
+//   ], options);
+//   return {info, quiz};
+// }
 
 function content_quizzes4_quiz31() {
   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[group]", header: "Pvn-have-[group]" };
   let options = { random: true, count: [18] };
   let quiz = build_choices([
+    ["it had two groups", "eh doh tolian kol_si"],
+    ["it has two groups", "eh doh tolian kol_hai hai"],
+    ["it will have two groups", "eh doh tolian hai vega"],
     ["i had a group",	"mein ik toli kol_si"],
     ["i have a group",	"mein ik toli kol_hai haan"],
     ["i will have a group",	"mein ik toli hai vaange"],
@@ -630,34 +766,46 @@ function content_quizzes4_quiz31() {
     ["they had two groups",	"oh doh tolian kol_si"],
     ["they have two groups",	"oh doh tolian kol_hai han"],
     ["they will have two groups",	"oh doh tolian hai vaange"],
+    ["we had two groups", "asi doh tolian kol_si"],
+    ["we have two groups",  "asi doh tolian kol_hai haan"],
+    ["we will have two groups", "asi doh tolian hai vaange"],
+    ["she had two groups",  "oh doh tolian kol_si"],
+    ["she has two groups",  "oh doh tolian kol_hai hai"],
+    ["she will have two groups",  "oh doh tolian hai vegi"],
   ], options);
   return {info, quiz};
 }
 
-function content_quizzes4_quiz32() {
-  let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[group,problem]", header: "Pvn-have-[group,problem]" };
-  let options = { random: true, count: [18] };
-  let quiz = build_choices([
-    ["we had two groups",	"asi doh tolian kol_si"],
-    ["we have two groups",	"asi doh tolian kol_hai haan"],
-    ["we will have two groups",	"asi doh tolian hai vaange"],
-    ["she had two groups",	"oh doh tolian kol_si"],
-    ["she has two groups",	"oh doh tolian kol_hai hai"],
-    ["she will have two groups",	"oh doh tolian hai vegi"],
-    ["it had two problems",	"eh doh musibatan kol_si"],
-    ["it has two problems",	"eh doh musibatan kol_hai hai"],
-    ["it will have two problems",	"eh doh musibatan hai vega"],
-    ["i had problem",	"mein musibat kol_si"],
-    ["i have problem",	"mein musibat kol_hai haan"],
-    ["i will have problem",	"mein musibat hai vaange"],
-  ], options);
-  return {info, quiz};
-}
+// function content_quizzes4_quiz32() {
+//   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[group,problem]", header: "Pvn-have-[group,problem]" };
+//   let options = { random: true, count: [18] };
+//   let quiz = build_choices([
+//     ["we had two groups",	"asi doh tolian kol_si"],
+//     ["we have two groups",	"asi doh tolian kol_hai haan"],
+//     ["we will have two groups",	"asi doh tolian hai vaange"],
+//     ["she had two groups",	"oh doh tolian kol_si"],
+//     ["she has two groups",	"oh doh tolian kol_hai hai"],
+//     ["she will have two groups",	"oh doh tolian hai vegi"],
+//     ["it had two problems",	"eh doh musibatan kol_si"],
+//     ["it has two problems",	"eh doh musibatan kol_hai hai"],
+//     ["it will have two problems",	"eh doh musibatan hai vega"],
+//     ["i had problem",	"mein musibat kol_si"],
+//     ["i have problem",	"mein musibat kol_hai haan"],
+//     ["i will have problem",	"mein musibat hai vaange"],
+//   ], options);
+//   return {info, quiz};
+// }
 
 function content_quizzes4_quiz33() {
   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[problem]", header: "Pvn-have-[problem]" };
   let options = { random: true, count: [18] };
   let quiz = build_choices([
+    ["it had two problems", "eh doh musibatan kol_si"],
+    ["it has two problems", "eh doh musibatan kol_hai hai"],
+    ["it will have two problems", "eh doh musibatan hai vega"],
+    ["i had problem", "mein musibat kol_si"],
+    ["i have problem",  "mein musibat kol_hai haan"],
+    ["i will have problem", "mein musibat hai vaange"],
     ["you had two problems",	"tusi doh musibatan kol_si"],
     ["you have two problems",	"tusi doh musibatan kol_hai ho"],
     ["you will have two problems",	"tusi doh musibatan hai vaange"],
@@ -670,34 +818,46 @@ function content_quizzes4_quiz33() {
     ["we had two problems",	"asi doh musibatan kol_si"],
     ["we have two problems",	"asi doh musibatan kol_hai haan"],
     ["we will have two problems",	"asi doh musibatan hai vaange"],
+    ["she had two problems",  "oh doh musibatan kol_si"],
+    ["she has two problems",  "oh doh musibatan kol_hai hai"],
+    ["she will have two problems",  "oh doh musibatan hai vegi"],
   ], options);
   return {info, quiz};
 }
 
-function content_quizzes4_quiz34() {
-  let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have,do-[problem,thing]", header: "Pvn-have,do-[problem,thing]" };
-  let options = { random: true, count: [18] };
-  let quiz = build_choices([
-    ["she had two problems",	"oh doh musibatan kol_si"],
-    ["she has two problems",	"oh doh musibatan kol_hai hai"],
-    ["she will have two problems",	"oh doh musibatan hai vegi"],
-    ["it did two things",	"eh doh cheezan keeta"],
-    ["it does two things",	"eh doh cheezan karda hai"],
-    ["it will do two things",	"eh doh cheezan karda vega"],
-    ["i did two things",	"mein doh cheezan keeta"],
-    ["i do two things",	"mein doh cheezan kardey haan"],
-    ["i will do two things",	"mein doh cheezan karda vaange"],
-    ["you did two things",	"tusi doh cheezan keeta"],
-    ["you do two things",	"tusi doh cheezan kardey ho"],
-    ["you will do two things",	"tusi doh cheezan karda vaange"],
-  ], options);
-  return {info, quiz};
-}
+// function content_quizzes4_quiz34() {
+//   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have,do-[problem,thing]", header: "Pvn-have,do-[problem,thing]" };
+//   let options = { random: true, count: [18] };
+//   let quiz = build_choices([
+//     ["she had two problems",	"oh doh musibatan kol_si"],
+//     ["she has two problems",	"oh doh musibatan kol_hai hai"],
+//     ["she will have two problems",	"oh doh musibatan hai vegi"],
+//     ["it did two things",	"eh doh cheezan keeta"],
+//     ["it does two things",	"eh doh cheezan karda hai"],
+//     ["it will do two things",	"eh doh cheezan karda vega"],
+//     ["i did two things",	"mein doh cheezan keeta"],
+//     ["i do two things",	"mein doh cheezan kardey haan"],
+//     ["i will do two things",	"mein doh cheezan karda vaange"],
+//     ["you did two things",	"tusi doh cheezan keeta"],
+//     ["you do two things",	"tusi doh cheezan kardey ho"],
+//     ["you will do two things",	"tusi doh cheezan karda vaange"],
+//   ], options);
+//   return {info, quiz};
+// }
 
 function content_quizzes4_quiz35() {
   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-do-[thing]", header: "Pvn-do-[thing]" };
   let options = { random: true, count: [18] };
   let quiz = build_choices([
+    ["it did two things", "eh doh cheezan keeta"],
+    ["it does two things",  "eh doh cheezan karda hai"],
+    ["it will do two things", "eh doh cheezan karda vega"],
+    ["i did two things",  "mein doh cheezan keeta"],
+    ["i do two things", "mein doh cheezan kardey haan"],
+    ["i will do two things",  "mein doh cheezan karda vaange"],
+    ["you did two things",  "tusi doh cheezan keeta"],
+    ["you do two things", "tusi doh cheezan kardey ho"],
+    ["you will do two things",  "tusi doh cheezan karda vaange"],
     ["he did two things",	"oh doh cheezan keeta"],
     ["he does two things",	"oh doh cheezan karda hai"],
     ["he will do two things",	"oh doh cheezan karda vega"],
@@ -730,34 +890,46 @@ function content_quizzes4_quiz36() {
     ["he did two parts",	"oh doh hissey keeta"],
     ["he does two parts",	"oh doh hissey karda hai"],
     ["he will do two parts",	"oh doh hissey karda vega"],
+    ["they did two parts",  "oh doh hissey keeta"],
+    ["they do two parts", "oh doh hissey kardey han"],
+    ["they will do two parts",  "oh doh hissey karda vaange"],
+    ["we did two parts",  "asi doh hissey keeta"],
+    ["we do two parts", "asi doh hissey kardey haan"],
+    ["we will do two parts",  "asi doh hissey karda vaange"],
+    ["she did two parts", "oh doh hissey keeta"],
+    ["she does two parts",  "oh doh hissey kardi hai"],
+    ["she will do two parts", "oh doh hissey karda vegi"],
   ], options);
   return {info, quiz};
 }
 
-function content_quizzes4_quiz37() {
-  let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-do,say-[part,thing]", header: "Pvn-do,say-[part,thing]" };
-  let options = { random: true, count: [18] };
-  let quiz = build_choices([
-    ["they did two parts",	"oh doh hissey keeta"],
-    ["they do two parts",	"oh doh hissey kardey han"],
-    ["they will do two parts",	"oh doh hissey karda vaange"],
-    ["we did two parts",	"asi doh hissey keeta"],
-    ["we do two parts",	"asi doh hissey kardey haan"],
-    ["we will do two parts",	"asi doh hissey karda vaange"],
-    ["she did two parts",	"oh doh hissey keeta"],
-    ["she does two parts",	"oh doh hissey kardi hai"],
-    ["she will do two parts",	"oh doh hissey karda vegi"],
-    ["it said thing",	"eh cheez kiha"],
-    ["it says thing",	"eh cheez kehnda hai"],
-    ["it will say thing",	"eh cheez keh vega"],
-  ], options);
-  return {info, quiz};
-}
+// function content_quizzes4_quiz37() {
+//   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-do,say-[part,thing]", header: "Pvn-do,say-[part,thing]" };
+//   let options = { random: true, count: [18] };
+//   let quiz = build_choices([
+//     ["they did two parts",	"oh doh hissey keeta"],
+//     ["they do two parts",	"oh doh hissey kardey han"],
+//     ["they will do two parts",	"oh doh hissey karda vaange"],
+//     ["we did two parts",	"asi doh hissey keeta"],
+//     ["we do two parts",	"asi doh hissey kardey haan"],
+//     ["we will do two parts",	"asi doh hissey karda vaange"],
+//     ["she did two parts",	"oh doh hissey keeta"],
+//     ["she does two parts",	"oh doh hissey kardi hai"],
+//     ["she will do two parts",	"oh doh hissey karda vegi"],
+//     ["it said thing",	"eh cheez kiha"],
+//     ["it says thing",	"eh cheez kehnda hai"],
+//     ["it will say thing",	"eh cheez keh vega"],
+//   ], options);
+//   return {info, quiz};
+// }
 
 function content_quizzes4_quiz38() {
   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-say-[thing]", header: "Pvn-say-[thing]" };
   let options = { random: true, count: [18] };
   let quiz = build_choices([
+    ["it said thing", "eh cheez kiha"],
+    ["it says thing", "eh cheez kehnda hai"],
+    ["it will say thing", "eh cheez keh vega"],
     ["i said two things",	"mein doh cheezan kiha"],
     ["i say two things",	"mein doh cheezan kenhdey haan"],
     ["i will say two things",	"mein doh cheezan keh vaange"],
@@ -770,34 +942,46 @@ function content_quizzes4_quiz38() {
     ["they said two things",	"oh doh cheezan kiha"],
     ["they say two things",	"oh doh cheezan kenhdey han"],
     ["they will say two things",	"oh doh cheezan keh vaange"],
+    ["we said two things",  "asi doh cheezan kiha"],
+    ["we say two things", "asi doh cheezan kenhdey haan"],
+    ["we will say two things",  "asi doh cheezan keh vaange"],
+    ["she said two things", "oh doh cheezan kiha"],
+    ["she says two things", "oh doh cheezan kehndi hai"],
+    ["she will say two things", "oh doh cheezan keh vegi"],
   ], options);
   return {info, quiz};
 }
 
-function content_quizzes4_quiz39() {
-  let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-say-[thing,fact]", header: "Pvn-say-[thing,fact]" };
-  let options = { random: true, count: [18] };
-  let quiz = build_choices([
-    ["we said two things",	"asi doh cheezan kiha"],
-    ["we say two things",	"asi doh cheezan kenhdey haan"],
-    ["we will say two things",	"asi doh cheezan keh vaange"],
-    ["she said two things",	"oh doh cheezan kiha"],
-    ["she says two things",	"oh doh cheezan kehndi hai"],
-    ["she will say two things",	"oh doh cheezan keh vegi"],
-    ["it said two facts",	"eh doh sachaian kiha"],
-    ["it says two facts",	"eh doh sachaian kehnda hai"],
-    ["it will say two facts",	"eh doh sachaian keh vega"],
-    ["i said two facts",	"mein doh sachaian kiha"],
-    ["i say two facts",	"mein doh sachaian kenhdey haan"],
-    ["i will say two facts",	"mein doh sachaian keh vaange"],
-  ], options);
-  return {info, quiz};
-}
+// function content_quizzes4_quiz39() {
+//   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-say-[thing,fact]", header: "Pvn-say-[thing,fact]" };
+//   let options = { random: true, count: [18] };
+//   let quiz = build_choices([
+//     ["we said two things",	"asi doh cheezan kiha"],
+//     ["we say two things",	"asi doh cheezan kenhdey haan"],
+//     ["we will say two things",	"asi doh cheezan keh vaange"],
+//     ["she said two things",	"oh doh cheezan kiha"],
+//     ["she says two things",	"oh doh cheezan kehndi hai"],
+//     ["she will say two things",	"oh doh cheezan keh vegi"],
+//     ["it said two facts",	"eh doh sachaian kiha"],
+//     ["it says two facts",	"eh doh sachaian kehnda hai"],
+//     ["it will say two facts",	"eh doh sachaian keh vega"],
+//     ["i said two facts",	"mein doh sachaian kiha"],
+//     ["i say two facts",	"mein doh sachaian kenhdey haan"],
+//     ["i will say two facts",	"mein doh sachaian keh vaange"],
+//   ], options);
+//   return {info, quiz};
+// }
 
 function content_quizzes4_quiz40() {
   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-say-[fact]", header: "Pvn-say-[fact]" };
   let options = { random: true, count: [18] };
   let quiz = build_choices([
+    ["it said two facts", "eh doh sachaian kiha"],
+    ["it says two facts", "eh doh sachaian kehnda hai"],
+    ["it will say two facts", "eh doh sachaian keh vega"],
+    ["i said two facts",  "mein doh sachaian kiha"],
+    ["i say two facts", "mein doh sachaian kenhdey haan"],
+    ["i will say two facts",  "mein doh sachaian keh vaange"],
     ["you said two facts",	"tusi doh sachaian kiha"],
     ["you say two facts",	"tusi doh sachaian kenhdey ho"],
     ["you will say two facts",	"tusi doh sachaian keh vaange"],
@@ -810,34 +994,46 @@ function content_quizzes4_quiz40() {
     ["we said two facts",	"asi doh sachaian kiha"],
     ["we say two facts",	"asi doh sachaian kenhdey haan"],
     ["we will say two facts",	"asi doh sachaian keh vaange"],
+    ["she said a fact", "oh ik sachai kiha"],
+    ["she says a fact", "oh ik sachai kehndi hai"],
+    ["she will say a fact", "oh ik sachai keh vegi"],
   ], options);
   return {info, quiz};
 }
 
-function content_quizzes4_quiz41() {
-  let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-say,get-[fact,time]", header: "Pvn-say,get-[fact,time]" };
-  let options = { random: true, count: [18] };
-  let quiz = build_choices([
-    ["she said a fact",	"oh ik sachai kiha"],
-    ["she says a fact",	"oh ik sachai kehndi hai"],
-    ["she will say a fact",	"oh ik sachai keh vegi"],
-    ["it got time",	"eh samah liaia"],
-    ["it gets time",	"eh samah liaunda hai"],
-    ["it will get time",	"eh samah lia vega"],
-    ["i got time",	"mein samah liaye"],
-    ["i get time",	"mein samah liaundey haan"],
-    ["i will get time",	"mein samah lia vaange"],
-    ["you got time",	"tusi samah liaye"],
-    ["you get time",	"tusi samah liaundey ho"],
-    ["you will get time",	"tusi samah lia vaange"],
-  ], options);
-  return {info, quiz};
-}
+// function content_quizzes4_quiz41() {
+//   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-say,get-[fact,time]", header: "Pvn-say,get-[fact,time]" };
+//   let options = { random: true, count: [18] };
+//   let quiz = build_choices([
+//     ["she said a fact",	"oh ik sachai kiha"],
+//     ["she says a fact",	"oh ik sachai kehndi hai"],
+//     ["she will say a fact",	"oh ik sachai keh vegi"],
+//     ["it got time",	"eh samah liaia"],
+//     ["it gets time",	"eh samah liaunda hai"],
+//     ["it will get time",	"eh samah lia vega"],
+//     ["i got time",	"mein samah liaye"],
+//     ["i get time",	"mein samah liaundey haan"],
+//     ["i will get time",	"mein samah lia vaange"],
+//     ["you got time",	"tusi samah liaye"],
+//     ["you get time",	"tusi samah liaundey ho"],
+//     ["you will get time",	"tusi samah lia vaange"],
+//   ], options);
+//   return {info, quiz};
+// }
 
 function content_quizzes4_quiz42() {
   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-get-[time]", header: "Pvn-get-[time]" };
   let options = { random: true, count: [18] };
   let quiz = build_choices([
+    ["it got time", "eh samah liaia"],
+    ["it gets time",  "eh samah liaunda hai"],
+    ["it will get time",  "eh samah lia vega"],
+    ["i got time",  "mein samah liaye"],
+    ["i get time",  "mein samah liaundey haan"],
+    ["i will get time", "mein samah lia vaange"],
+    ["you got time",  "tusi samah liaye"],
+    ["you get time",  "tusi samah liaundey ho"],
+    ["you will get time", "tusi samah lia vaange"],
     ["he got time",	"oh samah liaia"],
     ["he gets time",	"oh samah liaunda hai"],
     ["he will get time",	"oh samah lia vega"],
@@ -870,34 +1066,46 @@ function content_quizzes4_quiz43() {
     ["he got two years",	"oh doh saalan liaia"],
     ["he gets two years",	"oh doh saalan liaunda hai"],
     ["he will get two years",	"oh doh saalan lia vega"],
+    ["they got two years",  "oh doh saalan liaye"],
+    ["they get two years",  "oh doh saalan liaundey han"],
+    ["they will get two years", "oh doh saalan lia vaange"],
+    ["we got two years",  "asi doh saalan liaye"],
+    ["we get two years",  "asi doh saalan liaundey haan"],
+    ["we will get two years", "asi doh saalan lia vaange"],
+    ["she got two years", "oh doh saalan liaii"],
+    ["she gets two years",  "oh doh saalan liaundi hai"],
+    ["she will get two years",  "oh doh saalan lia vegi"],
   ], options);
   return {info, quiz};
 }
 
-function content_quizzes4_quiz44() {
-  let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-get-[year,way]", header: "Pvn-get-[year,way]" };
-  let options = { random: true, count: [18] };
-  let quiz = build_choices([
-    ["they got two years",	"oh doh saalan liaye"],
-    ["they get two years",	"oh doh saalan liaundey han"],
-    ["they will get two years",	"oh doh saalan lia vaange"],
-    ["we got two years",	"asi doh saalan liaye"],
-    ["we get two years",	"asi doh saalan liaundey haan"],
-    ["we will get two years",	"asi doh saalan lia vaange"],
-    ["she got two years",	"oh doh saalan liaii"],
-    ["she gets two years",	"oh doh saalan liaundi hai"],
-    ["she will get two years",	"oh doh saalan lia vegi"],
-    ["it got way",	"eh rasta liaia"],
-    ["it gets way",	"eh rasta liaunda hai"],
-    ["it will get way",	"eh rasta lia vega"],
-  ], options);
-  return {info, quiz};
-}
+// function content_quizzes4_quiz44() {
+//   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-get-[year,way]", header: "Pvn-get-[year,way]" };
+//   let options = { random: true, count: [18] };
+//   let quiz = build_choices([
+//     ["they got two years",	"oh doh saalan liaye"],
+//     ["they get two years",	"oh doh saalan liaundey han"],
+//     ["they will get two years",	"oh doh saalan lia vaange"],
+//     ["we got two years",	"asi doh saalan liaye"],
+//     ["we get two years",	"asi doh saalan liaundey haan"],
+//     ["we will get two years",	"asi doh saalan lia vaange"],
+//     ["she got two years",	"oh doh saalan liaii"],
+//     ["she gets two years",	"oh doh saalan liaundi hai"],
+//     ["she will get two years",	"oh doh saalan lia vegi"],
+//     ["it got way",	"eh rasta liaia"],
+//     ["it gets way",	"eh rasta liaunda hai"],
+//     ["it will get way",	"eh rasta lia vega"],
+//   ], options);
+//   return {info, quiz};
+// }
 
 function content_quizzes4_quiz45() {
   let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-get-[way]", header: "Pvn-get-[way]" };
   let options = { random: true, count: [18] };
   let quiz = build_choices([
+    ["it got way",  "eh rasta liaia"],
+    ["it gets way", "eh rasta liaunda hai"],
+    ["it will get way", "eh rasta lia vega"],
     ["i got way",	"mein rasta liaye"],
     ["i get way",	"mein rasta liaundey haan"],
     ["i will get way",	"mein rasta lia vaange"],
