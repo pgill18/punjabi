@@ -1,7 +1,7 @@
 var avatar_chatbot = { me: 'chatbot/img/king2.jpg', you: 'chatbot/img/assistant2.png', they: 'chatbot/img/they2.png', sys: 'chatbot/img/sys2.png' };
 var score_chatbot = { points: 0, joined: 0 };
 var settings_chatbot = { font_size: 16, speedup: 2, hints: 2, prompt: 1, mult: 1, feedback: 1, duplex: 1, expert: 0, quiet: 1, test: 0 };
-var data_chatbot = { hint_text: '', hint_tooltip: 'Will reduce points earned' };
+var data_chatbot = { hint_text: '', hint_tooltip: 'Will reduce points earned', answer: '' };
 var status_chatbot = { closed: 0 };
 
 function formatAMPM_chatbot(date) {
@@ -113,6 +113,21 @@ function launchUtilModal_chatbot(_this, title, {text, size=''}={}) {
     let html = text+`<br><small style="color:silver">*Hints reduce points earned</small>`;
     if(text) $(`#utilModalBodyText`).html(html);
     $(`#utilModal`).modal('show');
+}
+
+function typeAnswer_chatbot(debug) {
+    if(!debug) return;
+    $(".chatbot-mytext").val(data_chatbot.answer);
+    const ke = new KeyboardEvent('keydown', {
+        bubbles: true, cancelable: true, keyCode: 13
+    });
+    // document.body.dispatchEvent(ke);
+    document.getElementsByClassName("chatbot-mytext")[0].dispatchEvent(ke);
+}
+function addJoined_chatbot(debug) {
+    if(!debug) return;
+    score_chatbot.points = 100;
+    typeAnswer_chatbot(debug);
 }
 
 function readKey_chatbot() {
@@ -342,6 +357,7 @@ async function one_run_chatbot(i, converse, max_points=100) {
 
         await delays(1);
         let answer = getAutoAnswer_chatbot(i, aword, alist);
+        data_chatbot.answer = answer;
         if(status_chatbot.closed) return [];
         if(!settings_chatbot.test) answer = await keyboard_chatbot();
         answer = answer.trim();
