@@ -578,6 +578,7 @@
           elem.style.color = 'gray';
           elem.style.fontSize = '30px';
           $(elem).removeClass("btn-light");
+          $(elem).prop('title', 0);
           return output;
       }
       function collect_old(id, totid='score-points', i, factor=100) {
@@ -607,12 +608,14 @@
           $(elem).removeClass("btn-light");
           let current_total = parseInt($("#"+totid).text());
           $("#"+totid).text(current_total+output);
-          store_scorecard('galleons', current_total+output);
-          store_progress(i, 'prod', 0);
-          store_progress(i, 'coll-time', new Date().getTime());
           console.log(`i=${i}`);
           console.log(output);
           console.log($(elem).data('prod'));
+          store_scorecard('galleons', current_total+output);
+          store_progress(i, 'prod', 0);
+          store_progress(i, 'coll-time', new Date().getTime());
+          $(elem).data('prod', 0);
+          $(elem).prop('title', 0);
           return output;
       }
       function collect_level(i, qty=100) {
