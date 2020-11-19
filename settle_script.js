@@ -210,6 +210,9 @@ function deleteLevelProgress() {
     let game_data = retrieve_scorecard(`build/space-${tile.i}-${tile.j}`);
     delete game_data.build_db; delete game_data.canvas_db;
     Object.assign(game_data.people, { housed: 0, used: 0, temps: 0 });
+    game_data.people.max += 50;
+    game_data.scorecard.coins += 2000;
+    game_data.scorecard.coins += 6000;
     store_scorecard(`build/space-${tile.i}-${tile.j}`, game_data);
 }
 

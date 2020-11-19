@@ -127,6 +127,7 @@ function set_vars() {
     _people_values = people_db.values;
 }
 async function loop() {
+    if(!_pieces) _pieces = [];
     // await delay(1);
     // for(i=0; i < _pieces.length; i+=1) {
     //     if(_locked.includes(i)) lockTile(i);
