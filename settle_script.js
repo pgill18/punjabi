@@ -212,7 +212,7 @@ function deleteLevelProgress() {
     Object.assign(game_data.people, { housed: 0, used: 0, temps: 0 });
     game_data.people.max += 50;
     game_data.scorecard.coins += 2000;
-    game_data.scorecard.coins += 6000;
+    game_data.scorecard.supplies += 6000;
     store_scorecard(`build/space-${tile.i}-${tile.j}`, game_data);
 }
 
