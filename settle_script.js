@@ -208,7 +208,8 @@ function deleteAllProgress() {
 }
 function deleteLevelProgress() {
     let game_data = retrieve_scorecard(`build/space-${tile.i}-${tile.j}`);
-    game_data.build_db = {}; game_data.canvas_db = {}; game_data.people_db = {};
+    delete game_data.build_db; delete game_data.canvas_db;
+    Object.assign(game_data.people, { housed: 0, used: 0, temps: 0 });
     store_scorecard(`build/space-${tile.i}-${tile.j}`, game_data);
 }
 
@@ -848,6 +849,7 @@ function load_saved_data(i=1, j=1) {
         set_people(_people);
     }
     function load_canvas_saved_data(_canvas_db) {
+        if(!_canvas_db) return;
         canvas_db.locked  = _locked = _canvas_db.locked;
         canvas_db.blocked = _blocked = _canvas_db.blocked;
         canvas_db.pieces  = _pieces = _canvas_db.pieces;
@@ -856,6 +858,7 @@ function load_saved_data(i=1, j=1) {
         }
     }
     function load_build_saved_data(_build_db) {
+        if(!_build_db) return;
         build_db.current_era  = current_era = _build_db.current_era;
         build_db.unlocked_db  = Object.assign(unlocked_db, _build_db.unlocked_db);
         build_db.unlocking_db  = Object.assign(unlocking_db, _build_db.unlocking_db);
