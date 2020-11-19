@@ -207,9 +207,9 @@ function deleteAllProgress() {
     store_scorecard(`build/space-${tile.i}-${tile.j}`, '');
 }
 function deleteLevelProgress() {
-    let game_data = retrieve_scorecard(`build/space-${i}-${j}`);
-    delete game_data.build_db; delete game_data.canvas_db;
-    store_scorecard(`build/space-${i}-${j}`, game_data);
+    let game_data = retrieve_scorecard(`build/space-${tile.i}-${tile.j}`);
+    game_data.build_db = {}; game_data.canvas_db = {}; game_data.people_db = {};
+    store_scorecard(`build/space-${tile.i}-${tile.j}`, game_data);
 }
 
 function runWithSpeedup(speedx, _this) {
