@@ -1925,6 +1925,11 @@
               }
               return false;
           }
+
+          function admin_mode() {
+              DEBUG_MODE = 1;
+              $('footer').find('[hidden]').attr('hidden', false);
+          }
       </script>
 
       <script type="text/javascript">
@@ -2315,6 +2320,7 @@
                 </div>
                 <div hidden>
                   <li><a class="text-muted text-exempt" href="#" onclick="set_automagic()" hidden1>Auto test mode <span id="automagic">1<span></a></li>
+                  <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(8)" hidden1>Speedup <span id="speedup">8<span>x</a></li>
                   <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(10)" hidden1>Speedup <span id="speedup">10<span>x</a></li>
                   <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(24)" hidden1>Speedup <span id="speedup">24<span>x</a></li>
                   <li><a class="text-muted text-exempt" href="#" onclick="set_speedup(60)" hidden1>Speedup <span id="speedup">60<span>x</a></li>

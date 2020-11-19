@@ -45,7 +45,7 @@
   <!-- <body onload="init(5, 'img/buildings-base.jpg');"> -->
   <body onload="init(6, 'content/img/palace-base-0.jpg');">
 
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light" id="nav-1a">
       <!-- <a class="navbar-brand" href="#">Make</a> -->
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTop" aria-controls="navbarTop" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -88,7 +88,7 @@
       </div>
     </nav>
 
-    <nav class="navbar navbar-expand-lg" style="margin-top:10px">
+    <nav class="navbar navbar-expand-lg" style="margin-top:10px" id="nav-1b">
       <div class="collapse navbar-collapse" id="navbarTop2">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item">
@@ -114,6 +114,12 @@
           </li>
           <!-- <div class="col-2"></div> -->
           <div style="display: inline-flex;" hidden>
+              <li class="nav-item">
+                <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="status-report" style="font-size:24px;color:gray;background:white; float-left" onclick="runWithSpeedup(8,this)" data-toggle="tooltip" title="Production status">fast_forward</i>8x</a>
+              </li>
+              <li class="nav-item">
+                <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="status-report" style="font-size:24px;color:gray;background:white; float-left" onclick="runWithSpeedup(24,this)" data-toggle="tooltip" title="Production status">fast_forward</i>24x</a>
+              </li>
               <li class="nav-item">
                 <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="status-report" style="font-size:24px;color:gray;background:white; float-left" onclick="runWithSpeedup(10,this)" data-toggle="tooltip" title="Production status">fast_forward</i>10x</a>
               </li>
@@ -144,7 +150,7 @@
     </div>
 
 
-    <nav class="navbar navbar-expand-lg" hidden>
+    <nav class="navbar navbar-expand-lg" id="nav-2a" hidden>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTop3" aria-controls="navbarTop3" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -243,7 +249,7 @@
       </ul>
 
 
-    <nav class="navbar fixed-bottom navbar-expand-sm navbar-light bg-light pos-f-t">
+    <nav class="navbar fixed-bottom navbar-expand-sm navbar-light bg-light pos-f-t" id="nav-2b">
       <!-- <a class="navbar-brand" href="#">Library</a> -->
       <button class="navbar-toggler btn-sm" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -306,6 +312,7 @@
   </nav>
 
   <script type="text/javascript">
+      let DEBUG_MODE = 1;
       // Initialize modal html
       $(() => {
           createMiniLeftStoryModal();
@@ -1364,6 +1371,13 @@ function cleanupElementsInnerHTML(id) {
           // setTimeout(function() { $('#canvas').click(); }, 1000);
           setTimeout(function() { load_saved_data() }, 1500);
       });
+      function admin_mode() {
+          DEBUG_MODE = 1;
+          $('nav#nav-1b').find('[hidden]').attr('hidden', false);
+          $('nav#nav-2a').find('[hidden]').attr('hidden', false);
+          $('nav#nav-2b').find('[hidden]').attr('hidden', false);
+          $('nav[hidden]').attr('hidden', false);
+      }
     </script>
   </body>
 </html>
