@@ -80,7 +80,7 @@ const dependencies_db = {
     },
     run: {
         coins:  [], diamonds: [], marks: [], people: [], happiness: [],
-        supplies: [{coins: [10, 20, 50, 100, 200, 400]}, {coins: [20, 50, 100, 200, 500, 1000]}],
+        supplies: [{coins: [10, 20, 50, 70, 100, 200]}, {coins: [20, 50, 100, 200, 300, 600]}],
         stone:  [{supplies: [1000, 2000, 4000, 8000]}, {supplies: [1000, 2000, 4000, 8000]}], 
         lumber: [{supplies: [1000, 2000, 4000, 8000]}, {supplies: [1000, 2000, 4000, 8000]}], 
         iron:  [{supplies: [1000, 2000, 4000, 8000]}, {supplies: [1000, 2000, 4000, 8000]}], 
