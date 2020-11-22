@@ -584,7 +584,7 @@ function unlock_era(mode={build:1,alert:0}) {
     deduct_dependencies_era(next_era_db);
     enable_unlocked(next_era_db.gain);
     current_era++;
-    document.getElementById('era').textContent = current_era;
+    document.getElementById('era').textContent = current_era + 1;
     // if(mode.build) {
     //     unpopulate_all();
     //     populate_era();
