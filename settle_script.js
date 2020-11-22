@@ -865,7 +865,7 @@ function load_saved_data(i=1, j=1) {
         build_db.current_era  = current_era = _build_db.current_era;
         build_db.unlocked_db  = Object.assign(unlocked_db, _build_db.unlocked_db);
         build_db.unlocking_db  = Object.assign(unlocking_db, _build_db.unlocking_db);
-        document.getElementById('era').textContent = current_era;
+        document.getElementById('era').textContent = current_era + 1;
         for(let name in unlocked_db) {
             for(let i in unlocked_db[name]) {
                 if(unlocked_db[name][i]) $(`#lib-${name}-${i}`).prop('disabled', false);
