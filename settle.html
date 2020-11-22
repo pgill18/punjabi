@@ -68,7 +68,7 @@
         </ul>
         <ul class="navbar-nav mr-auto">
           <li class="nav-item">
-            <em class="nav-link" style="color:darkgray; font-size: 20px; font-weight: 500">Build <small id="era">0</small></em>
+            <em class="nav-link" style="color:darkgray; font-size: 20px; font-weight: 500">Build <small id="era">1</small></em>
           </li>
         </ul>
         <ul class="navbar-nav float-right">
@@ -136,7 +136,7 @@
                 <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="status-report" style="font-size:24px;color:gray;background:white; float-right" onclick="deleteLevelProgress(this)" data-toggle="tooltip" title="Delete progress of this level">clear</i></a>
               </li>
               <li class="nav-item">
-                <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="status-report" style="font-size:24px;color:maroon;background:white; float-right" onclick="deleteAllProgress(this)" data-toggle="tooltip" title="Delete all progress, all levels">clear</i></a>
+                <!-- <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="status-report" style="font-size:24px;color:maroon;background:white; float-right" onclick="deleteAllProgress(this)" data-toggle="tooltip" title="Delete all progress, all levels">clear</i></a> -->
               </li>
           </div>
         </ul>
@@ -242,14 +242,14 @@
       </div>
     </nav>
 
-      <ul class="navbar-nav nav-sm">
-        <li class="nav-item ml-auto mr-5">
-          <a type="button"><i class="material-icons btn-light mt-1" id="unlock-era" style="font-size:24px;color:gray;background:white;" onclick="unpopulate_all()" data-toggle="tooltip" title="Delete all buildings">delete_sweep</i></a>
-        </li>
-      </ul>
+    <ul class="navbar-nav nav-sm">
+      <li class="nav-item ml-auto mr-5">
+        <a type="button"><i class="material-icons btn-light mt-1" id="unlock-era" style="font-size:24px;color:gray;background:white;" onclick="unpopulate_all()" data-toggle="tooltip" title="Delete all buildings">delete_sweep</i></a>
+      </li>
+    </ul>
 
-
-    <nav class="navbar fixed-bottom navbar-expand-sm navbar-light bg-light pos-f-t" id="nav-2b">
+    <nav class="navbar fixed-bottom navbar-expand-lg" xstyle="margin-top:10px" id="nav-2b">
+    <!-- <nav class="navbar fixed-bottom navbar-expand-sm navbar-light bg-light pos-f-t" id="nav-2b"> -->
       <!-- <a class="navbar-brand" href="#">Library</a> -->
       <button class="navbar-toggler btn-sm" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -279,7 +279,7 @@
           <!-- <button class="btn btn-sm" id="lib-joy-0" onclick="addTile(6, 0)"> <img src="content/img/decoration-grasslands2.jpg" width="30" /> + </button> -->
           <div class="dropdown-divider"></div>
           <button class="btn btn-lg" disabled> </button>
-      </div>
+        </div>
       <div></div>
 
       <ul class="navbar-nav nav-sm mr-auto">
@@ -308,6 +308,15 @@
             <button class="btn btn-light btn-sm"><i class="material-icons btn-light" id="collect-prod-${i}" style="font-size:28px;color:teal" onclick="collect_run(1)">tour</i></button>
         </li>
       </ul> -->
+    </div>
+
+    <div class="collapse navbar-collapse row">
+      <ul class="navbar-nav float-right">
+      <!-- <ul class="navbar-nav nav-sm"> -->
+        <li class="nav-item ml-auto mr-5">
+            <em class="nav-link" style="color:darkgray; font-size: 20px; font-weight: 500">Level <small id="level">0</small></em>
+        </li>
+      </ul>
     </div>
   </nav>
 

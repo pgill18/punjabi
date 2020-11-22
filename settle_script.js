@@ -877,6 +877,7 @@ function load_saved_data(i=1, j=1) {
         // Object.assign(tile, _levels);
         tile.level = data.level;
         tile.sides = data.sides;
+        document.getElementById('level').textContent = tile.level;
     }
 }
 
