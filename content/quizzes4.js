@@ -62,18 +62,18 @@ function content_quizzes4_quiz3() {
     ["it was a child",  "[eh] ik bachcha si"],
     ["it is a child", "[eh] ik bachcha hai"],
     ["it will be a child",  "[eh] ik bachcha hovey_ga"],
-    ["i was a child",	"mein doh bachchey si"],
-    ["i am a child",	"mein doh bachchey han haan"],
-    ["i will be a child",	"mein doh bachchey hai vaange"],
+    ["i was a child",	"mein [ik] bachcha si"],
+    ["i am a child",	"mein [ik] bachcha haan"],
+    ["i will be a child",	"mein [ik] bachcha hovaan_ga"],
     ["you were two children",	"tusi doh bachchey si"],
-    ["you are two children",	"tusi doh bachchey han ho"],
-    ["you will be two children",	"tusi doh bachchey hai vaange"],
-    ["he was a child",	"oh ik bachcha si"],
-    ["he is a child",	"oh ik bachcha hai hai"],
-    ["he will be a child",	"oh ik bachcha hai vega"],
+    ["you are two children",	"tusi doh bachchey ho"],
+    ["you will be two children",	"tusi doh bachchey hovo_ge"],
+    ["he was a child",	"oh [ik] bachcha si"],
+    ["he is a child",	"oh [ik] bachcha hai"],
+    ["he will be a child",	"oh [ik] bachcha hovey_ga"],
     ["they were two children",	"oh doh bachchey si"],
-    ["they are two children",	"oh doh bachchey han han"],
-    ["they will be two children",	"oh doh bachchey hai vaange"],
+    ["they are two children",	"oh doh bachchey han"],
+    ["they will be two children",	"oh doh bachchey hovaan_ge"],
   ], options);
   return {info, quiz};
 }
@@ -97,29 +97,29 @@ function content_quizzes4_quiz5() {
   let options = { random: true, count: [18] };
   let quiz = build_choices([
     ["it was two women",  "eh doh auratan si"],
-    ["it is two women", "eh doh auratan hai hai"],
-    ["it will be two women",  "eh doh auratan hai vega"],
-    ["i was a woman",  "mein doh auratan si"],
-    ["i am a woman", "mein doh auratan han haan"],
-    ["i will be a woman", "mein doh auratan hai vaange"],
+    ["it is two women", "eh doh auratan han"],
+    ["it will be two women",  "eh doh auratan hovan_giyan"],
+    ["i was a woman",  "mein ik aurat si"],
+    ["i am a woman", "mein ik aurat haan"],
+    ["i will be a woman", "mein ik aurat hovaan_gi"],
     ["you were two women",	"tusi doh auratan si"],
-    ["you are two women",	"tusi doh auratan han ho"],
-    ["you will be two women",	"tusi doh auratan hai vaange"],
-    ["she was a woman",	"oh aurat si"],
-    ["she is a woman",	"oh aurat hai hai"],
-    ["she will be a woman",	"oh aurat hai vega"],
+    ["you are two women",	"tusi doh auratan ho"],
+    ["you will be two women",	"tusi doh auratan hovo_giyan"],
+    ["she was a woman",	"oh [ik] aurat si"],
+    ["she is a woman",	"oh [ik] aurat hai"],
+    ["she will be a woman",	"oh [ik] aurat hovey_gi"],
     ["they were two women",	"oh doh auratan si"],
-    ["they are two women",	"oh doh auratan han han"],
-    ["they will be two women",	"oh doh auratan hai vaange"],
+    ["they are two women",	"oh doh auratan han"],
+    ["they will be two women",	"oh doh auratan hovan_giyan"],
     ["we were two women",	"asi doh auratan si"],
-    ["we are two women",	"asi doh auratan han haan"],
-    ["we will be two women",	"asi doh auratan hai vaange"],
+    ["we are two women",	"asi doh auratan haan"],
+    ["we will be two women",	"asi doh auratan hovaan_giyan"],
   ], options);
   return {info, quiz};
 }
 
 function content_quizzes4_quiz6() {
-  let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-be,have-[woman,time]", header: "Pvn-be,have-[woman,time]" };
+  let info = { project: "Punjabi", section: "Grammar", topic: "Pvn-have-[time]", header: "Pvn-have-[time]" };
   let options = { random: true, count: [18] };
   let quiz = build_choices([
     // ["she was a woman",	"oh ik aurat si"],

@@ -507,11 +507,19 @@
         console.log(question);
         console.log(choices);
         for(let i=0; i<choices.length; i++) {
-          $("#choice"+i).text(capitalizeFirstLetter(choices[i]));
+          $("#choice"+i).text(clean_text(choices[i]));
         }
-        $("#question").text(capitalizeFirstLetter(question));
+        $("#question").text(clean_text(question));
         if(voice_on) voiceOver.play(entry[3]+1, building_num);
         return 1;
+      }
+      function clean_text(text, capitalize=1) {
+        if(!text) return;
+        if(typeof text !== 'string') text = JSON.stringify(text);
+        text = text.trim().replace(/\s+/g, ' ');
+        text = text.replace(/_/g, ' ');
+        if(capitalize) text = capitalizeFirstLetter(text);
+        return text;
       }
       function clear_form() {
         console.log(`clear_form(${index})`);
