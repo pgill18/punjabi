@@ -64,15 +64,15 @@ function content_quizzes3_quiz3() {
   let info = { project: "Punjabi", section: "Grammar", topic: "Verb-[have]", header: "Verb-[have]" };
   let options = { random: true, count: [9] };
   let quiz = build_choices([
-    ["it had",  "eh kol_si"],
-    ["it has",  "eh kol_hai hai"],
-    ["it will have",  "eh hai vega"],
-    ["i had", "mein kol_si"],
-    ["i have",  "mein kol_hai haan"],
-    ["i will have", "mein hai vaange"],
-    ["you had", "tusi kol_si"],
-    ["you have",  "tusi kol_hai ho"],
-    ["you will have", "tusi hai vaange"],
+    ["it had",  "iss kol_si"],
+    ["it has",  "iss kol_hai"],
+    ["it will have",  "iss kol_hovey_ga"],
+    ["i had", "mere kol_si"],
+    ["i have",  "mere kol_hai"],
+    ["i will have", "mere kol_hovey_ga"],
+    ["you had", "tuhadey kol_si"],
+    ["you have",  "tuhadey kol_hai"],
+    ["you will have", "tuhadey kol_hovey_ga"],
   ], options);
   return {info, quiz};
 }
@@ -81,18 +81,18 @@ function content_quizzes3_quiz4() {
   let info = { project: "Punjabi", section: "Grammar", topic: "Verb-[have]-2", header: "Verb-[have]-2" };
   let options = { random: true, count: [12] };
   let quiz = build_choices([
-    ["he had",  "oh kol_si"],
-    ["he has",  "oh kol_hai hai"],
-    ["he will have",  "oh hai vega"],
-    ["they had",  "oh kol_si"],
-    ["they have", "oh kol_hai han"],
-    ["they will have",  "oh hai vaange"],
-    ["we had",  "asi kol_si"],
-    ["we have", "asi kol_hai haan"],
-    ["we will have",  "asi hai vaange"],
-    ["she had", "oh kol_si"],
-    ["she has", "oh kol_hai hai"],
-    ["she will have", "oh hai vegi"],
+    ["he had",  "oh_de kol_si"],
+    ["he has",  "oh_de kol_hai"],
+    ["he will have",  "oh_de kol hovey_ga"],
+    ["they had",  "ohna_de kol_si"],
+    ["they have", "ohna_de kol_hai"],
+    ["they will have",  "ohna_de kol_hovey_ga"],
+    ["we had",  "saadey kol_si"],
+    ["we have", "saadey kol_hai"],
+    ["we will have",  "saadey kol_hovey_ga"],
+    ["she had",  "oh_de kol_si"],
+    ["she has",  "oh_de kol_hai"],
+    ["she will have",  "oh_de kol hovey_ga"],
   ], options);
   return {info, quiz};
 }
@@ -101,7 +101,7 @@ function content_quizzes3_quiz5() {
   let info = { project: "Punjabi", section: "Grammar", topic: "Verb-[do]", header: "Verb-[do]" };
   let options = { random: true, count: [9] };
   let quiz = build_choices([
-    ["it did",  "eh keeta"],
+    ["it did",  "isney keeta"],
     ["it does", "eh karda hai"],
     ["it will do",  "eh karda vega"],
     ["i did", "mein keeta"],

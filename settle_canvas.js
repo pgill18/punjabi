@@ -36,9 +36,9 @@ var _list = [
     ], [
         ['industrial-building-icon-2.png', 'industrial-building-icon-2-ready.png', 'industrial-building-icon-2-running.png'],
     ], [
-        ['industrial-building-icon-3.png', 'industrial-building-icon-3-ready.png', 'industrial-building-icon-3-idle.png'],
+        ['industrial-building-icon-3.png', 'industrial-building-icon-3-ready.png', 'industrial-building-icon-3-running.png'],
     ], [
-        ['industrial-building-icon-4.jpg', 'industrial-building-icon-4-ready.png', 'industrial-building-icon-4-idle.png'],
+        ['industrial-building-icon-4.png', 'industrial-building-icon-4-ready.jpg', 'industrial-building-icon-4-running.jpg'],
     ], [
         ['decoration-grasslands0.jpg', 'decoration-grasslands0.jpg', 'decoration-grasslands0.jpg'],
         ['decoration-grasslands1.jpg', 'decoration-grasslands1.jpg', 'decoration-grasslands1.jpg'],
@@ -82,6 +82,7 @@ var _status_report = '';
 
 // var _blocked = [1,2,4,5]
 var _blocked = [3,4,5,9,10,11,15,16,17];
+var _locked_bak = [18,19,20,21,22,23,24,25,26,27,28,29,31,32,33,34,35];
 var _locked = [18,19,20,21,22,23,24,25,26,27,28,29,31,32,33,34,35];
 var _backagain = false;
 var _scorner = 30;
@@ -157,8 +158,9 @@ async function loop() {
             console.log(`piece.flagged.=`,piece.entity.flagged)
             // console.log(`loop....7`)
         }
-        if(counter++===60) {
+        if(counter++===30) {
             load_updated_data();
+            refresh_periodic_data();
             // save_data();
             counter = 0;
         }

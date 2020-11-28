@@ -63,10 +63,36 @@ class EntityObj {
     }
 }
 
+function version_handling() {
+    if(tile.version < 0.7) { //} || (version < 0.75 && user.id==='darshanbal')) {
+        if(confirm(`A new version of this app is available. The upgrade process involves updates to local data. This page will be saved and reloaded after update to continue properly.\nProceed?`)) {
+            tile.version = VERSION;
+            save_data();
+            window.location.reload(false);
+        }
+    }
+    // if(tile.version < VERSION) {
+    //     console.log(`... version was previously set to ${version}, upgrading ${VERSION}`)
+    //     tile.version = VERSION
+    //     save_data();
+    // }
+    // $("#version").html(version);
+    // console.log(`... version is set to ${version}`)
+}
+
+const VERSION = 0.7;
+
 const info = { project: 'Punjabi' };
 const user = { id: 'na', name: '', email: '' };
-const tile = { i: 1, j: 1, level: 0, sides: [0, 0, 0] };
+const tile = { i: 1, j: 1, level: 0, pending: 0, sides: [0, 0, 0] };
 
+const minigames = {
+    negotiator: [{collected: 0,colltime: 0},{collected: 0,colltime: 0},{collected: 0,colltime: 0}],
+    // forms: [{collected: 0,colltime: 0},{collected: 0,colltime: 0},{collected: 0,colltime: 0}],
+    // algebra: [{collected: 0,colltime: 0},{collected: 0,colltime: 0},{collected: 0,colltime: 0}],
+    // whiteboard: [{collected: 0,colltime: 0},{collected: 0,colltime: 0},{collected: 0,colltime: 0}],
+    // blackboard: [{collected: 0,colltime: 0},{collected: 0,colltime: 0},{collected: 0,colltime: 0}],
+}
 const name_lookup = ['coins', 'supplies', 'stone', 'lumber', 'iron', 'dye'];
 const dependencies_db = {
     inst: {
@@ -132,18 +158,19 @@ const people_db = {
         [0, 0],
     ]
 };
-const unlocked_db = {
+const unlocked_db_init = {
     coins: [1, 0, 0],
     supplies: [1, 0, 0],
     happiness: [0, 0, 0],
     harness: [0, 0, 0],
     stone:  [1, 0], lumber: [0, 0], iron:  [0, 0], dye:  [0, 0],
-    form: [0], negotiation: [0], harness: [0], chatbot: [0],
+    form: [0], negotiation: [0], trading: [0], harness: [0], chatbot: [0],
     chalkboard: [0], puzzle: [0], falling: [0], shooting: [0],
     paintball: [0], tower: [0], quiz: [0], math: [0],
 };
+let unlocked_db = JSON.parse(JSON.stringify(unlocked_db_init)); // clone initial values
 
-const unlocking_db_bak = [
+const unlocking_db_orig = [
     // stone era
     { cost: {stone:  0, lumber: 0, iron: 0, dye: 0 },       gain: { coins: 0,    knock: 0,        spaces: 0, temps: 5 } },
     { cost: {stone: 10, lumber: 0, iron: 0, dye: 0 },       gain: { supplies: 0, greet: 0,        spaces: 0, temps: 5 } },
@@ -167,16 +194,44 @@ const unlocking_db_bak = [
     { cost: {stone: 0, lumber: 10, iron: 20, dye: 20 },     gain: { harness: 5,    none: 0,       spaces: 1, temps: 5 } },
 ];
 
-const unlocking_db = [
+let unlocking_db_full = [
     // stone era
-    { cost: {stone:  0, lumber: 0 },       gain: { coins: 0,    temps: 5 } },
-    { cost: {stone: 10, lumber: 0 },       gain: { coins: 1,    temps: 10 } },
-    { cost: {stone: 20, lumber: 0 },       gain: { lumber: 0,   temps: 5 } },
+    { cost: {stone:  0, lumber: 0, iron: 0, dye: 0 },       gain: { coins: 0,    tbd: 0,   spaces: 0, temps: 5 } },
+    { cost: {stone: 10, lumber: 0, iron: 0, dye: 0 },       gain: { coins: 1,    tbd: 0,   spaces: 0, temps: 10 } },
+    { cost: {stone: 20, lumber: 0, iron: 0, dye: 0 },       gain: { lumber: 0,   tbd: 0,   spaces: 0, temps: 5 } },
     // lumber era
-    { cost: {stone:  0, lumber: 20 },      gain: { supplies: 1,     temps: 10} },
-    { cost: {stone: 30, lumber: 20 },      gain: { trading: 0,      temps: 5 } },
-    { cost: {stone: 30, lumber: 30 },      gain: { none: 0,         temps: 5 } },
+    { cost: {stone:  0, lumber: 20, iron: 0, dye: 0 },      gain: { supplies: 1, tbd: 0,   spaces: 0, temps: 10 } },
+    { cost: {stone: 30, lumber: 20, iron: 0, dye: 0 },      gain: { trading: 0,  tbd: 0,   spaces: 0, temps: 10 } },
+    { cost: {stone: 30, lumber: 30, iron: 0, dye: 0 },      gain: { none: 0,     tbd: 0,   spaces: 2, temps: 10 } },
+    // iron era
+    { cost: {stone: 50, lumber: 40, iron: 0,  dye: 0 },     gain: { iron: 0,     tbd: 0,   spaces: 0, temps: 10 } },
+    { cost: {stone: 10, lumber: 20, iron: 30, dye: 0 },     gain: { forms: 0,    tbd: 0,   spaces: 0, temps: 10 } },
+    { cost: {stone: 30, lumber: 10, iron: 20, dye: 0 },     gain: { none: 0,     tbd: 0,   spaces: 1, temps: 10 } },
+    // dye era
+    { cost: {stone: 40, lumber: 30, iron: 50, dye: 0  },    gain: { dye: 0,      tbd: 0,   spaces: 0, temps: 10 } },
+    { cost: {stone: 10, lumber: 20, iron: 30, dye: 30 },    gain: { pupil: 0,    tbd: 0,   spaces: 0, temps: 10 } },
+    { cost: {stone: 30, lumber: 10, iron: 20, dye: 20 },    gain: { none: 0,     tbd: 0,   spaces: 1, temps: 10 } },
+    // happiness era
+    { cost: {stone:  0, lumber: 20, iron: 30, dye: 10 },    gain: { none: 0,     tbd: 0,   spaces: 0, temps: 10 } },
+    { cost: {stone: 30, lumber: 20, iron: 10, dye: 30 },    gain: { tutor: 0,    tbd: 0,   spaces: 0, temps: 10 } },
+    { cost: {stone: 30, lumber: 10, iron: 30, dye: 20 },    gain: { none: 0,     tbd: 0,   spaces: 1, temps: 10 } },
+    // arcade era
+    { cost: {stone:  0, lumber: 20, iron: 10, dye: 30 },    gain: { none: 0,     tbd: 0,   spaces: 0, temps: 10 } },
+    { cost: {stone: 30, lumber: 20, iron: 30, dye: 10 },    gain: { player: 0,   tbd: 0,   spaces: 0, temps: 10 } },
+    { cost: {stone: 30, lumber: 30, iron: 20, dye: 30 },    gain: { none: 0,     tbd: 0,   spaces: 1, temps: 10 } },
 ];
+
+let unlocking_db = [
+    // stone era
+    { cost: {stone:  0, lumber: 0, iron: 0, dye: 0 },       gain: { coins: 0,    tbd: 0,   spaces: 0, temps: 5 } },
+    { cost: {stone: 10, lumber: 0, iron: 0, dye: 0 },       gain: { coins: 1,    tbd: 0,   spaces: 0, temps: 10 } },
+    { cost: {stone: 20, lumber: 0, iron: 0, dye: 0 },       gain: { lumber: 0,   tbd: 0,   spaces: 0, temps: 5 } },
+    // lumber era
+    { cost: {stone:  0, lumber: 20, iron: 0, dye: 0 },      gain: { supplies: 1, tbd: 0,   spaces: 0, temps: 10 } },
+    { cost: {stone: 30, lumber: 20, iron: 0, dye: 0 },      gain: { trading: 0,  tbd: 0,   spaces: 0, temps: 10 } },
+    { cost: {stone: 30, lumber: 30, iron: 0, dye: 0 },      gain: { none: 0,     tbd: 0,   spaces: 2, temps: 10 } },
+];
+
 let current_era = 0;
 
 const scorecard = {coins: 0, supplies: 0, happiness: 0, stone: 0, lumber: 0, iron: 0, dye: 0};
@@ -198,7 +253,35 @@ let auto_pilot = {
     interval: 1,
     maxturns: 10,
     counter: 0,
+    mode: {
+        run: 40,
+        build: 0,
+        unlock: 0,
+        level: 0
+    },
 };
+const hourly_routines = [];
+const daily_routines = [];
+const weekly_routines = [];
+
+// let done_hourly = { hour: 0, date: 0, speedup: 1 };
+const done_routinely = {
+    // m1: 0, m5: 0, m10: 0, m15: 0, m30: 0, m45: 0, h1: 0, h3: 0, h8: 0, h12: 0, d1: 0, w1: 0
+    m1: (new Date(2020,11-1,27)),
+    m5: (new Date(2020,11-1,27)),
+    m10: (new Date(2020,11-1,27)),
+    m15: (new Date(2020,11-1,27)),
+    m30: (new Date(2020,11-1,27)),
+    m45: (new Date(2020,11-1,27)),
+    h1: (new Date(2020,11-1,27)),
+    h3: (new Date(2020,11-1,27)),
+    h8: (new Date(2020,11-1,27)),
+    h12: (new Date(2020,11-1,27)),
+    d1: (new Date(2020,11-1,27)),
+    w1: (new Date(2020,11-1,27)),
+    o1: (new Date(2020,11-1,27)),
+    y1: (new Date(2020,11-1,27)),
+}
 
 function timenow() {
     return (new Date).getTime();
@@ -206,14 +289,121 @@ function timenow() {
 function deleteAllProgress() {
     store_scorecard(`build/space-${tile.i}-${tile.j}`, '');
 }
-function deleteLevelProgress() {
+function deleteLevelProgress__orig(levelup=false) {
     let game_data = retrieve_scorecard(`build/space-${tile.i}-${tile.j}`);
     delete game_data.build_db; delete game_data.canvas_db;
+    if(!game_data.people) game_data.people = {};
     Object.assign(game_data.people, { housed: 0, used: 0, temps: 0 });
     game_data.people.max += 50;
     game_data.scorecard.coins += 2000;
     game_data.scorecard.supplies += 6000;
+    if(levelup) {
+        if(tile.level<9) tile.level++;  tile.pending = 0;
+        if(tile.level<9 && unlocking_db_full.length>unlocking_db.length) {
+            unlocking_db = unlocking_db_full.slice(0, unlocking_db.length+1)
+        }
+        game_data.level = tile.level;
+        if(!game_data.main) game_data.main = {};
+        game_data.main.pending = 0;
+        // $('#level-up').prop('hidden', true);
+        $('#level').text(tile.level+1);
+    }
     store_scorecard(`build/space-${tile.i}-${tile.j}`, game_data);
+}
+function levelUp__orig(delpro=false, check_done=true) {
+    if(check_done) {
+        let next_era_db = unlocking_db[current_era+1];
+        if(next_era_db) { console.log(`This level is not done yet! Level up when this level is completed.`); return; }
+    }
+    if(delpro) return deleteLevelProgress(true);
+    if(tile.level<9) tile.level++;  tile.pending = 0;
+    if(tile.level<9 && unlocking_db_full.length>unlocking_db.length) {
+        unlocking_db = unlocking_db_full.slice(0, unlocking_db.length+1)
+    }
+    // $('#level-up').prop('hidden', true);
+    $('#level').text(tile.level+1);
+    let game_data = retrieve_scorecard(`build/space-${tile.i}-${tile.j}`);
+    game_data.level = tile.level;
+    if(!game_data.main) game_data.main = {};
+    game_data.main.pending = 0;
+    store_scorecard(`build/space-${tile.i}-${tile.j}`, game_data);
+}
+
+// function deleteLevelProgress(game_data) {
+//     if(!game_data) game_data = retrieve_gamedata()
+//     delete game_data.build_db; delete game_data.canvas_db;
+//     if(!game_data.people) game_data.people = {};
+//     Object.assign(game_data.people, { housed: 0, used: 0, temps: 0 });
+//     game_data.people.max += 50;
+//     game_data.scorecard.coins += 2000;
+//     game_data.scorecard.supplies += 6000;
+//     store_gamedata(game_data);
+// }
+// function levelUp(delpro=true, check_done=true) {
+//     if(check_done) {
+//         let next_era_db = unlocking_db[current_era+1];
+//         if(next_era_db) { console.log(`This level is not done yet! Level up when this level is completed.`); return; }
+//     }
+//     let game_data = retrieve_gamedata()
+//     game_data.done = 1;
+//     store_gamedata(game_data);
+//     tile.level++; 
+//     game_data.level = tile.level;
+//     game_data.done = 0;
+//     if(unlocking_db_full.length>unlocking_db.length) {
+//         unlocking_db = unlocking_db_full.slice(0, unlocking_db.length+1)
+//     }
+//     if(delpro) deleteLevelProgress(game_data);
+//     else store_gamedata(game_data);
+//     // update level as top entry
+//     game_data = retrieve_scorecard(`build/space-${tile.i}-${tile.j}`);
+//     if(!game_data) game_data = {};
+//     game_data = { level: tile.level, sides: game_data.sides };
+//     store_scorecard(`build/space-${tile.i}-${tile.j}`, game_data);
+//     $('#level').text(tile.level+1);
+// }
+
+function deleteLevelProgress() {
+    current_era = 0;
+    unpopulate_all();
+    lock_spaces_all();
+    Object.assign(unlocked_db, JSON.parse(JSON.stringify(unlocked_db_init))); // clone initial values
+    Object.assign(people_db.people, { housed: 0, used: 0, temps: 0 });
+    set_people(people_db.people);
+    people_db.people.max += 50;
+    add_collected("coins", 2000)
+    add_collected("supplies", 6000)
+}
+function levelUp(delpro=true, check_done=true) {
+    if(check_done) {
+        let next_era_db = unlocking_db[current_era+1];
+        if(next_era_db) { console.log(`This level is not done yet! Level up when this level is completed.`); return; }
+    }
+    save_data(); // save completed level
+    let game_data = retrieve_gamedata()
+    game_data.done = 1;
+    store_gamedata(game_data);
+    tile.level++; 
+    if(unlocking_db_full.length>unlocking_db.length) {
+        let inc = tile.level===1 ? 2 : 1
+        unlocking_db = unlocking_db_full.slice(0, unlocking_db.length+inc)
+    }
+    if(delpro) deleteLevelProgress();
+    save_data(); // save new level
+    $('#level').text(tile.level+1);
+    $('#era').text(current_era+1);
+}
+
+function retrieve_gamedata() {
+    let game_data = retrieve_scorecard(`build/space-${tile.i}-${tile.j}/${tile.level}`);
+    if(!game_data) {
+        game_data = retrieve_scorecard(`build/space-${tile.i}-${tile.j}`); // older version
+    }
+    return game_data;
+}
+
+function store_gamedata(game_data) {
+    store_scorecard(`build/space-${tile.i}-${tile.j}/${tile.level}`, game_data);
 }
 
 function runWithSpeedup(speedx, _this) {
@@ -245,6 +435,13 @@ function get_collected(name) {
     let id = `score-${name}`;
     // console.log(`get_collected(${name})`);
     let value = parseInt(document.getElementById(id).textContent);
+    return value;
+}
+function add_collected(name, value) {
+    console.log(`add_collected(${name}, ${value})`)
+    value += get_collected(name) || 0;
+    console.log(`display_collected(${name}, ${value})`)
+    display_collected(name, value);
     return value;
 }
 function display_collected(name, value) {
@@ -289,6 +486,11 @@ function get_dependencies_era(entry) {
     if(!dependencies.iron) dependencies.iron = 0;
     if(!dependencies.dye) dependencies.dye = 0;
     return dependencies;
+}
+function get_scorecard() {
+    let sc = get_collection();
+    Object.assign(scorecard, sc);
+    return scorecard;
 }
 // function check_dependencies(piece, intvli) {
 //     let collection = get_collection(intvli);
@@ -392,7 +594,7 @@ function produce(i) {
         let retval = check_dependencies_op(piece, 'run', i, true); let list = [];
         for(let key in retval) { if(retval[key]<0) list.push(`Need ${Math.abs(retval[key])} more ${key}`) }
         retval = JSON.stringify(retval);
-        alert('Not enough resources!\n'+list.join('\n')); 
+        if(!auto_pilot.on) alert('Not enough resources!\n'+list.join('\n')); 
         return; 
     }
         if(piece.entity.content.index>=2)   console.log(`-----------------2--------------------- produce ...............`, piece.entity)
@@ -481,7 +683,10 @@ function collect_people(count, dir) {
     let roster = people_db.people.enrolled + people_db.people.temps;
     document.getElementById('score-people-roster').textContent = roster;
 }
+
 function collect_all_once(mode={collect:1, run:1}) {
+    console.log(`_locked: `, _locked)
+    console.log(`canvas_db: `, canvas_db)
     if(mode.collect===undefined) mode.collect = 1;
     if(mode.run===undefined) mode.run = 1;
     console.log(`collect_all()`);
@@ -528,7 +733,8 @@ async function collect_all_loop(mode={run:10,build:0}) {
         let [collected, running, instances] = collect_all_once();
         if(collected) {
             auto_pilot.counter++;
-            unlock_era(mode); // check and update
+            mode.alert = 0;
+            if(auto_pilot.mode.unlock) unlock_era(mode); // check and update
     // console.log(`............................collect_all_loop(${instances})..............`)
             let collection = get_collection();
             let instantiate = 0;
@@ -545,7 +751,7 @@ async function collect_all_loop(mode={run:10,build:0}) {
             else if(collection.iron>=100) { if(instances[4]) instantiate++; }
             else if(collection.dye>=100) { if(instances[5]) instantiate++; }
     // console.log(`.................2...........collect_all_loop(${instantiate})..............`)
-            if(instantiate) {
+            if(instantiate && auto_pilot.mode.build) {
                 unpopulate_all();
                 populate_era();
             }
@@ -562,8 +768,40 @@ function update_autopilot_display(clear) {
     document.getElementById('score-autopilot').textContent = 
         clear ? '' : auto_pilot.counter + '/' + auto_pilot.maxturns;    
 }
+function auto_pilot_mode({run,build,unlock,level,type,qty}={}) {
+    if(run!==undefined) auto_pilot.mode.run = run;
+    if(build!==undefined) auto_pilot.mode.build = build;
+    if(unlock!==undefined) auto_pilot.mode.unlock = unlock;
+    if(level!==undefined) auto_pilot.mode.level = level;
+    if(type!==undefined) auto_pilot.mode.type = type;
+    if(qty!==undefined) auto_pilot.mode.qty = qty;
+}
+function unlock_space(x) {
+    if(x || x===0) {
+        unlockTile(x);
+    } else if(_locked.length>0) {
+        unlockTile(_locked.splice(0,1));
+    }
+}
+function lock_space(x) {
+    if(!x && x!==0) x = _locked[0]-1;
+    while(x===_scorner || _blocked.includes(x)) { x--; if(!x || x<=0) break; }
+    _locked.unshift();
+    lockTile(_locked[0]);
+}
+function lock_spaces_all(n) {
+    if(!n || n>_locked_bak.length) n = _locked_bak.length;
+    _locked = [];
+    for(let i=0; i<n; i++) {
+        let loc = _locked_bak[i];
+        _locked.push(loc);
+        lockTile(loc);
+    }
+    canvas_db.locked = _locked;
+}
+
 function unlock_era(mode={build:1,alert:0}) {
-    // console.log(`............................unlock_era(${mode})..............`)
+    // console.log(`............................unlock_era(${mode})..............`, mode)
     let next_era_db = unlocking_db[current_era+1];
     if(!next_era_db) { console.log(`Nothing to unlock`); return; }
     console.log(next_era_db);
@@ -578,7 +816,7 @@ function unlock_era(mode={build:1,alert:0}) {
             // else console.log(`... enough ${name}. Needed ${next_era_db.cost[name]||0}, found ${collection[name]}.`);
             if(leftovers[name] < 0) messages.push(`Not enough ${name}. Needed ${next_era_db.cost[name]}, found ${collection[name]}.`)
         }
-        alert(`Unable to unlock!\n` + messages.join('\n'));
+        if(mode.alert) alert(`Unable to unlock!\n` + messages.join('\n'));
         return;
     }
     deduct_dependencies_era(next_era_db);
@@ -592,6 +830,10 @@ function unlock_era(mode={build:1,alert:0}) {
     // if(current_era>=unlocking_db.length-1) {
     //     tile.level++;
     // }
+    // if(current_era >= unlocking_db.length) tile.pending = 1;
+    for(let i=0; i<next_era_db.gain.spaces; i++) {
+        unlock_space();
+    }
 }
 function populate_era() {
     let house=0, supplies=1, stone=2, lumber=3, iron=4, dye=5;
@@ -603,33 +845,41 @@ function populate_era() {
     else if(collection.iron < 50 && current_era>=5) production = iron;
     else if(collection.dye < 50 && current_era>=8) production = dye;
     // addTile(index=0, level=0, variant=0, loc=i)
-    add_building(house, 0, 0, 0);
-    add_building(house, 0, 0, 1);
-    add_building(house, 0, 0, 6);
-    if(have_resources1(1)) add_building(house, 0, 0, 7);  else if(have_resources1(0)) add_building(0, 0, 0, 7);
-    if(have_resources1(1)) add_building(house, 0, 0, 12); else if(have_resources1(0)) add_building(0, 0, 0, 12);
-    if(have_resources1(1)) add_building(house, 0, 0, 13); else if(have_resources1(0)) add_building(0, 0, 0, 13);
-    if(have_resources1(1)) add_building(house, 0, 0, 18); else if(have_resources1(0)) add_building(0, 0, 0, 18);
-    if(have_resources1(1)) add_building(house, 0, 0, 19); else if(have_resources1(0)) add_building(0, 0, 0, 19);
-    if(have_resources1(1)) add_building(house, 0, 0, 24); else if(have_resources1(0)) add_building(0, 0, 0, 24);
-    if(have_resources1(1)) add_building(house, 0, 0, 25); else if(have_resources1(0)) add_building(0, 0, 0, 25);
-    if(have_resources1(1)) add_building(house, 0, 0, 30); else if(have_resources1(0)) add_building(0, 0, 0, 24);
-    if(have_resources1(1)) add_building(house, 0, 0, 31); else if(have_resources1(0)) add_building(0, 0, 0, 25);
-    add_building(supplies, 0, 0, 2);
-    if(have_resources2(supplies,1)) add_building(supplies, 0, 0, 8);  else if(have_resources2(supplies,0)) add_building(supplies, 0, 0, 8);
-    if(have_resources2(production,1)) add_building(production, 0, 0, 14); else if(have_resources2(production,0)) add_building(production, 0, 0, 14);
-    if(have_resources2(production,1)) add_building(production, 0, 0, 22); else if(have_resources2(production,0)) add_building(production, 0, 0, 22);
-    if(have_resources2(production,1)) add_building(production, 0, 0, 23); else if(have_resources2(production,0)) add_building(production, 0, 0, 23);
-    if(have_resources2(production,1)) add_building(production, 0, 0, 27); else if(have_resources2(production,0)) add_building(production, 0, 0, 27);
-    if(have_resources2(production,1)) add_building(production, 0, 0, 28); else if(have_resources2(production,0)) add_building(production, 0, 0, 28);
-    if(have_resources2(production,1)) add_building(production, 0, 0, 29); else if(have_resources2(production,0)) add_building(production, 0, 0, 29);
-    if(have_resources2(production,1)) add_building(production, 0, 0, 33); else if(have_resources2(production,0)) add_building(production, 0, 0, 33);
-    if(have_resources2(production,1)) add_building(production, 0, 0, 34); else if(have_resources2(production,0)) add_building(production, 0, 0, 34);
-    if(have_resources2(production,1)) add_building(production, 0, 0, 35); else if(have_resources2(production,0)) add_building(production, 0, 0, 35);
-    if(have_resources2(supplies,1)) add_building(supplies, 0, 0, 14); else if(have_resources2(supplies,0)) add_building(supplies, 0, 0, 14);
-    if(have_resources2(supplies,1)) add_building(supplies, 0, 0, 13); else if(have_resources2(supplies,0)) add_building(supplies, 0, 0, 13);
-    if(have_resources2(supplies,1)) add_building(supplies, 0, 0, 26); else if(have_resources2(supplies,0)) add_building(supplies, 0, 0, 26);
-    if(have_resources2(supplies,1)) add_building(supplies, 0, 0, 32); else if(have_resources2(supplies,0)) add_building(supplies, 0, 0, 26);
+    // add_building(house, 0, 0, 0);
+    // add_building(house, 0, 0, 1);
+    // add_building(house, 0, 0, 6);
+    if(have_resources1(1)) add_building(house, 1, 0, 0);  else if(have_resources1(0)) add_building(0, 0, 0, 0);
+    if(have_resources1(1)) add_building(house, 1, 0, 1);  else if(have_resources1(0)) add_building(0, 0, 0, 1);
+    if(have_resources1(1)) add_building(house, 1, 0, 6);  else if(have_resources1(0)) add_building(0, 0, 0, 6);
+    if(have_resources1(1)) add_building(house, 1, 0, 7);  else if(have_resources1(0)) add_building(0, 0, 0, 7);
+    if(have_resources1(1)) add_building(house, 1, 0, 12); else if(have_resources1(0)) add_building(0, 0, 0, 12);
+    if(have_resources1(1)) add_building(house, 1, 0, 13); else if(have_resources1(0)) add_building(0, 0, 0, 13);
+    if(have_resources1(1)) add_building(house, 1, 0, 18); else if(have_resources1(0)) add_building(0, 0, 0, 18);
+    if(have_resources1(1)) add_building(house, 1, 0, 19); else if(have_resources1(0)) add_building(0, 0, 0, 19);
+    if(have_resources1(1)) add_building(house, 1, 0, 24); else if(have_resources1(0)) add_building(0, 0, 0, 24);
+    if(have_resources1(1)) add_building(house, 1, 0, 25); else if(have_resources1(0)) add_building(0, 0, 0, 25);
+    if(have_resources1(1)) add_building(house, 1, 0, 30); else if(have_resources1(0)) add_building(0, 0, 0, 24);
+    if(have_resources1(1)) add_building(house, 1, 0, 31); else if(have_resources1(0)) add_building(0, 0, 0, 25);
+    // add_building(supplies, 0, 0, 2);
+    if(have_resources2(supplies,1)) add_building(supplies, 1, 0, 2);  else if(have_resources2(supplies,0)) add_building(supplies, 0, 0, 2);
+    if(have_resources2(supplies,1)) add_building(supplies, 1, 0, 8);  else if(have_resources2(supplies,0)) add_building(supplies, 0, 0, 8);
+    if(have_resources2(production,1)) add_building(production, 1, 0, 14); else if(have_resources2(production,0)) add_building(production, 0, 0, 14);
+    if(have_resources2(production,1)) add_building(production, 1, 0, 22); else if(have_resources2(production,0)) add_building(production, 0, 0, 22);
+    if(have_resources2(production,1)) add_building(production, 1, 0, 23); else if(have_resources2(production,0)) add_building(production, 0, 0, 23);
+    if(have_resources2(production,1)) add_building(production, 1, 0, 27); else if(have_resources2(production,0)) add_building(production, 0, 0, 27);
+    if(have_resources2(production,1)) add_building(production, 1, 0, 28); else if(have_resources2(production,0)) add_building(production, 0, 0, 28);
+    if(have_resources2(production,1)) add_building(production, 1, 0, 29); else if(have_resources2(production,0)) add_building(production, 0, 0, 29);
+    if(have_resources2(production,1)) add_building(production, 1, 0, 33); else if(have_resources2(production,0)) add_building(production, 0, 0, 33);
+    if(have_resources2(production,1)) add_building(production, 1, 0, 34); else if(have_resources2(production,0)) add_building(production, 0, 0, 34);
+    if(have_resources2(production,1)) add_building(production, 1, 0, 35); else if(have_resources2(production,0)) add_building(production, 0, 0, 35);
+    if(have_resources2(supplies,1)) add_building(supplies, 1, 0, 14); else if(have_resources2(supplies,0)) add_building(supplies, 0, 0, 14);
+    if(have_resources2(supplies,1)) add_building(supplies, 1, 0, 13); else if(have_resources2(supplies,0)) add_building(supplies, 0, 0, 13);
+    if(have_resources2(supplies,1)) add_building(supplies, 1, 0, 26); else if(have_resources2(supplies,0)) add_building(supplies, 0, 0, 26);
+    if(have_resources2(supplies,1)) add_building(supplies, 1, 0, 32); else if(have_resources2(supplies,0)) add_building(supplies, 0, 0, 26);
+    for(let i=0; i<36; i++) {
+        if(tile_occupied(i)) continue;
+        if(have_resources2(supplies,1)) add_building(supplies, 1, 0, i);  else if(have_resources2(supplies,0)) add_building(supplies, 0, 0, i);
+    }
 }
 function populate_era_old() {
     let house=0, supplies=1, stone=2, lumber=3, iron=4, dye=5;
@@ -695,11 +945,22 @@ function have_resources2(ib=1, level=0) {
     return 0;
 }
 function add_building(index, level, variant, location) {
+    console.log(`add_building(${index}, ${level}, ${variant}, ${location})...1`)
+    if(tile_occupied(location)) return;
+    if(_locked.includes(location)) return;
+    if(_blocked.includes(location)) return;
+    console.log(`add_building(${index}, ${level}, ${variant}, ${location})...2`)
     return addTile(index, level, variant, location, {ready:0});
+}
+function tile_occupied(loc) {
+    if(typeof loc!=='number') return 0;
+    if(loc >= _pieces.length) return 0;
+    return _pieces[loc].entity ? 1 : 0;
 }
 
 function display_unlocked(gain) {
     if(gain.form!==undefined) $(document.getElementById('mini-form')).prop('hidden', false);
+    if(gain.trading!==undefined) $(document.getElementById('mini-trading')).prop('hidden', false);
     if(gain.negotiation!==undefined) $(document.getElementById('mini-negotiation')).prop('hidden', false);
     if(gain.harness!==undefined) $(document.getElementById('mini-harness')).prop('hidden', false);
     if(gain.chatbot!==undefined) $(document.getElementById('mini-chatbot')).prop('hidden', false);
@@ -725,6 +986,7 @@ function display_unlocked(gain) {
 }
 function display_unlocked2(gain) {
     if(gain.form!==undefined) $(document.getElementById('mini-form')).removeClass('text-muted');
+    if(gain.trading!==undefined) $(document.getElementById('mini-trading')).removeClass('text-muted');
     if(gain.negotiation!==undefined) $(document.getElementById('mini-negotiation')).removeClass('text-muted');
     if(gain.harness!==undefined) $(document.getElementById('mini-harness')).removeClass('text-muted');
     if(gain.chatbot!==undefined) $(document.getElementById('mini-chatbot')).removeClass('text-muted');
@@ -746,7 +1008,9 @@ function display_unlocked2(gain) {
     if(gain.dye!==undefined) $(document.getElementById('lib-dye-'+gain.dye)).prop('disabled', false);
 }
 function enable_unlocked(gain) {
+    console.log(`enable_unlocked(gain)`, gain)
     if(gain.form!==undefined) unlocked_db.form[gain.form] = 1;
+    if(gain.trading!==undefined) unlocked_db.trading[gain.trading] = 1;
     if(gain.negotiation!==undefined) unlocked_db.negotiation[gain.negotiation] = 1;
     if(gain.harness!==undefined) unlocked_db.harness[gain.harness] = 1;
     if(gain.chatbot!==undefined) unlocked_db.chatbot[gain.chatbot] = 1;
@@ -769,6 +1033,7 @@ function enable_unlocked(gain) {
     if(gain.temps!==undefined) people_db.people.temps += gain.temps;
     display_unlocked(gain);
     display_unlocked2(gain);
+    console.log('unlocked_db', unlocked_db)
 }
 
 function set_people({enrolled=0, housed=0, used=0, temps=0, roster=0}={}) {
@@ -794,6 +1059,299 @@ function set_collected(name, value=0) {
     let id = `score-${name}`;
     // console.log(`get_collected(${name})`);
     document.getElementById(id).textContent = value;
+}
+function refresh_periodic_data() {
+    // console.log(`refresh_periodic_data()`);
+    refresh_daily_data();
+    // save_data();
+}
+function refresh_daily_data() {
+    let speedup = _game_speedx;
+    // console.log(`refresh_daily_data()`, (new Date()).toLocaleString());
+    // let [now, since_midnight, since_noon, since_hour] = time_since();
+    // let since_hour = time_since_hour();
+    // let time = (new Date).getTime();
+    // let date = new Date();
+    // let hour = date.getHours();
+    // let minute = date.getMinutes();
+
+    // if(true_every_minute(speedup)) {
+    //     console.log(`------ done_routinely.m1: `, done_routinely.m1);
+    //     console.log(`------ minutes-since last 1min-routine: `, time_since(done_routinely.m1, 'minutes', speedup));
+    //     console.log(`------ minutes-since last 5min-routine: `, time_since(done_routinely.m5, 'minutes', speedup));
+    //     console.log(`------ minutes-since last 10min-routine: `, time_since(done_routinely.m10, 'minutes', speedup));
+    //     console.log(`------ minutes-since last 15min-routine: `, time_since(done_routinely.m15, 'minutes', speedup));
+    //     console.log(`------ minutes-since last 30min-routine: `, time_since(done_routinely.m30, 'minutes', speedup));
+    //     console.log(`------ minutes-since last 45min-routine: `, time_since(done_routinely.m45, 'minutes', speedup));
+    //     console.log(`------ minutes-since last 1hour-routine: `, time_since(done_routinely.h1, 'minutes', speedup));
+    //     console.log(`------ minutes-since last 3hour-routine: `, time_since(done_routinely.h3, 'minutes', speedup));
+    //     console.log(`------ minutes-since last 8hour-routine: `, time_since(done_routinely.h8, 'minutes', speedup));
+    //     console.log(`------ minutes-since last 12hour-routine: `, time_since(done_routinely.h12, 'minutes', speedup));
+    //     console.log(`------ minutes-since last 1day-routine: `, time_since(done_routinely.d1, 'minutes', speedup));
+    //     console.log(`------ hours-since last 1week-routine: `, time_since(done_routinely.w1, 'hours', speedup));
+    //     console.log(`------ hours-since last 1month-routine: `, time_since(done_routinely.o1, 'hours', speedup));
+    //     console.log(`------ hours-since last 1year-routine: `, time_since(done_routinely.y1, 'hours', speedup));
+    // }
+    if(true_every_minute(speedup)) {
+        console.log(`refresh_daily_data()`, (new Date()).toLocaleString());
+        console.log(`------ minutes-since last 1hour-routine: `, time_since(done_routinely.h1, 'minutes', speedup));
+        console.log(`------ minutes-since last 1day-routine: `, time_since(done_routinely.d1, 'minutes', speedup));
+        console.log(`------ hours-since last 1week-routine: `, time_since(done_routinely.w1, 'hours', speedup));
+    }
+    if(true_every_hour(speedup)) {
+        console.log(`------ minutes-since last 1hour-routine: `, time_since(done_routinely.h1, 'minutes', speedup));
+        for(let routine of hourly_routines) {
+            if(typeof routine==="function") routine();
+        }
+    }
+    if(true_every_day(speedup)) {
+        console.log(`------ minutes-since last 1day-routine: `, time_since(done_routinely.d1, 'minutes', speedup));
+        for(let routine of daily_routines) {
+            if(typeof routine==="function") routine();
+        }
+    }
+    if(true_every_week(speedup)) {
+        console.log(`------ hours-since last 1week-routine: `, time_since(done_routinely.w1, 'hours', speedup));
+        for(let routine of weekly_routines) {
+            if(typeof routine==="function") routine();
+        }
+    }
+    // true_every_minute(speedup);
+    true_every_5minutes(speedup);
+    true_every_10minutes(speedup);
+    true_every_15minutes(speedup);
+    true_every_30minutes(speedup);
+    true_every_45minutes(speedup);
+    // true_every_hour(speedup);
+    true_every_3hours(speedup);
+    true_every_8hours(speedup);
+    true_every_12hours(speedup);
+    // true_every_day(speedup);
+    // true_every_week(speedup);
+    true_every_month(speedup);
+    true_every_year(speedup);
+}
+
+function time_until(date, units='seconds', speedup=1) {
+    if(!date || !speedup) return;
+    let now = new Date();
+    let diff = date.getTime() - now.getTime();
+    if(units==='days') return diff/(24*60*60*1000)*speedup;
+    if(units==='hours') return diff/(60*60*1000)*speedup;
+    if(units==='minutes') return diff/(60*1000)*speedup;
+    if(units==='seconds') return diff/1000*speedup;
+    return diff*speedup;
+}
+
+function time_since(date, units='seconds', speedup=1) {
+    if(!date || !speedup) return;
+    let now = new Date();
+    let diff = now.getTime() - date.getTime();
+    if(units==='days') return diff/(24*60*60*1000)*speedup;
+    if(units==='hours') return diff/(60*60*1000)*speedup;
+    if(units==='minutes') return diff/(60*1000)*speedup;
+    if(units==='seconds') return diff/1000*speedup;
+    return diff*speedup;
+}
+
+function true_every_minute(speedup=1) {
+    return true_every_n_ms('m1', 1*60*1000/speedup);
+}
+function true_every_5minutes(speedup=1) {
+    return true_every_n_ms('m5', 5*60*1000/speedup);
+}
+function true_every_10minutes(speedup=1) {
+    return true_every_n_ms('m10', 10*60*1000/speedup);
+}
+function true_every_15minutes(speedup=1) {
+    return true_every_n_ms('m15', 15*60*1000/speedup);
+}
+function true_every_30minutes(speedup=1) {
+    return true_every_n_ms('m30', 30*60*1000/speedup);
+}
+function true_every_45minutes(speedup=1) {
+    return true_every_n_ms('m45', 45*60*1000/speedup);
+}
+function true_every_hour(speedup=1) {
+    return true_every_n_ms('h1', 60*60*1000/speedup);
+}
+function true_every_3hours(speedup=1) {
+    return true_every_n_ms('h3', 3*60*60*1000/speedup);
+}
+function true_every_8hours(speedup=1) {
+    return true_every_n_ms('h8', 8*60*60*1000/speedup);
+}
+function true_every_12hours(speedup=1) {
+    return true_every_n_ms('h12', 12*60*60*1000/speedup);
+}
+function true_every_day(speedup=1) {
+    return true_every_n_ms('d1', 24*60*60*1000/speedup);
+}
+function true_every_week(speedup=1) {
+    return true_every_n_ms('w1', 7*24*60*60*1000/speedup);
+}
+function true_every_month(speedup=1) {
+    return true_every_n_ms('o1', 30*7*24*60*60*1000/speedup);
+}
+function true_every_year(speedup=1) {
+    return true_every_n_ms('y1', 365*7*24*60*60*1000/speedup);
+}
+function true_every_n_ms(tkey, wait=0) {
+    let thn = done_routinely[tkey] || (new Date(1974,1,1));
+    let now = new Date();
+    let diff = now.getTime() - thn.getTime();
+    // console.log(`diff=${diff}, wait=${wait}, then=${thn}`)
+    if(diff > wait) {
+        done_routinely[tkey] = now;
+        return 1;
+    }
+    return 0;
+}
+
+// function true_every_hour(speedup) {
+//     true_every_n_ms(60*60*1000, thn, speedup)
+// }
+// function true_every_minute(n, thn, speedup=1) {
+//     let wait = 60*1000/speedup;
+//     let thn = done_routinely.m1;
+//     let now = new Date();
+//     let diff = now.getTime() - thn.getTime();
+//     if(diff > wait) {
+//         done_routinely.m1 = now;
+//         return 1;
+//     }
+//     return 0;
+// }
+// function true_every_hour(n, thn, speedup=1) {
+//     let wait = 60*60*1000/speedup;
+//     let thn = done_routinely.h1;
+//     let now = new Date();
+//     let diff = now.getTime() - thn.getTime();
+//     if(diff > wait) {
+//         done_routinely.h1 = now;
+//         return 1;
+//     }
+//     return 0;
+// }
+// function true_every_3hours(n, thn, speedup=1) {
+//     let wait = 60*60*1000/speedup;
+//     let thn = done_routinely.h3;
+//     let now = new Date();
+//     let diff = now.getTime() - thn.getTime();
+//     if(diff > wait) {
+//         done_routinely.h3 = now;
+//         return 1;
+//     }
+//     return 0;
+// }
+
+
+// function refresh_daily_data() {
+//     console.log(`refresh_daily_data()`, (new Date()).toLocaleString());
+//     let [now, since_midnight, since_noon, since_hour] = time_since();
+//     // let since_hour = time_since_hour();
+//     let time = (new Date).getTime();
+//     let date = new Date();
+//     let hour = date.getHours();
+//     let minute = date.getMinutes();
+
+//     if(true_every_hour(3)) {
+//         // done_hour_hourly = minute; //hour;
+//         console.log(`------ done_hourly.hour: `, done_hourly.hour);
+//     }
+
+//     // let done_daily = 0;
+//     // if(time > midnight && time < noon) {
+//     //     if(done_daily) { // do nightly routines
+//     //         refresh_negotiator(time)
+//     //     }
+//     //     done_daily = 0;
+//     // }
+//     // else if(time > noon && time < midnight) {
+//     //     if(!done_daily) { // do noontime routines
+//     //     }
+//     //     done_daily = 1;
+//     // }
+// }
+// function true_every_hour(n) {
+//     let date = new Date();
+//     // let hour = date.getHours();
+//     // let minute = date.getMinutes();
+//     let hour = date.getMinutes();
+//     // let is_true = done_hour_hourly!==hour;
+//     let is_true = hour >= (done_hourly.hour + n) || is_later_day(done_hourly.date, done_hourly.speedup);
+//     if(is_true) done_hourly.hour = hour;
+//     return is_true;
+// }
+// function true_every_n_ms(n, speedup=1) {
+//     let wait = 60*60*1000/speedup;
+//     let date = new Date();
+//     let diff = now.getTime() - thn.getTime();
+//     if(diff > wait) {
+//         done_hourly.htime = date;
+//         return 1;
+//     }
+//     return false;
+// }
+// function is_later_day(thn, speedup=1) {
+//     let now = new Date();
+//     let since = now.getTime() - thn.getTime();
+//     return (now - since) > (24*60*60*100/speedup);
+// }
+// function time_since_hour() {
+//     let now = new Date();
+//     let hour = new Date(
+//         now.getFullYear(),
+//         now.getMonth(),
+//         now.getDate(),
+//         now.getHours()
+//         ,0,0);
+//     return diff(now, hour);
+//      // difference in milliseconds
+//     function diff(now, thn) {
+//         let since = now.getTime() - thn.getTime();
+//     }
+// }
+// function time_since() {
+//     let now = new Date();
+//     let midnight = new Date(
+//         now.getFullYear(),
+//         now.getMonth(),
+//         now.getDate(),
+//         0,0,0);
+//     let noontime = midnight + 12;
+//     let hourtime = new Date(
+//         now.getFullYear(),
+//         now.getMonth(),
+//         now.getDate(),
+//         now.getHours()
+//         ,0,0);
+//     let since_midnight = diff(now, midnight);
+//     let since_noon = diff(now, midnight, +12*60*60*1000);
+//     let since_hour = diff(now, hourtime);
+//     return [now, since_midnight, since_noon, since_hour];
+//      // difference in milliseconds
+//     function diff(now, thn, offset=0) {
+//         let since = now.getTime() - (thn.getTime() + offset);
+//     }
+// }
+function refresh_negotiator(time) {
+    console.log(`refresh_negotiator(${time})`);
+    console.log(`refresh_negotiator(${new Date(time).toLocaleString()})`);
+    // $(`#negotiator-0`).attr('hidden', false);
+    // $(`#negotiator-1`).attr('hidden', false);
+    // $(`#negotiator-2`).attr('hidden', false);
+    // $(`#negotiator-0`).css('pointerEvents', 'auto');
+    // $(`#negotiator-1`).css('pointerEvents', 'auto');
+    // $(`#negotiator-2`).css('pointerEvents', 'auto');
+    // $(`#negotiator-0>i`).css('color', '#b8860b');
+    // $(`#negotiator-1>i`).css('color', '#b8860b');
+    // $(`#negotiator-2>i`).css('color', '#b8860b');
+    for(let i=0; i<3; i++) {
+        // $(`#negotiator-${i}`).attr('hidden', false);
+        $(`#negotiator-${i}`).css('pointerEvents', 'auto');
+        $(`#negotiator-${i}>i`).css('color', '#b8860b');
+    }
 }
 
 function load_user() {
@@ -831,14 +1389,21 @@ function load_saved_data(i=1, j=1) {
     [ tile.i, tile.j ] = [ i, j ]; 
     // Object.assign(tile, {i, j});
     // let game_data = {scorecard, people_db, canvas_db, build_db};
-    let game_data = retrieve_scorecard(`build/space-${i}-${j}`);
-    if(!game_data) return;
+    let game_data_top = retrieve_scorecard(`build/space-${i}-${j}`);
+    if(!game_data_top) return;
+    else tile.level = game_data_top.level || 0;
+    let game_data = retrieve_scorecard(`build/space-${i}-${j}/${tile.level}`);
+    if(!game_data && !game_data_top.scorecard) return;
+    if(!game_data) game_data = game_data_top; // older versions
     load_scorecard_saved_data(game_data.scorecard);
     load_people_saved_data(game_data.people);
     load_canvas_saved_data(game_data.canvas_db);
     load_build_saved_data(game_data.build_db);
+    load_minigames_saved_data(game_data.minigames);
+    load_routines_schedule(game_data.done_routinely);
     load_tile_levels(game_data);
     load_updated_data();
+    version_handling();
     // encapsulation
     function load_scorecard_saved_data(_scorecard) {
         Object.assign(scorecard, _scorecard);
@@ -853,6 +1418,7 @@ function load_saved_data(i=1, j=1) {
     }
     function load_canvas_saved_data(_canvas_db) {
         if(!_canvas_db) return;
+        update_locked_spaces(_canvas_db.locked);
         canvas_db.locked  = _locked = _canvas_db.locked;
         canvas_db.blocked = _blocked = _canvas_db.blocked;
         canvas_db.pieces  = _pieces = _canvas_db.pieces;
@@ -864,7 +1430,9 @@ function load_saved_data(i=1, j=1) {
         if(!_build_db) return;
         build_db.current_era  = current_era = _build_db.current_era;
         build_db.unlocked_db  = Object.assign(unlocked_db, _build_db.unlocked_db);
-        build_db.unlocking_db  = Object.assign(unlocking_db, _build_db.unlocking_db);
+        // build_db.unlocking_db  = Object.assign(unlocking_db, _build_db.unlocking_db);
+        let techtree_length = Math.min(unlocking_db_full.length, 6 + 2*tile.level);
+        build_db.unlocking_db  = Object.assign(unlocking_db, unlocking_db_full.slice(0, techtree_length));
         document.getElementById('era').textContent = current_era + 1;
         for(let name in unlocked_db) {
             for(let i in unlocked_db[name]) {
@@ -874,10 +1442,30 @@ function load_saved_data(i=1, j=1) {
     }
     function load_tile_levels(data) {
         if(!data) return;
+        tile.version = data.version || 0;
         // Object.assign(tile, _levels);
-        tile.level = data.level;
+        // tile.level = data.level;
         tile.sides = data.sides;
-        document.getElementById('level').textContent = tile.level;
+        // tile.pending = (data && data.main) ? data.main.pending : 0;
+        document.getElementById('level').textContent = tile.level+1;
+        // if(tile.pending) $('#level-up').prop('hidden', false);
+    }
+    function load_routines_schedule(data) {
+        if(!data) return;
+        Object.keys(done_routinely).map(key =>
+            done_routinely[key] = new Date( done_routinely[key]));
+        // Object.assign(done_routinely, data);
+    }
+    function load_minigames_saved_data(data) {
+        if(!data) return;
+        Object.assign(minigames, data);
+    }
+    function update_locked_spaces(new_locked) {
+        for(let loc of _locked) {
+            // console.log(loc)
+            if(new_locked.includes(loc)) continue;
+            unlock_space(loc);
+        }
     }
 }
 
@@ -890,8 +1478,17 @@ function save_data(i, j) {
     save_build_data();
     let people = people_db.people;
     let level = tile.level, sides = tile.sides;
-    let game_data = {scorecard, people, canvas_db, build_db, level, sides};
+    let version = VERSION, done = 0;
+    // let main = { pending: tile.pending };
+    // store current level data
+    let game_data = {scorecard, people, canvas_db, build_db, done_routinely, level, done, version, sides, minigames};
+    store_scorecard(`build/space-${i}-${j}/${tile.level}`, game_data);
+    // store top level data
+    game_data = retrieve_scorecard(`build/space-${i}-${j}`);
+    if(!game_data) game_data = {};
+    game_data = { level: tile.level, sides: game_data.sides };
     store_scorecard(`build/space-${i}-${j}`, game_data);
+
     // encapsulation
     function save_scorecard_data() {
         Object.assign(scorecard, get_collection());

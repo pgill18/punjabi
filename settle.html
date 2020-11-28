@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/css/bootstrap.min.css" integrity="sha384-DhY6onE6f3zzKbjUPRc2hOzGAdEf4/Dz+WJwBvEYL/lkkIsI3ihufq9hk9K4lVoK" crossorigin="anonymous">
+    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/css/bootstrap.min.css" integrity="sha384-DhY6onE6f3zzKbjUPRc2hOzGAdEf4/Dz+WJwBvEYL/lkkIsI3ihufq9hk9K4lVoK" crossorigin="anonymous"> -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 
     <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> -->
     <!-- <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css"> -->
@@ -21,15 +22,21 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
 
     <!-- <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script> -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script> -->
+    <!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script> -->
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
 
     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/font/css/open-iconic-bootstrap.min.css" integrity="sha256-BJ/G+e+y7bQdrYkS2RBTyNfBHpA9IuGaPmf9htub5MQ=" crossorigin="anonymous" /> -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
+    <script src="common.js"></script>
     <script src="settle_canvas.js"></script>
     <script src="settle_script.js"></script>
     <link rel="stylesheet" href="settle_styles.css"></link>
+
+    <script src="negotiator/content/messages.js"></script>
+    <script src="negotiator/script.js"></script>
 
     <style type="text/css">
         .navbar, .input-group {
@@ -37,7 +44,7 @@
           padding-bottom: 0.25rem;
           font-size: smaller;      /* Just because I am using big size font */
           line-height: 1em;
-        } 
+        }
     </style>
 
     <title>Hello, settler!</title>
@@ -79,10 +86,10 @@
             <a class="nav-link" style="color:#966F33; font-size: 16px; font-weight: 600">Lumber <span id="score-lumber">0</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" style="color:#966F33; font-size: 16px; font-weight: 600" hidden>Iron <span id="score-iron">0</span></a>
+            <a class="nav-link" style="color:#966F33; font-size: 16px; font-weight: 600">Iron <span id="score-iron">0</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" style="color:#966F33; font-size: 16px; font-weight: 600" hidden>Dye <span id="score-dye">0</span></a>
+            <a class="nav-link" style="color:#966F33; font-size: 16px; font-weight: 600">Dye <span id="score-dye">0</span></a>
           </li>
         </ul>
       </div>
@@ -107,7 +114,7 @@
             <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-3" id="unlock-era" style="font-size:22px;color:gray;background:white; float-left" onclick="launchMiniExpeditionBasicModal()" data-toggle="tooltip" title="Expedition" hidden>streetview</i></a>
           </li>
           <li class="nav-item">
-            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-3" id="unlock-era" style="font-size:22px;color:gray;background:white; float-left" onclick="save_data()" data-toggle="tooltip" title="Expedition">save</i></a>
+            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-3" id="unlock-era" style="font-size:22px;color:gray;background:white; float-left" onclick="save_data()" data-toggle="tooltip" title="Save">save</i></a>
           </li>
           <li class="nav-item">
             <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-3" id="status-report" style="font-size:22px;color:gray;background:white; float-left" onclick="launchStatusReportModal()" data-toggle="tooltip" title="Production status">network_check</i></a>
@@ -133,12 +140,29 @@
                 <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="status-report" style="font-size:24px;color:gray;background:white; float-left" onclick="runWithSpeedup(10000,this)" data-toggle="tooltip" title="Production status">fast_forward</i>10000x</a>
               </li>
               <li class="nav-item">
-                <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="status-report" style="font-size:24px;color:gray;background:white; float-right" onclick="deleteLevelProgress(this)" data-toggle="tooltip" title="Delete progress of this level">clear</i></a>
+                <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="status-report" style="font-size:24px;color:gray;background:white; float-left" onclick="runWithSpeedup(100000,this)" data-toggle="tooltip" title="Production status">fast_forward</i>100000x</a>
               </li>
-              <li class="nav-item">
-                <!-- <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="status-report" style="font-size:24px;color:maroon;background:white; float-right" onclick="deleteAllProgress(this)" data-toggle="tooltip" title="Delete all progress, all levels">clear</i></a> -->
-              </li>
+              <!-- <li class="nav-item">
+                <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="status-report" style="font-size:24px;color:gray;background:white; float-right" onclick="deleteLevelProgress()" data-toggle="tooltip" title="Delete progress of this level">clear</i></a>
+              </li> -->
+              <!-- <li class="nav-item">
+                <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="status-report" style="font-size:24px;color:maroon;background:white; float-right" onclick="deleteAllProgress(this)" data-toggle="tooltip" title="Delete all progress, all levels">clear</i></a>
+              </li> -->
           </div>
+        </ul>
+        <ul class="navbar-nav nav-sm">
+          <li class="nav-item">
+            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="unlock-space" style="font-size:24px;color:gray;background:white; float-right" onclick="unlock_space()" data-toggle="tooltip" title="Unlock space" hidden>filter_tilt_shift</i></a>
+          </li>
+          <li class="nav-item">
+            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="lock-space" style="font-size:24px;color:gray;background:white; float-right" onclick="lock_space()" data-toggle="tooltip" title="Lock space" hidden>my_location</i></a>
+          </li>
+          <li class="nav-item">
+            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="delete-level" style="font-size:24px;color:gray;background:white; float-right" onclick="deleteLevelProgress()" data-toggle="tooltip" title="Delete progress of this level" hidden>clear</i></a>
+          </li>
+          <li class="nav-item ml-auto mr-5">
+            <a type="button"><i class="material-icons btn-light mt-1" id="level-up" style="font-size:24px;color:gray;background:white;" onclick="levelUp(true)" data-toggle="tooltip" title="Level up. Deletes current level." hidden>plus_one</i></a>
+          </li>
         </ul>
       </div>
     </nav>
@@ -163,25 +187,26 @@
             <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="collect-once" style="font-size:22px;color:gray;background:white; float-left" onclick="collect_all_once({run:1})" data-toggle="tooltip" title="Collect all once (and restart all)">add_task</i><span id="score-collect-once"></span></a>
           </li>
           <li class="nav-item">
-            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="collect-loop" style="font-size:22px;color:gray;background:white; float-left" onclick="collect_all_loop({run:40,build:1})" data-toggle="tooltip" title="Collect all repeatedly in a loop (and restart each time)">published_with_changes</i><span id="score-autopilot"></span></a>
+            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="collect-loop" style="font-size:22px;color:gray;background:white; float-left" onclick="collect_all_loop({run:50,build:1})" data-toggle="tooltip" title="Collect all repeatedly in a loop (and restart each time)">published_with_changes</i><span id="score-autopilot"></span></a>
 
           <div class="btn-group dropup">
             <a type="button" class="dropdown-toggle text-muted" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">set</a>
-            <div class="dropdown-menu">
-              <h6 class="ml-2">Housing</h6>
-              <button class="btn btn-sm" onclick="addTile(0, 0)"> <img src="content/img/house-top-1.png" width="70" /></button>
-              <button class="btn btn-sm" onclick="addTile(0, 0)"> <img src="content/img/house-top-2.jpg" width="70" /></button>
+            <div class="dropdown-menu" style="width:600px">
+              <p style="margin-left:10px"><em>Choose one of the following auto-pilot settings. Then click loop button next to the 'set' button.</em><p>
               <div class="dropdown-divider"></div>
-              <h6 class="ml-2">Supplies</h6>
-              <button class="btn btn-sm" onclick="addTile(1, 0)"> <img src="content/img/market-icon-1.jpg" width="60" /></button>
-              <button class="btn btn-sm" onclick="addTile(1, 1)"> <img src="content/img/market-icon-2.png" width="60" /></button>
+              <button class="btn btn-sm btn-outline-secondary" style="margin-left:10px" onclick="auto_pilot_mode({run:40,build:0})">Run as is</button>
+              <button class="btn btn-sm btn-outline-secondary" style="margin-left:10px" onclick="auto_pilot_mode({run:40,build:1})">Build and run</button>
               <div class="dropdown-divider"></div>
-              <h6 class="ml-2">Production</h6>
-              <button class="btn btn-sm" onclick="addTile(2, 0)"> <img src="content/img/industrial-building-icon-1.png" width="60" /></button>
-              <button class="btn btn-sm" onclick="addTile(2, 1)"> <img src="content/img/industrial-building-icon-2.png" width="60" /></button>
+              <button class="btn btn-sm btn-outline-secondary" style="margin-left:10px" onclick="auto_pilot_mode({run:40,build:2})">Run, rebuild, run</button>
+              <button class="btn btn-sm btn-outline-secondary" style="margin-left:10px" onclick="auto_pilot_mode({run:40,build:1,unlock:1})">Run, rebuild, unlock, run</button>
+              <button class="btn btn-sm btn-outline-secondary" style="margin-left:10px" onclick="auto_pilot_mode({run:40,build:1,unlock:1,level:1})">Run, rebuild, unlock, level, run</button>
               <div class="dropdown-divider"></div>
-              <button class="btn btn-sm" onclick="addTile(2, 2)"> <img src="content/img/industrial-building-icon-3.jpg" width="60" /></button>
-              <button class="btn btn-sm" onclick="addTile(2, 3)"> <img src="content/img/industrial-building-icon-4.jpg" width="60" /></button>
+              <button class="btn btn-sm btn-outline-secondary" style="margin-left:10px" onclick="auto_pilot_mode({run:40,type:'coins',qty:5000})">Run, get 5,000 coins</button>
+              <button class="btn btn-sm btn-outline-secondary" style="margin-left:10px" onclick="auto_pilot_mode({run:40,type:'supplies',qty:10000})">Run, get 1,0000 supplies</button>
+              <button class="btn btn-sm btn-outline-secondary" style="margin-left:10px" onclick="auto_pilot_mode({run:40,type:'stone',qty:60})">Run, get 60 stone</button>
+              <button class="btn btn-sm btn-outline-secondary" style="margin:10px 0 0 10px" onclick="auto_pilot_mode({run:40,type:'lumber',qty:60})">Run, get 60 lumber</button>
+              <button class="btn btn-sm btn-outline-secondary" style="margin:10px 0 0 10px" onclick="auto_pilot_mode({run:40,type:'iron',qty:60})">Run, get 60 iron</button>
+              <button class="btn btn-sm btn-outline-secondary" style="margin:10px 0 0 10px" onclick="auto_pilot_mode({run:40,type:'dye',qty:60})">Run, get 60 dye</button>
             </div>
           </div>
 
@@ -194,7 +219,7 @@
             <a class="nav-link text-muted" id="mini-form" style="color:#966F33; font-size: 16px; font-weight: 600; opacity: 0.5; float:right" onclick="launchMiniFormModal()" data-toggle="tooltip" title="Skilled in filling locale forms?">Form <span id="xscore-coins"></span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-muted" id="mini-negotiation" style="color:#966F33; font-size: 16px; font-weight: 600; opacity: 0.5; float:right" onclick="launchMiniNegotiatorModal()" data-toggle="tooltip" title="Negotiate to aquire additional resources">Negotiator <span id="xscore-supplies"></span></a>
+            <a class="nav-link text-muted" id="mini-negotiation1" style="color:#966F33; font-size: 16px; font-weight: 600; opacity: 0.5; float:right" onclick="launchMiniNegotiatorModal()" data-toggle="tooltip" title="Negotiate to aquire additional resources">Negotiator <span id="xscore-supplies"></span></a>
           </li>
           <li class="nav-item">
             <a class="nav-link text-muted" id="mini-harness" style="color:#966F33; font-size: 16px; font-weight: 600; opacity: 0.5" onclick="launchMiniGenericModal()" data-toggle="tooltip" title="Harness resources based on main page progress">Harness <span id="xscore-dye"></span></a>
@@ -242,11 +267,30 @@
       </div>
     </nav>
 
-    <ul class="navbar-nav nav-sm">
+    <!-- <ul class="navbar-nav nav-sm">
       <li class="nav-item ml-auto mr-5">
         <a type="button"><i class="material-icons btn-light mt-1" id="unlock-era" style="font-size:24px;color:gray;background:white;" onclick="unpopulate_all()" data-toggle="tooltip" title="Delete all buildings">delete_sweep</i></a>
       </li>
-    </ul>
+    </ul> -->
+    <nav class="navbar navbar-expand-lg" id="nav-0a">
+      <div class="collapse navbar-collapse row" id="navbarTop0">
+        <div class="col-10"></div>
+        <ul class="navbar-nav col">
+          <li class="nav-item mr-3">
+            <a type="button" id="mini-trading" data-toggle="modal" data-target="#bridgeModal1" hidden><i class="material-icons btn-light mt-0" style="font-size:36px;color:#b8860b;background:white; float-right" onclick="negotiator_bridge()" data-toggle="tooltip" title="Negotiation Post">groups</i></a>
+          </li>
+          <!-- <li class="nav-item mr-3">
+            <a type="button" id="negotiator-0" data-toggle="modal" data-target="#negotiationModal1" ><i class="material-icons btn-light mt-1" style="font-size:24px;color:#b8860b;background:white; float-right" onclick="negotiator_launchMiniNegotiatorModal(0)" data-toggle="tooltip" title="Negotiate A">groups</i></a>
+          </li>
+          <li class="nav-item mr-3">
+            <a type="button" id="negotiator-1" data-toggle="modal" data-target="#negotiationModal1" ><i class="material-icons btn-light mt-1" style="font-size:24px;color:#b8860b;background:white; float-right" onclick="negotiator_launchMiniNegotiatorModal(1)" data-toggle="tooltip" title="Negotiate B">groups</i></a>
+          </li>
+          <li class="nav-item mr-3">
+            <a type="button" id="negotiator-2" data-toggle="modal" data-target="#negotiationModal1" ><i class="material-icons btn-light mt-1" style="font-size:24px;color:#b8860b;background:white; float-right" onclick="negotiator_launchMiniNegotiatorModal(2)" data-toggle="tooltip" title="Negotiate C">groups</i></a>
+          </li> -->
+        </ul>
+      </div>
+    </nav>
 
     <!-- <nav class="navbar fixed-bottom navbar-expand-sm navbar-light bg-light pos-f-t" id="nav-2b"> -->
     <nav class="navbar fixed-bottom navbar-expand-sm navbar-light bg-light" id="nav-2b">
@@ -254,26 +298,26 @@
       <button class="navbar-toggler btn-sm" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-      <div class="collapse navbar-collapse" id="navbarCollapse">
+      <div class="collapse navbar-collapse row" id="navbarCollapse">
 
-      <div class="btn-group btn-group-sm dropup">
+      <div class="btn-group btn-group-sm dropup col-2">
         <button type="button" class="btn btn-light btn-sm dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size:18px;font-weight:400">
           Start
         </button>
         <div class="dropdown-menu">
           <h6 class="ml-2">Housing</h6>
-          <button class="btn btn-sm" id="lib-coins-0" onclick="addTile(0, 0)"> <img src="content/img/house-top-1.png" width="70" /></button>
-          <button class="btn btn-sm" id="lib-coins-1" onclick="addTile(0, 1)" disabled> <img src="content/img/house-top-2.jpg" width="70" /></button>
+          <button class="btn btn-sm" id="lib-coins-0" onclick="addTile(0, 0)" data-toggle="tooltip" title="House Level-1"> <img src="content/img/house-top-1.png" width="70" /></button>
+          <button class="btn btn-sm" id="lib-coins-1" onclick="addTile(0, 1)" data-toggle="tooltip" title="House Level-1" disabled> <img src="content/img/house-top-2.jpg" width="70" /></button>
           <div class="dropdown-divider"></div>
           <h6 class="ml-2">Supplies</h6>
-          <button class="btn btn-sm" id="lib-supplies-0" onclick="addTile(1, 0)"> <img src="content/img/market-icon-1.jpg" width="60" /></button>
-          <button class="btn btn-sm" id="lib-supplies-1" onclick="addTile(1, 1)" disabled> <img src="content/img/market-icon-2.png" width="60" /></button>
+          <button class="btn btn-sm" id="lib-supplies-0" onclick="addTile(1, 0)" data-toggle="tooltip" title="Supplies Building Level-1"> <img src="content/img/market-icon-1.jpg" width="60" /></button>
+          <button class="btn btn-sm" id="lib-supplies-1" onclick="addTile(1, 1)"  data-toggle="tooltip" title="Supplies Building Level-1" disabled> <img src="content/img/market-icon-2.png" width="60" /></button>
           <div class="dropdown-divider"></div>
           <h6 class="ml-2">Production</h6>
-          <button class="btn btn-sm" id="lib-stone-0" onclick="addTile(2, 0)"> <img src="content/img/industrial-building-icon-1.png" width="60" /></button>
-          <button class="btn btn-sm" id="lib-lumber-0" onclick="addTile(3, 0)" disabled> <img src="content/img/industrial-building-icon-2.png" width="60" /></button>
-          <button class="btn btn-sm" id="lib-iron-0" onclick="addTile(4, 0)" hidden> <img src="content/img/industrial-building-icon-3.png" width="60" /></button>
-          <button class="btn btn-sm" id="lib-dye-0" onclick="addTile(5, 0)" hidden> <img src="content/img/industrial-building-icon-4.jpg" width="60" /></button>
+          <button class="btn btn-sm" id="lib-stone-0" onclick="addTile(2, 0)" data-toggle="tooltip" title="Stone Production Building Level-1"> <img src="content/img/industrial-building-icon-1.png" width="60" /></button>
+          <button class="btn btn-sm" id="lib-lumber-0" onclick="addTile(3, 0)"  data-toggle="tooltip" title="Lumber Production Building Level-1" disabled> <img src="content/img/industrial-building-icon-2.png" width="60" /></button>
+          <button class="btn btn-sm" id="lib-iron-0" onclick="addTile(4, 0)"  data-toggle="tooltip" title="Iron Production Building Level-1" disabled> <img src="content/img/industrial-building-icon-3.png" width="60" /></button>
+          <button class="btn btn-sm" id="lib-dye-0" onclick="addTile(5, 0)"  data-toggle="tooltip" title="Dye Production Building Level-1" disabled> <img src="content/img/industrial-building-icon-4.png" width="60" /></button>
           <!-- <div class="dropdown-divider"></div> -->
           <!-- <button class="btn btn-sm" id="lib-joy-0" onclick="addTile(6, 0)"> <img src="content/img/decoration-grasslands1.jpg" width="30" /> + </button> -->
           <!-- <button class="btn btn-sm" id="lib-joy-0" onclick="addTile(6, 0)"> <img src="content/img/decoration-grasslands2.jpg" width="30" /> + </button> -->
@@ -284,14 +328,14 @@
 
       <ul class="navbar-nav nav-sm mr-auto">
         <li class="nav-item ml-2">
-          <button class="btn xbtn-sm btn-light material-icons" style="xcolor:orange" onclick="launchMiniExpeditionBasicModal()">view_comfy</button>
+          <button class="btn btn-light material-icons" onclick="launchMiniExpeditionBasicModal()" data-toggle="tooltip" title="Unlock stages">view_comfy</button>
         </li>
         <li class="nav-item ml-2">
-          <button class="btn xbtn-sm btn-outline-primary material-icons active" style="xcolor:orange" onclick="editTilesWrapper(this)" data-toggle="button" aria-pressed="true" active>open_with</button>
+          <button class="btn btn-outline-primary material-icons active" onclick="editTilesWrapper(this)" data-toggle="tooltip" title="Toggle edit mode" xdata-toggle="button" aria-pressed="true" active>open_with</button>
         </li>
         <li><div class="ml-2"></div></li>       
         <li class="nav-item">
-          <button class="btn xbtn-sm btn-light material-icons" style="xcolor:black" onclick="deleteTile()" xdata-toggle="button" xaria-pressed="true">delete_forever</button>
+          <button class="btn btn-light material-icons" onclick="deleteTile()" data-toggle="tooltip" title="Delete building">delete_forever</button>
         </li>
       </ul>
       <!-- <ul class="navbar-nav fade" style="float:right">
@@ -310,14 +354,21 @@
       </ul> -->
     </div>
 
+    <div class="col-4"></div>
     <div class="collapse navbar-collapse row">
-      <ul class="navbar-nav float-right">
+      <ul class="navbar-nav col-2">
       <!-- <ul class="navbar-nav nav-sm"> -->
+        <li class="nav-item ml-auto mr-3">
+            <em class="nav-link" style="color:darkgray; font-size: 20px; font-weight: 500">Level <small id="level">1</small></em>
+        </li>
+      </ul>
+      <ul class="navbar-nav nav-sm col">
         <li class="nav-item ml-auto mr-5">
-            <em class="nav-link" style="color:darkgray; font-size: 20px; font-weight: 500">Level <small id="level">0</small></em>
+          <a type="button"><i class="material-icons btn-light mt-1" id="unlock-era" style="font-size:24px;color:gray;background:white;" onclick="unpopulate_all()" data-toggle="tooltip" title="Delete all buildings">delete_sweep</i></a>
         </li>
       </ul>
     </div>
+
   </nav>
 
   <script type="text/javascript">
@@ -569,7 +620,7 @@
                   <div class="modal-header" id="${id}-header">
                     ${title ? `<h5 class="modal-title" id="${id}Label">${title}</h5>` : ''}
                     ${header}
-                    <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                   </div>
                   <div class="modal-body ${cls_body}" id="${id}-body">
                     ${body}
@@ -695,16 +746,28 @@ let negotiationData6 = {
     hints: ['no-hint', 'no-hint', 'any-letter', 'first-letter'],
     quantity: 1, difficulty: 1, turns: 4,
 };
-function callMiniExpeditionBasic(mode={run:0,build:0,alert:1}) {
+function callMiniExpeditionBasic() {
+    let mode = {run:0,build:0,alert:1};
     let expedition_db = unlocking_db; // TBD
-    unlock_era(mode);
-    createMiniExpeditionBasic();
-    if(current_era >= expedition_db.length-1) setTimeout(function() {
+    // unlock_era(mode);
+    // createMiniExpeditionBasic();
+    if(current_era >= expedition_db.length-2) {
+      setTimeout(function() {
         if(confirm('You have completed this level!\nTo claim this level now, click Okay. To claim later, click Cancel.')) {
           alert(`You have leveled-up your building on the main map. Go back to the map to see it for yourself.`);
-          if(tile.level < 9) tile.level++;
+          // if(tile.level < 9) tile.level++;
+          unlock_era(mode);
+          levelUp(true);
+          createMiniExpeditionBasic();
+        } else {
+          tile.pending = 1;
+          $('#level-up').prop('hidden', false);
         }
-    }, 100);
+      }, 100);
+    } else {
+      unlock_era(mode);
+      createMiniExpeditionBasic();
+    }
     // $('#miniExpeditionBasicModal').modal()
 }
 function callStatusReportModal() {
@@ -746,7 +809,11 @@ function cleanupElementsInnerHTML(id) {
       function createMiniExpeditionBasic(id='miniExpeditionBasic') {
         console.log(`createMiniExpeditionBasic(id='miniExpeditionBasic')`);
         let expedition_db = unlocking_db; // TBD
-        let nrows = 1, ncols = 6, modal_id = id + 'Modal'; 
+        let nrows = 1, ncols = 6, modal_id = id + 'Modal';
+        if(expedition_db.length>6) {
+          nrows = Math.ceil(expedition_db.length/6);
+          ncols = Math.ceil(expedition_db.length/nrows);
+        }
         let colwidth = Math.round(12/ncols);
         let btn = { type: 'btn-secondary', name: 'Unlock', onclick: 'callMiniExpeditionBasic(<i>,this)' };
         let options1 = { title: 'Step <i>', cls_child: 'mb-0', cls_row: 'mb-3', btn };
@@ -875,7 +942,8 @@ function cleanupElementsInnerHTML(id) {
         <div class="modal-content">
           <div class="modal-header">
             <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
-            <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
+            <!-- <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button> -->
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
           </div>
           <div class="modal-body" id="modal1-body">
             <div class="row" id="modal1-r1">
@@ -946,6 +1014,7 @@ function cleanupElementsInnerHTML(id) {
           let disabled = '';
           let btn_type = btn ? btn.type : null;
           let btn_name = btn ? btn.name : null;
+          let dismiss = (data.name==='Finish') ? 'modal' : 'none';
           if(data.unlocked) { disabled='disabled'; btn_type='btn-sucess'; btn_name='Unlocked' }
           if(data.unlocked===-1) { disabled=''; btn_type='btn-primary'; btn_name=btn.name }
           if(data.name==='Finish') btn_name = data.name;
@@ -954,7 +1023,7 @@ function cleanupElementsInnerHTML(id) {
             onclick = onclick ? onclick.replace('<i>', i) : '';
             if(onclick) onclick = `onclick="${onclick}"`;
             let html = `
-            <div class="card ${cls_child}" id="${id}-card" style="height:400px">
+            <div class="card ${cls_child}" id="${id}-card" style="height:350px">
               <!-- <img src="..." class="card-img-top" alt="..."> -->
               <div class="card-body" id="${id}-card-body">
                 <h5 class="card-title" id="${id}-card-title">${title}</h5>
@@ -966,7 +1035,7 @@ function cleanupElementsInnerHTML(id) {
               </div>
               <div class="card-footer bg-light" id="${id}-card-footer">`;
           if(btn && btn.type) html += `
-                <a href="#" class="btn ${btn_type} btn-block mt-auto ${disabled}" style="bottom-5px; postion:fixed; font-size:${btn_font_size}" ${onclick}>${btn_name}</a>`;
+                <a href="#" class="btn ${btn_type} btn-block mt-auto ${disabled}" data-dismiss="${dismiss}" style="bottom-5px; postion:fixed; font-size:${btn_font_size}" ${onclick}>${btn_name}</a>`;
           html += `
               </div>
             </div>`;
@@ -980,14 +1049,55 @@ function cleanupElementsInnerHTML(id) {
               if(index%2 === 0) result.push(array.slice(index, index + 2));
               return result;
           }, []);
+
+          list.map(pairs => pairs.map(pair => {
+              if(title!=='Gain') return pair;
+              if(pair.key.match(/coins|supplies|stone|lumber|iron|dye|happiness/i)) pair.value++;
+              if(pair.key.match(/knock|greet|chatbot|quiz|forms|negotiator|trading|tutor|pupil|player/i)) pair.value++;
+              if(pair.key.match(/chalkboard|whiteboard|puzzle|algebra|math/i)) pair.value++;
+              if(pair.key.match(/falling|shooting|paintball|tower/i)) pair.value++;
+              // console.log(`.................. ${pair.key} ${pair.value} ................`, pair)
+              return pair;
+          }));
+
           // console.log(`2obj2html() => `, list);
-          let list_html = '<p style="font-size:17px">' + list.map(pair => `${pair[0].key}=${pair[0].value}, ${pair[1].key}=${pair[1].value}`).join('') + '<p>';
+          let list_html = '<p style="font-size:17px">' + list.map(pair => `${pair[0].key}=${pair[0].value}, ${pair[1].key}=${pair[1].value}`).join(', ') + '<p>';
           if(title==='Gain') {
-            list_html = list_html.replace('coins', 'House Level');
-            list_html = list_html.replace('supplies', 'Supplies Building Level');
-            list_html = list_html.replace('lumber', 'Lumber Building Level');
-            list_html = list_html.replace('none=0, ', '');
+            list_html = list_html.replace(/none=0(,\s+)?/, '');
+            list_html = list_html.replace(/tbd=0(,\s+)?/, '');
+            list_html = list_html.replace(/temps=0(,\s+)?/, '');
+            list_html = list_html.replace(/spaces=0(,\s+)?/, '');
             list_html = list_html.replace('temps', 'Temps');
+            list_html = list_html.replace('spaces', 'Spaces');
+            list_html = list_html.replace('coins=', 'House L');
+            list_html = list_html.replace('supplies=', 'Supplies Building L');
+            list_html = list_html.replace('lumber=', 'Lumber Building L');
+            list_html = list_html.replace('iron=', 'Iron Building L');
+            list_html = list_html.replace('dye=', 'Dye Building L');
+            list_html = list_html.replace('trading=', 'Trading L');
+            // list_html = list_html.replace('forms=', 'Forms L');
+            // list_html = list_html.replace('tutor=', 'Tutor L');
+            // list_html = list_html.replace('pupil=', 'Pupil L');
+            // list_html = list_html.replace('player=', 'Player L');
+            // list_html = list_html.replace('negotiator=', 'Negotiator L');
+            list_html = list_html.replace(/forms=1(,\s+)?/, '');
+            list_html = list_html.replace(/tutor=1(,\s+)?/, '');
+            list_html = list_html.replace(/pupil=1(,\s+)?/, '');
+            list_html = list_html.replace(/player=1(,\s+)?/, '');
+          }
+          if(title==='Cost') {
+            list_html = list_html.replace(/stone=0(,\s+)?/, '');
+            list_html = list_html.replace(/lumber=0(,\s+)?/, '');
+            list_html = list_html.replace(/iron=0(,\s+)?/, '');
+            list_html = list_html.replace(/dye=0(,\s+)?/, '');
+            list_html = list_html.replace(/coins=0(,\s+)?/, '');
+            list_html = list_html.replace(/supplies=0(,\s+)?/, '');
+            list_html = list_html.replace('stone', 'Stone');
+            list_html = list_html.replace('lumber', 'Lumber');
+            list_html = list_html.replace('iron', 'Iron');
+            list_html = list_html.replace('dye', 'Dye');
+            list_html = list_html.replace('coins', 'Coins');
+            list_html = list_html.replace('supplies', 'Supplies');
           }
           let html = `
               <div class="mt-auto" style="bottom-5px; postion:fixed">
@@ -1036,7 +1146,7 @@ function cleanupElementsInnerHTML(id) {
           quantity = Array.isArray(quantity) ? quantity[i] : quantity;
           interval = Array.isArray(interval) ? interval[i] : interval;
           let height = compact ? '12rem' : '22rem';
-          let name = _configuringPiece ? name_lookup[_configuringPiece.entity.content.index] : '';
+          let name = _configuringPiece ? name_lookup[_configuringPiece.entity.content.index] : 'units';
           let btn_type = dd_list.list ? undefined : 'btn-primary';
           let list_group_type = dd_list.list ? `list-group` : `list-group-horizontal-sm`;
           if(!title) title = dd_list.list ? '' : quantity;
@@ -1047,8 +1157,8 @@ function cleanupElementsInnerHTML(id) {
               <div class="card-body d-flex flex-column" id="${id}-card-body">
                 <h5 class="card-title text-center" id="${id}-card-title">${title}</h5>
                 ${dd_list.list ? `<p class="card-text mb-2 text-center" id="${id}-card-text" style="font-size:16px">${text}</p>` :
-                  compact ? `<p class="card-text mb-2" id="${id}-card-text" style="font-size:16px">Produce ${quantity} units${name} in ${interval}.</p>` : 
-                          `<p class="card-text mb-2" id="${id}-card-text" style="font-size:16px">Produce ${quantity} units${name} in ${interval}.</p>` }
+                  compact ? `<p class="card-text mb-2" id="${id}-card-text" style="font-size:16px">Produce ${quantity} ${name} in ${interval}.</p>` : 
+                          `<p class="card-text mb-2" id="${id}-card-text" style="font-size:16px">Produce ${quantity} ${name} in ${interval}.</p>` }
                 <span id="${id}-card-text2"></span>`;
           if(dd_list.hints) html += `
                 <a href="#" class="btn btn-link text-muted btn-block mt-auto" data-dismiss="modal" style="bottom-5px; postion:fixed" ${dd_list.hintclick}>Hint</a>`;
@@ -1154,7 +1264,8 @@ function cleanupElementsInnerHTML(id) {
         <div class="modal-content">
           <div class="modal-header">
             <h5 class="modal-title" id="productionModalLabel">Modal title</h5>
-            <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
+            <!-- <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button> -->
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
           </div>
           <div class="modal-body" id="modal2-body">
             <div class="container-fluid">
@@ -1181,7 +1292,7 @@ function cleanupElementsInnerHTML(id) {
         <div class="modal-content">
           <div class="modal-header">
             <h5 class="modal-title" id="miniNegotiatorModalLabelx">Modal title</h5>
-            <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
           </div>
           <div class="modal-body" id="modal2b-body">
             <div class="container-fluid">
@@ -1336,7 +1447,8 @@ function cleanupElementsInnerHTML(id) {
         <div class="modal-content">
           <div class="modal-header">
             <h5 class="modal-title" id="miniTechTreeModalLabel">Modal title</h5>
-            <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button>
+            <!-- <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close"></button> -->
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
           </div>
           <div class="modal-body" id="modal3-body">
             <div class="container-fluid">
@@ -1369,6 +1481,62 @@ function cleanupElementsInnerHTML(id) {
 
               </div>
             </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Modal -->
+    <div class="modal fade" id="negotiationModal1" tabindex="-1" aria-labelledby="negotiationModal1Label" aria-hidden="true">
+      <div class="modal-dialog modal-xl modal-dialog-centered">
+        <div class="modal-content">
+          <div class="modal-header row">
+            <h5 class="modal-title col-4" id="negotiationModal1Label">Negotiation platform</h5>
+            <!-- <a class="text-muted" id="negotiator-bscard" style="text-align:center"></a> -->
+            <div class="alert alert-light col-6" id="negotiator-bscard"></div>
+            <button type="button" class="close col-1" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+          <div class="modal-body mx-0 my-0 px-0 py-0" id="modal2-body">
+            <div class="container-fluid row mx-0 my-0 px-0 py-0">
+              <div class="col px-0" id="negotiator-modal1-c1" style="width:20%"></div>
+              <div class="col px-0" id="negotiator-modal1-c2" style="width:20%"></div>
+              <div class="col px-0" id="negotiator-modal1-c3" style="width:20%"></div>
+              <div class="col px-0" id="negotiator-modal1-c4" style="width:20%"></div>
+              <div class="col px-0" id="negotiator-modal1-c5" style="width:20%"></div>
+            </div>
+          </div>
+          <div class="modal-footer row">
+            <em class="modal-title col-1 ml-3 px-1 mr-auto" id="negotiationModal1Label">You will get: <strong id="negotiator-available">20 stone</strong></em>
+            <div class="alert" id="negotiator-bsalert"></div>
+            <!-- <button type="button" class="btn btn-link col-1" onclick="negotiator_hints()">Hints</button> -->
+            <button type="button" class="btn btn-primary col-1" onclick="negotiator_check()">Check</button>
+            <button type="button" class="btn btn-primary col-1" onclick="negotiator_submit()" id="negotiator-submit">Submit</button>
+            <button type="button" class="btn btn-primary col-1" onclick="negotiator_finish()" id="negotiator-finish" data-dismiss="modal" aria-label="Close" hidden>Finish</button>
+            <a></a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="bridgeModal1" tabindex="-1" aria-labelledby="bridgeModal1Label" aria-hidden="true">
+      <div class="modal-dialog modal-xl modal-dialog-centered">
+        <div class="modal-content">
+          <div class="modal-header row">
+            <h5 class="modal-title col-4" id="bridgeModal1Label">Negotiation bridge</h5>
+            <!-- <a class="text-muted" id="bridge-bscard" style="text-align:center"></a> -->
+            <div class="alert alert-light col-6" id="bridge-bscard"></div>
+            <button type="button" class="close col-1" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          </div>
+          <div class="modal-body" id="bridgeModal1-body">
+            <!-- <div class="container-fluid row"> -->
+              <!-- <div class="col ml-10" id="bridgeModal1-c1" xstyle="width:31%"></div> -->
+              <!-- <div class="col" id="bridgeModal1-c2" xstyle="width:31%"></div> -->
+              <!-- <div class="col" id="bridgeModal1-c3" xstyle="width:31%"></div> -->
+              <!-- <div class="col" id="bridgeModal1-c4" xstyle="width:5%"></div> -->
+              <!-- <div class="col" id="bridgeModal1-c5" xstyle="width:5%"></div> -->
+            <!-- </div> -->
           </div>
         </div>
       </div>
