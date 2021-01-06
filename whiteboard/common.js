@@ -31,9 +31,7 @@ function obj2string(obj) {
     let array = Object.entries(obj).map(([key,value]) => value+' '+key);
     return array.join(', ');
 }
-function isEmpty(obj) {
-    return Object.keys(obj).length === 0;
-}
+
 
 function shuffle(a) {
     for (let i = a.length - 1; i > 0; i--) {

@@ -148,14 +148,14 @@ async function loop() {
             // console.log(`loop....3`)
             if(!piece.entity) continue;
             // console.log(`loop....4`)
-            console.log(`loop....i=${i}`)
+            // console.log(`loop....i=${i}`)
             if(!ready(piece, i)) continue;
             // console.log(`loop....5`)
             piece.entity.flagged = 1;
             changeImage(piece, {ready:1});
             // changeImage(i, {ready:1});
             // console.log(`loop....6`)
-            console.log(`piece.flagged.=`,piece.entity.flagged)
+            // console.log(`piece.flagged.=`,piece.entity.flagged)
             // console.log(`loop....7`)
         }
         if(counter++===30) {
@@ -176,12 +176,12 @@ async function loop() {
         let current_time = timenow();
         let duration = current_time - piece.entity.start_time;
         let isel = piece.entity.isel || 0;
-    console.log(piece)
-    console.log(`location = ${location})`)
-    console.log(`duration(${duration})..2i`)
-    console.log(`current_time(${current_time})..2i`)
-    console.log(`piece.start_time(${piece.entity.start_time})..2i`)
-    console.log(`piece.duration[isel]=${piece.entity.duration[isel]})..2i`)
+    // console.log(piece)
+    // console.log(`location = ${location})`)
+    // console.log(`duration(${duration})..2i`)
+    // console.log(`current_time(${current_time})..2i`)
+    // console.log(`piece.start_time(${piece.entity.start_time})..2i`)
+    // console.log(`piece.duration[isel]=${piece.entity.duration[isel]})..2i`)
     // let remaining = (duration/1000 - piece.entity.duration[isel]*60)/1;
     // console.log(`time remaining = ${-remaining} seconds ...2i`)
     //     if(duration/1000 > piece.entity.duration[isel]*60) {
@@ -190,7 +190,7 @@ async function loop() {
     // }
         let divisor = 1000/_game_speedx;
         let remaining = -(duration/divisor - piece.entity.duration[isel]*60)/_game_speedx;
-        console.log(`time remaining = ${remaining} seconds ...2i`)
+        // console.log(`time remaining = ${remaining} seconds ...2i`)
         if(remaining > 0) piece.entity.remaining = Math.floor(remaining);
         else piece.entity.remaining = 0;
         if(duration/divisor > piece.entity.duration[isel]*60) {
@@ -537,7 +537,7 @@ function onMouseMove(e) {
 }
 function onPuzzleClick(e){
     'use strict';
-    console.log(`onPuzzleClick(e)`)
+    // console.log(`onPuzzleClick(e)`)
     _mouse = onMouseMove(e);
     _currentPiece = checkPieceClicked();
     if(_currentPiece != null){
@@ -554,7 +554,7 @@ function onPuzzleClick(e){
 }
 function onPuzzleClick2(e){
     'use strict';
-    console.log(`onPuzzleClick(e)`)
+    // console.log(`onPuzzleClick(e)`)
     _mouse = onMouseMove(e);
     _currentPiece = collectPieceClicked();
     if(_currentPiece != null){
@@ -591,7 +591,7 @@ function configure(piece) {
     _canvas.ontouchstart = null;    
     // console.log(`blocked all mouse gestures`);
     let text = JSON.stringify(piece);
-    console.log(`configure(): `, text);
+    // console.log(`configure(): `, text);
     _configuringPiece = piece;
     let index = piece.entity.content.index;
     let modal_id = (index===0 || index===1) ? 'miniProduction6Modal' : 'miniProduction4Modal';
@@ -610,7 +610,7 @@ function configure(piece) {
 }
 function collectPieceClicked(){
     'use strict';
-    console.log(_pieces);
+    // console.log(_pieces);
     var i;
     var piece;
     for(i = 0;i < _pieces.length;i+=1){

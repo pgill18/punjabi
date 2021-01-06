@@ -37,6 +37,9 @@ negotiator.req = [
 ];
 negotiator.popovers = [];
 
+negotiator.expedition_mode = false;
+negotiator.expedition = { cost: {}, coll: {}, rewards: {}, cb: 0, done: 0 };
+
 $(function () {
 	negotiator.popovers = negotiator_fillPopovers();
 	$('[data-toggle="popover"]').popover()
@@ -49,11 +52,11 @@ $(function () {
 	}, 2500); // wait for tile.level to load at 2000ms
 });
 function negotiator_body() {
-	$(`#negotiator-modal1-c1`).html( negotiator_createCard('card1', 1) );
-	$(`#negotiator-modal1-c2`).html( negotiator_createCard('card2', 2) );
-	$(`#negotiator-modal1-c3`).html( negotiator_createCard('card3', 3) );
-	$(`#negotiator-modal1-c4`).html( negotiator_createCard('card4', 4) );
-	$(`#negotiator-modal1-c5`).html( negotiator_createCard('card5', 5) );
+    $(`#negotiator-modal1-c1`).html( negotiator_createCard('card1', 1) );
+    $(`#negotiator-modal1-c2`).html( negotiator_createCard('card2', 2) );
+    $(`#negotiator-modal1-c3`).html( negotiator_createCard('card3', 3) );
+    $(`#negotiator-modal1-c4`).html( negotiator_createCard('card4', 4) );
+    $(`#negotiator-modal1-c5`).html( negotiator_createCard('card5', 5) );
     $('#negotiator-bsalert').html('');
     $('#negotiator-bsalert').attr('class', '');
 }
@@ -80,7 +83,36 @@ function negotiator_fillReqs() {
 		{ type: type3, qty: qty3, n: 5 },
 	];
 }
-function negotiator_launchMiniNegotiatorModal(x=0) {
+
+function negotiator_expedition_mode(value=true, {cb}={}) {
+    negotiator.expedition_mode = value;
+    // negotiator.expedition.cb = cb;
+}
+function negotiator_expedition_cb() {
+    negotiator_expedition_mode(false);
+    if(!negotiator.expedition.cb) return;
+    if(typeof negotiator.expedition.cb !== 'function') return;
+    negotiator.expedition.cost = negotiator.costIncurred;
+    negotiator.expedition.cb(negotiator.expedition);
+}
+
+function negotiator_expedition_launchMiniNegotiatorModal(state, {coll,rewards,cost,mult,zindex,cb}={}) {
+    // console.log(`negotiator_expedition_launchMiniNegotiatorModal(state, {coll,rewards,zindex,cb}={})`, state, coll, rewards, zindex)
+    negotiator.expedition = { cost, coll, rewards, mult, cb, done: 0, started: 0 };
+    let reqcoll =  {};
+    if(isEmpty(coll)) { reqcoll =  { type: 'stone', qty: 0 }; }
+    else {
+        reqcoll.type = Object.keys(coll)[0]
+        reqcoll.qty = coll[reqcoll.type];
+    }
+    negotiator_expedition_mode(true);
+    negotiator_launchMiniNegotiatorModal(state.level-1, {zindex,reqcoll});
+    // on close call back
+    $('#negotiationModal1').on('hide.bs.modal', negotiator_expedition_cb);
+}
+
+function negotiator_launchMiniNegotiatorModal(x=0, {zindex,reqcoll}={}) {
+    // console.log(`negotiator_launchMiniNegotiatorModal(x=${x}, zindex=${zindex})`)
 	negotiator.parties = x===0 ? 4 : 5;
     negotiator.attemptsLeft = 3;
     if(x===2 && tile.level>3) {
@@ -96,7 +128,7 @@ function negotiator_launchMiniNegotiatorModal(x=0) {
     negotiator.index = x;
     negotiator.costIncurred = {};
     // negotiator.reqtype = negotiator.list[random(0,3)];
-    negotiator.reqtype = negotiator.list[random(0,llength)];
+    negotiator.reqtype = negotiator.list[random(0,llength-1)];
     negotiator.list.map(type => negotiator.unusable[type]=1);
     negotiator.list.map(type => negotiator.costIncurred[type]=0);
     for(let i=0; i<negotiator.parties; i++) {
@@ -109,19 +141,30 @@ function negotiator_launchMiniNegotiatorModal(x=0) {
     //     { coins: 10, supplies: 20, stone: 1, lumber: 1 }, // submit cost
     // ];
     console.log(`negotiator.expected=`, negotiator.expected);
-	if(negotiator.req[x]) {
-		negotiator.reqtype = negotiator.req[x].type;
-		negotiator.reqqty = negotiator.req[x].qty;
-	}
-	negotiator_body();
+  	if(negotiator.req[x]) {
+  		negotiator.reqtype = negotiator.req[x].type;
+  		negotiator.reqqty = negotiator.req[x].qty;
+  	}
+    // let available_message = `${negotiator.reqqty} ${negotiator.reqtype}`;
+    if(reqcoll) {
+        negotiator.reqtype = reqcoll.type;
+        negotiator.reqqty = reqcoll.qty;
+        // available_message = `random items`;
+    }
+    let available_message = `${negotiator.reqqty} ${negotiator.reqtype}`;
+    if(!negotiator.reqqty) available_message = `random items`;
+    // if(!negotiator.reqqty) available_message = `3 attempts`;
+  	negotiator_body();
     negotiator_bscard();
     $(`#negotiator-modal1-c5`).attr('hidden', (x===0));
-	$('#negotiator-available').text(`${negotiator.reqqty} ${negotiator.reqtype}`);
-	$('#negotiationModal1').modal({keyboard:false});
-	negotiator.still_expected = negotiator.expected.slice(0);
-	negotiator.validated_pass = [0,0,0,0];
-	if(negotiator.parties>4) negotiator.validated_pass = [0,0,0,0,0];
-	negotiator.hint_counter = 0;
+  	$('#negotiator-available').text(available_message);
+    // $('#negotiationModal1').attr('data-backdrop', 'static');
+    if(zindex) $('#negotiationModal1').css('z-index', zindex);
+  	$('#negotiationModal1').modal({keyboard:false});
+  	negotiator.still_expected = negotiator.expected.slice(0);
+  	negotiator.validated_pass = [0,0,0,0];
+  	if(negotiator.parties>4) negotiator.validated_pass = [0,0,0,0,0];
+  	negotiator.hint_counter = 0;
 }
 function negotiator_popover(id, title, content, linktext) {
     $(`#${id}`).prop('title', title);
@@ -129,7 +172,7 @@ function negotiator_popover(id, title, content, linktext) {
     $(`#${id}`).text(linktext);
 }
 
-function negotiator_bridge(id='bridgeModal1') {
+function negotiator_launchBridge(id='tradingBridgeModal') {
 	let html = '';
 	for(let i=0; i<3; i++) {
 		let {type, qty} = negotiator.req[i];
@@ -138,7 +181,7 @@ function negotiator_bridge(id='bridgeModal1') {
 		let btnstyle = minigames.negotiator[i].collected ? 'btn-secondary' : 'btn-outline-secondary';
 		let dismiss = minigames.negotiator[i].collected ? 'none' : 'modal';
 	    html += `
-            <div class="col" id="bridgeModal1-c${i}" style="width:20%;">
+            <div class="col" id="tradingBridgeModal-c${i}" style="width:20%;">
 		        <div class="card" style="height: 22rem;" id="${id}-c${i}-card">
 		          <img src="negotiator/img/negotiator-card.jpg" class="card-img-top" alt="..." height="200px">
 		          <div class="card-body d-flex flex-column text-center" id="${id}-c${i}-card-body" xstyle="max-height:200px;">
@@ -204,6 +247,8 @@ function negotiator_createPageButton(dir, id='mainCard') {
 function negotiator_createSelectOptionField(id='validationServer<i>', {i=0, llength=4, cls_form_div='col-md-6 mb-3', 
         form_field_label='', form_field_value='', form_field_options=[], form_field_validation='required' }) {
     id = id.replace('<i>', i);
+    let qty = 1;
+    if(negotiator.expedition_mode && negotiator.expedition.mult) qty *= negotiator.expedition.mult;
     let options_html = '';
     for(let option of form_field_options) {
         options_html += `                          <option value="${option}">${option}</option>`;
@@ -213,12 +258,12 @@ function negotiator_createSelectOptionField(id='validationServer<i>', {i=0, llen
                 <label for="${id}" id="${id}Label">${form_field_label}</label>
                 <select class="custom-select xis-invalid" id="${id}" style="width:210px" aria-describedby="${id}Feedback" ${form_field_validation}>
                   <option selected disabled value="">Choose...</option>
-                  <option class="ddl-coins" value="coins">Coins 10  ${spaces(10)} <span style="float:right">[${scorecard.coins}]</span></option>
-                  <option class="ddl-supplies" value="supplies">Supplies 20 ${spaces(5)} <span style="float:right">[${scorecard.supplies}]</span></option>
-                  <option class="ddl-stone"  value="stone">Stone 1  ${spaces(15)} <span style="float:right">[${scorecard.stone}]</span></option>
-                  <option class="ddl-lumber" value="lumber">Lumber 1  ${spaces(12)} <span style="float:right">[${scorecard.lumber}]</span></option>
-                  ${llength>4? `<option class="ddl-iron" value="iron">Iron 1  ${spaces(18)} <span style="float:right">[${scorecard.iron}]</span></option>`: ''}
-                  ${llength>5? `<option class="ddl-dye" value="dye">Dye 1  ${spaces(18)} <span style="float:right">[${scorecard.dye}]</span></option>`: ''}
+                  <option class="ddl-coins" value="coins">Coins ${10*qty}  ${spaces(10)} <span style="float:right">[${scorecard.coins}]</span></option>
+                  <option class="ddl-supplies" value="supplies">Supplies ${20*qty} ${spaces(5)} <span style="float:right">[${scorecard.supplies}]</span></option>
+                  <option class="ddl-stone"  value="stone">Stone ${qty}  ${spaces(15)} <span style="float:right">[${scorecard.stone}]</span></option>
+                  <option class="ddl-lumber" value="lumber">Lumber ${qty}  ${spaces(12)} <span style="float:right">[${scorecard.lumber}]</span></option>
+                  ${llength>4? `<option class="ddl-iron" value="iron">Iron ${qty}  ${spaces(18)} <span style="float:right">[${scorecard.iron}]</span></option>`: ''}
+                  ${llength>5? `<option class="ddl-dye" value="dye">Dye ${qty}  ${spaces(18)} <span style="float:right">[${scorecard.dye}]</span></option>`: ''}
                 </select>
                 <!--- <div id="${id}Feedback" class="invalid-feedback"> Please select an option. </div> --->
               </div>
@@ -378,9 +423,16 @@ function negotiator_submit() {
     }
     negotiator.attemptsLeft--;
     negotiator_deduct(negotiator.costStructure[1]);
+    if(negotiator.expedition_mode) { negotiator.expedition.started = 1; }
     if(negotiator_check(0)) {
-    	$(`#negotiator-submit`).attr('hidden', true);
-    	$(`#negotiator-finish`).attr('hidden', false);
+      	$(`#negotiator-submit`).attr('hidden', true);
+      	$(`#negotiator-finish`).attr('hidden', false);
+        if(negotiator.expedition_mode) {
+            negotiator.expedition.coll[negotiator.reqtype] = negotiator.reqqty;
+            negotiator.expedition.done = 1;
+        }
+        add_collected(negotiator.reqtype, negotiator.reqqty);
+        negotiator_bscard();
         return negotiator_bsalert(`${negotiator.reqqty} ${negotiator.reqtype} allocated. It cost you ${obj2string(negotiator.costIncurred)}`, 'Success', 'success');
     } else {
         return negotiator_bsalert(`You have ${negotiator.attemptsLeft} more attempts left.`, 'Continue trying', 'warning')
@@ -388,12 +440,13 @@ function negotiator_submit() {
 }
 function negotiator_deduct(costStruct) {
     let ids = ['selectEntry1', 'selectEntry2', 'selectEntry3', 'selectEntry4', 'selectEntry5'];
+    let mult = negotiator.expedition_mode ? negotiator.expedition.mult||1 : 1;
     let cost = {};
     for(let i in ids) {
     	if(negotiator.index===0 && i>=4) continue;
         let type = lowercase($(`#${ids[i]}`).val());
         if(!type || !costStruct[type]) continue;
-        negotiator.costIncurred[type] += costStruct[type];
+        negotiator.costIncurred[type] += costStruct[type] * mult;
         scorecard[type] -= costStruct[type];
         cost[type] = (cost[type]||0) + costStruct[type];
     }
@@ -402,7 +455,7 @@ function negotiator_deduct(costStruct) {
 }
 function negotiator_finish() {
 	// scorecard[negotiator.reqtype] += negotiator.reqqty;
-	add_collected(negotiator.reqtype, negotiator.reqqty)
+	// add_collected(negotiator.reqtype, negotiator.reqqty)
 	// negotiator.quota--;
 	// $(`#negotiator-${negotiator.quota}`).attr('hidden', true);
 	// $(`#negotiator-${negotiator.quota}`).attr('disabled', true);

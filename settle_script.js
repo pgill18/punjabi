@@ -88,9 +88,9 @@ const tile = { i: 1, j: 1, level: 0, pending: 0, sides: [0, 0, 0] };
 
 const minigames = {
     negotiator: [{collected: 0,colltime: 0},{collected: 0,colltime: 0},{collected: 0,colltime: 0}],
-    // forms: [{collected: 0,colltime: 0},{collected: 0,colltime: 0},{collected: 0,colltime: 0}],
+    forms: [{collected: 0,colltime: 0},{collected: 0,colltime: 0},{collected: 0,colltime: 0}],
     // algebra: [{collected: 0,colltime: 0},{collected: 0,colltime: 0},{collected: 0,colltime: 0}],
-    // whiteboard: [{collected: 0,colltime: 0},{collected: 0,colltime: 0},{collected: 0,colltime: 0}],
+    whiteboard: [{collected: 0,colltime: 0},{collected: 0,colltime: 0},{collected: 0,colltime: 0}],
     // blackboard: [{collected: 0,colltime: 0},{collected: 0,colltime: 0},{collected: 0,colltime: 0}],
 }
 const name_lookup = ['coins', 'supplies', 'stone', 'lumber', 'iron', 'dye'];
@@ -260,6 +260,7 @@ let auto_pilot = {
         level: 0
     },
 };
+const runtime = { overall: 0, currlevel: 0 };
 const hourly_routines = [];
 const daily_routines = [];
 const weekly_routines = [];
@@ -606,30 +607,30 @@ function produce(i) {
 }
 
 function ready(piece, location=-1) {
-    console.log(`ready(${piece.entity}, ${location})..0`)
+    // console.log(`ready(${piece.entity}, ${location})..0`)
     if(!piece || !piece.entity) return;
-    console.log(`ready(${piece.entity})..1`)
+    // console.log(`ready(${piece.entity})..1`)
     if(piece.entity.collected) return 0;
-    console.log(`ready(${piece.entity})..2`)
+    // console.log(`ready(${piece.entity})..2`)
     let current_time = timenow();
     let duration = current_time - piece.entity.start_time;
     let isel = piece.entity.isel || 0;
-    console.log(`location = ${location})`)
-    console.log(`duration(${duration})..2`)
-    console.log(`current_time(${current_time})..2`)
-    console.log(`piece.entity.start_time(${piece.entity.start_time})..2`)
-    console.log(`piece.entity.duration[isel]=${piece.entity.duration[isel]})..2`)
-    console.log(`ready(${piece.entity})..3`)
+    // console.log(`location = ${location})`)
+    // console.log(`duration(${duration})..2`)
+    // console.log(`current_time(${current_time})..2`)
+    // console.log(`piece.entity.start_time(${piece.entity.start_time})..2`)
+    // console.log(`piece.entity.duration[isel]=${piece.entity.duration[isel]})..2`)
+    // console.log(`ready(${piece.entity})..3`)
     let divisor = 1000/_game_speedx;
     let remaining = -(duration/divisor - piece.entity.duration[isel]*60)/_game_speedx;
-    console.log(`time remaining = ${remaining} seconds ...2i`)
+    // console.log(`time remaining = ${remaining} seconds ...2i`)
     if(duration/divisor > piece.entity.duration[isel]*60) {
         return true;
     }
     // if(duration/1000 > piece.entity.duration[isel]*60) {
     //     return true;
     // }
-    console.log(`ready(${piece.entity})..4`)
+    // console.log(`ready(${piece.entity})..4`)
     return false; //TBD
 }
 function flag(piece) {
@@ -644,6 +645,8 @@ function start(piece) {
     console.log(piece)
     if(!piece || !piece.entity) return;
     if(!piece.entity.collected) return 0;
+    update_status(piece);
+
     let current_time = timenow();
     // piece.entity.entity.isel = isel; // comes from modal choice
     piece.entity.start_time = current_time;
@@ -658,6 +661,44 @@ function tick(){
         if(!_blocked.includes(i)) continue;
         if(ready(piece)) flag(_pieces[i]);
     }
+}
+function update_status(piece) {
+    if(!piece || !piece.entity || !piece.entity.duration) return;
+    let isel = piece.entity.isel || 0;
+    let duration = piece.entity.duration[isel]*60*1000;
+    let added_time = duration - remaining_time_overall();
+    if(added_time>0) {
+        runtime.currlevel += added_time;
+        runtime.overall += added_time;
+    }
+    console.log(`added_time=`, added_time);
+    console.log(`runtime=`, runtime);
+}
+function remaining_time_overall() { // in ms (absolute)
+    let remaining_time_overall = 0;
+    for(let piece of _pieces) {
+        if(!piece.entity || piece.entity.collected) continue;
+        if(!piece.entity.running) continue;
+        let remaining_time_piece = remaining_time(piece);
+        if(remaining_time_piece < remaining_time_overall) continue;
+        remaining_time_overall = remaining_time_piece;
+    }
+    console.log(`remaining_time_overall=`, remaining_time_overall);
+    return remaining_time_overall;
+}
+function remaining_time(piece) { // in ms (absolute)
+    if(!piece || !piece.entity) return 0;
+    if(piece.entity.collected) return 0;
+    if(!piece.entity.running) return 0;
+    if(!piece.entity.start_time) return 0;
+    let isel = piece.entity.isel || 0;
+    let duration = piece.entity.duration[isel]*60*1000;
+    let run_so_far = (timenow() - piece.entity.start_time)*_game_speedx;
+    let remaining_time = duration - run_so_far;
+    console.log(`remaining_time=`, remaining_time);
+    if(runtime.currlevel<duration) runtime.currlevel = duration;
+    if(runtime.overall<duration) runtime.overall = duration;
+    return remaining_time;
 }
 
 function collect(piece) {
@@ -800,7 +841,7 @@ function lock_spaces_all(n) {
     canvas_db.locked = _locked;
 }
 
-function unlock_era(mode={build:1,alert:0}) {
+function unlock_era(mode={build:1,alert:0}, {check_only=0}={}) {
     // console.log(`............................unlock_era(${mode})..............`, mode)
     let next_era_db = unlocking_db[current_era+1];
     if(!next_era_db) { console.log(`Nothing to unlock`); return; }
@@ -817,8 +858,9 @@ function unlock_era(mode={build:1,alert:0}) {
             if(leftovers[name] < 0) messages.push(`Not enough ${name}. Needed ${next_era_db.cost[name]}, found ${collection[name]}.`)
         }
         if(mode.alert) alert(`Unable to unlock!\n` + messages.join('\n'));
-        return;
+        return false;
     }
+    if(check_only) return true;
     deduct_dependencies_era(next_era_db);
     enable_unlocked(next_era_db.gain);
     current_era++;
@@ -834,6 +876,7 @@ function unlock_era(mode={build:1,alert:0}) {
     for(let i=0; i<next_era_db.gain.spaces; i++) {
         unlock_space();
     }
+    return true;
 }
 function populate_era() {
     let house=0, supplies=1, stone=2, lumber=3, iron=4, dye=5;
@@ -1075,7 +1118,8 @@ function refresh_daily_data() {
     // let hour = date.getHours();
     // let minute = date.getMinutes();
 
-    // if(true_every_minute(speedup)) {
+    if(true_every_minute(speedup)) {
+        $('#runtime').text(stamp(runtime.currlevel, "d:h"))
     //     console.log(`------ done_routinely.m1: `, done_routinely.m1);
     //     console.log(`------ minutes-since last 1min-routine: `, time_since(done_routinely.m1, 'minutes', speedup));
     //     console.log(`------ minutes-since last 5min-routine: `, time_since(done_routinely.m5, 'minutes', speedup));
@@ -1091,27 +1135,27 @@ function refresh_daily_data() {
     //     console.log(`------ hours-since last 1week-routine: `, time_since(done_routinely.w1, 'hours', speedup));
     //     console.log(`------ hours-since last 1month-routine: `, time_since(done_routinely.o1, 'hours', speedup));
     //     console.log(`------ hours-since last 1year-routine: `, time_since(done_routinely.y1, 'hours', speedup));
-    // }
-    if(true_every_minute(speedup)) {
+    }
+    if(true_every_5minutes(speedup)) {
         console.log(`refresh_daily_data()`, (new Date()).toLocaleString());
-        console.log(`------ minutes-since last 1hour-routine: `, time_since(done_routinely.h1, 'minutes', speedup));
-        console.log(`------ minutes-since last 1day-routine: `, time_since(done_routinely.d1, 'minutes', speedup));
-        console.log(`------ hours-since last 1week-routine: `, time_since(done_routinely.w1, 'hours', speedup));
+        console.log(`  Minutes since last hourly-routine: `, round(time_since(done_routinely.h1, 'minutes', speedup)));
+        console.log(`  Minutes since last daily-routine: `, round(time_since(done_routinely.d1, 'minutes', speedup)));
+        console.log(`  Hours since last weekly-routine: `, round(time_since(done_routinely.w1, 'hours', speedup)));
     }
     if(true_every_hour(speedup)) {
-        console.log(`------ minutes-since last 1hour-routine: `, time_since(done_routinely.h1, 'minutes', speedup));
+        console.log(`  Running hourly routine. Minutes since last run: `, round(time_since(done_routinely.h1, 'minutes', speedup)));
         for(let routine of hourly_routines) {
             if(typeof routine==="function") routine();
         }
     }
     if(true_every_day(speedup)) {
-        console.log(`------ minutes-since last 1day-routine: `, time_since(done_routinely.d1, 'minutes', speedup));
+        console.log(`  Running daily routine. Minutes since last run: `, round(time_since(done_routinely.d1, 'minutes', speedup)));
         for(let routine of daily_routines) {
             if(typeof routine==="function") routine();
         }
     }
     if(true_every_week(speedup)) {
-        console.log(`------ hours-since last 1week-routine: `, time_since(done_routinely.w1, 'hours', speedup));
+        console.log(` Running weekly routine. Hours since last run: `, round(time_since(done_routinely.w1, 'hours', speedup)));
         for(let routine of weekly_routines) {
             if(typeof routine==="function") routine();
         }
@@ -1130,8 +1174,22 @@ function refresh_daily_data() {
     // true_every_week(speedup);
     true_every_month(speedup);
     true_every_year(speedup);
+    // status update
+    console.log(`runtime.overall = `, stamp(runtime.overall));
+    console.log(`runtime.currlevel = `, stamp(runtime.currlevel));
 }
-
+function stamp(time=0, format="") {
+    let ms = {day: 24*60*60*1000, hour: 60*60*1000, minute: 60*1000, second: 1000 };
+    let days = Math.floor(time/ms.day); time = time - days*ms.day;
+    let hours = Math.floor(time/ms.hour);   time = time - hours*ms.hour;
+    let mins  = Math.floor(time/ms.minute);  time = time - mins*ms.minute;
+    let secs  = Math.floor(time/ms.second);
+    // console.log('milliseconds => ', ms);
+    if(format==="d:h") return `${days} days, ${hours} hours`;
+    if(!days && !hours) return `${mins} mins, ${secs} secs`
+    if(!days) return `${hours} hours, ${mins} mins, ${secs} secs`
+    return `${days} days, ${hours} hours, ${mins} mins, ${secs} secs`
+}
 function time_until(date, units='seconds', speedup=1) {
     if(!date || !speedup) return;
     let now = new Date();
@@ -1404,6 +1462,8 @@ function load_saved_data(i=1, j=1) {
     load_tile_levels(game_data);
     load_updated_data();
     version_handling();
+    runtime_handling();
+
     // encapsulation
     function load_scorecard_saved_data(_scorecard) {
         Object.assign(scorecard, _scorecard);
@@ -1437,6 +1497,7 @@ function load_saved_data(i=1, j=1) {
         for(let name in unlocked_db) {
             for(let i in unlocked_db[name]) {
                 if(unlocked_db[name][i]) $(`#lib-${name}-${i}`).prop('disabled', false);
+                if(unlocked_db[name][i]) $(`#mini-${name}`).prop('hidden', false);
             }
         }
     }
@@ -1467,6 +1528,10 @@ function load_saved_data(i=1, j=1) {
             unlock_space(loc);
         }
     }
+    function runtime_handling() {
+        runtime.overall = game_data_top.runtime||0;
+        runtime.currlevel = game_data.runtime||0;
+    }
 }
 
 function save_data(i, j) {
@@ -1482,11 +1547,12 @@ function save_data(i, j) {
     // let main = { pending: tile.pending };
     // store current level data
     let game_data = {scorecard, people, canvas_db, build_db, done_routinely, level, done, version, sides, minigames};
+    game_data.runtime = runtime.currlevel;
     store_scorecard(`build/space-${i}-${j}/${tile.level}`, game_data);
     // store top level data
     game_data = retrieve_scorecard(`build/space-${i}-${j}`);
     if(!game_data) game_data = {};
-    game_data = { level: tile.level, sides: game_data.sides };
+    game_data = { level: tile.level, sides: game_data.sides, runtime: runtime.overall };
     store_scorecard(`build/space-${i}-${j}`, game_data);
 
     // encapsulation
