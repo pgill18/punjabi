@@ -232,7 +232,7 @@
     </div>
 
     <script>
-      const VERSION = 0.7;
+      const VERSION = 0.8;
       let DEBUG_MODE = 0;
       let nopopup = 0;
       let automagic = 0;
@@ -845,8 +845,8 @@
           console.log(`... version_handling()`);
           let version = retrieve_scorecard("version") || 0;
           console.log(`... version was set to ${version}`)
-          if(version < 0.6 || (version < 0.75 && user.id==='darshanbal')) {
-              console.log(`... version was previously set to ${version}, upgrading to 0.6`)
+          if(version < 0.6 || (version < 0.8 && user.id==='darshanbal')) {
+              console.log(`... version was previously set to ${version}, upgrading to 0.8`)
               let reset_scores = [];
               for(let i=0; i<quizes.length; i++) {
                   // if(i>MAX_QUIZES-1) continue;
@@ -869,7 +869,7 @@
               alert(`A new version of this app is available. This requires you to clear local storage. Reload this page after Clear Local Storage to continue properly.`);
               if(confirm(`Clear Local Storage?`)) {
                   clear_local_storage();
-                  version = 0.75;
+                  version = VERSION;
                   let galleons = 60, population = 0, enrolled = 0;
                   switch(user.id) {
                       case 'pgill18' : galleons=92; population=0; break;

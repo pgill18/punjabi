@@ -42,6 +42,14 @@ function shuffle(a) {
     }
     return a;
 }
+function authorized(password) {
+    let today = new Date();
+    let [yyyy, mm, dd] = [today.getFullYear(), today.getMonth()-1, today.getDate()];
+    let [hour, minute] = [today.getHours(), today.getMinutes()];
+    // console.log(`if(${password}==='p${hour+1}${minute+11}'') return true`);
+    if(password===`p${hour+1}${minute+11}`) return true;
+    return false;
+}
 
 function lower(text) { return clean(text, 'lower') }
 function upper(text) { return clean(text, 'upper') }
