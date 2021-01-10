@@ -45,9 +45,9 @@ whiteboard.costStructure_long = [
     { coins: 10, supplies: 20, stone: 1, lumber: 1, iron: 1, dye: 1 }, // submit cost
 ];
 whiteboard.req = [
-    { type: 'stone', qty: 12, n: 4 },
-    { type: 'lumber', qty: 15, n: 4 },
-    { type: 'lumber', qty: 25, n: 5 },
+    { type: 'stone', qty: 15, n: 4 },
+    { type: 'lumber', qty: 20, n: 4 },
+    { type: 'lumber', qty: 50, n: 5 },
 ];
 whiteboard.popovers = [];
 
@@ -63,14 +63,12 @@ whiteboard.prev_data = {}; // = {model:[]};
 whiteboard.aaa = 0;
 
 $(function () {
-    // $("#whiteboardModal1-body").sortable({ tolerance: 'pointer' });
-    // $("#whiteboardModal1-r1").sortable({ tolerance: 'pointer' });
-    // $("#whiteboardModal1-dialog").css('max-width', (whiteboard.ncols*220)+'px');
     $("#whiteboardModal1-dialog").css('max-width', (whiteboard.ncols*250)+'px');
     // whiteboard.popovers = whiteboard_fillPopovers();
     // $('[data-toggle="popover"]').popover()
     // $('[data-toggle="tooltip"]').tooltip()
-    // daily_routines.push(whiteboard_refresh);
+    // every5min_routines.push(whiteboard_refresh);
+    daily_routines.push(whiteboard_refresh);
     setTimeout(() => {
         whiteboard_setup();
     }, 2500); // wait for tile.level to load at 2000ms
@@ -90,6 +88,22 @@ function whiteboard_initialize(index) {
     whiteboard.content = whiteboard_rawdb[index].sequences1;
     whiteboard.shuffled = shuffle(whiteboard.content.slice(0));
     let nrows = Math.ceil(whiteboard.shuffled.length / whiteboard.ncols);
+    // -------------------------------------------------------
+    // == how data is put together
+    // -- origlines field comes from the database
+    // -- original is made from flattening origlines
+    // -- model is made from shuffling original
+    // -- dims=2 allows origlines be treated as sentences for checking
+    // -- if even===1, then origlines are appended with whitespaces before flatenning
+    // -- a final word on data,
+    // -- there are three types of data: long, expedition, and old (or temp or raw)
+    // -- long form is 3 sentences per entry: english, pbe, and pbi
+    // -- expedition form is the same as long form
+    // -- old or raw may have any number of sentences per entry
+    // -- old or raw entry is displayed as it is in whiteboard
+    // -- whereas long and expedition data is shown as two entries at a time
+    // -- pbi sentences are only shown in level-4 of the expedition or index-2 of the post
+    //
     // let data = {
     //       "origlines": [
     //         [ "Many", "people", "don’t", "know", "this" ],
@@ -119,12 +133,23 @@ function whiteboard_initialize(index) {
         // data.origlines = [].concat(idata[0].origlines, idata[1].origlines, idata[2].origlines);
     }
 
-    whiteboard.expedition_mode = 0;
-    whiteboard.expedition = { level: 1 };
-    if(whiteboard.expedition_mode) 
-        data = whiteboard_db_levels[whiteboard.expedition.level][0];
+    // whiteboard.expedition_mode = 1;
+    // whiteboard.expedition = { level: 4 };
+    // if(whiteboard.expedition_mode) 
+    //     data = whiteboard_db_levels[whiteboard.expedition.level][1];
 
-    data.cols = 5;
+    if(whiteboard.expedition_mode) {
+        data = { dims: 2 };
+        let elevel = whiteboard.expedition.level;
+        let db_lvl = whiteboard_db_levels[elevel];
+        let x = random(0, db_lvl.length-2);
+        let idata = db_lvl.slice(x);
+        if(x >= db_lvl.length-2) idata = db_lvl.slice(-2);
+        if(elevel===4) data.origlines = [].concat(idata[0].origlines, idata[1].origlines);
+        else data.origlines = [].concat(idata[0].origlines.slice(0,2), idata[1].origlines.slice(0,2));
+    }
+
+    // data.cols = 5;
     data.cols = data.origlines.reduce((a, b) => a.length > b.length ? a : b, []).length;
     data.even = 1;
     if(data.even) {
@@ -132,28 +157,40 @@ function whiteboard_initialize(index) {
     }
     console.log(data);
 
-    if(index===0) {
-        data.original = flatten_lines(data.origlines);
-        data.model = flatten_lines(shuffle_lines2(data.origlines));
+    if(whiteboard.expedition_mode) {
+        let elevel = whiteboard.expedition.level;
+        if(elevel===1 || elevel===4) { // english lines are unscrabled for level-1 & 4
+            data.original = flatten_lines(data.origlines);
+            data.model = flatten_lines(shuffle_lines2(data.origlines));
+        } else {
+            data.original = flatten_lines(data.origlines);
+            data.model = flatten_lines(shuffle_lines(data.origlines));
+        }
+    } else {
+        if(index===0) {
+            data.original = flatten_lines(data.origlines);
+            data.model = flatten_lines(shuffle_lines2(data.origlines));
+        }
+        if(index===1) {
+            data.original = flatten_lines(data.origlines);
+            data.model = flatten_lines(shuffle_lines(data.origlines));
+        }
+        if(index===2) {
+            data.original = flatten_lines(data.origlines);
+            data.model = flatten_lines(shuffle_lines(data.origlines));
+        }
+        if(index===3) { // all scrambled (never used)
+            data.original = flatten_lines(data.origlines);
+            data.model = shuffle(data.original.slice());
+        }        
     }
-    if(index===1) {
-        data.original = flatten_lines(data.origlines);
-        data.model = flatten_lines(shuffle_lines(data.origlines));
-    }
-    if(index===2) {
-        data.original = flatten_lines(data.origlines);
-        data.model = flatten_lines(shuffle_lines(data.origlines));
-    }
-    if(index===3) {
-        data.original = flatten_lines(data.origlines);
-        data.model = shuffle(data.original.slice());
-    }
+
     refresh_html(data);
     // footer text
-    if(whiteboard.req[index]) {
-        whiteboard.reqtype = whiteboard.req[index].type;
-        whiteboard.reqqty = whiteboard.req[index].qty;
-    }
+    // if(whiteboard.req[index]) {
+    //     whiteboard.reqtype = whiteboard.req[index].type;
+    //     whiteboard.reqqty = whiteboard.req[index].qty;
+    // }
     $('#whiteboard-available').text(`${whiteboard.reqqty} ${whiteboard.reqtype}`);
     $('#whiteboard-bsalert').html('');
     $('#whiteboard-bsalert').attr('class', '');
@@ -324,9 +361,14 @@ function whiteboard_submit() {
     }
     whiteboard.attemptsLeft--;
     whiteboard_deduct(whiteboard.costStructure[1]);
+    if(whiteboard.expedition_mode) { whiteboard.expedition.started = 1; }
     if(whiteboard_check(0)) {
         $(`#whiteboard-submit`).attr('hidden', true);
         $(`#whiteboard-finish`).attr('hidden', false);
+        if(whiteboard.expedition_mode) {
+            whiteboard.expedition.coll[whiteboard.reqtype] = whiteboard.reqqty;
+            whiteboard.expedition.done = 1;
+        }
         add_collected(whiteboard.reqtype, whiteboard.reqqty);
         whiteboard_bscard();
         return whiteboard_bsalert(`${whiteboard.reqqty} ${whiteboard.reqtype} allocated. It cost you ${obj2string(whiteboard.costIncurred)}`, 'Success', 'success');
@@ -336,13 +378,14 @@ function whiteboard_submit() {
 }
 
 function whiteboard_deduct(costStruct) {
+    let mult = whiteboard.expedition_mode ? whiteboard.expedition.mult||1 : 1;
     let cost = {};
     for(let [type, qty] of Object.entries(costStruct)) {
         // if(whiteboard.index===0 && i>=4) continue;
         if(!type || !costStruct[type]) continue;
-        whiteboard.costIncurred[type] += costStruct[type];
+        whiteboard.costIncurred[type] += costStruct[type] * mult;
         // scorecard[type] -= costStruct[type];
-        cost[type] = (cost[type]||0) + costStruct[type];
+        cost[type] = (cost[type]||0) + costStruct[type] * mult;
     }
     deduct_dependencies(cost);
     whiteboard_bscard();
@@ -376,27 +419,106 @@ function whiteboard_finish() {
     $(`#whiteboard-finish`).attr('hidden', true);
     minigames.whiteboard[whiteboard.index].collected = 1;
     minigames.whiteboard[whiteboard.index].colltime = (new Date).getTime();
+    save_data();
 }
 
-// function get_scorecard(card=scorecard) {
-//     return card;
-// }
-// function deduct_dependencies(cost) {
-//     for(let [type, qty] of Object.entries(cost)) {
-//         if(!type || !cost[type]) continue;
-//         scorecard[type] -= cost[type];
-//     }
-// }
-
-function whiteboard_createWhiteboard(dbindex) { 
-    whiteboard_setup(dbindex);
+function whiteboard_refresh() {
+    console.log(`........ whiteboard_refresh()`)
+    $(`#whiteboard-0`).attr('disabled', 'false');
+    $(`#whiteboard-1`).attr('disabled', 'false');
+    $(`#whiteboard-2`).attr('disabled', 'false');
+    $(`#whiteboard-0`).css('pointerEvents', 'true');
+    $(`#whiteboard-1`).css('pointerEvents', 'true');
+    $(`#whiteboard-2`).css('pointerEvents', 'true');
+    minigames.whiteboard[0].collected = 0;
+    minigames.whiteboard[1].collected = 0;
+    minigames.whiteboard[2].collected = 0;
+    // whiteboard_fillReqs();
 }
 
-function whiteboard_launchMiniWhiteboardModal(dbindex) { 
+function whiteboard_createWhiteboard(index) { 
+    whiteboard_setup(index);
+}
+
+function whiteboard_launchMiniWhiteboardModal_bak(dbindex, {zindex}={}) { 
     // if(dbindex!==undefined) forms.form.dbindex = dbindex;
     if(dbindex!==undefined) whiteboard.index = dbindex;
     whiteboard_createWhiteboard(dbindex);
+    if(zindex) $('#whiteboardModal1').css('z-index', zindex);
     $(`#whiteboardModal1`).modal({keyboard: false});
+}
+
+function whiteboard_expedition_mode(mode_value=true, {state,cb}={}) {
+    whiteboard.expedition_mode = mode_value;
+    if(mode_value===true) {
+        whiteboard.expedition.level = state.level || 1;
+        whiteboard.expedition.platform = state.platform || 1;
+    }
+    // whiteboard.expedition.cb = cb;
+}
+function whiteboard_expedition_cb() {
+    whiteboard_expedition_mode(false);
+    if(!whiteboard.expedition.cb) return;
+    if(typeof whiteboard.expedition.cb !== 'function') return;
+    whiteboard.expedition.cost = whiteboard.costIncurred;
+    whiteboard.expedition.cb(whiteboard.expedition);
+}
+
+function whiteboard_expedition_launchMiniWhiteboardModal(state, {coll,rewards,cost,mult,zindex,cb}={}) {
+    // console.log(`whiteboard_expedition_launchMiniWhiteboardModal(state, {coll,rewards,zindex,cb}={})`, state, coll, rewards, zindex)
+    whiteboard.expedition = { cost, coll, rewards, mult, cb, done: 0, started: 0 };
+    let reqcoll =  {};
+    if(isEmpty(coll)) { reqcoll =  { type: 'stone', qty: 0 }; }
+    else {
+        reqcoll.type = Object.keys(coll)[0]
+        reqcoll.qty = coll[reqcoll.type];
+    }
+    whiteboard_expedition_mode(true, {state});
+    whiteboard_launchMiniWhiteboardModal(state.level-1, {zindex,reqcoll});
+    // on close call back
+    $('#whiteboardModal1').on('hide.bs.modal', whiteboard_expedition_cb);
+}
+
+function whiteboard_launchMiniWhiteboardModal(x=0, {zindex,reqcoll}={}) {
+    // console.log(`whiteboard_launchMiniWhiteboardModal(x=${x}, zindex=${zindex})`)
+    // whiteboard.parties = x===0 ? 4 : 5;
+    whiteboard.attemptsLeft = 3;
+    if(x===2 && tile.level>3) {
+        whiteboard.list = whiteboard.list_long;
+        whiteboard.costStructure = whiteboard.costStructure_long;
+        whiteboard.reqqty = 50;
+        whiteboard.attemptsLeft = 4;
+    } else {
+        whiteboard.list = whiteboard.list_short;
+        whiteboard.costStructure = whiteboard.costStructure_short;
+    }
+    let llength = whiteboard.list.length;
+    whiteboard.index = x; // index is used by teaching-post, not by expedition
+    whiteboard.costIncurred = {};
+    // whiteboard.reqtype = whiteboard.list[random(0,3)];
+    whiteboard.reqtype = whiteboard.list[random(0,llength-1)];
+
+    if(whiteboard.req[x]) {
+        whiteboard.reqtype = whiteboard.req[x].type;
+        whiteboard.reqqty = whiteboard.req[x].qty;
+    }
+    // let available_message = `${whiteboard.reqqty} ${whiteboard.reqtype}`;
+    if(reqcoll) {
+        whiteboard.reqtype = reqcoll.type;
+        whiteboard.reqqty = reqcoll.qty;
+        // available_message = `random items`;
+    }
+    let available_message = `${whiteboard.reqqty} ${whiteboard.reqtype}`;
+    if(!whiteboard.reqqty) available_message = `random items`;
+    // if(!whiteboard.reqqty) available_message = `3 attempts`;
+
+    whiteboard_createWhiteboard(x);
+    // whiteboard_body();
+    whiteboard_bscard();
+    $('#whiteboard-available').text(available_message);
+    // $('#whiteboardModal1').attr('data-backdrop', 'static');
+    if(zindex) $('#whiteboardModal1').css('z-index', zindex);
+    $('#whiteboardModal1').modal({keyboard:false});
 }
 
 function whiteboard_launchBridge(id='teachingBridgeModal') {

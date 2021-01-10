@@ -164,7 +164,7 @@ async function loop() {
             // save_data();
             counter = 0;
         }
-        update_status();
+        update_run_status();
      }
 
     function timenow() {
@@ -197,37 +197,37 @@ async function loop() {
             return true;
         }
     }
-    function update_status() {
-        let report = ''; _pieces_status = [];
-        for(let i in _pieces) {
-            let piece = _pieces[i];
-            let status = 'Idle';
-            ready(piece, i);
-            // console.log(`0...${i}...${status}`)
-            // console.log(`0...${i}...`, piece.entity)
-            if(!piece || !piece.entity) continue;
-            if(!piece.entity.collected) status = `Ready`;
-            let interval = piece.entity.interval;
-            let quantity = piece.entity.quantity;
-            let intervalplus = (interval>=60) ? round(interval/60)+'h' : interval+'m';
-            // console.log(`1...${i}...${status}`)
-            let remaining = piece.entity.remaining;
-            if(remaining > 0) {
-                let hours = Math.floor(remaining/3600);
-                let minutes = remaining%3600;
-                let seconds = minutes%60;
-                minutes = Math.floor(minutes/60);
-                status = `<b>Running</b>. [interval ${intervalplus}, quantity ${quantity}]     Time remaining <b>${hours}h: ${minutes}m: ${seconds}s</b>`;
-            } else if(!piece.entity.collected) { status = `<b>Ready.</b>   [interval ${intervalplus}, quantity ${quantity}]`; }
-            // console.log(`2...${i}...${status} `, remaining)
-            _pieces_status.push({i, status});
-            report += `Location ${i}        ${status}\n`;
-            // console.log(`3...${i}...${status}`)
-        }
-        _status_report = report;
-        // console.log(`_status_report = ${_status_report}`);
-        return _status_report;
+}
+function update_run_status() {
+    let report = ''; _pieces_status = [];
+    for(let i in _pieces) {
+        let piece = _pieces[i];
+        let status = 'Idle';
+        ready(piece, i);
+        // console.log(`0...${i}...${status}`)
+        // console.log(`0...${i}...`, piece.entity)
+        if(!piece || !piece.entity) continue;
+        if(!piece.entity.collected) status = `Ready`;
+        let interval = piece.entity.interval;
+        let quantity = piece.entity.quantity;
+        let intervalplus = (interval>=60) ? round(interval/60)+'h' : interval+'m';
+        // console.log(`1...${i}...${status}`)
+        let remaining = piece.entity.remaining;
+        if(remaining > 0 && piece.entity.running) {
+            let hours = Math.floor(remaining/3600);
+            let minutes = remaining%3600;
+            let seconds = minutes%60;
+            minutes = Math.floor(minutes/60);
+            status = `<b>Running</b>. [interval ${intervalplus}, quantity ${quantity}]     Time remaining <b>${hours}h: ${minutes}m: ${seconds}s</b>`;
+        } else if(!piece.entity.collected) { status = `<b>Ready.</b>   [interval ${intervalplus}, quantity ${quantity}]`; }
+        // console.log(`2...${i}...${status} `, remaining)
+        _pieces_status.push({i, status});
+        report += `Location ${i}        ${status}\n`;
+        // console.log(`3...${i}...${status}`)
     }
+    _status_report = report;
+    // console.log(`_status_report = ${_status_report}`);
+    return _status_report;
 }
 function changeImage(piece, {ready=0, idle=0, running=0}) {
     console.log(`changeImage(piece=${piece}, {ready=${ready}, idle=${idle}, running=${running}}`)
@@ -600,6 +600,7 @@ function configure(piece) {
     } else {
         createMiniProduction4();
     }
+    highlightRunningButton(modal_id, piece);
     $(`#${modal_id}`).on('hidden.bs.modal', async function (e) {
         // await delay(1);
         document.onmousedown = _edit_mode ? onPuzzleClick : onPuzzleClick2;
@@ -608,6 +609,14 @@ function configure(piece) {
     $(`#${modal_id}`).modal();
     // $('#productionModal').modal();
 }
+function highlightRunningButton(modal_id, piece) {
+    // console.log('... piece ...', piece)
+    if(!piece.entity.running) return;
+    $(`#${modal_id}`).find(`#produce-${piece.entity.isel}`).addClass('btn-success');
+    $(`#${modal_id}`).find(`#produce-${piece.entity.isel}`).text('Cancel');
+    $(`#${modal_id}`).find(`#produce-${piece.entity.isel}`).attr('onclick', `cancel_produce(${piece.entity.isel})`);
+}
+
 function collectPieceClicked(){
     'use strict';
     // console.log(_pieces);

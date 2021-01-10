@@ -99,18 +99,31 @@ whiteboard_db_levels[3] = [
       "dims": 2,
   }
 ];
-whiteboard_db_levels[4] = [
-  {
-      "origlines": [
-        [ "Many", "people", "don’t", "know", "this" ],
-        [ "Bahuta", "sārē", "lōka", "iha", "nahīṁ", "jāṇadē" ]
-      ],
-      "dims": 2,
-  }
-];
+// whiteboard_db_levels[4] = [
+//   {
+//       "origlines": [
+//         [ "Many", "people", "don’t", "know", "this" ],
+//         [ "Bahuta", "sārē", "lōka", "iha", "nahīṁ", "jāṇadē" ]
+//       ],
+//       "dims": 2,
+//   }
+// ];
 
+whiteboard_db_levels[4] = whiteboard_db_long;
 whiteboard_db_levels[0] = whiteboard_db_levels[4];
 
+for(let i=1; i<=10; i++) {
+	whiteboard_db_levels[1].push( clone_and_edit(whiteboard_db_levels[1][0], {replace:'pencil', by:'pencil'+i}) );
+	whiteboard_db_levels[2].push( clone_and_edit(whiteboard_db_levels[2][0], {replace:'pencil', by:'pencil'+i}) );
+	whiteboard_db_levels[3].push( clone_and_edit(whiteboard_db_levels[3][0], {replace:'pencil', by:'pencil'+i}) );
+	// whiteboard_db_levels[4].push( clone_and_edit(whiteboard_db_levels[4][0], {replace:'pencil', by:'pencil'+i}) );
+}
+
+function clone_and_edit(data, options) {
+	let string = JSON.stringify(data);
+	string = string.replaceAll(options.replace, options.by);
+	return JSON.parse(string);
+}
 
 const whiteboard_db_temp = [
   {

@@ -300,7 +300,7 @@
             <a type="button" id="mini-trading" data-toggle="modal" data-target="#tradingBridgeModal" hidden><i class="material-icons btn-light mt-0" style="font-size:48px;transform: scale(.75, 1);color:#b8860b;background:white; float-right" onclick="negotiator_launchBridge()" data-toggle="tooltip" title="Negotiation Post">groups</i></a>
           </li>
           <li class="nav-item mr-3">
-            <a type="button" id="mini-whiteboard" data-toggle="modal" data-target="#whiteboardBridgeModal" ><i class="material-icons btn-light mt-0" style="font-size:48px;transform: scale(.75, .75);color:#b8860b;background:white; float-right" onclick="whiteboard_launchBridge()" data-toggle="tooltip" title="Teaching Post">event_note</i></a>
+            <a type="button" id="mini-whiteboard" data-toggle="modal" data-target="#whiteboardBridgeModal" ><i class="material-icons btn-light mt-0" style="font-size:48px;transform: scale(.75, .75);color:#b8860b;background:white; float-right" onclick="whiteboard_launchBridge()" data-toggle="tooltip" title="Teaching Post">school</i></a>
           </li>
           <li class="nav-item mr-3">
             <a type="button" id="mini-forms" data-toggle="modal" data-target="#formsBridgeModal" hidden><i class="material-icons btn-light mt-0" style="font-size:48px;transform: scale(.75, .75);color:#b8860b;background:white; float-right" onclick="forms_launchBridge()" data-toggle="tooltip" title="Ration Post">assignment</i></a>
@@ -1181,6 +1181,7 @@ function cleanupElementsInnerHTML(id) {
           let btn_type = dd_list.list ? undefined : 'btn-primary';
           let list_group_type = dd_list.list ? `list-group` : `list-group-horizontal-sm`;
           if(!title) title = dd_list.list ? '' : quantity;
+          let btn_id = onclick ? onclick.replace(/\((\w+)\)/, '-$1') : btn_name+'-'+i; // expecting btn-id = "produce-0", etc
           if(onclick) onclick = `onclick="${onclick}"`;
           let html = `
             <div class="card ${cls_child}" style="height: ${height};" id="${id}-card">
@@ -1224,7 +1225,7 @@ function cleanupElementsInnerHTML(id) {
                   </div>
                 </div>`;
           if(btn_type) html += `
-                <a href="#" class="btn ${btn_type} btn-block mt-auto" data-dismiss="modal" style="bottom-5px; postion:fixed" ${onclick}>${btn_name}</a>`;
+                <a href="#" class="btn ${btn_type} btn-block mt-auto" data-dismiss="modal" id="${btn_id}" style="bottom-5px; postion:fixed" ${onclick}>${btn_name}</a>`;
               html += `
               </div>
             </div>
@@ -1541,7 +1542,7 @@ function cleanupElementsInnerHTML(id) {
             <em class="modal-title col-1 ml-3 px-1 mr-auto" id="negotiationModal1Label">You will get: <strong id="negotiator-available">20 stone</strong></em>
             <div class="alert" id="negotiator-bsalert"></div>
             <!-- <button type="button" class="btn btn-link col-1" onclick="negotiator_hints()">Hints</button> -->
-            <button type="button" class="btn btn-primary col-1" onclick="negotiator_check()">Check</button>
+            <button type="button" class="btn btn-primary col-1" onclick="negotiator_check()" id="negotiator-check">Check</button>
             <button type="button" class="btn btn-primary col-1" onclick="negotiator_submit()" id="negotiator-submit">Submit</button>
             <button type="button" class="btn btn-primary col-1" onclick="negotiator_finish()" id="negotiator-finish" data-dismiss="modal" aria-label="Close" hidden>Finish</button>
             <a></a>
@@ -1570,7 +1571,7 @@ function cleanupElementsInnerHTML(id) {
             <!-- <button type="button" class="btn btn-link col-1" onclick="whiteboard_hint()">Hint</button> -->
             <!-- <button type="button" class="btn btn-secondary" onclick="whiteboard_check('whiteboardModal1')">Check</button> -->
             <!-- <button type="button" class="btn btn-primary" onclick="whiteboard_submit('whiteboardModal1')">Submit</button> -->
-            <button type="button" class="btn btn-primary col-1" onclick="whiteboard_check()">Check</button>
+            <button type="button" class="btn btn-primary col-1" onclick="whiteboard_check()" id="whiteboard-check">Check</button>
             <button type="button" class="btn btn-primary col-1" onclick="whiteboard_submit()" id="whiteboard-submit">Submit</button>
             <button type="button" class="btn btn-primary col-1" onclick="whiteboard_finish()" id="whiteboard-finish" data-dismiss="modal" aria-label="Close" hidden>Finish</button>
           </div>
@@ -1693,8 +1694,8 @@ function cleanupElementsInnerHTML(id) {
             </div>
           </div>
           <div class="modal-footer" xstyle="background:gainsboro">
-            <em class="ml-auto mr-auto" id="expedition-progress"></em>
             <button type="button" class="btn btn-secondary" data-dismiss="modal">Back</button>
+            <em class="ml-auto mr-auto" id="expedition-progress"></em>
           </div>
         </div>
       </div>

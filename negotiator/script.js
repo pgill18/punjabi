@@ -44,6 +44,7 @@ $(function () {
 	negotiator.popovers = negotiator_fillPopovers();
 	$('[data-toggle="popover"]').popover()
 	$('[data-toggle="tooltip"]').tooltip()
+    // every5min_routines.push(negotiator_refresh);
 	daily_routines.push(negotiator_refresh);
 	setTimeout(() => {
 		negotiator.list = (tile.level>2) ? negotiator.list_long : negotiator.list_short;
@@ -156,6 +157,7 @@ function negotiator_launchMiniNegotiatorModal(x=0, {zindex,reqcoll}={}) {
     // if(!negotiator.reqqty) available_message = `3 attempts`;
   	negotiator_body();
     negotiator_bscard();
+    $(`#negotiator-check`).attr('disabled', (tile.level>=3));
     $(`#negotiator-modal1-c5`).attr('hidden', (x===0));
   	$('#negotiator-available').text(available_message);
     // $('#negotiationModal1').attr('data-backdrop', 'static');
@@ -400,6 +402,7 @@ function translate1(word, context) {
 	return lookup[context][word];
 }
 function negotiator_check(pay=1) {
+    if(pay) $(`#negotiator-check`).attr('disabled', (tile.level>=0));
     let retval = 0, counter = 0;
     negotiator.validated_hints = [];
     negotiator.still_expected = negotiator.expected.filter((type,i) => !negotiator.validated_pass[i]);
@@ -448,7 +451,7 @@ function negotiator_deduct(costStruct) {
         if(!type || !costStruct[type]) continue;
         negotiator.costIncurred[type] += costStruct[type] * mult;
         scorecard[type] -= costStruct[type];
-        cost[type] = (cost[type]||0) + costStruct[type];
+        cost[type] = (cost[type]||0) + costStruct[type] * mult;
     }
     deduct_dependencies(cost);
     negotiator_bscard();
@@ -469,9 +472,10 @@ function negotiator_finish() {
 	$(`#negotiator-finish`).attr('hidden', true);
 	minigames.negotiator[negotiator.index].collected = 1;
 	minigames.negotiator[negotiator.index].colltime = (new Date).getTime();
+    save_data();
 }
 function negotiator_refresh() {
-	console.log(`........negotiator_refresh()`)
+	console.log(`........ negotiator_refresh()`)
 	$(`#negotiator-0`).attr('disabled', 'false');
 	$(`#negotiator-1`).attr('disabled', 'false');
 	$(`#negotiator-2`).attr('disabled', 'false');

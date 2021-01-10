@@ -264,24 +264,33 @@ const runtime = { overall: 0, currlevel: 0 };
 const hourly_routines = [];
 const daily_routines = [];
 const weekly_routines = [];
+const every1min_routines = [];
+const every5min_routines = [];
+const every15min_routines = [];
+const every3hour_routines = [];
+const every8hour_routines = [];
+const every12hour_routines = [];
+
+// daily_routines.push( refresh_negotiator );
+// every1min_routines.push( refresh_negotiator );
 
 // let done_hourly = { hour: 0, date: 0, speedup: 1 };
 const done_routinely = {
     // m1: 0, m5: 0, m10: 0, m15: 0, m30: 0, m45: 0, h1: 0, h3: 0, h8: 0, h12: 0, d1: 0, w1: 0
-    m1: (new Date(2020,11-1,27)),
-    m5: (new Date(2020,11-1,27)),
-    m10: (new Date(2020,11-1,27)),
-    m15: (new Date(2020,11-1,27)),
-    m30: (new Date(2020,11-1,27)),
-    m45: (new Date(2020,11-1,27)),
-    h1: (new Date(2020,11-1,27)),
-    h3: (new Date(2020,11-1,27)),
-    h8: (new Date(2020,11-1,27)),
-    h12: (new Date(2020,11-1,27)),
-    d1: (new Date(2020,11-1,27)),
-    w1: (new Date(2020,11-1,27)),
-    o1: (new Date(2020,11-1,27)),
-    y1: (new Date(2020,11-1,27)),
+    m1: (new Date(2021,1-1,3)),
+    m5: (new Date(2021,1-1,3)),
+    m10: (new Date(2021,1-1,3)),
+    m15: (new Date(2021,1-1,3)),
+    m30: (new Date(2021,1-1,3)),
+    m45: (new Date(2021,1-1,3)),
+    h1: (new Date(2021,1-1,3)),
+    h3: (new Date(2021,1-1,3)),
+    h8: (new Date(2021,1-1,3)),
+    h12: (new Date(2021,1-1,3)),
+    d1: (new Date(2021,1-1,3)),
+    w1: (new Date(2021,1-1,3)),
+    o1: (new Date(2021,1-1,3)),
+    y1: (new Date(2021,1-1,3)),
 }
 
 function timenow() {
@@ -512,6 +521,10 @@ function deduct_dependencies_op(piece, op, intvli) {
     let dependencies = get_dependencies_op(piece, op, intvli);
     return deduct_dependencies(dependencies, intvli)
 }
+function credit_dependencies_op(piece, op, intvli) {
+    let dependencies = get_dependencies_op(piece, op, intvli);
+    return credit_dependencies(dependencies, intvli)
+}
 function check_dependencies_era(entry, retval) {
     let dependencies = entry.cost;
     return check_dependencies(dependencies, retval)
@@ -553,6 +566,18 @@ function deduct_dependencies(dependencies) {
     display_collection({coins, supplies, stone, lumber, iron, dye});
     return {coins, supplies, stone, lumber, iron, dye};
 }
+function credit_dependencies(dependencies) {
+    let collection = get_collection();
+    // let dependencies = get_dependencies(piece, op, intvli);
+    let coins = collection.coins + (dependencies.coins || 0);
+    let supplies = collection.supplies + (dependencies.supplies || 0);
+    let stone   = collection.stone + (dependencies.stone || 0);
+    let lumber = collection.lumber + (dependencies.lumber || 0);
+    let iron = collection.iron + (dependencies.iron || 0);
+    let dye = collection.dye + (dependencies.dye || 0);
+    display_collection({coins, supplies, stone, lumber, iron, dye});
+    return {coins, supplies, stone, lumber, iron, dye};
+}
 function display_collection(collection) {
     display_collected('coins', collection.coins);
     display_collected('supplies', collection.supplies);
@@ -585,12 +610,31 @@ function set_interval_quantity(piece, i) {
     console.log(piece);
 }
 
+function cancel_produce(i) {
+    console.log(`cancel_produce(${i})`)
+    let piece = _configuringPiece;
+    console.log(piece);
+    if(!piece || !piece.entity) return;
+    if(piece.entity.content.index>=2)    console.log(`-------------------------------------- cancel production ...............`, piece.entity)
+    if(piece.entity.running) {
+        let prev_isel = piece.entity.isel || 0;
+        credit_dependencies_op(piece, 'run', prev_isel);
+    }
+    changeImage(piece, {ready:0});
+    piece.entity.flagged = 0;
+    piece.entity.running = 0;
+    piece.entity.remaining = 0;
+    piece.entity.collected = 1;
+    update_status(piece, {cancel:1});
+    save_data();
+}
+
 function produce(i) {
     console.log(`produce(${i})`)
     let piece = _configuringPiece;
     console.log(piece);
     if(!piece || !piece.entity) return;
-        if(piece.entity.content.index>=2)    console.log(`-------------------------------------- produce ...............`, piece.entity)
+    if(piece.entity.content.index>=2)    console.log(`-------------------------------------- produce ...............`, piece.entity)
     if(!check_dependencies_op(piece, 'run', i)) { 
         let retval = check_dependencies_op(piece, 'run', i, true); let list = [];
         for(let key in retval) { if(retval[key]<0) list.push(`Need ${Math.abs(retval[key])} more ${key}`) }
@@ -598,7 +642,11 @@ function produce(i) {
         if(!auto_pilot.on) alert('Not enough resources!\n'+list.join('\n')); 
         return; 
     }
-        if(piece.entity.content.index>=2)   console.log(`-----------------2--------------------- produce ...............`, piece.entity)
+    if(piece.entity.content.index>=2)   console.log(`-----------------2--------------------- produce ...............`, piece.entity)
+    if(piece.entity.running) {
+        let prev_isel = piece.entity.isel || 0;
+        credit_dependencies_op(piece, 'run', prev_isel);
+    }
     deduct_dependencies_op(piece, 'run', i);
     set_interval_quantity(piece, i);
     piece.entity.collected = 1; // TBD
@@ -655,6 +703,7 @@ function start(piece) {
     changeImage(piece, {running:1});
     console.log(piece)
     console.log(`current_time=(${current_time})`)
+    save_data();
 }
 function tick(){
     for(let i = 0; i < _pieces.length; i++){
@@ -662,17 +711,19 @@ function tick(){
         if(ready(piece)) flag(_pieces[i]);
     }
 }
-function update_status(piece) {
+function update_status(piece, {cancel=0}={}) {
     if(!piece || !piece.entity || !piece.entity.duration) return;
     let isel = piece.entity.isel || 0;
     let duration = piece.entity.duration[isel]*60*1000;
     let added_time = duration - remaining_time_overall();
+    let sign = cancel ? -1 : 1;
     if(added_time>0) {
-        runtime.currlevel += added_time;
-        runtime.overall += added_time;
+        runtime.currlevel += added_time * sign;
+        runtime.overall += added_time * sign;
     }
     console.log(`added_time=`, added_time);
     console.log(`runtime=`, runtime);
+    update_run_status();
 }
 function remaining_time_overall() { // in ms (absolute)
     let remaining_time_overall = 0;
@@ -715,6 +766,7 @@ function collect(piece) {
     // document.getElementById(id).textContent = score_value + piece.entity.content.value;
     piece.entity.collected = 1;
     piece.entity.running = 0;
+    save_data();
 }
 function collect_people(count, dir) {
     let id = dir ? 'score-people-used' : 'score-people-housed';
@@ -1117,6 +1169,14 @@ function refresh_daily_data() {
     // let date = new Date();
     // let hour = date.getHours();
     // let minute = date.getMinutes();
+    let days_since_last_daily_routine = round(time_since(done_routinely.d1, 'days', speedup));
+    let weeks_since_last_weekly_routine = round(time_since(done_routinely.w1, 'weeks', speedup));
+    let hours_since_last_hourly_routine = round(time_since(done_routinely.h1, 'hours', speedup));
+    let hour12_since_last_hour12_routine = round(time_since(done_routinely.h12, 'hours', speedup)/12);
+    let hour8_since_last_hour8_routine = round(time_since(done_routinely.h8, 'hours', speedup)/8);
+    let hour3_since_last_hour3_routine = round(time_since(done_routinely.h3, 'hours', speedup)/3);
+    let min15_since_last_min15_routine = round(time_since(done_routinely.m15, 'minutes', speedup)/15);
+    let min5_since_last_min5_routine = round(time_since(done_routinely.m5, 'minutes', speedup)/5);
 
     if(true_every_minute(speedup)) {
         $('#runtime').text(stamp(runtime.currlevel, "d:h"))
@@ -1135,35 +1195,82 @@ function refresh_daily_data() {
     //     console.log(`------ hours-since last 1week-routine: `, time_since(done_routinely.w1, 'hours', speedup));
     //     console.log(`------ hours-since last 1month-routine: `, time_since(done_routinely.o1, 'hours', speedup));
     //     console.log(`------ hours-since last 1year-routine: `, time_since(done_routinely.y1, 'hours', speedup));
+        // console.log(`  Running every1min routine. Seconds since last run: `, round(time_since(done_routinely.m1, 'seconds', speedup)));
+        for(let routine of every1min_routines) {
+            if(typeof routine==="function") routine();
+        }
+        // console.log(`refresh_daily_data()`, (new Date()).toLocaleString());
+        // console.log(`  Hours since last hourly-routine: `, round(time_since(done_routinely.h1, 'hours', speedup)));
+        // console.log(`  Days since last daily-routine: `, round(time_since(done_routinely.d1, 'days', speedup)));
+        // console.log(`  Weeks since last weekly-routine: `, round(time_since(done_routinely.w1, 'weeks', speedup)));
+        // console.log(`  Minutes since last hourly-routine: `, round(time_since(done_routinely.h1, 'minutes', speedup)));
+        // console.log(`  Minutes since last daily-routine: `, round(time_since(done_routinely.d1, 'minutes', speedup)));
+        // console.log(`  Minutes since last weekly-routine: `, round(time_since(done_routinely.w1, 'minutes', speedup)));
+        // console.log(`  Minutes since last every15min-routine run: `, round(time_since(done_routinely.m15, 'minutes', speedup)));
+        // console.log(`  Minutes since last every5min-routine run: `, round(time_since(done_routinely.m5, 'minutes', speedup)));
+        // console.log(`  Minutes since last every1min-routine run: `, round(time_since(done_routinely.m1, 'minutes', speedup)));
     }
     if(true_every_5minutes(speedup)) {
-        console.log(`refresh_daily_data()`, (new Date()).toLocaleString());
-        console.log(`  Minutes since last hourly-routine: `, round(time_since(done_routinely.h1, 'minutes', speedup)));
-        console.log(`  Minutes since last daily-routine: `, round(time_since(done_routinely.d1, 'minutes', speedup)));
-        console.log(`  Hours since last weekly-routine: `, round(time_since(done_routinely.w1, 'hours', speedup)));
+        console.log(`  Running every5min routine. Minutes since last run: `, min5_since_last_min5_routine*5);
+        for(let routine of every5min_routines) {
+            if(typeof routine==="function") routine( min5_since_last_min5_routine );
+        }
+        // if(every5min_routines.length) save_data();
+        save_data();
+    }
+    if(true_every_15minutes(speedup)) {
+        console.log(`  Running every15min routine. Minutes since last run: `, min15_since_last_min15_routine*15);
+        for(let routine of every15min_routines) {
+            if(typeof routine==="function") routine( min15_since_last_min15_routine );
+        }
+        if(every15min_routines.length) save_data();
+    }
+    if(true_every_3hours(speedup)) {
+        console.log(`  Running every3hour_routines routine. Hours since last run: `, hour3_since_last_hour3_routine*3);
+        for(let routine of every3hour_routines) {
+            if(typeof routine==="function") routine( hour3_since_last_hour3_routine );
+        }
+        if(every3hour_routines.length) save_data();
+    }
+    if(true_every_8hours(speedup)) {
+        console.log(`  Running every8hour_routines routine. Hours since last run: `, hour8_since_last_hour8_routine*8);
+        for(let routine of every8hour_routines) {
+            if(typeof routine==="function") routine( hour8_since_last_hour8_routine );
+        }
+        if(every8hour_routines.length) save_data();
+    }
+    if(true_every_12hours(speedup)) {
+        console.log(`  Running every12hour_routines routine. Hours since last run: `, hour12_since_last_hour12_routine*12);
+        for(let routine of every12hour_routines) {
+            if(typeof routine==="function") routine( hour12_since_last_hour12_routine );
+        }
+        if(every12hour_routines.length) save_data();
     }
     if(true_every_hour(speedup)) {
-        console.log(`  Running hourly routine. Minutes since last run: `, round(time_since(done_routinely.h1, 'minutes', speedup)));
+        console.log(`  Running hourly routine. Hours since last run: `, hours_since_last_hourly_routine);
         for(let routine of hourly_routines) {
-            if(typeof routine==="function") routine();
+            if(typeof routine==="function") routine( hours_since_last_hourly_routine );
         }
+        if(hourly_routines.length) save_data();
     }
     if(true_every_day(speedup)) {
-        console.log(`  Running daily routine. Minutes since last run: `, round(time_since(done_routinely.d1, 'minutes', speedup)));
+        console.log(`  Running daily routine. Days since last run: `, days_since_last_daily_routine);
         for(let routine of daily_routines) {
-            if(typeof routine==="function") routine();
+            if(typeof routine==="function") routine( days_since_last_daily_routine );
         }
+        if(daily_routines.length) save_data();
     }
     if(true_every_week(speedup)) {
-        console.log(` Running weekly routine. Hours since last run: `, round(time_since(done_routinely.w1, 'hours', speedup)));
+        console.log(` Running weekly routine. Weeks since last run: `, weeks_since_last_weekly_routine);
         for(let routine of weekly_routines) {
-            if(typeof routine==="function") routine();
+            if(typeof routine==="function") routine( weeks_since_last_weekly_routine );
         }
+        if(weekly_routines.length) save_data();
     }
     // true_every_minute(speedup);
-    true_every_5minutes(speedup);
+    // true_every_5minutes(speedup);
     true_every_10minutes(speedup);
-    true_every_15minutes(speedup);
+    // true_every_15minutes(speedup);
     true_every_30minutes(speedup);
     true_every_45minutes(speedup);
     // true_every_hour(speedup);
@@ -1205,6 +1312,7 @@ function time_since(date, units='seconds', speedup=1) {
     if(!date || !speedup) return;
     let now = new Date();
     let diff = now.getTime() - date.getTime();
+    if(units==='weeks') return diff/(7*24*60*60*1000)*speedup;
     if(units==='days') return diff/(24*60*60*1000)*speedup;
     if(units==='hours') return diff/(60*60*1000)*speedup;
     if(units==='minutes') return diff/(60*1000)*speedup;
@@ -1249,7 +1357,7 @@ function true_every_week(speedup=1) {
     return true_every_n_ms('w1', 7*24*60*60*1000/speedup);
 }
 function true_every_month(speedup=1) {
-    return true_every_n_ms('o1', 30*7*24*60*60*1000/speedup);
+    return true_every_n_ms('o1', 365/12*24*60*60*1000/speedup);
 }
 function true_every_year(speedup=1) {
     return true_every_n_ms('y1', 365*7*24*60*60*1000/speedup);
@@ -1407,6 +1515,7 @@ function refresh_negotiator(time) {
     // $(`#negotiator-2>i`).css('color', '#b8860b');
     for(let i=0; i<3; i++) {
         // $(`#negotiator-${i}`).attr('hidden', false);
+        $(`#negotiator-${i}`).attr('disabled', 'false');
         $(`#negotiator-${i}`).css('pointerEvents', 'auto');
         $(`#negotiator-${i}>i`).css('color', '#b8860b');
     }
@@ -1512,10 +1621,15 @@ function load_saved_data(i=1, j=1) {
         // if(tile.pending) $('#level-up').prop('hidden', false);
     }
     function load_routines_schedule(data) {
-        if(!data) return;
-        Object.keys(done_routinely).map(key =>
-            done_routinely[key] = new Date( done_routinely[key]));
+        // if(!data) return;
+        if(!data) data = done_routinely;
+        // Object.keys(done_routinely).map(key =>
+            // done_routinely[key] = new Date( done_routinely[key]));
         // Object.assign(done_routinely, data);
+        // Object.keys(done_routinely).map(key =>
+        //     done_routinely[key] = new Date( data[key]));
+        Object.keys(done_routinely).map(key =>
+            done_routinely[key] = new Date( data[key]||done_routinely[key]||'2020-01-01' ));
     }
     function load_minigames_saved_data(data) {
         if(!data) return;
