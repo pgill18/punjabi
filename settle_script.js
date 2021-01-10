@@ -1623,13 +1623,13 @@ function load_saved_data(i=1, j=1) {
     function load_routines_schedule(data) {
         // if(!data) return;
         if(!data) data = done_routinely;
-        // Object.keys(done_routinely).map(key =>
-            // done_routinely[key] = new Date( done_routinely[key]));
+        Object.keys(done_routinely).map(key =>
+            done_routinely[key] = new Date( done_routinely[key]));
         // Object.assign(done_routinely, data);
         // Object.keys(done_routinely).map(key =>
         //     done_routinely[key] = new Date( data[key]));
-        Object.keys(done_routinely).map(key =>
-            done_routinely[key] = new Date( data[key]||done_routinely[key]||'2020-01-01' ));
+        // Object.keys(done_routinely).map(key =>
+            // done_routinely[key] = new Date( data[key]||done_routinely[key]||'2020-01-01' ));
     }
     function load_minigames_saved_data(data) {
         if(!data) return;
