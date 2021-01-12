@@ -185,7 +185,7 @@ function whiteboard_initialize(index) {
         }        
     }
 
-    refresh_html(data);
+    whiteboard_refresh_html(data);
     // footer text
     // if(whiteboard.req[index]) {
     //     whiteboard.reqtype = whiteboard.req[index].type;
@@ -219,25 +219,25 @@ function whiteboard_initialize(index) {
     }
 }
 
-function refresh_html(data, auto=0) {
+function whiteboard_refresh_html(data, auto=0) {
     whiteboard.data = data;
-    // console.log(`... refresh_html`);
-    let mismatches = compare(data.model, whiteboard.prev_data.model);
+    // console.log(`... whiteboard_refresh_html`);
+    let mismatches = whiteboard_compare(data.model, whiteboard.prev_data.model);
     if(mismatches.length) console.log(`mismatches ... `, mismatches);
     // console.log(whiteboard.data, whiteboard.prev_data);
     if(!mismatches.length) {
         if(!whiteboard.prev_data.model) { whiteboard.prev_data = data; return; }
         // return;
     }
-    $(`#whiteboard-content`).html( json2html( data ) );
+    $(`#whiteboard-content`).html( whiteboard_json2html( data ) );
     $("#whiteboard-square").sortable({ tolerance: 'pointer' });
 }
 
-function json2html(data) {
-    // console.log(`... json2html`);
+function whiteboard_json2html(data) {
+    // console.log(`... whiteboard_json2html`);
     // console.log(data);
     whiteboard.aaa = 1; //mismatches.reduce((a,b) => a+b, 0);
-    let cards_html = !data ? [] : data.model.map((a,i) => json2card(data.model[i], whiteboard.prev_data.model[i], {data,i}));
+    let cards_html = !data ? [] : data.model.map((a,i) => whiteboard_json2card(data.model[i], whiteboard.prev_data.model[i], {data,i}));
     let cols = data.cols ? data.cols : Math.round(Math.sqrt(data.model.length));
     let html = `
         <div class="row row-cols-1 row-cols-md-${cols}" id="whiteboard-square">
@@ -248,7 +248,7 @@ function json2html(data) {
     // console.log(html);
     return html.trim();
 }
-function json2card(a, prev_a, {data,i}={}) {
+function whiteboard_json2card(a, prev_a, {data,i}={}) {
     let title=a, body='';
     let color = { bg: 'bg-light', border: '', bgcolor: 'orange', opacity: 0.5 };
     prev_a = data.original[i];
@@ -256,7 +256,7 @@ function json2card(a, prev_a, {data,i}={}) {
     if(whiteboard.aaa) {
         if(a===prev_a) color = { bg: 'xbg-success', border: 'border-success', bgcolor: 'green', opacity: 0.5 };
         else { whiteboard.aaa = 0; color = { bg: 'xbg-info', border: 'border-warning', bgcolor: 'orange', opacity: 0.5 }; }
-        if(completedThisSection(data, i)) completed = 1;
+        if(whiteboard_completedThisSection(data, i)) completed = 1;
     }
     if(data.dims===2) {
         if(completed) color.bg = 'bg-success';
@@ -274,8 +274,8 @@ function json2card(a, prev_a, {data,i}={}) {
     `;
     return card.trim();
 }
-function completedThisSection(data, i) {
-    let mismatches = compare(data.model, data.original);
+function whiteboard_completedThisSection(data, i) {
+    let mismatches = whiteboard_compare(data.model, data.original);
     let lastmatchi = mismatches.length ? mismatches[0] - 1 : data.model.length-1;
     let match_section_edge_index = -1;
     for(let rowi=0; rowi<data.origlines.length; rowi++) {
@@ -287,7 +287,7 @@ function completedThisSection(data, i) {
     // console.log(`i=${i} <= match_section_edge_index=${match_section_edge_index} ... lastmatchi=${lastmatchi}, mismatches=`, mismatches);
     return i <= match_section_edge_index;
 }
-function compare(model, original) {
+function whiteboard_compare(model, original) {
     if(!model || !original) return [];
     let mismatches = [];
     for(let i=0; i<model.length; i++) {
@@ -297,7 +297,7 @@ function compare(model, original) {
     return mismatches;
 }
 
-function read_square(_this) {
+function whiteboard_read_square(_this) {
     let array = [];
     let sqcoll = $('#whiteboard-square').find('.card-title'); //.values().map(a => $(a).text());
     for(let el of sqcoll) {
@@ -307,7 +307,7 @@ function read_square(_this) {
     // console.log(array);
     return array;
 }
-function get_card(i) {
+function whiteboard_get_card(i) {
     let sqcoll = $('#whiteboard-square').find('.card'); //.values().map(a => $(a).text());
     let sqlist = [];
     for(let el of sqcoll) {
@@ -315,42 +315,42 @@ function get_card(i) {
     }
     return sqlist[i];
 }
-function compare_element(a, prev_a, {data,i,context}={}) {
-    // console.log(`compare_element(${a}, ${prev_a}, {data,${i},${context.aaa}}={})`, data);
+function whiteboard_compare_element(a, prev_a, {data,i,context}={}) {
+    // console.log(`whiteboard_compare_element(${a}, ${prev_a}, {data,${i},${context.aaa}}={})`, data);
     let title=a, body='';
     let color = { bg: 'bg-light', border: '', bgcolor: 'orange', opacity: 0.5 };
-    // console.log(`compare_element() : color=`, color);
+    // console.log(`whiteboard_compare_element() : color=`, color);
     // prev_a = data.original[i];
     let completed = 0;
     if(context.aaa) {
         if(a===prev_a) color = { bg: 'xbg-success', border: 'border-success', bgcolor: 'green', opacity: 0.5 };
         else { context.aaa = 1; color = { bg: 'xbg-info', border: 'border-warning', bgcolor: 'orange', opacity: 0.5 }; }
-        if(completedThisSection(data, i)) completed = 1;
+        if(whiteboard_completedThisSection(data, i)) completed = 1;
     }
     if(data.dims===2) {
         if(completed) color.bg = 'bg-success';
     }
-    let card = get_card(i);
-    // console.log(`compare_element() : color=`, color);
+    let card = whiteboard_get_card(i);
+    // console.log(`whiteboard_compare_element() : color=`, color);
     $(card).attr('class', `card ${color.bg} ${color.border}`);
     // console.log(card);
 }
-function compare_square() {
+function whiteboard_compare_square() {
     let context = { aaa: 1 };
     let data = whiteboard.data;
-    let data_square = read_square();
+    let data_square = whiteboard_read_square();
     let data_input = Object.assign({}, data, {model: data_square});
-    data.model.map((a,i) => compare_element(data_square[i], data.original[i], {data:data_input,i,context}));
+    data.model.map((a,i) => whiteboard_compare_element(data_square[i], data.original[i], {data:data_input,i,context}));
     // console.log(`data_square=`, data_square);
     // console.log(`data.original=`, data.original);
-    let mismatches = compare(data_square, data.original);
+    let mismatches = whiteboard_compare(data_square, data.original);
     return mismatches;
 }
 
 function whiteboard_check(pay=1) {
     if(pay) whiteboard_deduct(whiteboard.costStructure[0]);
     console.log(whiteboard);
-    let mismatches = compare_square();
+    let mismatches = whiteboard_compare_square();
     console.log(`mismatches=`, mismatches);
     return mismatches.length===0;  //return passed;
 }
@@ -413,12 +413,14 @@ function whiteboard_hint() {
 }
 
 function whiteboard_finish() {
-    $(`#whiteboard-${whiteboard.index}`).attr('disabled', 'true');
-    $(`#whiteboard-${whiteboard.index}`).css('pointerEvents', 'none');
+    if(!whiteboard.expedition_mode) {
+        $(`#whiteboard-${whiteboard.index}`).attr('disabled', 'true');
+        $(`#whiteboard-${whiteboard.index}`).css('pointerEvents', 'none');
+        minigames.whiteboard[whiteboard.index].collected = 1;
+        minigames.whiteboard[whiteboard.index].colltime = (new Date).getTime();
+    }
     $(`#whiteboard-submit`).attr('hidden', false);
     $(`#whiteboard-finish`).attr('hidden', true);
-    minigames.whiteboard[whiteboard.index].collected = 1;
-    minigames.whiteboard[whiteboard.index].colltime = (new Date).getTime();
     save_data();
 }
 

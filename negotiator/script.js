@@ -466,12 +466,14 @@ function negotiator_finish() {
 	// $(`#negotiator-${negotiator.quota}`).css('pointerEvents', 'none');
 	// if(negotiator.quota<=0) $(`#negotiator`).attr('hidden', true);
 	// $(`#negotiator-${negotiator.index}`).css('color', 'gray');
-	$(`#negotiator-${negotiator.index}`).attr('disabled', 'true');
-	$(`#negotiator-${negotiator.index}`).css('pointerEvents', 'none');
-	$(`#negotiator-submit`).attr('hidden', false);
-	$(`#negotiator-finish`).attr('hidden', true);
-	minigames.negotiator[negotiator.index].collected = 1;
-	minigames.negotiator[negotiator.index].colltime = (new Date).getTime();
+    if(!negotiator.expedition_mode) {
+    	$(`#negotiator-${negotiator.index}`).attr('disabled', 'true');
+    	$(`#negotiator-${negotiator.index}`).css('pointerEvents', 'none');
+    	minigames.negotiator[negotiator.index].collected = 1;
+    	minigames.negotiator[negotiator.index].colltime = (new Date).getTime();
+    }
+    $(`#negotiator-submit`).attr('hidden', false);
+    $(`#negotiator-finish`).attr('hidden', true);
     save_data();
 }
 function negotiator_refresh() {

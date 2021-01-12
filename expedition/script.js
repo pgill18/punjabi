@@ -160,6 +160,12 @@ function expedition_restoreState() {
 function expedition_refresh() {
     console.log(`........ expedition_refresh()`)
     Object.assign(expedition, { state: { level: 1, platform: 1 }, progress: { attempts: 10, boost: 1, discount: 1 }, trail: [] });
+    let save = 1 // save data after refresh
+    if(save) {
+        localStorage.setItem('expedition', JSON.stringify(expedition));
+        // localStorage.setItem('scorecard', JSON.stringify(scorecard));
+        save_data();
+    }
 }
 function expedition_refresh_attempts(count=1) {
     console.log(`........ expedition_refresh_attempts(${count})`)
