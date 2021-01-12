@@ -1621,6 +1621,8 @@ function load_saved_data(i=1, j=1) {
         // if(tile.pending) $('#level-up').prop('hidden', false);
     }
     function load_routines_schedule(data) {
+        console.log(`... load_routines_schedule(data)`, data);
+        console.log(`done_routinely[before}=`, done_routinely);
         // if(!data) return;
         if(!data) data = done_routinely;
         // Object.keys(done_routinely).map(key =>
@@ -1630,6 +1632,7 @@ function load_saved_data(i=1, j=1) {
         //     done_routinely[key] = new Date( data[key]));
         Object.keys(done_routinely).map(key =>
             done_routinely[key] = new Date( data[key]||done_routinely[key]||'2020-01-01' ));
+        console.log(`done_routinely[after]=`, done_routinely);
     }
     function load_minigames_saved_data(data) {
         if(!data) return;
