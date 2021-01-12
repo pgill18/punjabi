@@ -266,7 +266,7 @@ function changeImage_old(tileindex, {ready=0, idle=0, busy=1}) {
  }
 function onImage(e){
     'use strict';
-    console.log(`onImage(${_backagain})`);
+    // console.log(`onImage(${_backagain})`);
     // if(_backagain) return;
     _pieceWidth = Math.floor(_img.width / PUZZLE_DIFFICULTY);
     _pieceHeight = Math.floor(_img.height / PUZZLE_DIFFICULTY);
@@ -298,7 +298,7 @@ function initPuzzle(){
 }
 function buildPieces(){
     'use strict';
-    console.log(`buildPieces(${_backagain})`);
+    // console.log(`buildPieces(${_backagain})`);
     var i;
     var piece;
     var xPos = 0;
@@ -447,7 +447,7 @@ function lockTile(i=_scorner) {
     _stage.drawImage(image, 0, 0, image.width, image.height, piece.sx, piece.sy, _pieceWidth, _pieceHeight);
     _stage.strokeRect(piece.sx, piece.sy, _pieceWidth,_pieceHeight);
     _img.src = _canvas.toDataURL();
-    console.log(`lockTile(i=${i})`)
+    // console.log(`lockTile(i=${i})`)
 }
 function unlockTile(i=_scorner) {
     let piece = _pieces[i];
@@ -455,7 +455,7 @@ function unlockTile(i=_scorner) {
     _stage.drawImage(image, 0, 0, image.width, image.height, piece.sx, piece.sy, _pieceWidth, _pieceHeight);
     _stage.strokeRect(piece.sx, piece.sy, _pieceWidth,_pieceHeight);
     _img.src = _canvas.toDataURL();
-    console.log(`unlockTile(i=${i})`)
+    // console.log(`unlockTile(i=${i})`)
 }
 function cleanTile(i=_scorner) {
     let piece = _pieces[i];

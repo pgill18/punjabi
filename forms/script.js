@@ -100,12 +100,12 @@ function forms_createCard(id='mainCard') {
 }
 
 function forms_buildForm() {
-    console.log(`....... forms_buildForm() ........`)
+    // console.log(`....... forms_buildForm() ........`)
     let content_db_entry = forms_db[forms.form.dbindex];
     let options_db_entry = { sub: {type:'text',width:6,req:1}, act: {type:'text',width:6}, det: {type:'text',width:4}, 
                   adj: {type:'text',width:4}, obj: {type:'text',width:4}, adv: {type:'text',width:4} };
-    console.log(`options_db_entry = `, options_db_entry)
-    console.log(`content_db_entry = `, content_db_entry)
+    // console.log(`options_db_entry = `, options_db_entry)
+    // console.log(`content_db_entry = `, content_db_entry)
     // console.log('content_db_entry', content_db_entry);
     // console.log('options_db_entry', options_db_entry);
     let options = Object.entries(options_db_entry).map(([key,value]) => { let entry=Object.assign({key},value); return entry; });
@@ -114,15 +114,15 @@ function forms_buildForm() {
     // console.log('options', options);
     // console.log('content', content);
     // build row
-    console.log(`options = `, options)
-    console.log(`content = `, content)
+    // console.log(`options = `, options)
+    // console.log(`content = `, content)
     let index = 0, form_html = '', margin='              ';
     for(let irow=0; irow<10; irow++) {
-        console.log(`irow = ${irow}`)
+        // console.log(`irow = ${irow}`)
         let width = { used: 0, total: 12 };
         form_html += margin+ `<div class="form-row">\n`;
         for(let icol=0; icol<10; icol++, index++) {
-            console.log(` icol = ${icol}`)
+            // console.log(` icol = ${icol}`)
             let curr_content = content[index];
             let curr_options = options[index];
             let next_content = content[index+1];
@@ -213,7 +213,7 @@ function forms_extractData(content, content1) {
     if(!content) content = forms_db[forms.form.dbindex];
     if(!content1) content1 = content[forms.form.index];
     if(!content1) return;
-    console.log('content1', content1);
+    // console.log('content1', content1);
     let content2 = [];
     for(let i=0; i<content1.length; i++) {
         let key = Object.keys(content1[i])[0];
@@ -229,7 +229,7 @@ function forms_createForm() {
     let content = forms_db[forms.form.dbindex];
     let content2 = forms_extractData(content);
     // let content2 = Object.assign({}, content[forms.form.index]);
-    console.log('content2', content2);
+    // console.log('content2', content2);
     if(content[forms.form.index]) {
         $(`#formsModal1-c1`).html( forms_createCard('card1') );
     } else {

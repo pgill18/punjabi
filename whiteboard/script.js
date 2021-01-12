@@ -155,7 +155,7 @@ function whiteboard_initialize(index) {
     if(data.even) {
         data.origlines.map(line => line.push(...spaces_list(data.cols-line.length)));
     }
-    console.log(data);
+    // console.log(data);
 
     if(whiteboard.expedition_mode) {
         let elevel = whiteboard.expedition.level;
@@ -221,10 +221,10 @@ function whiteboard_initialize(index) {
 
 function refresh_html(data, auto=0) {
     whiteboard.data = data;
-    console.log(`... refresh_html`);
+    // console.log(`... refresh_html`);
     let mismatches = compare(data.model, whiteboard.prev_data.model);
     if(mismatches.length) console.log(`mismatches ... `, mismatches);
-    console.log(whiteboard.data, whiteboard.prev_data);
+    // console.log(whiteboard.data, whiteboard.prev_data);
     if(!mismatches.length) {
         if(!whiteboard.prev_data.model) { whiteboard.prev_data = data; return; }
         // return;

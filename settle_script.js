@@ -1524,13 +1524,13 @@ function refresh_negotiator(time) {
 function load_user() {
     // window.localStorage.setItem('user', JSON.stringify({id: 'tester'}));
     let user_data = window.localStorage.getItem('user');
-    console.log(user_data);
+    // console.log(user_data);
     user_data = JSON.parse(user_data);
     console.log(user_data);
     user.name = user_data.name;
     user.email = user_data.email;
     user.id = user_data.id;
-    console.log(user);
+    // console.log(user);
     return user;
 }
 

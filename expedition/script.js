@@ -184,7 +184,7 @@ function expedition_drawExpeditionMap() {
 }
 
 function expedition_updateExpeditionMap(rows=4, cols=5) {
-    console.log(`----------- expedition_updateExpeditionMap(rows=4, cols=5)`);
+    // console.log(`----------- expedition_updateExpeditionMap(rows=4, cols=5)`);
     let html = '', index = 1;
     for(let irow=0; irow<rows; irow++) {
         let mgn = 3 ;//+ irow;

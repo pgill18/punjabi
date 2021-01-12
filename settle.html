@@ -838,7 +838,7 @@ function cleanupElementsInnerHTML(id) {
       }
 
       function createMiniExpeditionBasic(id='miniExpeditionBasic') {
-        console.log(`createMiniExpeditionBasic(id='miniExpeditionBasic')`);
+        // console.log(`createMiniExpeditionBasic(id='miniExpeditionBasic')`);
         let expedition_db = unlocking_db; // TBD
         let nrows = 1, ncols = 6, modal_id = id + 'Modal';
         if(expedition_db.length>6) {
@@ -860,7 +860,7 @@ function cleanupElementsInnerHTML(id) {
           if((i+1)%ncols===0 || i===expedition_db.length-1) {
             options1.list = list; ncols = list.length; list = [];
             // console.log(`............................. rowindex = ${rowindex}`)
-            console.log(list);
+            // console.log(list);
             $(`#${modal_id}-r`+rowindex).html('');
             add_row(`${modal_id}-r`+rowindex++, ncols, add_card2, options1)
           }
