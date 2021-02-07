@@ -1,0 +1,4928 @@
+[
+    [
+        "It has a good book",
+        "Isa dī ika cagī kitāba hai",
+        "ਇਸ ਦੀ ਇਕ ਚੰਗੀ ਕਿਤਾਬ ਹੈ",
+        "It has a good book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "book",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "It has each book",
+        "isa vica hara ika kitāba hai",
+        "ਇਸ ਵਿਚ ਹਰ ਇਕ ਕਿਤਾਬ ਹੈ",
+        "It has each book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "book",
+            "adj": "each"
+        }
+    ],
+    [
+        "It has the first child",
+        "isadā pahilā bacā hai",
+        "ਇਸਦਾ ਪਹਿਲਾ ਬੱਚਾ ਹੈ",
+        "It has the first child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "child",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It has its many children",
+        "isa dē bahuta sārē bacē hana",
+        "ਇਸ ਦੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚੇ ਹਨ",
+        "It has its many children",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "child",
+            "det": "its",
+            "adj": "many"
+        }
+    ],
+    [
+        "It has each child",
+        "isadā hara bacā hudā hai",
+        "ਇਸਦਾ ਹਰ ਬੱਚਾ ਹੁੰਦਾ ਹੈ",
+        "It has each child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "child",
+            "adj": "each"
+        }
+    ],
+    [
+        "It has the first family",
+        "isadā pahilā parivāra hai",
+        "ਇਸਦਾ ਪਹਿਲਾ ਪਰਿਵਾਰ ਹੈ",
+        "It has the first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It has its many families",
+        "isa dē bahuta sārē parivāra hana",
+        "ਇਸ ਦੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰ ਹਨ",
+        "It has its many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "family",
+            "det": "its",
+            "adj": "many"
+        }
+    ],
+    [
+        "It has each family",
+        "isadā harēka parivāra hai",
+        "ਇਸਦਾ ਹਰੇਕ ਪਰਿਵਾਰ ਹੈ",
+        "It has each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "It has a many hands",
+        "isa dē bahuta sārē hatha hana",
+        "ਇਸ ਦੇ ਬਹੁਤ ਸਾਰੇ ਹੱਥ ਹਨ",
+        "It has a many hands",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "hand",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It has each hand",
+        "isadā hara hatha hai",
+        "ਇਸਦਾ ਹਰ ਹੱਥ ਹੈ",
+        "It has each hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "hand",
+            "adj": "each"
+        }
+    ],
+    [
+        "It has a first home",
+        "isadā pahilā ghara hai",
+        "ਇਸਦਾ ਪਹਿਲਾ ਘਰ ਹੈ",
+        "It has a first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It has a many home",
+        "isadā bahuta sārā ghara hai",
+        "ਇਸਦਾ ਬਹੁਤ ਸਾਰਾ ਘਰ ਹੈ",
+        "It has a many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "It has a home",
+        "isadā ika ghara hai",
+        "ਇਸਦਾ ਇਕ ਘਰ ਹੈ",
+        "It has a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "It has the first mother",
+        "Isa dī pahilī māṁ hai",
+        "ਇਸ ਦੀ ਪਹਿਲੀ ਮਾਂ ਹੈ",
+        "It has the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It has its many mothers",
+        "isa dī'āṁ bahuta sārī'āṁ māvāṁ hana",
+        "ਇਸ ਦੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਹਨ",
+        "It has its many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "mother",
+            "det": "its",
+            "adj": "many"
+        }
+    ],
+    [
+        "It has each mother",
+        "isa dī hara māṁ hudī hai",
+        "ਇਸ ਦੀ ਹਰ ਮਾਂ ਹੁੰਦੀ ਹੈ",
+        "It has each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "It has the first room",
+        "isa vica pahilā kamarā hai",
+        "ਇਸ ਵਿਚ ਪਹਿਲਾ ਕਮਰਾ ਹੈ",
+        "It has the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It has a many rooms",
+        "isa vica bahuta sārē kamarē hana",
+        "ਇਸ ਵਿਚ ਬਹੁਤ ਸਾਰੇ ਕਮਰੇ ਹਨ",
+        "It has a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It has each room",
+        "isa vica hara ika kamarā hai",
+        "ਇਸ ਵਿਚ ਹਰ ਇਕ ਕਮਰਾ ਹੈ",
+        "It has each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "It has a good thing",
+        "isa vica ika cagī cīza hai",
+        "ਇਸ ਵਿਚ ਇਕ ਚੰਗੀ ਚੀਜ਼ ਹੈ",
+        "It has a good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "It has the first thing",
+        "iha pahilī cīza hai",
+        "ਇਹ ਪਹਿਲੀ ਚੀਜ਼ ਹੈ",
+        "It has the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It has a many things",
+        "isa vica bahuta sārī'āṁ cīzāṁ hana",
+        "ਇਸ ਵਿਚ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਹਨ",
+        "It has a many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It has each thing",
+        "isa vica hara cīza hai",
+        "ਇਸ ਵਿਚ ਹਰ ਚੀਜ਼ ਹੈ",
+        "It has each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "It has a good week",
+        "iha ika cagā hafatā hai",
+        "ਇਹ ਇੱਕ ਚੰਗਾ ਹਫ਼ਤਾ ਹੈ",
+        "It has a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "It has the first week",
+        "iha pahilē hafatē hai",
+        "ਇਹ ਪਹਿਲੇ ਹਫ਼ਤੇ ਹੈ",
+        "It has the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It has a many weeks",
+        "isa vica bahuta sārē hafatē hana",
+        "ਇਸ ਵਿੱਚ ਬਹੁਤ ਸਾਰੇ ਹਫ਼ਤੇ ਹਨ",
+        "It has a many weeks",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It has each week",
+        "iha hara haphatē hudā hai",
+        "ਇਹ ਹਰ ਹਫਤੇ ਹੁੰਦਾ ਹੈ",
+        "It has each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "It has its good work",
+        "iha isa dā cagā kama hai",
+        "ਇਹ ਇਸ ਦਾ ਚੰਗਾ ਕੰਮ ਹੈ",
+        "It has its good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "It has its first work",
+        "isadā pahilā kama hai",
+        "ਇਸਦਾ ਪਹਿਲਾ ਕੰਮ ਹੈ",
+        "It has its first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It has its each work",
+        "isadā hara kama hudā hai",
+        "ਇਸਦਾ ਹਰ ਕੰਮ ਹੁੰਦਾ ਹੈ",
+        "It has its each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "It does a good thing",
+        "iha ika cagā kama karadā hai",
+        "ਇਹ ਇਕ ਚੰਗਾ ਕੰਮ ਕਰਦਾ ਹੈ",
+        "It does a good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "It does the first thing",
+        "iha pahilī cīza karadā hai",
+        "ਇਹ ਪਹਿਲੀ ਚੀਜ਼ ਕਰਦਾ ਹੈ",
+        "It does the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "do",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It does a many things",
+        "iha bahuta sārī'āṁ cīzāṁ karadā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਕਰਦਾ ਹੈ",
+        "It does a many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It does each thing",
+        "iha hara kama karadā hai",
+        "ਇਹ ਹਰ ਕੰਮ ਕਰਦਾ ਹੈ",
+        "It does each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "do",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "It does good work",
+        "iha cagā kama karadā hai",
+        "ਇਹ ਚੰਗਾ ਕੰਮ ਕਰਦਾ ਹੈ",
+        "It does good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "do",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "It does the first work",
+        "iha pahilā kama karadā hai",
+        "ਇਹ ਪਹਿਲਾ ਕੰਮ ਕਰਦਾ ਹੈ",
+        "It does the first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "do",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It does each work",
+        "iha hara kama karadā hai",
+        "ਇਹ ਹਰ ਕੰਮ ਕਰਦਾ ਹੈ",
+        "It does each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "do",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "It goes to the first family",
+        "iha pahilē parivāra nū jāndā hai",
+        "ਇਹ ਪਹਿਲੇ ਪਰਿਵਾਰ ਨੂੰ ਜਾਂਦਾ ਹੈ",
+        "It goes to the first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "go",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It goes to its many families",
+        "iha isadē bahuta sārē parivārāṁ nū jāndā hai",
+        "ਇਹ ਇਸਦੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਨੂੰ ਜਾਂਦਾ ਹੈ",
+        "It goes to its many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "go",
+            "noun": "family",
+            "det": "its",
+            "adj": "many"
+        }
+    ],
+    [
+        "It goes to each family",
+        "Iha harēka parivāra nū jāndā hai",
+        "ਇਹ ਹਰੇਕ ਪਰਿਵਾਰ ਨੂੰ ਜਾਂਦਾ ਹੈ",
+        "It goes to each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "go",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "It goes to the first home",
+        "iha pahilē ghara jāndā hai",
+        "ਇਹ ਪਹਿਲੇ ਘਰ ਜਾਂਦਾ ਹੈ",
+        "It goes to the first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "go",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It goes many home",
+        "iha bahuta sārē ghara jāndā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੇ ਘਰ ਜਾਂਦਾ ਹੈ",
+        "It goes many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "go",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "It goes each home",
+        "iha hara ghara jāndā hai",
+        "ਇਹ ਹਰ ਘਰ ਜਾਂਦਾ ਹੈ",
+        "It goes each home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "go",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "It goes to the first mother",
+        "iha pahilī māṁ nū jāndā hai",
+        "ਇਹ ਪਹਿਲੀ ਮਾਂ ਨੂੰ ਜਾਂਦਾ ਹੈ",
+        "It goes to the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "go",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It goes to its many mothers",
+        "iha isa dī'āṁ bahuta sārī'āṁ māvāṁ nū jāndā hai",
+        "ਇਹ ਇਸ ਦੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਜਾਂਦਾ ਹੈ",
+        "It goes to its many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "go",
+            "noun": "mother",
+            "det": "its",
+            "adj": "many"
+        }
+    ],
+    [
+        "It goes to each mother",
+        "iha harēka māṁ nū jāndā hai",
+        "ਇਹ ਹਰੇਕ ਮਾਂ ਨੂੰ ਜਾਂਦਾ ਹੈ",
+        "It goes to each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "go",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "It goes to the first room",
+        "iha pahilē kamarē vica jāndā hai",
+        "ਇਹ ਪਹਿਲੇ ਕਮਰੇ ਵਿਚ ਜਾਂਦਾ ਹੈ",
+        "It goes to the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "go",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It goes to a many rooms",
+        "iha bahuta sārē kamari'āṁ vica jāndā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੇ ਕਮਰਿਆਂ ਵਿੱਚ ਜਾਂਦਾ ਹੈ",
+        "It goes to a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It goes to each room",
+        "iha harēka kamarē vica jāndā hai",
+        "ਇਹ ਹਰੇਕ ਕਮਰੇ ਵਿਚ ਜਾਂਦਾ ਹੈ",
+        "It goes to each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "go",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "It goes to a good student",
+        "iha ika cagē vidi'ārathī nū jāndā hai",
+        "ਇਹ ਇਕ ਚੰਗੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਂਦਾ ਹੈ",
+        "It goes to a good student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "It goes to the first student",
+        "iha pahilē vidi'ārathī nū jāndā hai",
+        "ਇਹ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਂਦਾ ਹੈ",
+        "It goes to the first student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "go",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It goes to a many students",
+        "Iha bahuta sārē vidi'ārathī'āṁ nū jāndā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਜਾਂਦਾ ਹੈ",
+        "It goes to a many students",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It goes to each student",
+        "iha harēka vidi'ārathī nū jāndā hai",
+        "ਇਹ ਹਰੇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਂਦਾ ਹੈ",
+        "It goes to each student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "go",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "It goes for a good week",
+        "iha ika cagē hafatē la'ī jāndā hai",
+        "ਇਹ ਇੱਕ ਚੰਗੇ ਹਫ਼ਤੇ ਲਈ ਜਾਂਦਾ ਹੈ",
+        "It goes for a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "It goes for the first week",
+        "iha pahilē hafatē la'ī jāndā hai",
+        "ਇਹ ਪਹਿਲੇ ਹਫ਼ਤੇ ਲਈ ਜਾਂਦਾ ਹੈ",
+        "It goes for the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "go",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It goes for a many a week",
+        "iha bahuta sārē haphatē vica jāndā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੇ ਹਫਤੇ ਵਿਚ ਜਾਂਦਾ ਹੈ",
+        "It goes for a many a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It goes for each week",
+        "iha hara haphatē jāndā hai",
+        "ਇਹ ਹਰ ਹਫਤੇ ਜਾਂਦਾ ਹੈ",
+        "It goes for each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "go",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "It goes to good work",
+        "iha cagē kama vala jāndā hai",
+        "ਇਹ ਚੰਗੇ ਕੰਮ ਵੱਲ ਜਾਂਦਾ ਹੈ",
+        "It goes to good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "go",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "It goes to the first work",
+        "iha pahilē kama tē jāndā hai",
+        "ਇਹ ਪਹਿਲੇ ਕੰਮ ਤੇ ਜਾਂਦਾ ਹੈ",
+        "It goes to the first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "go",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It goes to each work",
+        "iha hara kama vica jāndā hai",
+        "ਇਹ ਹਰ ਕੰਮ ਵਿਚ ਜਾਂਦਾ ਹੈ",
+        "It goes to each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "go",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "It knows the first child",
+        "iha pahilē bacē nū jāṇadā hai",
+        "ਇਹ ਪਹਿਲੇ ਬੱਚੇ ਨੂੰ ਜਾਣਦਾ ਹੈ",
+        "It knows the first child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "child",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It knows its many children",
+        "iha isadē bahuta sārē baci'āṁ nū jāṇadā hai",
+        "ਇਹ ਇਸਦੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚਿਆਂ ਨੂੰ ਜਾਣਦਾ ਹੈ",
+        "It knows its many children",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "child",
+            "det": "its",
+            "adj": "many"
+        }
+    ],
+    [
+        "It knows each child",
+        "iha harēka bacē nū jāṇadā hai",
+        "ਇਹ ਹਰੇਕ ਬੱਚੇ ਨੂੰ ਜਾਣਦਾ ਹੈ",
+        "It knows each child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "child",
+            "adj": "each"
+        }
+    ],
+    [
+        "It knows its first family",
+        "iha āpaṇē pahilē parivāra nū jāṇadā hai",
+        "ਇਹ ਆਪਣੇ ਪਹਿਲੇ ਪਰਿਵਾਰ ਨੂੰ ਜਾਣਦਾ ਹੈ",
+        "It knows its first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It knows its many families",
+        "iha isadē bahuta sārē parivārāṁ nū jāṇadā hai",
+        "ਇਹ ਇਸਦੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਨੂੰ ਜਾਣਦਾ ਹੈ",
+        "It knows its many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "family",
+            "det": "its",
+            "adj": "many"
+        }
+    ],
+    [
+        "It knows its each family",
+        "iha isadē harēka parivāra nū jāṇadā hai",
+        "ਇਹ ਇਸਦੇ ਹਰੇਕ ਪਰਿਵਾਰ ਨੂੰ ਜਾਣਦਾ ਹੈ",
+        "It knows its each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "It knows a good man",
+        "iha ika cagē ādamī nū jāṇadā hai",
+        "ਇਹ ਇਕ ਚੰਗੇ ਆਦਮੀ ਨੂੰ ਜਾਣਦਾ ਹੈ",
+        "It knows a good man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "It knows the first man",
+        "iha pahilē ādamī nū jāṇadā hai",
+        "ਇਹ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਜਾਣਦਾ ਹੈ",
+        "It knows the first man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "man",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It knows a many men",
+        "iha bahuta sārē ādamī jāṇadā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੇ ਆਦਮੀ ਜਾਣਦਾ ਹੈ",
+        "It knows a many men",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It knows each man",
+        "iha hara ādamī nū jāṇadā hai",
+        "ਇਹ ਹਰ ਆਦਮੀ ਨੂੰ ਜਾਣਦਾ ਹੈ",
+        "It knows each man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "man",
+            "adj": "each"
+        }
+    ],
+    [
+        "It knows the first mother",
+        "iha pahilī māṁ nū jāṇadī hai",
+        "ਇਹ ਪਹਿਲੀ ਮਾਂ ਨੂੰ ਜਾਣਦੀ ਹੈ",
+        "It knows the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It knows its many mothers",
+        "iha āpaṇī'āṁ bahuta sārī'āṁ māvāṁ nū jāṇadā hai",
+        "ਇਹ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਜਾਣਦਾ ਹੈ",
+        "It knows its many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "mother",
+            "det": "its",
+            "adj": "many"
+        }
+    ],
+    [
+        "It knows each mother",
+        "iha hara māṁ nū jāṇadī hai",
+        "ਇਹ ਹਰ ਮਾਂ ਨੂੰ ਜਾਣਦੀ ਹੈ",
+        "It knows each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "It knows a good student",
+        "iha ika cagā vidi'ārathī jāṇadā hai",
+        "ਇਹ ਇਕ ਚੰਗਾ ਵਿਦਿਆਰਥੀ ਜਾਣਦਾ ਹੈ",
+        "It knows a good student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "It knows the first student",
+        "iha pahilē vidi'ārathī nū jāṇadā hai",
+        "ਇਹ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦਾ ਹੈ",
+        "It knows the first student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It knows a many students",
+        "iha bahuta sārē vidi'ārathī'āṁ nū jāṇadā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਜਾਣਦਾ ਹੈ",
+        "It knows a many students",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It knows each student",
+        "Iha harēka vidi'ārathī nū jāṇadā hai",
+        "ਇਹ ਹਰੇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦਾ ਹੈ",
+        "It knows each student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "It knows its good thing",
+        "iha āpaṇī cagī cīza nū jāṇadā hai",
+        "ਇਹ ਆਪਣੀ ਚੰਗੀ ਚੀਜ਼ ਨੂੰ ਜਾਣਦਾ ਹੈ",
+        "It knows its good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "It knows its first thing",
+        "iha āpaṇī pahilī gala jāṇadā hai",
+        "ਇਹ ਆਪਣੀ ਪਹਿਲੀ ਗੱਲ ਜਾਣਦਾ ਹੈ",
+        "It knows its first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It knows its many things",
+        "iha isa dī'āṁ bahuta sārī'āṁ cīzāṁ jāṇadā hai",
+        "ਇਹ ਇਸ ਦੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਜਾਣਦਾ ਹੈ",
+        "It knows its many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It knows its each thing",
+        "iha isadī hara gala jāṇadā hai",
+        "ਇਹ ਇਸਦੀ ਹਰ ਗੱਲ ਜਾਣਦਾ ਹੈ",
+        "It knows its each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "It knows the first woman",
+        "iha pahilī knowsrata nū jāṇadī hai",
+        "ਇਹ ਪਹਿਲੀ knowsਰਤ ਨੂੰ ਜਾਣਦੀ ਹੈ",
+        "It knows the first woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It knows a many women",
+        "iha bahuta sārī'āṁ knowsratāṁ nū jāṇadā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੀਆਂ knowsਰਤਾਂ ਨੂੰ ਜਾਣਦਾ ਹੈ",
+        "It knows a many women",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It knows each woman",
+        "iha harēka knowsrata nū jāṇadā hai",
+        "ਇਹ ਹਰੇਕ knowsਰਤ ਨੂੰ ਜਾਣਦਾ ਹੈ",
+        "It knows each woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "It knows a good word",
+        "iha ika cagā śabada jāṇadā hai",
+        "ਇਹ ਇਕ ਚੰਗਾ ਸ਼ਬਦ ਜਾਣਦਾ ਹੈ",
+        "It knows a good word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "It knows the first word",
+        "iha pahilā śabada jāṇadā hai",
+        "ਇਹ ਪਹਿਲਾ ਸ਼ਬਦ ਜਾਣਦਾ ਹੈ",
+        "It knows the first word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "word",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It knows a many words",
+        "iha bahuta sārē śabada jāṇadā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੇ ਸ਼ਬਦ ਜਾਣਦਾ ਹੈ",
+        "It knows a many words",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It knows each word",
+        "iha harēka śabada nū jāṇadā hai",
+        "ਇਹ ਹਰੇਕ ਸ਼ਬਦ ਨੂੰ ਜਾਣਦਾ ਹੈ",
+        "It knows each word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "word",
+            "adj": "each"
+        }
+    ],
+    [
+        "It knows its good work",
+        "iha isa dē cagē kama nū jāṇadā hai",
+        "ਇਹ ਇਸ ਦੇ ਚੰਗੇ ਕੰਮ ਨੂੰ ਜਾਣਦਾ ਹੈ",
+        "It knows its good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "It knows its first work",
+        "iha isadā pahilā kama jāṇadā hai",
+        "ਇਹ ਇਸਦਾ ਪਹਿਲਾ ਕੰਮ ਜਾਣਦਾ ਹੈ",
+        "It knows its first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It knows its each work",
+        "iha isadē harēka kāraja nū jāṇadā hai",
+        "ਇਹ ਇਸਦੇ ਹਰੇਕ ਕਾਰਜ ਨੂੰ ਜਾਣਦਾ ਹੈ",
+        "It knows its each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "know",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "It sees a good book",
+        "iha ika cagī kitāba vēkhadī hai",
+        "ਇਹ ਇੱਕ ਚੰਗੀ ਕਿਤਾਬ ਵੇਖਦੀ ਹੈ",
+        "It sees a good book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "It sees each book",
+        "iha hara kitāba nū vēkhadā hai",
+        "ਇਹ ਹਰ ਕਿਤਾਬ ਨੂੰ ਵੇਖਦਾ ਹੈ",
+        "It sees each book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "book",
+            "adj": "each"
+        }
+    ],
+    [
+        "It sees the first child",
+        "iha pahilē bacē nū vēkhadā hai",
+        "ਇਹ ਪਹਿਲੇ ਬੱਚੇ ਨੂੰ ਵੇਖਦਾ ਹੈ",
+        "It sees the first child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "child",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It sees its many children",
+        "iha isadē bahuta sārē baci'āṁ nū vēkhadā hai",
+        "ਇਹ ਇਸਦੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚਿਆਂ ਨੂੰ ਵੇਖਦਾ ਹੈ",
+        "It sees its many children",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "child",
+            "det": "its",
+            "adj": "many"
+        }
+    ],
+    [
+        "It sees each child",
+        "iha harēka bacē nū vēkhadā hai",
+        "ਇਹ ਹਰੇਕ ਬੱਚੇ ਨੂੰ ਵੇਖਦਾ ਹੈ",
+        "It sees each child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "child",
+            "adj": "each"
+        }
+    ],
+    [
+        "It sees the first family",
+        "iha pahilē parivāra nū vēkhadā hai",
+        "ਇਹ ਪਹਿਲੇ ਪਰਿਵਾਰ ਨੂੰ ਵੇਖਦਾ ਹੈ",
+        "It sees the first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It sees its many families",
+        "iha isadē bahuta sārē parivāra vēkhadā hai",
+        "ਇਹ ਇਸਦੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰ ਵੇਖਦਾ ਹੈ",
+        "It sees its many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "family",
+            "det": "its",
+            "adj": "many"
+        }
+    ],
+    [
+        "It sees each family",
+        "iha harēka parivāra nū vēkhadā hai",
+        "ਇਹ ਹਰੇਕ ਪਰਿਵਾਰ ਨੂੰ ਵੇਖਦਾ ਹੈ",
+        "It sees each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "It sees a many hands",
+        "iha bahuta sārē hatha dēkhadā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੇ ਹੱਥ ਦੇਖਦਾ ਹੈ",
+        "It sees a many hands",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It sees each hand",
+        "iha hara hatha vēkhadā hai",
+        "ਇਹ ਹਰ ਹੱਥ ਵੇਖਦਾ ਹੈ",
+        "It sees each hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "hand",
+            "adj": "each"
+        }
+    ],
+    [
+        "It sees a first home",
+        "iha pahilā ghara vēkhadā hai",
+        "ਇਹ ਪਹਿਲਾ ਘਰ ਵੇਖਦਾ ਹੈ",
+        "It sees a first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It sees a many home",
+        "iha bahuta sārē ghara nū vēkhadā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੇ ਘਰ ਨੂੰ ਵੇਖਦਾ ਹੈ",
+        "It sees a many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "It sees a home",
+        "iha ika ghara vēkhadā hai",
+        "ਇਹ ਇੱਕ ਘਰ ਵੇਖਦਾ ਹੈ",
+        "It sees a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "It sees a good man",
+        "iha ika cagā ādamī vēkhadā hai",
+        "ਇਹ ਇੱਕ ਚੰਗਾ ਆਦਮੀ ਵੇਖਦਾ ਹੈ",
+        "It sees a good man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "It sees the first man",
+        "iha pahilē ādamī nū vēkhadā hai",
+        "ਇਹ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਵੇਖਦਾ ਹੈ",
+        "It sees the first man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "man",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It sees a many men",
+        "iha bahuta sārē ādamī vēkhadā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੇ ਆਦਮੀ ਵੇਖਦਾ ਹੈ",
+        "It sees a many men",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It sees each man",
+        "iha hara ādamī nū vēkhadā hai",
+        "ਇਹ ਹਰ ਆਦਮੀ ਨੂੰ ਵੇਖਦਾ ਹੈ",
+        "It sees each man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "man",
+            "adj": "each"
+        }
+    ],
+    [
+        "It sees the first mother",
+        "iha pahilī māṁ nū vēkhadā hai",
+        "ਇਹ ਪਹਿਲੀ ਮਾਂ ਨੂੰ ਵੇਖਦਾ ਹੈ",
+        "It sees the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It sees its many mothers",
+        "iha āpaṇī'āṁ bahuta sārī'āṁ māvāṁ nū vēkhadā hai",
+        "ਇਹ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਵੇਖਦਾ ਹੈ",
+        "It sees its many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "mother",
+            "det": "its",
+            "adj": "many"
+        }
+    ],
+    [
+        "It sees each mother",
+        "iha hara māṁ nū vēkhadā hai",
+        "ਇਹ ਹਰ ਮਾਂ ਨੂੰ ਵੇਖਦਾ ਹੈ",
+        "It sees each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "It sees the first room",
+        "iha pahilā kamarā vēkhadā hai",
+        "ਇਹ ਪਹਿਲਾ ਕਮਰਾ ਵੇਖਦਾ ਹੈ",
+        "It sees the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It sees a many rooms",
+        "iha bahuta sārē kamarē vēkhadā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੇ ਕਮਰੇ ਵੇਖਦਾ ਹੈ",
+        "It sees a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It sees each room",
+        "iha harēka kamarā vēkhadā hai",
+        "ਇਹ ਹਰੇਕ ਕਮਰਾ ਵੇਖਦਾ ਹੈ",
+        "It sees each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "It sees a good student",
+        "iha ika cagā vidi'ārathī vēkhadā hai",
+        "ਇਹ ਇੱਕ ਚੰਗਾ ਵਿਦਿਆਰਥੀ ਵੇਖਦਾ ਹੈ",
+        "It sees a good student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "It sees the first student",
+        "iha pahilē vidi'ārathī nū vēkhadā hai",
+        "ਇਹ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖਦਾ ਹੈ",
+        "It sees the first student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It sees a many students",
+        "iha bahuta sārē vidi'ārathī'āṁ nū vēkhadā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਵੇਖਦਾ ਹੈ",
+        "It sees a many students",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It sees each student",
+        "iha harēka vidi'ārathī nū vēkhadā hai",
+        "ਇਹ ਹਰੇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖਦਾ ਹੈ",
+        "It sees each student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "It sees a good thing",
+        "iha ika cagī cīza dēkhadī hai",
+        "ਇਹ ਇਕ ਚੰਗੀ ਚੀਜ਼ ਦੇਖਦੀ ਹੈ",
+        "It sees a good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "It sees the first thing",
+        "iha pahilī cīza vēkhadā hai",
+        "ਇਹ ਪਹਿਲੀ ਚੀਜ਼ ਵੇਖਦਾ ਹੈ",
+        "It sees the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It sees a many things",
+        "iha bahuta sārī'āṁ cīzāṁ vēkhadā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਵੇਖਦਾ ਹੈ",
+        "It sees a many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It sees each thing",
+        "iha hara cīja nū vēkhadā hai",
+        "ਇਹ ਹਰ ਚੀਜ ਨੂੰ ਵੇਖਦਾ ਹੈ",
+        "It sees each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "It sees the first woman",
+        "iha pahilī seesrata nū vēkhadā hai",
+        "ਇਹ ਪਹਿਲੀ seesਰਤ ਨੂੰ ਵੇਖਦਾ ਹੈ",
+        "It sees the first woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It sees a many women",
+        "iha bahuta sārī'āṁ seesratāṁ nū vēkhadā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੀਆਂ seesਰਤਾਂ ਨੂੰ ਵੇਖਦਾ ਹੈ",
+        "It sees a many women",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It sees each woman",
+        "iha hara seesrata nū vēkhadā hai",
+        "ਇਹ ਹਰ seesਰਤ ਨੂੰ ਵੇਖਦਾ ਹੈ",
+        "It sees each woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "see",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "It comes to the first family",
+        "iha pahilē parivāra dī gala ā'undī hai",
+        "ਇਹ ਪਹਿਲੇ ਪਰਿਵਾਰ ਦੀ ਗੱਲ ਆਉਂਦੀ ਹੈ",
+        "It comes to the first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "come",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It comes to its many families",
+        "iha isadē bahuta sārē parivārāṁ la'ī ā'undī hai",
+        "ਇਹ ਇਸਦੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਲਈ ਆਉਂਦੀ ਹੈ",
+        "It comes to its many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "come",
+            "noun": "family",
+            "det": "its",
+            "adj": "many"
+        }
+    ],
+    [
+        "It comes to each family",
+        "iha harēka parivāra la'ī ā'undā hai",
+        "ਇਹ ਹਰੇਕ ਪਰਿਵਾਰ ਲਈ ਆਉਂਦਾ ਹੈ",
+        "It comes to each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "come",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "It comes the first home",
+        "iha pahilā ghara ā'undā hai",
+        "ਇਹ ਪਹਿਲਾ ਘਰ ਆਉਂਦਾ ਹੈ",
+        "It comes the first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "come",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It comes many home",
+        "iha bahuta sārē ghara ā'undē hana",
+        "ਇਹ ਬਹੁਤ ਸਾਰੇ ਘਰ ਆਉਂਦੇ ਹਨ",
+        "It comes many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "come",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "It comes each home",
+        "iha hara ghara ā'undā hai",
+        "ਇਹ ਹਰ ਘਰ ਆਉਂਦਾ ਹੈ",
+        "It comes each home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "come",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "It comes to the first mother",
+        "iha pahilī māṁ dī gala ā'undī hai",
+        "ਇਹ ਪਹਿਲੀ ਮਾਂ ਦੀ ਗੱਲ ਆਉਂਦੀ ਹੈ",
+        "It comes to the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "come",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It comes to its many mothers",
+        "iha isa dī'āṁ bahuta sārī'āṁ māvāṁ nū ā'undā hai",
+        "ਇਹ ਇਸ ਦੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਆਉਂਦਾ ਹੈ",
+        "It comes to its many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "come",
+            "noun": "mother",
+            "det": "its",
+            "adj": "many"
+        }
+    ],
+    [
+        "It comes to each mother",
+        "iha hara māṁ dī ā'undī hai",
+        "ਇਹ ਹਰ ਮਾਂ ਦੀ ਆਉਂਦੀ ਹੈ",
+        "It comes to each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "come",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "It comes to the first room",
+        "iha pahilē kamarē vica ā'undī hai",
+        "ਇਹ ਪਹਿਲੇ ਕਮਰੇ ਵਿਚ ਆਉਂਦੀ ਹੈ",
+        "It comes to the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "come",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It comes to a many rooms",
+        "iha bahuta sārē kamari'āṁ dī gala ā'undī hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੇ ਕਮਰਿਆਂ ਦੀ ਗੱਲ ਆਉਂਦੀ ਹੈ",
+        "It comes to a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It comes to each room",
+        "iha hara kamarē vica ā'undī hai",
+        "ਇਹ ਹਰ ਕਮਰੇ ਵਿਚ ਆਉਂਦੀ ਹੈ",
+        "It comes to each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "come",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "It comes for a good week",
+        "iha ika cagē hafatē la'ī ā'i'ā hai",
+        "ਇਹ ਇੱਕ ਚੰਗੇ ਹਫ਼ਤੇ ਲਈ ਆਇਆ ਹੈ",
+        "It comes for a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "It comes for the first week",
+        "iha pahilē haphatē la'ī ā'undā hai",
+        "ਇਹ ਪਹਿਲੇ ਹਫਤੇ ਲਈ ਆਉਂਦਾ ਹੈ",
+        "It comes for the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "come",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It comes for a many a week",
+        "iha bahuta sārē haphatē la'ī ā'undā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੇ ਹਫਤੇ ਲਈ ਆਉਂਦਾ ਹੈ",
+        "It comes for a many a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It comes for each week",
+        "iha hara haphatē ā'undā hai",
+        "ਇਹ ਹਰ ਹਫਤੇ ਆਉਂਦਾ ਹੈ",
+        "It comes for each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "come",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "It comes to good work",
+        "iha cagē kama dī gala ā'undī hai",
+        "ਇਹ ਚੰਗੇ ਕੰਮ ਦੀ ਗੱਲ ਆਉਂਦੀ ਹੈ",
+        "It comes to good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "come",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "It comes to the first work",
+        "iha pahilē kama dī gala ā'undī hai",
+        "ਇਹ ਪਹਿਲੇ ਕੰਮ ਦੀ ਗੱਲ ਆਉਂਦੀ ਹੈ",
+        "It comes to the first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "come",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It comes to each work",
+        "iha hara kama vica ā'undā hai",
+        "ਇਹ ਹਰ ਕੰਮ ਵਿਚ ਆਉਂਦਾ ਹੈ",
+        "It comes to each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "come",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "It uses a good book",
+        "iha ika cagī kitāba dī varatōṁ karadā hai",
+        "ਇਹ ਇਕ ਚੰਗੀ ਕਿਤਾਬ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ",
+        "It uses a good book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "It uses each book",
+        "iha hara kitāba dī varatōṁ karadā hai",
+        "ਇਹ ਹਰ ਕਿਤਾਬ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ",
+        "It uses each book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "use",
+            "noun": "book",
+            "adj": "each"
+        }
+    ],
+    [
+        "It uses a many hands",
+        "iha bahuta sārē hathāṁ dī varatōṁ karadā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੇ ਹੱਥਾਂ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ",
+        "It uses a many hands",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It uses each hand",
+        "iha harēka hatha dī varatōṁ karadā hai",
+        "ਇਹ ਹਰੇਕ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ",
+        "It uses each hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "use",
+            "noun": "hand",
+            "adj": "each"
+        }
+    ],
+    [
+        "It uses the first room",
+        "iha pahilē kamarē dī varatōṁ karadā hai",
+        "ਇਹ ਪਹਿਲੇ ਕਮਰੇ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ",
+        "It uses the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "use",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It uses a many rooms",
+        "iha bahuta sārē kamarē varatadā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੇ ਕਮਰੇ ਵਰਤਦਾ ਹੈ",
+        "It uses a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It uses each room",
+        "iha harēka kamarē dī varatōṁ karadā hai",
+        "ਇਹ ਹਰੇਕ ਕਮਰੇ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ",
+        "It uses each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "use",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "It uses a good thing",
+        "iha ika cagī cīza dī varatōṁ karadā hai",
+        "ਇਹ ਇਕ ਚੰਗੀ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ",
+        "It uses a good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "It uses the first thing",
+        "iha pahilī cīza dī varatōṁ karadā hai",
+        "ਇਹ ਪਹਿਲੀ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ",
+        "It uses the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "use",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It uses a many things",
+        "Iha bahuta sārī'āṁ cīzāṁ dī varatōṁ karadā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ",
+        "It uses a many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It uses each thing",
+        "iha hara cīza dī varatōṁ karadā hai",
+        "ਇਹ ਹਰ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ",
+        "It uses each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "use",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "It uses a good week",
+        "iha ika cagā hafatā varatadā hai",
+        "ਇਹ ਇੱਕ ਚੰਗਾ ਹਫ਼ਤਾ ਵਰਤਦਾ ਹੈ",
+        "It uses a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "It uses the first week",
+        "iha pahilē haphatē dī varatōṁ karadā hai",
+        "ਇਹ ਪਹਿਲੇ ਹਫਤੇ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ",
+        "It uses the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "use",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It uses a many weeks",
+        "iha bahuta sārē hafatē varatadā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੇ ਹਫ਼ਤੇ ਵਰਤਦਾ ਹੈ",
+        "It uses a many weeks",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It uses each week",
+        "iha hara haphatē varatadā hai",
+        "ਇਹ ਹਰ ਹਫਤੇ ਵਰਤਦਾ ਹੈ",
+        "It uses each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "use",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "It uses a good word",
+        "iha ika cagā śabada varatadā hai",
+        "ਇਹ ਇੱਕ ਚੰਗਾ ਸ਼ਬਦ ਵਰਤਦਾ ਹੈ",
+        "It uses a good word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "It uses the first word",
+        "iha pahilē śabada dī varatōṁ karadā hai",
+        "ਇਹ ਪਹਿਲੇ ਸ਼ਬਦ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ",
+        "It uses the first word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "use",
+            "noun": "word",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It uses a many words",
+        "iha bahuta sārē śabada varatadā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੇ ਸ਼ਬਦ ਵਰਤਦਾ ਹੈ",
+        "It uses a many words",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It uses each word",
+        "iha harēka śabada dī varatōṁ karadā hai",
+        "ਇਹ ਹਰੇਕ ਸ਼ਬਦ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ",
+        "It uses each word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "use",
+            "noun": "word",
+            "adj": "each"
+        }
+    ],
+    [
+        "It finds a good book",
+        "iha ika cagī kitāba milī",
+        "ਇਹ ਇਕ ਚੰਗੀ ਕਿਤਾਬ ਮਿਲੀ",
+        "It finds a good book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "It finds each book",
+        "iha hara kitāba labhadī hai",
+        "ਇਹ ਹਰ ਕਿਤਾਬ ਲੱਭਦੀ ਹੈ",
+        "It finds each book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "find",
+            "noun": "book",
+            "adj": "each"
+        }
+    ],
+    [
+        "It finds a first home",
+        "iha ika pahilā ghara labhadā hai",
+        "ਇਹ ਇਕ ਪਹਿਲਾ ਘਰ ਲੱਭਦਾ ਹੈ",
+        "It finds a first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "find",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It finds a many home",
+        "iha bahuta sārā ghara labhadā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰਾ ਘਰ ਲੱਭਦਾ ਹੈ",
+        "It finds a many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "find",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "It finds a home",
+        "iha ika ghara labhadā hai",
+        "ਇਹ ਇੱਕ ਘਰ ਲੱਭਦਾ ਹੈ",
+        "It finds a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "find",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "It finds the first room",
+        "iha pahilā kamarā labhadā hai",
+        "ਇਹ ਪਹਿਲਾ ਕਮਰਾ ਲੱਭਦਾ ਹੈ",
+        "It finds the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "find",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It finds a many rooms",
+        "iha bahuta sārē kamarē labhadā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੇ ਕਮਰੇ ਲੱਭਦਾ ਹੈ",
+        "It finds a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It finds each room",
+        "iha hara kamarā labhadā hai",
+        "ਇਹ ਹਰ ਕਮਰਾ ਲੱਭਦਾ ਹੈ",
+        "It finds each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "find",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "It finds a good thing",
+        "iha ika cagī cīza labhadī hai",
+        "ਇਹ ਇਕ ਚੰਗੀ ਚੀਜ਼ ਲੱਭਦੀ ਹੈ",
+        "It finds a good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "It finds the first thing",
+        "iha pahilī cīza labhadī hai",
+        "ਇਹ ਪਹਿਲੀ ਚੀਜ਼ ਲੱਭਦੀ ਹੈ",
+        "It finds the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "find",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It finds a many things",
+        "iha bahuta sārī'āṁ cīzāṁ labhadā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਲੱਭਦਾ ਹੈ",
+        "It finds a many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It finds each thing",
+        "iha hara cīja nū labha laindā hai",
+        "ਇਹ ਹਰ ਚੀਜ ਨੂੰ ਲੱਭ ਲੈਂਦਾ ਹੈ",
+        "It finds each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "find",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "It finds the first woman",
+        "iha pahilī findsrata labhadī hai",
+        "ਇਹ ਪਹਿਲੀ findsਰਤ ਲੱਭਦੀ ਹੈ",
+        "It finds the first woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "find",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It finds a many women",
+        "iha bahuta sārī'āṁ findsratāṁ nū labhadā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੀਆਂ findsਰਤਾਂ ਨੂੰ ਲੱਭਦਾ ਹੈ",
+        "It finds a many women",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It finds each woman",
+        "iha harēka findsrata nū labhadā hai",
+        "ਇਹ ਹਰੇਕ findsਰਤ ਨੂੰ ਲੱਭਦਾ ਹੈ",
+        "It finds each woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "find",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "It finds a good word",
+        "iha ika cagā śabada labhadā hai",
+        "ਇਹ ਇੱਕ ਚੰਗਾ ਸ਼ਬਦ ਲੱਭਦਾ ਹੈ",
+        "It finds a good word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "It finds the first word",
+        "iha pahilā śabada labhadā hai",
+        "ਇਹ ਪਹਿਲਾ ਸ਼ਬਦ ਲੱਭਦਾ ਹੈ",
+        "It finds the first word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "find",
+            "noun": "word",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It finds a many words",
+        "iha bahuta sārē śabada labhadā hai",
+        "ਇਹ ਬਹੁਤ ਸਾਰੇ ਸ਼ਬਦ ਲੱਭਦਾ ਹੈ",
+        "It finds a many words",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "It finds each word",
+        "iha harēka śabada nū labhadā hai",
+        "ਇਹ ਹਰੇਕ ਸ਼ਬਦ ਨੂੰ ਲੱਭਦਾ ਹੈ",
+        "It finds each word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "find",
+            "noun": "word",
+            "adj": "each"
+        }
+    ],
+    [
+        "It finds good work",
+        "iha cagā kama labhadā hai",
+        "ਇਹ ਚੰਗਾ ਕੰਮ ਲੱਭਦਾ ਹੈ",
+        "It finds good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "find",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "It finds the first work",
+        "iha pahilā kama labhadā hai",
+        "ਇਹ ਪਹਿਲਾ ਕੰਮ ਲੱਭਦਾ ਹੈ",
+        "It finds the first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "find",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "It finds each work",
+        "iha hara kama labhadā hai",
+        "ਇਹ ਹਰ ਕੰਮ ਲੱਭਦਾ ਹੈ",
+        "It finds each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "find",
+            "noun": "work",
+            "adj": "each"
+        }
+    ]
+]

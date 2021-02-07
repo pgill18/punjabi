@@ -1,0 +1,831 @@
+[
+    [
+        "She had been her mother",
+        "uha usadī māṁ rahī sī",
+        "ਉਹ ਉਸਦੀ ਮਾਂ ਰਹੀ ਸੀ",
+        "She had been her mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "mother",
+            "det": "her"
+        }
+    ],
+    [
+        "She had been a student",
+        "uha ika vidi'ārathī sī",
+        "ਉਹ ਇੱਕ ਵਿਦਿਆਰਥੀ ਸੀ",
+        "She had been a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "She had been a woman",
+        "uha ika beenrata sī",
+        "ਉਹ ਇੱਕ beenਰਤ ਸੀ",
+        "She had been a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "She had had a business",
+        "usadā kārōbāra sī",
+        "ਉਸਦਾ ਕਾਰੋਬਾਰ ਸੀ",
+        "She had had a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "She had had a day",
+        "usa nē ika dina sī",
+        "ਉਸ ਨੇ ਇੱਕ ਦਿਨ ਸੀ",
+        "She had had a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "She had had a lot",
+        "usa kōla bahuta kujha sī",
+        "ਉਸ ਕੋਲ ਬਹੁਤ ਕੁਝ ਸੀ",
+        "She had had a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "lot"
+        }
+    ],
+    [
+        "She had had her mother",
+        "usadī āpaṇī māṁ hō'ī sī",
+        "ਉਸਦੀ ਆਪਣੀ ਮਾਂ ਹੋਈ ਸੀ",
+        "She had had her mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "mother",
+            "det": "her"
+        }
+    ],
+    [
+        "She had had a problem",
+        "usa nū ika samasi'ā sī",
+        "ਉਸ ਨੂੰ ਇੱਕ ਸਮੱਸਿਆ ਸੀ",
+        "She had had a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "She had had a question",
+        "usa nē ika savāla kītā sī",
+        "ਉਸ ਨੇ ਇੱਕ ਸਵਾਲ ਕੀਤਾ ਸੀ",
+        "She had had a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "She had had a story",
+        "usadī ika kahāṇī sī",
+        "ਉਸਦੀ ਇਕ ਕਹਾਣੀ ਸੀ",
+        "She had had a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "She had had a week",
+        "usa nū ika hafatā hō'i'ā sī",
+        "ਉਸ ਨੂੰ ਇੱਕ ਹਫ਼ਤਾ ਹੋਇਆ ਸੀ",
+        "She had had a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "She had had a year",
+        "usa nū ika sāla hō'i'ā sī",
+        "ਉਸ ਨੂੰ ਇਕ ਸਾਲ ਹੋਇਆ ਸੀ",
+        "She had had a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "She had done a business",
+        "usanē ika kārōbāra kītā sī",
+        "ਉਸਨੇ ਇੱਕ ਕਾਰੋਬਾਰ ਕੀਤਾ ਸੀ",
+        "She had done a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "She had done a lot",
+        "usanē bahuta kujha kītā sī",
+        "ਉਸਨੇ ਬਹੁਤ ਕੁਝ ਕੀਤਾ ਸੀ",
+        "She had done a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "lot"
+        }
+    ],
+    [
+        "She had told about life",
+        "usanē zidagī bārē dasi'ā sī",
+        "ਉਸਨੇ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਦੱਸਿਆ ਸੀ",
+        "She had told about life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "life"
+        }
+    ],
+    [
+        "She had told a man",
+        "usanē ika ādamī nū dasi'ā sī",
+        "ਉਸਨੇ ਇੱਕ ਆਦਮੀ ਨੂੰ ਦੱਸਿਆ ਸੀ",
+        "She had told a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "She had told her mother",
+        "usanē āpaṇī māṁ nū dasi'ā sī",
+        "ਉਸਨੇ ਆਪਣੀ ਮਾਂ ਨੂੰ ਦੱਸਿਆ ਸੀ",
+        "She had told her mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "her"
+        }
+    ],
+    [
+        "She had told about a problem",
+        "usanē ika samasi'ā bārē dasi'ā sī",
+        "ਉਸਨੇ ਇੱਕ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸਿਆ ਸੀ",
+        "She had told about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "She had told a story",
+        "usanē ika kahāṇī suṇā ditī sī",
+        "ਉਸਨੇ ਇੱਕ ਕਹਾਣੀ ਸੁਣਾ ਦਿੱਤੀ ਸੀ",
+        "She had told a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "She had told about a study",
+        "usanē ika adhi'aina bārē dasi'ā sī",
+        "ਉਸਨੇ ਇੱਕ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸਿਆ ਸੀ",
+        "She had told about a study",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a"
+        }
+    ],
+    [
+        "She had told a woman",
+        "usanē ika toldrata nū dasi'ā sī",
+        "ਉਸਨੇ ਇੱਕ toldਰਤ ਨੂੰ ਦੱਸਿਆ ਸੀ",
+        "She had told a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "She had asked a man",
+        "usanē ika ādamī nū puchi'ā sī",
+        "ਉਸਨੇ ਇੱਕ ਆਦਮੀ ਨੂੰ ਪੁੱਛਿਆ ਸੀ",
+        "She had asked a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "She had asked her mother",
+        "usanē āpaṇī māṁ nū puchi'ā sī",
+        "ਉਸਨੇ ਆਪਣੀ ਮਾਂ ਨੂੰ ਪੁੱਛਿਆ ਸੀ",
+        "She had asked her mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "her"
+        }
+    ],
+    [
+        "She had asked a question",
+        "usanē ika savāla puchi'ā sī",
+        "ਉਸਨੇ ਇੱਕ ਸਵਾਲ ਪੁੱਛਿਆ ਸੀ",
+        "She had asked a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "She had asked a student",
+        "usanē ika vidi'ārathī nū puchi'ā sī",
+        "ਉਸਨੇ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛਿਆ ਸੀ",
+        "She had asked a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "She had asked a woman",
+        "usanē ika askedrata nū puchi'ā sī",
+        "ਉਸਨੇ ਇੱਕ askedਰਤ ਨੂੰ ਪੁੱਛਿਆ ਸੀ",
+        "She had asked a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "She had tried for a day",
+        "usanē ika dina la'ī kōśiśa kītī sī",
+        "ਉਸਨੇ ਇੱਕ ਦਿਨ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਸੀ",
+        "She had tried for a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "She had tried for a month",
+        "usanē ika mahīnē la'ī kōśiśa kītī sī",
+        "ਉਸਨੇ ਇੱਕ ਮਹੀਨੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਸੀ",
+        "She had tried for a month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "month",
+            "det": "a"
+        }
+    ],
+    [
+        "She had tried for a week",
+        "usanē ika hafatē la'ī kōśiśa kītī sī",
+        "ਉਸਨੇ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਸੀ",
+        "She had tried for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "She had tried for a year",
+        "usanē ika sāla kōśiśa kītī sī",
+        "ਉਸਨੇ ਇੱਕ ਸਾਲ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਸੀ",
+        "She had tried for a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "She had left a business",
+        "usanē ika kārōbāra chaḍa ditā sī",
+        "ਉਸਨੇ ਇੱਕ ਕਾਰੋਬਾਰ ਛੱਡ ਦਿੱਤਾ ਸੀ",
+        "She had left a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "She had called her mother",
+        "usanē āpaṇī māṁ nū bulā'i'ā sī",
+        "ਉਸਨੇ ਆਪਣੀ ਮਾਂ ਨੂੰ ਬੁਲਾਇਆ ਸੀ",
+        "She had called her mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "call",
+            "noun": "mother",
+            "det": "her"
+        }
+    ]
+]

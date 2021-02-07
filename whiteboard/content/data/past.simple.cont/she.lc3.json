@@ -1,0 +1,1388 @@
+[
+    [
+        "She was being her mother",
+        "uha usadī māṁ baṇa rahī sī",
+        "ਉਹ ਉਸਦੀ ਮਾਂ ਬਣ ਰਹੀ ਸੀ",
+        "She was being her mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "mother",
+            "det": "her"
+        }
+    ],
+    [
+        "She was being people",
+        "uha lōka sī",
+        "ਉਹ ਲੋਕ ਸੀ",
+        "She was being people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "people"
+        }
+    ],
+    [
+        "She was being a woman",
+        "uha ika beingrata sī",
+        "ਉਹ ਇਕ beingਰਤ ਸੀ",
+        "She was being a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "She was having a business",
+        "uha ika kārōbāra kara rahī sī",
+        "ਉਹ ਇੱਕ ਕਾਰੋਬਾਰ ਕਰ ਰਹੀ ਸੀ",
+        "She was having a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "She was having a day",
+        "uha dina batīta kara rahī sī",
+        "ਉਹ ਦਿਨ ਬਤੀਤ ਕਰ ਰਹੀ ਸੀ",
+        "She was having a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "She was having her family",
+        "uha āpaṇā parivāra rakha rahī sī",
+        "ਉਹ ਆਪਣਾ ਪਰਿਵਾਰ ਰੱਖ ਰਹੀ ਸੀ",
+        "She was having her family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "family",
+            "det": "her"
+        }
+    ],
+    [
+        "She was having the group",
+        "uha samūha kara rahī sī",
+        "ਉਹ ਸਮੂਹ ਕਰ ਰਹੀ ਸੀ",
+        "She was having the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "She was having a job",
+        "uha naukarī kara rahī sī",
+        "ਉਹ ਨੌਕਰੀ ਕਰ ਰਹੀ ਸੀ",
+        "She was having a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "She was having money",
+        "usa kōla paisā sī",
+        "ਉਸ ਕੋਲ ਪੈਸਾ ਸੀ",
+        "She was having money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "money"
+        }
+    ],
+    [
+        "She was having her mother",
+        "uha āpaṇī māṁ lai rahī sī",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਲੈ ਰਹੀ ਸੀ",
+        "She was having her mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "mother",
+            "det": "her"
+        }
+    ],
+    [
+        "She was having the right",
+        "uha sahī sī",
+        "ਉਹ ਸਹੀ ਸੀ",
+        "She was having the right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "right"
+        }
+    ],
+    [
+        "She was having a room",
+        "usa kōla ika kamarā sī",
+        "ਉਸ ਕੋਲ ਇੱਕ ਕਮਰਾ ਸੀ",
+        "She was having a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "She was having a story",
+        "uha ika kahāṇī kara rahī sī",
+        "ਉਹ ਇੱਕ ਕਹਾਣੀ ਕਰ ਰਹੀ ਸੀ",
+        "She was having a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "She was having a thing",
+        "usa kōla ika cīza sī",
+        "ਉਸ ਕੋਲ ਇੱਕ ਚੀਜ਼ ਸੀ",
+        "She was having a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "She was having her work",
+        "uha āpaṇā kama kara rahī sī",
+        "ਉਹ ਆਪਣਾ ਕੰਮ ਕਰ ਰਹੀ ਸੀ",
+        "She was having her work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "work"
+        }
+    ],
+    [
+        "She was doing a business",
+        "uha ika kārōbāra kara rahī sī",
+        "ਉਹ ਇੱਕ ਕਾਰੋਬਾਰ ਕਰ ਰਹੀ ਸੀ",
+        "She was doing a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "She was doing a job",
+        "uha ika naukarī kara rahī sī",
+        "ਉਹ ਇੱਕ ਨੌਕਰੀ ਕਰ ਰਹੀ ਸੀ",
+        "She was doing a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "She was doing it right",
+        "uha sahī kara rahī sī",
+        "ਉਹ ਸਹੀ ਕਰ ਰਹੀ ਸੀ",
+        "She was doing it right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "right"
+        }
+    ],
+    [
+        "She was doing a thing",
+        "uha kujha kara rahī sī",
+        "ਉਹ ਕੁਝ ਕਰ ਰਹੀ ਸੀ",
+        "She was doing a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "She was doing work",
+        "uha kama kara rahī sī",
+        "ਉਹ ਕੰਮ ਕਰ ਰਹੀ ਸੀ",
+        "She was doing work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "work"
+        }
+    ],
+    [
+        "She was thinking about a business",
+        "uha ika kārōbāra bārē sōca rahī sī",
+        "ਉਹ ਇੱਕ ਕਾਰੋਬਾਰ ਬਾਰੇ ਸੋਚ ਰਹੀ ਸੀ",
+        "She was thinking about a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "think",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "She was thinking about her family",
+        "uha āpaṇē parivāra bārē sōca rahī sī",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਬਾਰੇ ਸੋਚ ਰਹੀ ਸੀ",
+        "She was thinking about her family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "think",
+            "noun": "family",
+            "det": "her"
+        }
+    ],
+    [
+        "She was thinking about the group",
+        "uha samūha bārē sōca rahī sī",
+        "ਉਹ ਸਮੂਹ ਬਾਰੇ ਸੋਚ ਰਹੀ ਸੀ",
+        "She was thinking about the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "think",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "She was thinking about a job",
+        "uha kisē naukarī bārē sōca rahī sī",
+        "ਉਹ ਕਿਸੇ ਨੌਕਰੀ ਬਾਰੇ ਸੋਚ ਰਹੀ ਸੀ",
+        "She was thinking about a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "think",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "She was thinking about money",
+        "uha paisē bārē sōca rahī sī",
+        "ਉਹ ਪੈਸੇ ਬਾਰੇ ਸੋਚ ਰਹੀ ਸੀ",
+        "She was thinking about money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "think",
+            "noun": "money"
+        }
+    ],
+    [
+        "She was thinking about her mother",
+        "uha āpaṇī māṁ bārē sōca rahī sī",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਬਾਰੇ ਸੋਚ ਰਹੀ ਸੀ",
+        "She was thinking about her mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "think",
+            "noun": "mother",
+            "det": "her"
+        }
+    ],
+    [
+        "She was thinking about people",
+        "uha lōkāṁ bārē sōca rahī sī",
+        "ਉਹ ਲੋਕਾਂ ਬਾਰੇ ਸੋਚ ਰਹੀ ਸੀ",
+        "She was thinking about people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "think",
+            "noun": "people"
+        }
+    ],
+    [
+        "She was thinking right",
+        "uha sahī sōca rahī sī",
+        "ਉਹ ਸਹੀ ਸੋਚ ਰਹੀ ਸੀ",
+        "She was thinking right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "think",
+            "noun": "right"
+        }
+    ],
+    [
+        "She was thinking about a story",
+        "uha ika kahāṇī bārē sōca rahī sī",
+        "ਉਹ ਇਕ ਕਹਾਣੀ ਬਾਰੇ ਸੋਚ ਰਹੀ ਸੀ",
+        "She was thinking about a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "think",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "She was thinking about work",
+        "uha kama bārē sōca rahī sī",
+        "ਉਹ ਕੰਮ ਬਾਰੇ ਸੋਚ ਰਹੀ ਸੀ",
+        "She was thinking about work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "think",
+            "noun": "work"
+        }
+    ],
+    [
+        "She was looking after a business",
+        "uha ika kārōbāra dēkha rahī sī",
+        "ਉਹ ਇੱਕ ਕਾਰੋਬਾਰ ਦੇਖ ਰਹੀ ਸੀ",
+        "She was looking after a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "look",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "She was looking after her family",
+        "uha āpaṇē parivāra dī dēkhabhāla kara rahī sī",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਦੀ ਦੇਖਭਾਲ ਕਰ ਰਹੀ ਸੀ",
+        "She was looking after her family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "look",
+            "noun": "family",
+            "det": "her"
+        }
+    ],
+    [
+        "She was looking at money",
+        "uha paisē vala dēkha rahī sī",
+        "ਉਹ ਪੈਸੇ ਵੱਲ ਦੇਖ ਰਹੀ ਸੀ",
+        "She was looking at money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "look",
+            "noun": "money"
+        }
+    ],
+    [
+        "She was looking after her mother",
+        "uha āpaṇī māṁ dī dēkhabhāla kara rahī sī",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਦੀ ਦੇਖਭਾਲ ਕਰ ਰਹੀ ਸੀ",
+        "She was looking after her mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "look",
+            "noun": "mother",
+            "det": "her"
+        }
+    ],
+    [
+        "She was looking after people",
+        "uha lōkāṁ dī dēkhabhāla kara rahī sī",
+        "ਉਹ ਲੋਕਾਂ ਦੀ ਦੇਖਭਾਲ ਕਰ ਰਹੀ ਸੀ",
+        "She was looking after people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "look",
+            "noun": "people"
+        }
+    ],
+    [
+        "She was looking at a woman",
+        "uha ika atrata vala dēkha rahī sī",
+        "ਉਹ ਇਕ atਰਤ ਵੱਲ ਦੇਖ ਰਹੀ ਸੀ",
+        "She was looking at a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "look",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "She was looking for work",
+        "uha kama dī bhāla vica sī",
+        "ਉਹ ਕੰਮ ਦੀ ਭਾਲ ਵਿਚ ਸੀ",
+        "She was looking for work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "look",
+            "noun": "work"
+        }
+    ],
+    [
+        "She was wanting a day",
+        "uha ika dina cāhudā sī",
+        "ਉਹ ਇੱਕ ਦਿਨ ਚਾਹੁੰਦਾ ਸੀ",
+        "She was wanting a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "want",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "She was wanting her family",
+        "uha āpaṇē parivāra nū cāhudī sī",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਚਾਹੁੰਦੀ ਸੀ",
+        "She was wanting her family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "want",
+            "noun": "family",
+            "det": "her"
+        }
+    ],
+    [
+        "She was wanting the group",
+        "uha samūha cāhudā sī",
+        "ਉਹ ਸਮੂਹ ਚਾਹੁੰਦਾ ਸੀ",
+        "She was wanting the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "want",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "She was wanting a job",
+        "uha naukarī cāhudā sī",
+        "ਉਹ ਨੌਕਰੀ ਚਾਹੁੰਦਾ ਸੀ",
+        "She was wanting a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "want",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "She was wanting money",
+        "uha paisē dī maga kara rahī sī",
+        "ਉਹ ਪੈਸੇ ਦੀ ਮੰਗ ਕਰ ਰਹੀ ਸੀ",
+        "She was wanting money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "want",
+            "noun": "money"
+        }
+    ],
+    [
+        "She was wanting a room",
+        "uha ika kamarā cāhudī sī",
+        "ਉਹ ਇੱਕ ਕਮਰਾ ਚਾਹੁੰਦੀ ਸੀ",
+        "She was wanting a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "want",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "She was wanting a story",
+        "uha ika kahāṇī cāhudā sī",
+        "ਉਹ ਇੱਕ ਕਹਾਣੀ ਚਾਹੁੰਦਾ ਸੀ",
+        "She was wanting a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "want",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "She was wanting a thing",
+        "uha ika cīza cāhudā sī",
+        "ਉਹ ਇੱਕ ਚੀਜ਼ ਚਾਹੁੰਦਾ ਸੀ",
+        "She was wanting a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "want",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "She was wanting work",
+        "uha kama cāhudā sī",
+        "ਉਹ ਕੰਮ ਚਾਹੁੰਦਾ ਸੀ",
+        "She was wanting work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "want",
+            "noun": "work"
+        }
+    ],
+    [
+        "She was giving money",
+        "uha paisē dē rahī sī",
+        "ਉਹ ਪੈਸੇ ਦੇ ਰਹੀ ਸੀ",
+        "She was giving money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "give",
+            "noun": "money"
+        }
+    ],
+    [
+        "She was giving a thing",
+        "uha ika cīza dē rahī sī",
+        "ਉਹ ਇੱਕ ਚੀਜ਼ ਦੇ ਰਹੀ ਸੀ",
+        "She was giving a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "give",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "She was working for a day",
+        "uha ika dina kama kara rahī sī",
+        "ਉਹ ਇੱਕ ਦਿਨ ਕੰਮ ਕਰ ਰਹੀ ਸੀ",
+        "She was working for a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "work",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "She was working for her family",
+        "uha āpaṇē parivāra la'ī kama kara rahī sī",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਲਈ ਕੰਮ ਕਰ ਰਹੀ ਸੀ",
+        "She was working for her family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "work",
+            "noun": "family",
+            "det": "her"
+        }
+    ],
+    [
+        "She was working for the government",
+        "uha sarakāra la'ī kama kara rahī sī",
+        "ਉਹ ਸਰਕਾਰ ਲਈ ਕੰਮ ਕਰ ਰਹੀ ਸੀ",
+        "She was working for the government",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "work",
+            "noun": "government",
+            "det": "the"
+        }
+    ],
+    [
+        "She was working with the group",
+        "uha samūha nāla kama kara rahī sī",
+        "ਉਹ ਸਮੂਹ ਨਾਲ ਕੰਮ ਕਰ ਰਹੀ ਸੀ",
+        "She was working with the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "work",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "She was working for money",
+        "uha paisē la'ī kama kara rahī sī",
+        "ਉਹ ਪੈਸੇ ਲਈ ਕੰਮ ਕਰ ਰਹੀ ਸੀ",
+        "She was working for money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "work",
+            "noun": "money"
+        }
+    ],
+    [
+        "She was working with people",
+        "uha lōkāṁ nāla kama kara rahī sī",
+        "ਉਹ ਲੋਕਾਂ ਨਾਲ ਕੰਮ ਕਰ ਰਹੀ ਸੀ",
+        "She was working with people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "work",
+            "noun": "people"
+        }
+    ]
+]

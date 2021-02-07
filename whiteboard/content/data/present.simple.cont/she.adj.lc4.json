@@ -1,0 +1,2615 @@
+[
+    [
+        "She is coming for a good week",
+        "uha ika cagē haphatē la'ī ā rahī hai",
+        "ਉਹ ਇੱਕ ਚੰਗੇ ਹਫਤੇ ਲਈ ਆ ਰਹੀ ਹੈ",
+        "She is coming for a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is coming for the first week",
+        "uha pahilē hafatē ā rahī hai",
+        "ਉਹ ਪਹਿਲੇ ਹਫ਼ਤੇ ਆ ਰਹੀ ਹੈ",
+        "She is coming for the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "mother",
+            "det": "her",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is coming for a many a week",
+        "uha hafatē vica bahuta sārē lōkāṁ la'ī ā rahī hai",
+        "ਉਹ ਹਫ਼ਤੇ ਵਿੱਚ ਬਹੁਤ ਸਾਰੇ ਲੋਕਾਂ ਲਈ ਆ ਰਹੀ ਹੈ",
+        "She is coming for a many a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is coming to the first work",
+        "uha pahilē kama tē ā rahī hai",
+        "ਉਹ ਪਹਿਲੇ ਕੰਮ ਤੇ ਆ ਰਹੀ ਹੈ",
+        "She is coming to the first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "She is coming to each work",
+        "uha hara kama tē ā rahī hai",
+        "ਉਹ ਹਰ ਕੰਮ ਤੇ ਆ ਰਹੀ ਹੈ",
+        "She is coming to each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is coming to the first world",
+        "uha pahilī dunī'āṁ vica ā rahī hai",
+        "ਉਹ ਪਹਿਲੀ ਦੁਨੀਆਂ ਵਿਚ ਆ ਰਹੀ ਹੈ",
+        "She is coming to the first world",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is coming to the many worlds",
+        "uha bahuta sārē sasāra vica ā rahī hai",
+        "ਉਹ ਬਹੁਤ ਸਾਰੇ ਸੰਸਾਰ ਵਿਚ ਆ ਰਹੀ ਹੈ",
+        "She is coming to the many worlds",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is coming to each world",
+        "uha hara ika sasāra vica ā rahī hai",
+        "ਉਹ ਹਰ ਇਕ ਸੰਸਾਰ ਵਿਚ ਆ ਰਹੀ ਹੈ",
+        "She is coming to each world",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is thinking about a good book",
+        "uha ika cagī kitāba bārē sōca rahī hai",
+        "ਉਹ ਇਕ ਚੰਗੀ ਕਿਤਾਬ ਬਾਰੇ ਸੋਚ ਰਹੀ ਹੈ",
+        "She is thinking about a good book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is thinking about each book",
+        "uha hara kitāba bārē sōca rahī hai",
+        "ਉਹ ਹਰ ਕਿਤਾਬ ਬਾਰੇ ਸੋਚ ਰਹੀ ਹੈ",
+        "She is thinking about each book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is thinking about the first child",
+        "uha pahilē bacē bārē sōca rahī hai",
+        "ਉਹ ਪਹਿਲੇ ਬੱਚੇ ਬਾਰੇ ਸੋਚ ਰਹੀ ਹੈ",
+        "She is thinking about the first child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "business",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "She is thinking about her many children",
+        "uha āpaṇē bahuta sārē baci'āṁ bārē sōca rahī hai",
+        "ਉਹ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚਿਆਂ ਬਾਰੇ ਸੋਚ ਰਹੀ ਹੈ",
+        "She is thinking about her many children",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "business",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is thinking about the first family",
+        "uha pahilē parivāra bārē sōca rahī hai",
+        "ਉਹ ਪਹਿਲੇ ਪਰਿਵਾਰ ਬਾਰੇ ਸੋਚ ਰਹੀ ਹੈ",
+        "She is thinking about the first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "She is thinking about her many families",
+        "uha āpaṇē bahuta sārē parivārāṁ bārē sōca rahī hai",
+        "ਉਹ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਬਾਰੇ ਸੋਚ ਰਹੀ ਹੈ",
+        "She is thinking about her many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "day",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is thinking about each family",
+        "uha hara parivāra bārē sōca rahī hai",
+        "ਉਹ ਹਰ ਪਰਿਵਾਰ ਬਾਰੇ ਸੋਚ ਰਹੀ ਹੈ",
+        "She is thinking about each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is thinking about the first group",
+        "uha pahilē samūha bārē sōca rahī hai",
+        "ਉਹ ਪਹਿਲੇ ਸਮੂਹ ਬਾਰੇ ਸੋਚ ਰਹੀ ਹੈ",
+        "She is thinking about the first group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "day",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is thinking about the first people",
+        "uha pahilē lōkāṁ bārē sōca rahī hai",
+        "ਉਹ ਪਹਿਲੇ ਲੋਕਾਂ ਬਾਰੇ ਸੋਚ ਰਹੀ ਹੈ",
+        "She is thinking about the first people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "lot",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is thinking about many people",
+        "uha bahuta sārē lōkāṁ bārē sōca rahī hai",
+        "ਉਹ ਬਹੁਤ ਸਾਰੇ ਲੋਕਾਂ ਬਾਰੇ ਸੋਚ ਰਹੀ ਹੈ",
+        "She is thinking about many people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "lot",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is thinking about the first problem",
+        "uha pahilī samasi'ā bārē sōca rahī hai",
+        "ਉਹ ਪਹਿਲੀ ਸਮੱਸਿਆ ਬਾਰੇ ਸੋਚ ਰਹੀ ਹੈ",
+        "She is thinking about the first problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "lot",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is thinking about a many problems",
+        "uha bahuta sārī'āṁ muśakalāṁ bārē sōca rahī hai",
+        "ਉਹ ਬਹੁਤ ਸਾਰੀਆਂ ਮੁਸ਼ਕਲਾਂ ਬਾਰੇ ਸੋਚ ਰਹੀ ਹੈ",
+        "She is thinking about a many problems",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is thinking about each problem",
+        "uha hara samasi'ā bārē sōca rahī hai",
+        "ਉਹ ਹਰ ਸਮੱਸਿਆ ਬਾਰੇ ਸੋਚ ਰਹੀ ਹੈ",
+        "She is thinking about each problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "mother",
+            "det": "her",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is thinking about a good question",
+        "uha ika cagē savāla bārē sōca rahī hai",
+        "ਉਹ ਇਕ ਚੰਗੇ ਸਵਾਲ ਬਾਰੇ ਸੋਚ ਰਹੀ ਹੈ",
+        "She is thinking about a good question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is thinking about many schools",
+        "uha bahuta sārē sakūlāṁ bārē sōca rahī hai",
+        "ਉਹ ਬਹੁਤ ਸਾਰੇ ਸਕੂਲਾਂ ਬਾਰੇ ਸੋਚ ਰਹੀ ਹੈ",
+        "She is thinking about many schools",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "problem",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is thinking about each school",
+        "uha hara sakūla bārē sōca rahī hai",
+        "ਉਹ ਹਰ ਸਕੂਲ ਬਾਰੇ ਸੋਚ ਰਹੀ ਹੈ",
+        "She is thinking about each school",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is thinking about a good story",
+        "uha ika cagī kahāṇī bārē sōca rahī hai",
+        "ਉਹ ਇਕ ਚੰਗੀ ਕਹਾਣੀ ਬਾਰੇ ਸੋਚ ਰਹੀ ਹੈ",
+        "She is thinking about a good story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "problem",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is thinking about the first story",
+        "uha pahilī kahāṇī bārē sōca rahī hai",
+        "ਉਹ ਪਹਿਲੀ ਕਹਾਣੀ ਬਾਰੇ ਸੋਚ ਰਹੀ ਹੈ",
+        "She is thinking about the first story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "question",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "She is thinking about a many stories",
+        "uha bahuta sārī'āṁ kahāṇī'āṁ bārē sōca rahī hai",
+        "ਉਹ ਬਹੁਤ ਸਾਰੀਆਂ ਕਹਾਣੀਆਂ ਬਾਰੇ ਸੋਚ ਰਹੀ ਹੈ",
+        "She is thinking about a many stories",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "question",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is thinking about each story",
+        "Uha hara kahāṇī bārē sōca rahī hai",
+        "ਉਹ ਹਰ ਕਹਾਣੀ ਬਾਰੇ ਸੋਚ ਰਹੀ ਹੈ",
+        "She is thinking about each story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "question",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is thinking about good work",
+        "uha cagē kama bārē sōca rahī hai",
+        "ਉਹ ਚੰਗੇ ਕੰਮ ਬਾਰੇ ਸੋਚ ਰਹੀ ਹੈ",
+        "She is thinking about good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "question",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is looking after the first child",
+        "uha pahilē bacē dī dēkhabhāla kara rahī hai",
+        "ਉਹ ਪਹਿਲੇ ਬੱਚੇ ਦੀ ਦੇਖਭਾਲ ਕਰ ਰਹੀ ਹੈ",
+        "She is looking after the first child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "story",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "She is looking after her many children",
+        "uha āpaṇē bahuta sārē baci'āṁ dī dēkhabhāla kara rahī hai",
+        "ਉਹ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚਿਆਂ ਦੀ ਦੇਖਭਾਲ ਕਰ ਰਹੀ ਹੈ",
+        "She is looking after her many children",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "story",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is looking after each child",
+        "uha hara bacē dī dēkhabhāla kara rahī hai",
+        "ਉਹ ਹਰ ਬੱਚੇ ਦੀ ਦੇਖਭਾਲ ਕਰ ਰਹੀ ਹੈ",
+        "She is looking after each child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "story",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is looking after the first family",
+        "uha pahilē parivāra dī dēkhabhāla kara rahī hai",
+        "ਉਹ ਪਹਿਲੇ ਪਰਿਵਾਰ ਦੀ ਦੇਖਭਾਲ ਕਰ ਰਹੀ ਹੈ",
+        "She is looking after the first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "story",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is looking at a many women",
+        "Uha bahuta sārī'āṁ.Ratāṁ vala vēkha rihā hai",
+        "ਉਹ ਬਹੁਤ ਸਾਰੀਆਂ .ਰਤਾਂ ਵੱਲ ਵੇਖ ਰਿਹਾ ਹੈ",
+        "She is looking at a many women",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "She is looking at each woman",
+        "uha hara atrata vala dēkha rahī hai",
+        "ਉਹ ਹਰ atਰਤ ਵੱਲ ਦੇਖ ਰਹੀ ਹੈ",
+        "She is looking at each woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is looking for good work",
+        "uha cagē kama dī bhāla vica hai",
+        "ਉਹ ਚੰਗੇ ਕੰਮ ਦੀ ਭਾਲ ਵਿਚ ਹੈ",
+        "She is looking for good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is looking for the first work",
+        "uha pahilē kama dī bhāla vica hai",
+        "ਉਹ ਪਹਿਲੇ ਕੰਮ ਦੀ ਭਾਲ ਵਿਚ ਹੈ",
+        "She is looking for the first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is looking at each world",
+        "uha hara ika sasāra nū vēkha rahī hai",
+        "ਉਹ ਹਰ ਇਕ ਸੰਸਾਰ ਨੂੰ ਵੇਖ ਰਹੀ ਹੈ",
+        "She is looking at each world",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "business",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "She is wanting a good book",
+        "uha ika cagī kitāba cāhudā hai",
+        "ਉਹ ਇੱਕ ਚੰਗੀ ਕਿਤਾਬ ਚਾਹੁੰਦਾ ਹੈ",
+        "She is wanting a good book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "business",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is wanting a many days",
+        "uha bahuta dina cāhudī hai",
+        "ਉਹ ਬਹੁਤ ਦਿਨ ਚਾਹੁੰਦੀ ਹੈ",
+        "She is wanting a many days",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "lot",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is wanting each day",
+        "uha hara dina cāhudā hai",
+        "ਉਹ ਹਰ ਦਿਨ ਚਾਹੁੰਦਾ ਹੈ",
+        "She is wanting each day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "lot",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is wanting the first family",
+        "uha pahilā parivāra cāhudā hai",
+        "ਉਹ ਪਹਿਲਾ ਪਰਿਵਾਰ ਚਾਹੁੰਦਾ ਹੈ",
+        "She is wanting the first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "lot",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is seeing each world",
+        "uha hara ika sasāra nū vēkha rahī hai",
+        "ਉਹ ਹਰ ਇਕ ਸੰਸਾਰ ਨੂੰ ਵੇਖ ਰਹੀ ਹੈ",
+        "She is seeing each world",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "life",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is coming to the many countries",
+        "Uha bahuta sārē dēśāṁ vica ā rahī hai",
+        "ਉਹ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਵਿਚ ਆ ਰਹੀ ਹੈ",
+        "She is coming to the many countries",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "life",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is coming to each country",
+        "uha hara dēśa ā rahī hai",
+        "ਉਹ ਹਰ ਦੇਸ਼ ਆ ਰਹੀ ਹੈ",
+        "She is coming to each country",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "She is coming to the first family",
+        "uha pahilē parivāra vica ā rahī hai",
+        "ਉਹ ਪਹਿਲੇ ਪਰਿਵਾਰ ਵਿਚ ਆ ਰਹੀ ਹੈ",
+        "She is coming to the first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "man",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is coming to her many families",
+        "uha āpaṇē bahuta sārē parivārāṁ kōla ā rahī hai",
+        "ਉਹ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਕੋਲ ਆ ਰਹੀ ਹੈ",
+        "She is coming to her many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is coming to each family",
+        "uha hara parivāra vica ā rahī hai",
+        "ਉਹ ਹਰ ਪਰਿਵਾਰ ਵਿਚ ਆ ਰਹੀ ਹੈ",
+        "She is coming to each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "man",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is coming from the first group",
+        "uha pahilē samūha vicōṁ ā rahī hai",
+        "ਉਹ ਪਹਿਲੇ ਸਮੂਹ ਵਿਚੋਂ ਆ ਰਹੀ ਹੈ",
+        "She is coming from the first group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is coming from the many groups",
+        "uha bahuta sārē samūhāṁ tōṁ ā rahī hai",
+        "ਉਹ ਬਹੁਤ ਸਾਰੇ ਸਮੂਹਾਂ ਤੋਂ ਆ ਰਹੀ ਹੈ",
+        "She is coming from the many groups",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "her",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is coming from each group",
+        "uha hara samūha vicōṁ ā rahī hai",
+        "ਉਹ ਹਰ ਸਮੂਹ ਵਿਚੋਂ ਆ ਰਹੀ ਹੈ",
+        "She is coming from each group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is coming each home",
+        "uha hara ghara ā rahī hai",
+        "ਉਹ ਹਰ ਘਰ ਆ ਰਹੀ ਹੈ",
+        "She is coming each home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is coming to the first job",
+        "uha pahilī naukarī tē ā rahī hai",
+        "ਉਹ ਪਹਿਲੀ ਨੌਕਰੀ ਤੇ ਆ ਰਹੀ ਹੈ",
+        "She is coming to the first job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is coming to a many jobs",
+        "uha bahuta sārī'āṁ naukarī'āṁ vala ā rahī hai",
+        "ਉਹ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਵੱਲ ਆ ਰਹੀ ਹੈ",
+        "She is coming to a many jobs",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "problem",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is coming to each mother",
+        "uha hara māṁ kōla ā rahī hai",
+        "ਉਹ ਹਰ ਮਾਂ ਕੋਲ ਆ ਰਹੀ ਹੈ",
+        "She is coming to each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "She is coming to the first place",
+        "uha pahilē sathāna tē ā rahī hai",
+        "ਉਹ ਪਹਿਲੇ ਸਥਾਨ ਤੇ ਆ ਰਹੀ ਹੈ",
+        "She is coming to the first place",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "story",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is coming to a many places",
+        "uha bahuta sārī'āṁ thāvāṁ tē ā rahī hai",
+        "ਉਹ ਬਹੁਤ ਸਾਰੀਆਂ ਥਾਵਾਂ ਤੇ ਆ ਰਹੀ ਹੈ",
+        "She is coming to a many places",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is coming to each place",
+        "uha hara jag'hā ā rahī hai",
+        "ਉਹ ਹਰ ਜਗ੍ਹਾ ਆ ਰਹੀ ਹੈ",
+        "She is coming to each place",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "story",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is coming to the first room",
+        "uha pahilē kamarē vica ā rahī hai",
+        "ਉਹ ਪਹਿਲੇ ਕਮਰੇ ਵਿਚ ਆ ਰਹੀ ਹੈ",
+        "She is coming to the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "study",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is coming to a many rooms",
+        "uha bahuta sārē kamari'āṁ vica ā rahī hai",
+        "ਉਹ ਬਹੁਤ ਸਾਰੇ ਕਮਰਿਆਂ ਵਿਚ ਆ ਰਹੀ ਹੈ",
+        "She is coming to a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is coming to each room",
+        "uha hara kamarē vica ā rahī hai",
+        "ਉਹ ਹਰ ਕਮਰੇ ਵਿਚ ਆ ਰਹੀ ਹੈ",
+        "She is coming to each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "study",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is being a good student",
+        "uha ika cagī vidi'ārathī hai",
+        "ਉਹ ਇੱਕ ਚੰਗੀ ਵਿਦਿਆਰਥੀ ਹੈ",
+        "She is being a good student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is being the first student",
+        "uha pahilī vidi'ārathī hai",
+        "ਉਹ ਪਹਿਲੀ ਵਿਦਿਆਰਥੀ ਹੈ",
+        "She is being the first student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is being a many students",
+        "uha bahuta sārē vidi'ārathī hana",
+        "ਉਹ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀ ਹਨ",
+        "She is being a many students",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is having each group",
+        "Uha harēka samūha vica hai",
+        "ਉਹ ਹਰੇਕ ਸਮੂਹ ਵਿੱਚ ਹੈ",
+        "She is having each group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "She is having a many hands",
+        "usa dē bahuta sārē hatha hana",
+        "ਉਸ ਦੇ ਬਹੁਤ ਸਾਰੇ ਹੱਥ ਹਨ",
+        "She is having a many hands",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "man",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is having each hand",
+        "usadā hara hatha hai",
+        "ਉਸਦਾ ਹਰ ਹੱਥ ਹੈ",
+        "She is having each hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is having a first home",
+        "usadā pahilā ghara hai",
+        "ਉਸਦਾ ਪਹਿਲਾ ਘਰ ਹੈ",
+        "She is having a first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "man",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is having a many home",
+        "usadā bahuta sārā ghara hai",
+        "ਉਸਦਾ ਬਹੁਤ ਸਾਰਾ ਘਰ ਹੈ",
+        "She is having a many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is having a home",
+        "usadā ghara hai",
+        "ਉਸਦਾ ਘਰ ਹੈ",
+        "She is having a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "her",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is having the first job",
+        "uha pahilī naukarī kara rahī hai",
+        "ਉਹ ਪਹਿਲੀ ਨੌਕਰੀ ਕਰ ਰਹੀ ਹੈ",
+        "She is having the first job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is having a first lot",
+        "uha ika bahuta sārā kara rahī hai",
+        "ਉਹ ਇੱਕ ਬਹੁਤ ਸਾਰਾ ਕਰ ਰਹੀ ਹੈ",
+        "She is having a first lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "She is having a many lots",
+        "usa kōla bahuta sārī'āṁ cīzāṁ hana",
+        "ਉਸ ਕੋਲ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਹਨ",
+        "She is having a many lots",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "question",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is having a lot",
+        "uha bahuta kujha kara rahī hai",
+        "ਉਹ ਬਹੁਤ ਕੁਝ ਕਰ ਰਹੀ ਹੈ",
+        "She is having a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is having the first mother",
+        "usa dī pahilī māṁ hai",
+        "ਉਸ ਦੀ ਪਹਿਲੀ ਮਾਂ ਹੈ",
+        "She is having the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "question",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is having her many mothers",
+        "uha āpaṇī'āṁ bahuta sārī'āṁ māvāṁ nū janama rahī hai",
+        "ਉਹ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਜਨਮ ਰਹੀ ਹੈ",
+        "She is having her many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "She is having each mother",
+        "usa dī hara māṁ hai",
+        "ਉਸ ਦੀ ਹਰ ਮਾਂ ਹੈ",
+        "She is having each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is having the first place",
+        "uha pahilē sathāna tē hai",
+        "ਉਹ ਪਹਿਲੇ ਸਥਾਨ ਤੇ ਹੈ",
+        "She is having the first place",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is having a many places",
+        "usa kōla bahuta sārī'āṁ thāvāṁ hana",
+        "ਉਸ ਕੋਲ ਬਹੁਤ ਸਾਰੀਆਂ ਥਾਵਾਂ ਹਨ",
+        "She is having a many places",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is having each point",
+        "uha hara nukatā rakha rahī hai",
+        "ਉਹ ਹਰ ਨੁਕਤਾ ਰੱਖ ਰਹੀ ਹੈ",
+        "She is having each point",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is having the first problem",
+        "usa nū pahilī samasi'ā hai",
+        "ਉਸ ਨੂੰ ਪਹਿਲੀ ਸਮੱਸਿਆ ਹੈ",
+        "She is having the first problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is having a many problems",
+        "usa nū bahuta sārī'āṁ muśakalāṁ ā rahī'āṁ hana",
+        "ਉਸ ਨੂੰ ਬਹੁਤ ਸਾਰੀਆਂ ਮੁਸ਼ਕਲਾਂ ਆ ਰਹੀਆਂ ਹਨ",
+        "She is having a many problems",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is having each week",
+        "Uha hara hafatē ā'undī hai",
+        "ਉਹ ਹਰ ਹਫ਼ਤੇ ਆਉਂਦੀ ਹੈ",
+        "She is having each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "day",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "She is having her good work",
+        "uha āpaṇā cagā kama kara rahī hai",
+        "ਉਹ ਆਪਣਾ ਚੰਗਾ ਕੰਮ ਕਰ ਰਹੀ ਹੈ",
+        "She is having her good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "day",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is having her first work",
+        "uha āpaṇā pahilā kama kara rahī hai",
+        "ਉਹ ਆਪਣਾ ਪਹਿਲਾ ਕੰਮ ਕਰ ਰਹੀ ਹੈ",
+        "She is having her first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "day",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is having her each work",
+        "uha usadā hara kama karavā rahī hai",
+        "ਉਹ ਉਸਦਾ ਹਰ ਕੰਮ ਕਰਵਾ ਰਹੀ ਹੈ",
+        "She is having her each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "day",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is doing a many lots",
+        "uha bahuta sārā kara rahī hai",
+        "ਉਹ ਬਹੁਤ ਸਾਰਾ ਕਰ ਰਹੀ ਹੈ",
+        "She is doing a many lots",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "month",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is doing a lot",
+        "uha bahuta kara rahī hai",
+        "ਉਹ ਬਹੁਤ ਕਰ ਰਹੀ ਹੈ",
+        "She is doing a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "month",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is doing a good part",
+        "uha cagā hisā lai rahī hai",
+        "ਉਹ ਚੰਗਾ ਹਿੱਸਾ ਲੈ ਰਹੀ ਹੈ",
+        "She is doing a good part",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "month",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is doing it the first right",
+        "uha iha sabha tōṁ pahilāṁ kara rahī hai",
+        "ਉਹ ਇਹ ਸਭ ਤੋਂ ਪਹਿਲਾਂ ਕਰ ਰਹੀ ਹੈ",
+        "She is doing it the first right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "She is doing it many right",
+        "uha isa nū bahuta sahī kara rahī hai",
+        "ਉਹ ਇਸ ਨੂੰ ਬਹੁਤ ਸਹੀ ਕਰ ਰਹੀ ਹੈ",
+        "She is doing it many right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is doing it each right",
+        "uha iha sabha sahī kara rahī hai",
+        "ਉਹ ਇਹ ਸਭ ਸਹੀ ਕਰ ਰਹੀ ਹੈ",
+        "She is doing it each right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is doing a good thing",
+        "uha ika cagī cīza kara rahī hai",
+        "ਉਹ ਇਕ ਚੰਗੀ ਚੀਜ਼ ਕਰ ਰਹੀ ਹੈ",
+        "She is doing a good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is doing the first thing",
+        "uha pahilī cīza kara rahī hai",
+        "ਉਹ ਪਹਿਲੀ ਚੀਜ਼ ਕਰ ਰਹੀ ਹੈ",
+        "She is doing the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "She is doing a many things",
+        "uha bahuta sārī'āṁ cīzāṁ kara rahī hai",
+        "ਉਹ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਕਰ ਰਹੀ ਹੈ",
+        "She is doing a many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "leave",
+            "noun": "business",
+            "adj": "each"
+        }
+    ],
+    [
+        "She is getting the first month",
+        "uha pahilē mahīnē dī hō rahī hai",
+        "ਉਹ ਪਹਿਲੇ ਮਹੀਨੇ ਦੀ ਹੋ ਰਹੀ ਹੈ",
+        "She is getting the first month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "call",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "She is getting a many a month",
+        "uha ika mahīnē vica bahuta sārā prāpata kara rahī hai",
+        "ਉਹ ਇੱਕ ਮਹੀਨੇ ਵਿੱਚ ਬਹੁਤ ਸਾਰਾ ਪ੍ਰਾਪਤ ਕਰ ਰਹੀ ਹੈ",
+        "She is getting a many a month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "call",
+            "noun": "mother",
+            "det": "her",
+            "adj": "many"
+        }
+    ],
+    [
+        "She is getting each month",
+        "uha hara mahīnē mila rahī hai",
+        "ਉਹ ਹਰ ਮਹੀਨੇ ਮਿਲ ਰਹੀ ਹੈ",
+        "She is getting each month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "call",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ]
+]

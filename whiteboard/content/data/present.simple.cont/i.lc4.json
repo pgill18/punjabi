@@ -1,0 +1,779 @@
+[
+    [
+        "I am being a student",
+        "maiṁ ika vidi'ārathī hāṁ",
+        "ਮੈਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਹਾਂ",
+        "I am being a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "I am having a business",
+        "mērā kārōbāra hō rihā hai",
+        "ਮੇਰਾ ਕਾਰੋਬਾਰ ਹੋ ਰਿਹਾ ਹੈ",
+        "I am having a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "I am having a day",
+        "maiṁ ika dina lai rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਦਿਨ ਲੈ ਰਿਹਾ ਹਾਂ",
+        "I am having a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "I am having a lot",
+        "mērē kōla bahuta kujha hai",
+        "ਮੇਰੇ ਕੋਲ ਬਹੁਤ ਕੁਝ ਹੈ",
+        "I am having a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "lot"
+        }
+    ],
+    [
+        "I am having my mother",
+        "mainū mērī māṁ mila rahī hai",
+        "ਮੈਨੂੰ ਮੇਰੀ ਮਾਂ ਮਿਲ ਰਹੀ ਹੈ",
+        "I am having my mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "det": "my"
+        }
+    ],
+    [
+        "I am having a problem",
+        "mainū ika samasi'ā hō rahī hai",
+        "ਮੈਨੂੰ ਇੱਕ ਸਮੱਸਿਆ ਹੋ ਰਹੀ ਹੈ",
+        "I am having a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "I am having a question",
+        "mainū ika praśana hō rihā hai",
+        "ਮੈਨੂੰ ਇੱਕ ਪ੍ਰਸ਼ਨ ਹੋ ਰਿਹਾ ਹੈ",
+        "I am having a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "I am having a story",
+        "maiṁ ika kahāṇī lai rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਕਹਾਣੀ ਲੈ ਰਿਹਾ ਹਾਂ",
+        "I am having a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "I am having a week",
+        "mainū ika haphatā hō rihā hai",
+        "ਮੈਨੂੰ ਇੱਕ ਹਫਤਾ ਹੋ ਰਿਹਾ ਹੈ",
+        "I am having a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "I am having a year",
+        "mērā ika sāla hō rihā hai",
+        "ਮੇਰਾ ਇਕ ਸਾਲ ਹੋ ਰਿਹਾ ਹੈ",
+        "I am having a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "I am doing a business",
+        "maiṁ ika kārōbāra kara rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਕਾਰੋਬਾਰ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am doing a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "I am doing a lot",
+        "maiṁ bahuta kujha kara rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਕੁਝ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am doing a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "lot"
+        }
+    ],
+    [
+        "I am telling about life",
+        "maiṁ zidagī bārē dasa rihā hāṁ",
+        "ਮੈਂ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਹਾਂ",
+        "I am telling about life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "life"
+        }
+    ],
+    [
+        "I am telling a man",
+        "maiṁ ika ādamī nū dasa rihā hāṁ",
+        "ਮੈਂ ਇਕ ਆਦਮੀ ਨੂੰ ਦੱਸ ਰਿਹਾ ਹਾਂ",
+        "I am telling a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "I am telling my mother",
+        "maiṁ āpaṇī māṁ nū dasa rihā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਦੱਸ ਰਿਹਾ ਹਾਂ",
+        "I am telling my mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "my"
+        }
+    ],
+    [
+        "I am telling about a problem",
+        "maiṁ ika samasi'ā bārē dasa rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਹਾਂ",
+        "I am telling about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "I am telling a story",
+        "maiṁ ika kahāṇī suṇā rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਕਹਾਣੀ ਸੁਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am telling a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "I am telling about a study",
+        "maiṁ ika adhi'aina bārē dasa rihā hāṁ",
+        "ਮੈਂ ਇਕ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਹਾਂ",
+        "I am telling about a study",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a"
+        }
+    ],
+    [
+        "I am telling a woman",
+        "maiṁ ika tellingrata nū dasa rihā hāṁ",
+        "ਮੈਂ ਇਕ tellingਰਤ ਨੂੰ ਦੱਸ ਰਿਹਾ ਹਾਂ",
+        "I am telling a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "I am asking a man",
+        "maiṁ ika ādamī nū pucha rihā hāṁ",
+        "ਮੈਂ ਇਕ ਆਦਮੀ ਨੂੰ ਪੁੱਛ ਰਿਹਾ ਹਾਂ",
+        "I am asking a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "I am asking my mother",
+        "maiṁ āpaṇī māṁ nū pucha rihā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਪੁੱਛ ਰਿਹਾ ਹਾਂ",
+        "I am asking my mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "my"
+        }
+    ],
+    [
+        "I am asking a question",
+        "maiṁ ika praśana pucha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਪ੍ਰਸ਼ਨ ਪੁੱਛ ਰਿਹਾ ਹਾਂ",
+        "I am asking a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "I am asking a student",
+        "maiṁ ika vidi'ārathī nū pucha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛ ਰਿਹਾ ਹਾਂ",
+        "I am asking a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "I am asking a woman",
+        "maiṁ ika askingrata nū pucha rihā hāṁ",
+        "ਮੈਂ ਇਕ askingਰਤ ਨੂੰ ਪੁੱਛ ਰਿਹਾ ਹਾਂ",
+        "I am asking a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "I am trying for a day",
+        "maiṁ ika dina dī kōśiśa kara rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਦਿਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am trying for a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "try",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "I am trying for a month",
+        "maiṁ ika mahīnē la'ī kōśiśa kara rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਮਹੀਨੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am trying for a month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "try",
+            "noun": "month",
+            "det": "a"
+        }
+    ],
+    [
+        "I am trying for a week",
+        "maiṁ ika haphatē la'ī kōśiśa kara rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਹਫਤੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am trying for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "try",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "I am trying for a year",
+        "maiṁ ika sāla la'ī kōśiśa kara rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਸਾਲ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am trying for a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "try",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "I am leaving a business",
+        "maiṁ ika kārōbāra chaḍa rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਕਾਰੋਬਾਰ ਛੱਡ ਰਿਹਾ ਹਾਂ",
+        "I am leaving a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "I am calling my mother",
+        "maiṁ āpaṇī māṁ nū bulā rihā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਬੁਲਾ ਰਿਹਾ ਹਾਂ",
+        "I am calling my mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "call",
+            "noun": "mother",
+            "det": "my"
+        }
+    ]
+]

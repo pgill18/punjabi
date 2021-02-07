@@ -1,0 +1,779 @@
+[
+    [
+        "You were a student",
+        "tusīṁ vidi'ārathī sī",
+        "ਤੁਸੀਂ ਵਿਦਿਆਰਥੀ ਸੀ",
+        "You were a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "You had a business",
+        "tuhāḍā vapāra sī",
+        "ਤੁਹਾਡਾ ਵਪਾਰ ਸੀ",
+        "You had a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "You had a day",
+        "tuhāḍē kōla ika dina sī",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਦਿਨ ਸੀ",
+        "You had a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "You had a lot",
+        "tuhāḍē kōla bahuta sī",
+        "ਤੁਹਾਡੇ ਕੋਲ ਬਹੁਤ ਸੀ",
+        "You had a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "lot"
+        }
+    ],
+    [
+        "You had your mother",
+        "tuhāḍī āpaṇī māṁ sī",
+        "ਤੁਹਾਡੀ ਆਪਣੀ ਮਾਂ ਸੀ",
+        "You had your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "det": "your"
+        }
+    ],
+    [
+        "You had a problem",
+        "tuhānū ika samasi'ā sī",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਸਮੱਸਿਆ ਸੀ",
+        "You had a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "You had a question",
+        "tuhāḍē kōla ika praśana sī",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਪ੍ਰਸ਼ਨ ਸੀ",
+        "You had a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "You had a story",
+        "tuhāḍē kōla ika kahāṇī sī",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਕਹਾਣੀ ਸੀ",
+        "You had a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "You had a week",
+        "tuhāḍē kōla ika hafatā sī",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇਕ ਹਫ਼ਤਾ ਸੀ",
+        "You had a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "You had a year",
+        "tuhāḍē kōla ika sāla sī",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਸਾਲ ਸੀ",
+        "You had a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "You did a business",
+        "tusīṁ ika kārōbāra kītā",
+        "ਤੁਸੀਂ ਇੱਕ ਕਾਰੋਬਾਰ ਕੀਤਾ",
+        "You did a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "You did a lot",
+        "tusīṁ bahuta kītā",
+        "ਤੁਸੀਂ ਬਹੁਤ ਕੀਤਾ",
+        "You did a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "lot"
+        }
+    ],
+    [
+        "You told about life",
+        "tusīṁ zidagī bārē dasi'ā",
+        "ਤੁਸੀਂ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਦੱਸਿਆ",
+        "You told about life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "life"
+        }
+    ],
+    [
+        "You told a man",
+        "tusīṁ ika ādamī nū kihā",
+        "ਤੁਸੀਂ ਇਕ ਆਦਮੀ ਨੂੰ ਕਿਹਾ",
+        "You told a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "You told your mother",
+        "tusīṁ āpaṇī māṁ nū kihā",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਕਿਹਾ",
+        "You told your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "your"
+        }
+    ],
+    [
+        "You told about a problem",
+        "tusīṁ ika samasi'ā bārē dasi'ā",
+        "ਤੁਸੀਂ ਇੱਕ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸਿਆ",
+        "You told about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "You told a story",
+        "tusīṁ ika kahāṇī suṇā ditī",
+        "ਤੁਸੀਂ ਇਕ ਕਹਾਣੀ ਸੁਣਾ ਦਿੱਤੀ",
+        "You told a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "You told about a study",
+        "tusīṁ ika adhi'aina bārē dasi'ā",
+        "ਤੁਸੀਂ ਇਕ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸਿਆ",
+        "You told about a study",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a"
+        }
+    ],
+    [
+        "You told a woman",
+        "tusīṁ ika toldrata nū kihā",
+        "ਤੁਸੀਂ ਇਕ toldਰਤ ਨੂੰ ਕਿਹਾ",
+        "You told a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "You asked a man",
+        "tusīṁ ika ādamī nū puchi'ā",
+        "ਤੁਸੀਂ ਇਕ ਆਦਮੀ ਨੂੰ ਪੁੱਛਿਆ",
+        "You asked a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "You asked your mother",
+        "tusīṁ āpaṇī māṁ nū kihā",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਕਿਹਾ",
+        "You asked your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "your"
+        }
+    ],
+    [
+        "You asked a question",
+        "tusīṁ ika praśana puchi'ā",
+        "ਤੁਸੀਂ ਇੱਕ ਪ੍ਰਸ਼ਨ ਪੁੱਛਿਆ",
+        "You asked a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "You asked a student",
+        "tusīṁ ika vidi'ārathī nū kihā",
+        "ਤੁਸੀਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਕਿਹਾ",
+        "You asked a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "You asked a woman",
+        "tusīṁ ika askedrata nū puchi'ā",
+        "ਤੁਸੀਂ ਇਕ askedਰਤ ਨੂੰ ਪੁੱਛਿਆ",
+        "You asked a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "You tried for a day",
+        "tusīṁ ika dina la'ī kōśiśa kītī",
+        "ਤੁਸੀਂ ਇੱਕ ਦਿਨ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ",
+        "You tried for a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "You tried for a month",
+        "tusīṁ ika mahīnē la'ī kōśiśa kītī",
+        "ਤੁਸੀਂ ਇੱਕ ਮਹੀਨੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ",
+        "You tried for a month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "month",
+            "det": "a"
+        }
+    ],
+    [
+        "You tried for a week",
+        "tusīṁ ika hafatē la'ī kōśiśa kītī",
+        "ਤੁਸੀਂ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ",
+        "You tried for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "You tried for a year",
+        "tusīṁ ika sāla kōśiśa kītī",
+        "ਤੁਸੀਂ ਇੱਕ ਸਾਲ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ",
+        "You tried for a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "You left a business",
+        "tusīṁ ika kārōbāra chaḍa ditā",
+        "ਤੁਸੀਂ ਇੱਕ ਕਾਰੋਬਾਰ ਛੱਡ ਦਿੱਤਾ",
+        "You left a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "You called your mother",
+        "tusīṁ āpaṇī māṁ nū bulā'i'ā",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਬੁਲਾਇਆ",
+        "You called your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "call",
+            "noun": "mother",
+            "det": "your"
+        }
+    ]
+]

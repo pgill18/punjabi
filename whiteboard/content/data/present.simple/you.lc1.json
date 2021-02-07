@@ -1,0 +1,1651 @@
+[
+    [
+        "You are your child",
+        "Tusīṁ āpaṇē bacē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬੱਚੇ ਹੋ",
+        "You are your child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "child",
+            "det": "your"
+        }
+    ],
+    [
+        "You are a student",
+        "tusīṁ vidi'ārathī hō",
+        "ਤੁਸੀਂ ਵਿਦਿਆਰਥੀ ਹੋ",
+        "You are a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "You have a book",
+        "tuhāḍē kōla ika kitāba hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਕਿਤਾਬ ਹੈ",
+        "You have a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "book",
+            "det": "a"
+        }
+    ],
+    [
+        "You have your child",
+        "tuhāḍā bacā hai",
+        "ਤੁਹਾਡਾ ਬੱਚਾ ਹੈ",
+        "You have your child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "child",
+            "det": "your"
+        }
+    ],
+    [
+        "You have your family",
+        "tuhāḍā āpaṇā parivāra hai",
+        "ਤੁਹਾਡਾ ਆਪਣਾ ਪਰਿਵਾਰ ਹੈ",
+        "You have your family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "family",
+            "det": "your"
+        }
+    ],
+    [
+        "You have a hand",
+        "tuhāḍē kōla ika hatha hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਹੱਥ ਹੈ",
+        "You have a hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "hand",
+            "det": "a"
+        }
+    ],
+    [
+        "You have a home",
+        "tuhāḍē kōla ika ghara hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਘਰ ਹੈ",
+        "You have a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "home"
+        }
+    ],
+    [
+        "You have your mother",
+        "tuhāḍī āpaṇī māṁ hai",
+        "ਤੁਹਾਡੀ ਆਪਣੀ ਮਾਂ ਹੈ",
+        "You have your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "det": "your"
+        }
+    ],
+    [
+        "You have a room",
+        "tuhāḍē kōla ika kamarā hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਕਮਰਾ ਹੈ",
+        "You have a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "You have a thing",
+        "tuhāḍē kōla ika cīza hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇਕ ਚੀਜ਼ ਹੈ",
+        "You have a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "You have water",
+        "tuhāḍē kōla pāṇī hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਪਾਣੀ ਹੈ",
+        "You have water",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "water"
+        }
+    ],
+    [
+        "You have a week",
+        "tuhāḍē kōla ika hafatā hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇਕ ਹਫ਼ਤਾ ਹੈ",
+        "You have a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "You have your work",
+        "Tuhāḍē kōla tuhāḍā kama hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਤੁਹਾਡਾ ਕੰਮ ਹੈ",
+        "You have your work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "work"
+        }
+    ],
+    [
+        "You do a thing",
+        "tusīṁ ika kama karadē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਕੰਮ ਕਰਦੇ ਹੋ",
+        "You do a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "You do work",
+        "tusīṁ kama karadē hō",
+        "ਤੁਸੀਂ ਕੰਮ ਕਰਦੇ ਹੋ",
+        "You do work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "work"
+        }
+    ],
+    [
+        "You go to your family",
+        "tusīṁ āpaṇē parivāra kōla jāndē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਜਾਂਦੇ ਹੋ",
+        "You go to your family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "family",
+            "det": "your"
+        }
+    ],
+    [
+        "You go home",
+        "tusīṁ ghara jā'ō",
+        "ਤੁਸੀਂ ਘਰ ਜਾਓ",
+        "You go home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "home"
+        }
+    ],
+    [
+        "You go to your mother",
+        "tusīṁ āpaṇī māṁ kōla jāndē hō",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਕੋਲ ਜਾਂਦੇ ਹੋ",
+        "You go to your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "mother",
+            "det": "your"
+        }
+    ],
+    [
+        "You go to a room",
+        "tusīṁ ika kamarē vica jāndē hō",
+        "ਤੁਸੀਂ ਇਕ ਕਮਰੇ ਵਿਚ ਜਾਂਦੇ ਹੋ",
+        "You go to a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "You go to a student",
+        "tusīṁ ika vidi'ārathī kōla jāndē hō",
+        "ਤੁਸੀਂ ਇਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾਂਦੇ ਹੋ",
+        "You go to a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "You go for a week",
+        "tusīṁ ika hafatē la'ī jā'ō",
+        "ਤੁਸੀਂ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਜਾਓ",
+        "You go for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "You go to work",
+        "tusīṁ kama'tē jāndē hō",
+        "ਤੁਸੀਂ ਕੰਮ 'ਤੇ ਜਾਂਦੇ ਹੋ",
+        "You go to work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work"
+        }
+    ],
+    [
+        "You know your child",
+        "tusīṁ āpaṇē bacē nū jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know your child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "child",
+            "det": "your"
+        }
+    ],
+    [
+        "You know your family",
+        "tusīṁ āpaṇē parivāra nū jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know your family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "family",
+            "det": "your"
+        }
+    ],
+    [
+        "You know a man",
+        "tusīṁ ika ādamī nū jāṇadē hō",
+        "ਤੁਸੀਂ ਇਕ ਆਦਮੀ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "You know your mother",
+        "tusīṁ āpaṇī māṁ nū jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "mother",
+            "det": "your"
+        }
+    ],
+    [
+        "You know a student",
+        "tusīṁ ika vidi'ārathī nū jāṇadē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "You know your thing",
+        "tusīṁ āpaṇī cīza nū jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੀ ਚੀਜ਼ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know your thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "You know a woman",
+        "tusīṁ ika knowrata nū jāṇadē hō",
+        "ਤੁਸੀਂ ਇਕ knowਰਤ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "You know a word",
+        "tusīṁ ika śabada jāṇadē hō",
+        "ਤੁਸੀਂ ਇਕ ਸ਼ਬਦ ਜਾਣਦੇ ਹੋ",
+        "You know a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "word",
+            "det": "a"
+        }
+    ],
+    [
+        "You know your work",
+        "tusīṁ āpaṇā kama jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣਾ ਕੰਮ ਜਾਣਦੇ ਹੋ",
+        "You know your work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "work"
+        }
+    ],
+    [
+        "You see a book",
+        "tusīṁ ika kitāba vēkhōgē",
+        "ਤੁਸੀਂ ਇਕ ਕਿਤਾਬ ਵੇਖੋਗੇ",
+        "You see a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "book",
+            "det": "a"
+        }
+    ],
+    [
+        "You see your child",
+        "tusīṁ āpaṇē bacē nū vēkhō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੇਖੋ",
+        "You see your child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "child",
+            "det": "your"
+        }
+    ],
+    [
+        "You see your family",
+        "tusīṁ āpaṇē parivāra nū vēkhō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਵੇਖੋ",
+        "You see your family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "family",
+            "det": "your"
+        }
+    ],
+    [
+        "You see a hand",
+        "tusīṁ ika hatha vēkhi'ā",
+        "ਤੁਸੀਂ ਇਕ ਹੱਥ ਵੇਖਿਆ",
+        "You see a hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a"
+        }
+    ],
+    [
+        "You see a home",
+        "tusīṁ ika ghara dēkhi'ā",
+        "ਤੁਸੀਂ ਇਕ ਘਰ ਦੇਖਿਆ",
+        "You see a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "home"
+        }
+    ],
+    [
+        "You see a man",
+        "tusīṁ ika ādamī nū vēkhadē hō",
+        "ਤੁਸੀਂ ਇਕ ਆਦਮੀ ਨੂੰ ਵੇਖਦੇ ਹੋ",
+        "You see a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "You see your mother",
+        "tusīṁ āpaṇī māṁ nū vēkhō",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਵੇਖੋ",
+        "You see your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "mother",
+            "det": "your"
+        }
+    ],
+    [
+        "You see a room",
+        "tusīṁ ika kamarā vēkhōgē",
+        "ਤੁਸੀਂ ਇਕ ਕਮਰਾ ਵੇਖੋਗੇ",
+        "You see a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "You see a student",
+        "tusīṁ ika vidi'ārathī nū vēkhadē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖਦੇ ਹੋ",
+        "You see a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "You see a thing",
+        "tusīṁ ika cīza vēkhō",
+        "ਤੁਸੀਂ ਇਕ ਚੀਜ਼ ਵੇਖੋ",
+        "You see a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "You see water",
+        "tusīṁ pāṇī dēkhadē hō",
+        "ਤੁਸੀਂ ਪਾਣੀ ਦੇਖਦੇ ਹੋ",
+        "You see water",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "water"
+        }
+    ],
+    [
+        "You see a woman",
+        "tusīṁ ika seerata nū dēkhō",
+        "ਤੁਸੀਂ ਇਕ seeਰਤ ਨੂੰ ਦੇਖੋ",
+        "You see a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "You come to your family",
+        "tusīṁ āpaṇē parivāra kōla ā'undē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਆਉਂਦੇ ਹੋ",
+        "You come to your family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "family",
+            "det": "your"
+        }
+    ],
+    [
+        "You come home",
+        "tusīṁ ghara ā'ō",
+        "ਤੁਸੀਂ ਘਰ ਆਓ",
+        "You come home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "home"
+        }
+    ],
+    [
+        "You come to your mother",
+        "Tusīṁ āpaṇī māṁ kōla ā'ō",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਕੋਲ ਆਓ",
+        "You come to your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "mother",
+            "det": "your"
+        }
+    ],
+    [
+        "You come to a room",
+        "tusīṁ ika kamarē vica ā'ō",
+        "ਤੁਸੀਂ ਇਕ ਕਮਰੇ ਵਿਚ ਆਓ",
+        "You come to a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "You come for a week",
+        "tusīṁ ika hafatē la'ī ā'ō",
+        "ਤੁਸੀਂ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਆਓ",
+        "You come for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "You come to work",
+        "tusīṁ kama tē ā'undē hō",
+        "ਤੁਸੀਂ ਕੰਮ ਤੇ ਆਉਂਦੇ ਹੋ",
+        "You come to work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "work"
+        }
+    ],
+    [
+        "You use a book",
+        "tusīṁ ika kitāba dī varatōṁ karō",
+        "ਤੁਸੀਂ ਇਕ ਕਿਤਾਬ ਦੀ ਵਰਤੋਂ ਕਰੋ",
+        "You use a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "book",
+            "det": "a"
+        }
+    ],
+    [
+        "You use a hand",
+        "tusīṁ ika hatha varatadē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਹੱਥ ਵਰਤਦੇ ਹੋ",
+        "You use a hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a"
+        }
+    ],
+    [
+        "You use a room",
+        "tusīṁ ika kamarā varatadē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਕਮਰਾ ਵਰਤਦੇ ਹੋ",
+        "You use a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "You use a thing",
+        "tusīṁ ika cīza dī varatōṁ karadē hō",
+        "ਤੁਸੀਂ ਇਕ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹੋ",
+        "You use a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "You use water",
+        "tusīṁ pāṇī dī varatōṁ karadē hō",
+        "ਤੁਸੀਂ ਪਾਣੀ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹੋ",
+        "You use water",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "water"
+        }
+    ],
+    [
+        "You use a week",
+        "tusīṁ ika haphatā varatadē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਹਫਤਾ ਵਰਤਦੇ ਹੋ",
+        "You use a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "You use a word",
+        "tusīṁ ika śabada varatadē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਸ਼ਬਦ ਵਰਤਦੇ ਹੋ",
+        "You use a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "word",
+            "det": "a"
+        }
+    ],
+    [
+        "You find a book",
+        "tuhānū ika kitāba milī",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਕਿਤਾਬ ਮਿਲੀ",
+        "You find a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "book",
+            "det": "a"
+        }
+    ],
+    [
+        "You find a home",
+        "tuhānū ika ghara mila gi'ā",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਘਰ ਮਿਲ ਗਿਆ",
+        "You find a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "home"
+        }
+    ],
+    [
+        "You find a room",
+        "tuhānū ika kamarā mila gi'ā",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਕਮਰਾ ਮਿਲ ਗਿਆ",
+        "You find a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "You find a thing",
+        "Tuhānū ika cīza mila ga'ī",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਚੀਜ਼ ਮਿਲ ਗਈ",
+        "You find a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "You find water",
+        "tuhānū pāṇī mila gi'ā",
+        "ਤੁਹਾਨੂੰ ਪਾਣੀ ਮਿਲ ਗਿਆ",
+        "You find water",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "water"
+        }
+    ],
+    [
+        "You find a woman",
+        "tusīṁ ika findrata labhō",
+        "ਤੁਸੀਂ ਇਕ findਰਤ ਲੱਭੋ",
+        "You find a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "You find a word",
+        "tuhānū ika śabada miladā hai",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਸ਼ਬਦ ਮਿਲਦਾ ਹੈ",
+        "You find a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "word",
+            "det": "a"
+        }
+    ],
+    [
+        "You find work",
+        "tusīṁ kama labha la'ō",
+        "ਤੁਸੀਂ ਕੰਮ ਲੱਭ ਲਓ",
+        "You find work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "work"
+        }
+    ]
+]

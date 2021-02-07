@@ -1,0 +1,1336 @@
+[
+    [
+        "You have been coming to a place",
+        "tusīṁ kisē jag'hā'tē ā rahē hō",
+        "ਤੁਸੀਂ ਕਿਸੇ ਜਗ੍ਹਾ 'ਤੇ ਆ ਰਹੇ ਹੋ",
+        "You have been coming to a place",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "people"
+        }
+    ],
+    [
+        "You have been coming on time",
+        "tusīṁ samēṁ tē ā'undē rahē hō",
+        "ਤੁਸੀਂ ਸਮੇਂ ਤੇ ਆਉਂਦੇ ਰਹੇ ਹੋ",
+        "You have been coming on time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "You have been coming to work",
+        "tusīṁ kama tē ā rahē hō",
+        "ਤੁਸੀਂ ਕੰਮ ਤੇ ਆ ਰਹੇ ਹੋ",
+        "You have been coming to work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "You have been thinking about a book",
+        "tusīṁ kisē kitāba bārē sōca rahē hō",
+        "ਤੁਸੀਂ ਕਿਸੇ ਕਿਤਾਬ ਬਾਰੇ ਸੋਚ ਰਹੇ ਹੋ",
+        "You have been thinking about a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "family",
+            "det": "your"
+        }
+    ],
+    [
+        "You have been thinking about a business",
+        "tusīṁ kisē kārōbāra bārē sōca rahē hō",
+        "ਤੁਸੀਂ ਕਿਸੇ ਕਾਰੋਬਾਰ ਬਾਰੇ ਸੋਚ ਰਹੇ ਹੋ",
+        "You have been thinking about a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "You have been thinking about your family",
+        "tusīṁ āpaṇē parivāra bārē sōca rahē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਬਾਰੇ ਸੋਚ ਰਹੇ ਹੋ",
+        "You have been thinking about your family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "You have been thinking about home",
+        "tusīṁ ghara bārē sōca rahē hō",
+        "ਤੁਸੀਂ ਘਰ ਬਾਰੇ ਸੋਚ ਰਹੇ ਹੋ",
+        "You have been thinking about home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "money"
+        }
+    ],
+    [
+        "You have been thinking about a job",
+        "tusīṁ kisē naukarī bārē sōca rahē hō",
+        "ਤੁਸੀਂ ਕਿਸੇ ਨੌਕਰੀ ਬਾਰੇ ਸੋਚ ਰਹੇ ਹੋ",
+        "You have been thinking about a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "det": "your"
+        }
+    ],
+    [
+        "You have been thinking about people",
+        "tusīṁ lōkāṁ bārē sōcadē rahē hō",
+        "ਤੁਸੀਂ ਲੋਕਾਂ ਬਾਰੇ ਸੋਚਦੇ ਰਹੇ ਹੋ",
+        "You have been thinking about people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "right"
+        }
+    ],
+    [
+        "You have been thinking about a problem",
+        "tusīṁ kisē samasi'ā bārē sōca rahē hō",
+        "ਤੁਸੀਂ ਕਿਸੇ ਸਮੱਸਿਆ ਬਾਰੇ ਸੋਚ ਰਹੇ ਹੋ",
+        "You have been thinking about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "You have been thinking right",
+        "tusīṁ sahī sōca rahē hō",
+        "ਤੁਸੀਂ ਸਹੀ ਸੋਚ ਰਹੇ ਹੋ",
+        "You have been thinking right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "You have been thinking about a story",
+        "tusīṁ kisē kahāṇī bārē sōca rahē hō",
+        "ਤੁਸੀਂ ਕਿਸੇ ਕਹਾਣੀ ਬਾਰੇ ਸੋਚ ਰਹੇ ਹੋ",
+        "You have been thinking about a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "You have been looking after your child",
+        "Tusīṁ āpaṇē bacē dī dēkhabhāla kara rahē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬੱਚੇ ਦੀ ਦੇਖਭਾਲ ਕਰ ਰਹੇ ਹੋ",
+        "You have been looking after your child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "work"
+        }
+    ],
+    [
+        "You have been looking at a man",
+        "tusīṁ ika ādamī vala vēkha rahē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਆਦਮੀ ਵੱਲ ਵੇਖ ਰਹੇ ਹੋ",
+        "You have been looking at a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "You have been looking at money",
+        "tusīṁ paisē nū vēkha rahē hō",
+        "ਤੁਸੀਂ ਪੈਸੇ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋ",
+        "You have been looking at money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "You have been looking at a problem",
+        "tusīṁ kisē samasi'ā nū vēkha rahē hō",
+        "ਤੁਸੀਂ ਕਿਸੇ ਸਮੱਸਿਆ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋ",
+        "You have been looking at a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "right"
+        }
+    ],
+    [
+        "You have been looking at a woman",
+        "tusīṁ ika atrata vala vēkha rahē hō",
+        "ਤੁਸੀਂ ਇੱਕ atਰਤ ਵੱਲ ਵੇਖ ਰਹੇ ਹੋ",
+        "You have been looking at a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "You have been looking for work",
+        "tusīṁ kama labha rahē hō",
+        "ਤੁਸੀਂ ਕੰਮ ਲੱਭ ਰਹੇ ਹੋ",
+        "You have been looking for work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "work"
+        }
+    ],
+    [
+        "You have been having the group",
+        "tuhāḍā samūha rihā hai",
+        "ਤੁਹਾਡਾ ਸਮੂਹ ਰਿਹਾ ਹੈ",
+        "You have been having the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "think",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "You have been having a job",
+        "tusīṁ ika naukarī kara rahē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਨੌਕਰੀ ਕਰ ਰਹੇ ਹੋ",
+        "You have been having a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "think",
+            "noun": "family",
+            "det": "your"
+        }
+    ],
+    [
+        "You have been having a lot",
+        "tuhānū bahuta kujha kītā gi'ā hai",
+        "ਤੁਹਾਨੂੰ ਬਹੁਤ ਕੁਝ ਕੀਤਾ ਗਿਆ ਹੈ",
+        "You have been having a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "think",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "You have been having your mother",
+        "tusīṁ āpaṇī māṁ rahē hō",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਰਹੇ ਹੋ",
+        "You have been having your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "think",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "You have been having a problem",
+        "tuhānū ika samasi'ā hō rahī hai",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਸਮੱਸਿਆ ਹੋ ਰਹੀ ਹੈ",
+        "You have been having a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "think",
+            "noun": "money"
+        }
+    ],
+    [
+        "You have been having a question",
+        "tuhānū ika savāla kītā gi'ā hai",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਸਵਾਲ ਕੀਤਾ ਗਿਆ ਹੈ",
+        "You have been having a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "think",
+            "noun": "mother",
+            "det": "your"
+        }
+    ],
+    [
+        "You have been having the right",
+        "tuhāḍā haka rihā hai",
+        "ਤੁਹਾਡਾ ਹੱਕ ਰਿਹਾ ਹੈ",
+        "You have been having the right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "think",
+            "noun": "people"
+        }
+    ],
+    [
+        "You have been having a story",
+        "tuhāḍī kahāṇī rahī hai",
+        "ਤੁਹਾਡੀ ਕਹਾਣੀ ਰਹੀ ਹੈ",
+        "You have been having a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "think",
+            "noun": "right"
+        }
+    ],
+    [
+        "You have been having a thing",
+        "tuhāḍē kōla ika cīza rahī hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਚੀਜ਼ ਰਹੀ ਹੈ",
+        "You have been having a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "think",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "You have been having time",
+        "tuhāḍē kōla samāṁ rihā hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਸਮਾਂ ਰਿਹਾ ਹੈ",
+        "You have been having time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "think",
+            "noun": "work"
+        }
+    ],
+    [
+        "You have been having a week",
+        "tuhānū ika hafatā hō gi'ā hai",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਹਫ਼ਤਾ ਹੋ ਗਿਆ ਹੈ",
+        "You have been having a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "look",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "You have been having a year",
+        "tuhānū ika sāla hō gi'ā hai",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਸਾਲ ਹੋ ਗਿਆ ਹੈ",
+        "You have been having a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "look",
+            "noun": "family",
+            "det": "your"
+        }
+    ],
+    [
+        "You have been doing a job",
+        "tusīṁ ika kama kara rahē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਕੰਮ ਕਰ ਰਹੇ ਹੋ",
+        "You have been doing a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "look",
+            "noun": "money"
+        }
+    ],
+    [
+        "You have been doing a lot",
+        "tusīṁ bahuta kujha kara rahē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਕੁਝ ਕਰ ਰਹੇ ਹੋ",
+        "You have been doing a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "look",
+            "noun": "mother",
+            "det": "your"
+        }
+    ],
+    [
+        "You have been doing a part",
+        "tusīṁ ika hisā kara rahē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਹਿੱਸਾ ਕਰ ਰਹੇ ਹੋ",
+        "You have been doing a part",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "look",
+            "noun": "people"
+        }
+    ],
+    [
+        "You have been doing a thing",
+        "tusīṁ kujha kara rahē hō",
+        "ਤੁਸੀਂ ਕੁਝ ਕਰ ਰਹੇ ਹੋ",
+        "You have been doing a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "look",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "You have been doing work",
+        "tusīṁ kama kara rahē hō",
+        "ਤੁਸੀਂ ਕੰਮ ਕਰ ਰਹੇ ਹੋ",
+        "You have been doing work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "look",
+            "noun": "work"
+        }
+    ],
+    [
+        "You have been saying a word",
+        "tusīṁ ika śabada kahi rahē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਸ਼ਬਦ ਕਹਿ ਰਹੇ ਹੋ",
+        "You have been saying a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "want",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "You have been getting a book",
+        "tuhānū ika kitāba mila rahī hai",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਕਿਤਾਬ ਮਿਲ ਰਹੀ ਹੈ",
+        "You have been getting a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "want",
+            "noun": "family",
+            "det": "your"
+        }
+    ],
+    [
+        "You have been getting a day",
+        "tuhānū ika dina mila rihā hai",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਦਿਨ ਮਿਲ ਰਿਹਾ ਹੈ",
+        "You have been getting a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "want",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "You have been getting a job",
+        "tuhānū naukarī mila rahī hai",
+        "ਤੁਹਾਨੂੰ ਨੌਕਰੀ ਮਿਲ ਰਹੀ ਹੈ",
+        "You have been getting a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "want",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "You have been getting money",
+        "tuhānū paisē mila rahē hana",
+        "ਤੁਹਾਨੂੰ ਪੈਸੇ ਮਿਲ ਰਹੇ ਹਨ",
+        "You have been getting money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "want",
+            "noun": "money"
+        }
+    ],
+    [
+        "You have been getting your mother",
+        "tusīṁ āpaṇī māṁ nū prāpata kara rahē hō",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰ ਰਹੇ ਹੋ",
+        "You have been getting your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "want",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "You have been getting a part",
+        "tusīṁ hisā pā'undē rahē hō",
+        "ਤੁਸੀਂ ਹਿੱਸਾ ਪਾਉਂਦੇ ਰਹੇ ਹੋ",
+        "You have been getting a part",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "want",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "You have been getting a point",
+        "tuhānū ika bidū miladā rihā hai",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਬਿੰਦੂ ਮਿਲਦਾ ਰਿਹਾ ਹੈ",
+        "You have been getting a point",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "want",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "You have been getting time",
+        "tuhānū samāṁ miladā rihā hai",
+        "ਤੁਹਾਨੂੰ ਸਮਾਂ ਮਿਲਦਾ ਰਿਹਾ ਹੈ",
+        "You have been getting time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "want",
+            "noun": "work"
+        }
+    ],
+    [
+        "You have been making a home",
+        "tusīṁ ghara baṇā rahē hō",
+        "ਤੁਸੀਂ ਘਰ ਬਣਾ ਰਹੇ ਹੋ",
+        "You have been making a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "give",
+            "noun": "money"
+        }
+    ],
+    [
+        "You have been making a lot",
+        "tusīṁ bahuta kujha kara rahē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਕੁਝ ਕਰ ਰਹੇ ਹੋ",
+        "You have been making a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "give",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "You have been seeing a point",
+        "tusīṁ ika bidū vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਬਿੰਦੂ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You have been seeing a point",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "work",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "You have been seeing a problem",
+        "tusīṁ ika samasi'ā vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਸਮੱਸਿਆ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You have been seeing a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "work",
+            "noun": "family",
+            "det": "your"
+        }
+    ],
+    [
+        "You have been seeing a room",
+        "tusīṁ ika kamarā vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਕਮਰਾ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You have been seeing a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "work",
+            "noun": "government",
+            "det": "the"
+        }
+    ],
+    [
+        "You have been seeing a student",
+        "tusīṁ ika vidi'ārathī nū vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You have been seeing a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "work",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "You have been seeing water",
+        "tusīṁ pāṇī dēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਾਣੀ ਦੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You have been seeing water",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "work",
+            "noun": "money"
+        }
+    ],
+    [
+        "You have been coming to the country",
+        "tusīṁ dēśa ā'undē rahē hō",
+        "ਤੁਸੀਂ ਦੇਸ਼ ਆਉਂਦੇ ਰਹੇ ਹੋ",
+        "You have been coming to the country",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "work",
+            "noun": "people"
+        }
+    ]
+]

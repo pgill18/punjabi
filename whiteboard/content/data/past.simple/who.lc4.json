@@ -1,0 +1,779 @@
+[
+    [
+        "Who was a student",
+        "jō ika vidi'ārathī sī",
+        "ਜੋ ਇਕ ਵਿਦਿਆਰਥੀ ਸੀ",
+        "Who was a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "be",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "Who had a business?",
+        "Kisadā kārōbāra sī?",
+        "ਕਿਸਦਾ ਕਾਰੋਬਾਰ ਸੀ?",
+        "Who had a business?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "Who had a day?",
+        "Kauṇa ika dina sī?",
+        "ਕੌਣ ਇੱਕ ਦਿਨ ਸੀ?",
+        "Who had a day?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "Who had a lot?",
+        "Kisa kōla bahuta sī?",
+        "ਕਿਸ ਕੋਲ ਬਹੁਤ ਸੀ?",
+        "Who had a lot?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "lot"
+        }
+    ],
+    [
+        "Who had whose mother?",
+        "Kisadī māṁ sī?",
+        "ਕਿਸਦੀ ਮਾਂ ਸੀ?",
+        "Who had whose mother?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who had a problem?",
+        "Kisa nū kō'ī samasi'ā sī?",
+        "ਕਿਸ ਨੂੰ ਕੋਈ ਸਮੱਸਿਆ ਸੀ?",
+        "Who had a problem?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "Who had a question?",
+        "Kisanū savāla sī?",
+        "ਕਿਸਨੂੰ ਸਵਾਲ ਸੀ?",
+        "Who had a question?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "Who had a story?",
+        "Kisadī kahāṇī sī?",
+        "ਕਿਸਦੀ ਕਹਾਣੀ ਸੀ?",
+        "Who had a story?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "Who had a week?",
+        "Ika hafatā kisa kōla sī?",
+        "ਇੱਕ ਹਫ਼ਤਾ ਕਿਸ ਕੋਲ ਸੀ?",
+        "Who had a week?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "Who had a year?",
+        "Kauṇa ika sāla sī?",
+        "ਕੌਣ ਇੱਕ ਸਾਲ ਸੀ?",
+        "Who had a year?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "Who did a business?",
+        "Kārōbāra kisanē kītā?",
+        "ਕਾਰੋਬਾਰ ਕਿਸਨੇ ਕੀਤਾ?",
+        "Who did a business?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "Who did a lot?",
+        "Kisanē bahuta kītā?",
+        "ਕਿਸਨੇ ਬਹੁਤ ਕੀਤਾ?",
+        "Who did a lot?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "lot"
+        }
+    ],
+    [
+        "Who told about life",
+        "jisa nē zidagī bārē dasi'ā",
+        "ਜਿਸ ਨੇ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਦੱਸਿਆ",
+        "Who told about life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "life"
+        }
+    ],
+    [
+        "Who told a man",
+        "jisanē ika ādamī nū dasi'ā",
+        "ਜਿਸਨੇ ਇੱਕ ਆਦਮੀ ਨੂੰ ਦੱਸਿਆ",
+        "Who told a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "Who told whose mother",
+        "kisa nē dasi'ā kisadī māṁ nū",
+        "ਕਿਸ ਨੇ ਦੱਸਿਆ ਕਿਸਦੀ ਮਾਂ ਨੂੰ",
+        "Who told whose mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who told about a problem",
+        "jisa nē ika samasi'ā bārē dasi'ā",
+        "ਜਿਸ ਨੇ ਇੱਕ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸਿਆ",
+        "Who told about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "Who told a story",
+        "jisa nē ika kahāṇī suṇī",
+        "ਜਿਸ ਨੇ ਇਕ ਕਹਾਣੀ ਸੁਣੀ",
+        "Who told a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "Who told about a study",
+        "jisa nē ika adhi'aina bārē dasi'ā",
+        "ਜਿਸ ਨੇ ਇਕ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸਿਆ",
+        "Who told about a study",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a"
+        }
+    ],
+    [
+        "Who told a woman",
+        "jisa nē ika toldrata nū dasi'ā",
+        "ਜਿਸ ਨੇ ਇਕ toldਰਤ ਨੂੰ ਦੱਸਿਆ",
+        "Who told a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "Who asked a man",
+        "jisanē ika ādamī nū puchi'ā",
+        "ਜਿਸਨੇ ਇੱਕ ਆਦਮੀ ਨੂੰ ਪੁੱਛਿਆ",
+        "Who asked a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "Who asked whose mother",
+        "kisa nē puchi'ā kisadī māṁ",
+        "ਕਿਸ ਨੇ ਪੁੱਛਿਆ ਕਿਸਦੀ ਮਾਂ",
+        "Who asked whose mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who asked a question",
+        "jisa nē ika savāla puchi'ā",
+        "ਜਿਸ ਨੇ ਇੱਕ ਸਵਾਲ ਪੁੱਛਿਆ",
+        "Who asked a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "Who asked a student",
+        "jisanē ika vidi'ārathī nū puchi'ā",
+        "ਜਿਸਨੇ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛਿਆ",
+        "Who asked a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "Who asked a woman",
+        "jisanē ika.Rata nū puchi'ā",
+        "ਜਿਸਨੇ ਇਕ .ਰਤ ਨੂੰ ਪੁੱਛਿਆ",
+        "Who asked a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "Who tried for a day",
+        "jisanē ika dina la'ī kōśiśa kītī",
+        "ਜਿਸਨੇ ਇੱਕ ਦਿਨ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ",
+        "Who tried for a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "try",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "Who tried for a month",
+        "jisanē ika mahīnē la'ī kōśiśa kītī",
+        "ਜਿਸਨੇ ਇੱਕ ਮਹੀਨੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ",
+        "Who tried for a month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "try",
+            "noun": "month",
+            "det": "a"
+        }
+    ],
+    [
+        "Who tried for a week",
+        "jisanē ika hafatē taka kōśiśa kītī",
+        "ਜਿਸਨੇ ਇੱਕ ਹਫ਼ਤੇ ਤੱਕ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ",
+        "Who tried for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "try",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "Who tried for a year",
+        "jisanē ika sāla kōśiśa kītī",
+        "ਜਿਸਨੇ ਇੱਕ ਸਾਲ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ",
+        "Who tried for a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "try",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "Who left a business",
+        "jisa nē ika kārōbāra chaḍa ditā",
+        "ਜਿਸ ਨੇ ਇੱਕ ਕਾਰੋਬਾਰ ਛੱਡ ਦਿੱਤਾ",
+        "Who left a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "Who called whose mother",
+        "jisanū kisadī māṁ kihā jāndā hai",
+        "ਜਿਸਨੂੰ ਕਿਸਦੀ ਮਾਂ ਕਿਹਾ ਜਾਂਦਾ ਹੈ",
+        "Who called whose mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "call",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ]
+]

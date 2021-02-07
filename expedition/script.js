@@ -2,6 +2,7 @@
 // let expedition.progress = { attempts: 10, boost: 1, discount: 1 };
 // let scorecard = { coins: 1000, supplies: 2000, stone: 10, lumber: 10, iron: 0, dye: 0 };
 let expedition = { state: { level: 1, platform: 1 }, progress: { attempts: 10, boost: 1, discount: 1 }, trail: [] };
+// let langscores = { degree: 0, cards: [], records: [] };
 let context = { transition: 0 };
 
 function expedition_startNegotiaiton() { 
@@ -26,6 +27,7 @@ function expedition_updateScores({save=0}={}) {
     // save state for later restore
     if(save) {
         localStorage.setItem('expedition', JSON.stringify(expedition));
+        localStorage.setItem('langscores', JSON.stringify(langscores));
         // localStorage.setItem('scorecard', JSON.stringify(scorecard));
         save_data();
     }
@@ -54,6 +56,13 @@ function expedition_launchWeeklyExpedition() {
     $('#expeditionModal').modal({ keyboard: false });
     $(document).on('shown.bs.popover', expedition_reBindNegotiationListeners);
     $(document).on('shown.bs.popover', expedition_reBindWhiteboardListeners);
+    expedition_loadLanguageData(expedition.state);
+}
+function expedition_loadLanguageData({level=1, platform=1}={}) {
+    let lang_cluster = get_lang_cluster_sdb();
+    let degree = lang_cluster.degree;
+    // loadNegotiatiorData({level, platform});
+    whiteboard_loadWhiteboardData({level, platform, degree});
 }
 
 function expedition_onclick_platform(index) {
@@ -109,7 +118,7 @@ function expedition_launchWhiteboard(state, complete_platform) {
 //     // Object.keys(coll).map(key => scorecard[key] += coll[key]);
 //     complete_platform({coll, rewards, done:1, started: 1});
 // }
-function expedition_complete_platform({ cost={}, coll={}, rewards={}, cb=0, done=0, started=0, way='negotiation' }={}) {
+function expedition_complete_platform({ cost={}, coll={}, rewards={}, cb=0, done=0, started=0, way='negotiation', tenses }={}) {
     console.log(`expedition_complete_platform({ cost={}, coll={}, rewards={}, cb={cb}, done=${done}, started=${started} }={})`, cost, coll, rewards)
     if(!context.transition) return;
     else context.transition = 0;
@@ -141,6 +150,8 @@ function expedition_complete_platform({ cost={}, coll={}, rewards={}, cb=0, done
     expedition_updateScores({save: 1});
     $('#screenModal').modal('hide');
     console.log(expedition);
+    if(tenses) tenses.map(tense => credit_langscores(tense));
+    expedition_loadLanguageData(expedition.state, {preload:1});
 }
 function expedition_updateTrail(way, earnings) {
     let { level, platform } = expedition.state;
@@ -156,6 +167,10 @@ function expedition_restoreState() {
     if(Object.keys(expedition_data).length) expedition = expedition_data;
     // if(scorecard_data) scorecard = scorecard_data;
     expedition_updateExpeditionMap();
+    // language data
+    let language_data = JSON.parse(localStorage.getItem('langscores')||"{}");
+    // let scorecard_data = JSON.parse(localStorage.getItem('scorecard'));
+    if(Object.keys(language_data).length) langscores = language_data;
 }
 function expedition_refresh() {
     console.log(`........ expedition_refresh()`)

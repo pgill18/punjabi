@@ -1,0 +1,6052 @@
+[
+    [
+        "I am my child here",
+        "Maiṁ ithē mērā bacā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਮੇਰਾ ਬੱਚਾ ਹਾਂ",
+        "I am my child here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "child",
+            "det": "my",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am my child too",
+        "maiṁ vī mērā bacā hāṁ",
+        "ਮੈਂ ਵੀ ਮੇਰਾ ਬੱਚਾ ਹਾਂ",
+        "I am my child too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "child",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am a student here",
+        "maiṁ ithē ika vidi'ārathī hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਇੱਕ ਵਿਦਿਆਰਥੀ ਹਾਂ",
+        "I am a student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am a student too",
+        "maiṁ vī ika vidi'ārathī hāṁ",
+        "ਮੈਂ ਵੀ ਇੱਕ ਵਿਦਿਆਰਥੀ ਹਾਂ",
+        "I am a student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I have a book now",
+        "mērē kōla huṇa ika kitāba hai",
+        "ਮੇਰੇ ਕੋਲ ਹੁਣ ਇਕ ਕਿਤਾਬ ਹੈ",
+        "I have a book now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "book",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I have a book too",
+        "mērē kōla vī ika kitāba hai",
+        "ਮੇਰੇ ਕੋਲ ਵੀ ਇੱਕ ਕਿਤਾਬ ਹੈ",
+        "I have a book too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "book",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I have my child now",
+        "mērē kōla huṇa mērā bacā hai",
+        "ਮੇਰੇ ਕੋਲ ਹੁਣ ਮੇਰਾ ਬੱਚਾ ਹੈ",
+        "I have my child now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "child",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I have my child too",
+        "mērā vī bacā hai",
+        "ਮੇਰਾ ਵੀ ਬੱਚਾ ਹੈ",
+        "I have my child too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "child",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I have my family now",
+        "mērē kōla huṇa mērā parivāra hai",
+        "ਮੇਰੇ ਕੋਲ ਹੁਣ ਮੇਰਾ ਪਰਿਵਾਰ ਹੈ",
+        "I have my family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "family",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I have my family too",
+        "mērā parivāra vī hai",
+        "ਮੇਰਾ ਪਰਿਵਾਰ ਵੀ ਹੈ",
+        "I have my family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "family",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I have a hand now",
+        "mērā huṇa ika hatha hai",
+        "ਮੇਰਾ ਹੁਣ ਇੱਕ ਹੱਥ ਹੈ",
+        "I have a hand now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "hand",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I have a hand too",
+        "mērā vī ika hatha hai",
+        "ਮੇਰਾ ਵੀ ਇੱਕ ਹੱਥ ਹੈ",
+        "I have a hand too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "hand",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I have a home now",
+        "mērē kōla huṇa ika ghara hai",
+        "ਮੇਰੇ ਕੋਲ ਹੁਣ ਇਕ ਘਰ ਹੈ",
+        "I have a home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "home",
+            "adv": "now"
+        }
+    ],
+    [
+        "I have a home too",
+        "mērā vī ika ghara hai",
+        "ਮੇਰਾ ਵੀ ਇੱਕ ਘਰ ਹੈ",
+        "I have a home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "home",
+            "adv": "too"
+        }
+    ],
+    [
+        "I have my mother now",
+        "Mērē kōla huṇa mērī māṁ hai",
+        "ਮੇਰੇ ਕੋਲ ਹੁਣ ਮੇਰੀ ਮਾਂ ਹੈ",
+        "I have my mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I have my mother too",
+        "mērī māṁ vī hai",
+        "ਮੇਰੀ ਮਾਂ ਵੀ ਹੈ",
+        "I have my mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I have a room now",
+        "mērē kōla huṇa ika kamarā hai",
+        "ਮੇਰੇ ਕੋਲ ਹੁਣ ਇੱਕ ਕਮਰਾ ਹੈ",
+        "I have a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I have a room too",
+        "mērē kōla ika kamarā vī hai",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਕਮਰਾ ਵੀ ਹੈ",
+        "I have a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I have a thing now",
+        "mērē kōla huṇa ika cīza hai",
+        "ਮੇਰੇ ਕੋਲ ਹੁਣ ਇਕ ਚੀਜ਼ ਹੈ",
+        "I have a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I have a thing too",
+        "mērē kōla vī ika cīza hai",
+        "ਮੇਰੇ ਕੋਲ ਵੀ ਇਕ ਚੀਜ਼ ਹੈ",
+        "I have a thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I have water now",
+        "mērē kōla huṇa pāṇī hai",
+        "ਮੇਰੇ ਕੋਲ ਹੁਣ ਪਾਣੀ ਹੈ",
+        "I have water now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "water",
+            "adv": "now"
+        }
+    ],
+    [
+        "I have water too",
+        "mērē kōla vī pāṇī hai",
+        "ਮੇਰੇ ਕੋਲ ਵੀ ਪਾਣੀ ਹੈ",
+        "I have water too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "water",
+            "adv": "too"
+        }
+    ],
+    [
+        "I have a week now",
+        "mērē kōla huṇa ika hafatā hai",
+        "ਮੇਰੇ ਕੋਲ ਹੁਣ ਇਕ ਹਫ਼ਤਾ ਹੈ",
+        "I have a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I have a week too",
+        "mērē kōla ika haphatā vī hai",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਹਫਤਾ ਵੀ ਹੈ",
+        "I have a week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I have my work now",
+        "Mērē kōla huṇa mērā kama hai",
+        "ਮੇਰੇ ਕੋਲ ਹੁਣ ਮੇਰਾ ਕੰਮ ਹੈ",
+        "I have my work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "I have my work too",
+        "mērē kōla vī mērā kama hai",
+        "ਮੇਰੇ ਕੋਲ ਵੀ ਮੇਰਾ ਕੰਮ ਹੈ",
+        "I have my work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "I do a thing now",
+        "maiṁ huṇa ika kama karadā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇਕ ਕੰਮ ਕਰਦਾ ਹਾਂ",
+        "I do a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I do a thing well",
+        "maiṁ ika cīza cagī tar'hāṁ karadā hāṁ",
+        "ਮੈਂ ਇਕ ਚੀਜ਼ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਰਦਾ ਹਾਂ",
+        "I do a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I do work now",
+        "maiṁ huṇa kama karadā hāṁ",
+        "ਮੈਂ ਹੁਣ ਕੰਮ ਕਰਦਾ ਹਾਂ",
+        "I do work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "I do work well",
+        "maiṁ vadhī'ā kama karadā hāṁ",
+        "ਮੈਂ ਵਧੀਆ ਕੰਮ ਕਰਦਾ ਹਾਂ",
+        "I do work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "I go to my family here",
+        "maiṁ ithē āpaṇē parivāra kōla jāndā hāṁ",
+        "ਮੈਂ ਇਥੇ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਜਾਂਦਾ ਹਾਂ",
+        "I go to my family here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "family",
+            "det": "my",
+            "adv": "here"
+        }
+    ],
+    [
+        "I go to my family now",
+        "maiṁ huṇa āpaṇē parivāra kōla jāndā hāṁ",
+        "ਮੈਂ ਹੁਣ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਜਾਂਦਾ ਹਾਂ",
+        "I go to my family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "family",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I go to my family well",
+        "maiṁ āpaṇē parivāra kōla jāndā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਜਾਂਦਾ ਹਾਂ",
+        "I go to my family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "family",
+            "det": "my",
+            "adv": "well"
+        }
+    ],
+    [
+        "I go to my family too",
+        "maiṁ āpaṇē parivāra kōla vī jāndā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਵੀ ਜਾਂਦਾ ਹਾਂ",
+        "I go to my family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "family",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I go home here",
+        "maiṁ ithē ghara jāndā hāṁ",
+        "ਮੈਂ ਇਥੇ ਘਰ ਜਾਂਦਾ ਹਾਂ",
+        "I go home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "home",
+            "adv": "here"
+        }
+    ],
+    [
+        "I go home now",
+        "maiṁ huṇa ghara jāndā hāṁ",
+        "ਮੈਂ ਹੁਣ ਘਰ ਜਾਂਦਾ ਹਾਂ",
+        "I go home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "home",
+            "adv": "now"
+        }
+    ],
+    [
+        "I go home well",
+        "maiṁ ghara cagī tar'hāṁ jāndā hāṁ",
+        "ਮੈਂ ਘਰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਂਦਾ ਹਾਂ",
+        "I go home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "home",
+            "adv": "well"
+        }
+    ],
+    [
+        "I go home too",
+        "maiṁ vī ghara jāndā hāṁ",
+        "ਮੈਂ ਵੀ ਘਰ ਜਾਂਦਾ ਹਾਂ",
+        "I go home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "home",
+            "adv": "too"
+        }
+    ],
+    [
+        "I go to my mother here",
+        "maiṁ ithē āpaṇī māṁ kōla jāndā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਆਪਣੀ ਮਾਂ ਕੋਲ ਜਾਂਦਾ ਹਾਂ",
+        "I go to my mother here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "mother",
+            "det": "my",
+            "adv": "here"
+        }
+    ],
+    [
+        "I go to my mother now",
+        "Maiṁ huṇa āpaṇī māṁ kōla jāndā hāṁ",
+        "ਮੈਂ ਹੁਣ ਆਪਣੀ ਮਾਂ ਕੋਲ ਜਾਂਦਾ ਹਾਂ",
+        "I go to my mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "mother",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I go to my mother well",
+        "maiṁ cagī tar'hāṁ āpaṇī māṁ kōla jāndā hāṁ",
+        "ਮੈਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਪਣੀ ਮਾਂ ਕੋਲ ਜਾਂਦਾ ਹਾਂ",
+        "I go to my mother well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "mother",
+            "det": "my",
+            "adv": "well"
+        }
+    ],
+    [
+        "I go to my mother too",
+        "maiṁ āpaṇī māṁ kōla vī jāndā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਕੋਲ ਵੀ ਜਾਂਦਾ ਹਾਂ",
+        "I go to my mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "mother",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I go to a room here",
+        "maiṁ ithē ika kamarē vica jāndā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਕਮਰੇ ਵਿਚ ਜਾਂਦਾ ਹਾਂ",
+        "I go to a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I go to a room now",
+        "maiṁ huṇa ika kamarē vica jāndā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇਕ ਕਮਰੇ ਵਿਚ ਜਾਂਦਾ ਹਾਂ",
+        "I go to a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I go to a room well",
+        "maiṁ ika kamarē vica cagī tar'hāṁ jāndā hāṁ",
+        "ਮੈਂ ਇਕ ਕਮਰੇ ਵਿਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਂਦਾ ਹਾਂ",
+        "I go to a room well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I go to a room too",
+        "maiṁ ika kamarē vica vī jāndā hāṁ",
+        "ਮੈਂ ਇਕ ਕਮਰੇ ਵਿਚ ਵੀ ਜਾਂਦਾ ਹਾਂ",
+        "I go to a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I go to a student here",
+        "maiṁ ithē ika vidi'ārathī kōla jāndā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾਂਦਾ ਹਾਂ",
+        "I go to a student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I go to a student now",
+        "maiṁ huṇa ika vidi'ārathī kōla jāndā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾਂਦਾ ਹਾਂ",
+        "I go to a student now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I go to a student well",
+        "maiṁ ika vidi'ārathī kōla cagī tar'hāṁ jāndā hāṁ",
+        "ਮੈਂ ਇਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਂਦਾ ਹਾਂ",
+        "I go to a student well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I go to a student too",
+        "maiṁ vī ika vidi'ārathī kōla jāndā hāṁ",
+        "ਮੈਂ ਵੀ ਇੱਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾਂਦਾ ਹਾਂ",
+        "I go to a student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I go for a week here",
+        "maiṁ ithē ika hafatē la'ī jāndā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਹਫ਼ਤੇ ਲਈ ਜਾਂਦਾ ਹਾਂ",
+        "I go for a week here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I go for a week now",
+        "maiṁ huṇa ika hafatē la'ī gi'ā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇਕ ਹਫ਼ਤੇ ਲਈ ਗਿਆ ਹਾਂ",
+        "I go for a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I go for a week well",
+        "maiṁ ika hafatē la'ī cagī tar'hāṁ jāndā hāṁ",
+        "ਮੈਂ ਇਕ ਹਫ਼ਤੇ ਲਈ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਂਦਾ ਹਾਂ",
+        "I go for a week well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I go for a week too",
+        "Maiṁ ika hafatē vī jāndā hāṁ",
+        "ਮੈਂ ਇਕ ਹਫ਼ਤੇ ਵੀ ਜਾਂਦਾ ਹਾਂ",
+        "I go for a week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I go to work here",
+        "maiṁ ithē kama tē jāndā hāṁ",
+        "ਮੈਂ ਇਥੇ ਕੰਮ ਤੇ ਜਾਂਦਾ ਹਾਂ",
+        "I go to work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "I go to work now",
+        "maiṁ huṇa kama tē jāndā hāṁ",
+        "ਮੈਂ ਹੁਣ ਕੰਮ ਤੇ ਜਾਂਦਾ ਹਾਂ",
+        "I go to work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "I go to work well",
+        "maiṁ cagī tar'hāṁ kama karana jāndā hāṁ",
+        "ਮੈਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕੰਮ ਕਰਨ ਜਾਂਦਾ ਹਾਂ",
+        "I go to work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "I go to work too",
+        "maiṁ vī kama tē jāndā hāṁ",
+        "ਮੈਂ ਵੀ ਕੰਮ ਤੇ ਜਾਂਦਾ ਹਾਂ",
+        "I go to work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "I know my child here",
+        "maiṁ āpaṇē bacē nū ithē jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਇੱਥੇ ਜਾਣਦਾ ਹਾਂ",
+        "I know my child here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "child",
+            "det": "my",
+            "adv": "here"
+        }
+    ],
+    [
+        "I know my child now",
+        "maiṁ huṇa āpaṇē bacē nū jāṇadā hāṁ",
+        "ਮੈਂ ਹੁਣ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know my child now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "child",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I know my child well",
+        "maiṁ āpaṇē bacē nū cagī tar'hāṁ jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦਾ ਹਾਂ",
+        "I know my child well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "child",
+            "det": "my",
+            "adv": "well"
+        }
+    ],
+    [
+        "I know my child too",
+        "maiṁ āpaṇē bacē nū vī jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੀ ਜਾਣਦਾ ਹਾਂ",
+        "I know my child too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "child",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I know my family here",
+        "maiṁ ithē āpaṇē parivāra nū jāṇadā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know my family here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "family",
+            "det": "my",
+            "adv": "here"
+        }
+    ],
+    [
+        "I know my family now",
+        "maiṁ huṇa āpaṇē parivāra nū jāṇadā hāṁ",
+        "ਮੈਂ ਹੁਣ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know my family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "family",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I know my family well",
+        "maiṁ āpaṇē parivāra nū cagī tar'hāṁ jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦਾ ਹਾਂ",
+        "I know my family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "family",
+            "det": "my",
+            "adv": "well"
+        }
+    ],
+    [
+        "I know my family too",
+        "maiṁ āpaṇē parivāra nū vī jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਵੀ ਜਾਣਦਾ ਹਾਂ",
+        "I know my family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "family",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I know a man here",
+        "maiṁ ithē ika ādamī nū jāṇadā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਆਦਮੀ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know a man here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I know a man now",
+        "maiṁ huṇa ika ādamī nū jāṇadā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇਕ ਆਦਮੀ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know a man now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I know a man well",
+        "maiṁ ika ādamī nū cagī tar'hāṁ jāṇadā hāṁ",
+        "ਮੈਂ ਇਕ ਆਦਮੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦਾ ਹਾਂ",
+        "I know a man well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I know a man too",
+        "maiṁ ika ādamī nū vī jāṇadā hāṁ",
+        "ਮੈਂ ਇਕ ਆਦਮੀ ਨੂੰ ਵੀ ਜਾਣਦਾ ਹਾਂ",
+        "I know a man too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I know my mother here",
+        "maiṁ āpaṇī māṁ nū ithē jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਇੱਥੇ ਜਾਣਦਾ ਹਾਂ",
+        "I know my mother here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "mother",
+            "det": "my",
+            "adv": "here"
+        }
+    ],
+    [
+        "I know my mother now",
+        "maiṁ huṇa āpaṇī māṁ nū jāṇadā hāṁ",
+        "ਮੈਂ ਹੁਣ ਆਪਣੀ ਮਾਂ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know my mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "mother",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I know my mother well",
+        "maiṁ āpaṇī māṁ nū cagī tar'hāṁ jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦਾ ਹਾਂ",
+        "I know my mother well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "mother",
+            "det": "my",
+            "adv": "well"
+        }
+    ],
+    [
+        "I know my mother too",
+        "maiṁ āpaṇī māṁ nū vī jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਵੀ ਜਾਣਦਾ ਹਾਂ",
+        "I know my mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "mother",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I know a student here",
+        "maiṁ ithē ika vidi'ārathī nū jāṇadā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know a student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I know a student now",
+        "maiṁ huṇa ika vidi'ārathī nū jāṇadā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know a student now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I know a student well",
+        "maiṁ ika vidi'ārathī nū cagī tar'hāṁ jāṇadā hāṁ",
+        "ਮੈਂ ਇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦਾ ਹਾਂ",
+        "I know a student well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I know a student too",
+        "maiṁ ika vidi'ārathī nū vī jāṇadā hāṁ",
+        "ਮੈਂ ਇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੀ ਜਾਣਦਾ ਹਾਂ",
+        "I know a student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I know my thing here",
+        "maiṁ āpaṇī cīza nū ithē jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਚੀਜ਼ ਨੂੰ ਇੱਥੇ ਜਾਣਦਾ ਹਾਂ",
+        "I know my thing here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I know my thing now",
+        "mainū huṇa mērī cīza patā hai",
+        "ਮੈਨੂੰ ਹੁਣ ਮੇਰੀ ਚੀਜ਼ ਪਤਾ ਹੈ",
+        "I know my thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I know my thing well",
+        "maiṁ āpaṇī cīza nū cagī tar'hāṁ jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਚੀਜ਼ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦਾ ਹਾਂ",
+        "I know my thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I know my thing too",
+        "mainū mērī gala vī patā hai",
+        "ਮੈਨੂੰ ਮੇਰੀ ਗੱਲ ਵੀ ਪਤਾ ਹੈ",
+        "I know my thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I know a woman here",
+        "maiṁ ithē ika knowrata nū jāṇadā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਇਕ knowਰਤ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know a woman here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I know a woman now",
+        "Maiṁ huṇa ika knowrata nū jāṇadā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇਕ knowਰਤ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know a woman now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I know a woman well",
+        "maiṁ ika womanrata nū cagī tar'hāṁ jāṇadā hāṁ",
+        "ਮੈਂ ਇਕ womanਰਤ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦਾ ਹਾਂ",
+        "I know a woman well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I know a woman too",
+        "maiṁ ika womanrata nū vī jāṇadī hāṁ",
+        "ਮੈਂ ਇਕ womanਰਤ ਨੂੰ ਵੀ ਜਾਣਦੀ ਹਾਂ",
+        "I know a woman too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I know a word here",
+        "maiṁ ithē ika śabada jāṇadā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਸ਼ਬਦ ਜਾਣਦਾ ਹਾਂ",
+        "I know a word here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I know a word now",
+        "mainū huṇa ika śabada patā hai",
+        "ਮੈਨੂੰ ਹੁਣ ਇਕ ਸ਼ਬਦ ਪਤਾ ਹੈ",
+        "I know a word now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I know a word well",
+        "maiṁ ika śabada cagī tar'hāṁ jāṇadā hāṁ",
+        "ਮੈਂ ਇਕ ਸ਼ਬਦ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦਾ ਹਾਂ",
+        "I know a word well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I know a word too",
+        "maiṁ ika śabada vī jāṇadā hāṁ",
+        "ਮੈਂ ਇਕ ਸ਼ਬਦ ਵੀ ਜਾਣਦਾ ਹਾਂ",
+        "I know a word too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I know my work here",
+        "maiṁ ithē āpaṇā kama jāṇadā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਆਪਣਾ ਕੰਮ ਜਾਣਦਾ ਹਾਂ",
+        "I know my work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "I know my work now",
+        "mainū huṇa mērā kama patā hai",
+        "ਮੈਨੂੰ ਹੁਣ ਮੇਰਾ ਕੰਮ ਪਤਾ ਹੈ",
+        "I know my work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "I know my work well",
+        "maiṁ āpaṇē kama nū cagī tar'hāṁ jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਕੰਮ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦਾ ਹਾਂ",
+        "I know my work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "I know my work too",
+        "mainū mērā kama vī patā hai",
+        "ਮੈਨੂੰ ਮੇਰਾ ਕੰਮ ਵੀ ਪਤਾ ਹੈ",
+        "I know my work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "I see a book here",
+        "maiṁ ithē ika kitāba vēkha rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਕਿਤਾਬ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a book here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I see a book now",
+        "maiṁ huṇa ika kitāba vēkha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਕਿਤਾਬ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a book now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I see a book well",
+        "maiṁ ika kitāba cagī tar'hāṁ vēkha rihā hāṁ",
+        "ਮੈਂ ਇਕ ਕਿਤਾਬ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a book well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I see a book too",
+        "maiṁ ika kitāba vī vēkhadā hāṁ",
+        "ਮੈਂ ਇਕ ਕਿਤਾਬ ਵੀ ਵੇਖਦਾ ਹਾਂ",
+        "I see a book too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I see my child here",
+        "maiṁ āpaṇē bacē nū ithē vēkha rihā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਇਥੇ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see my child here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "child",
+            "det": "my",
+            "adv": "here"
+        }
+    ],
+    [
+        "I see my child now",
+        "Maiṁ huṇa āpaṇē bacē nū vēkha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see my child now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "child",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I see my child well",
+        "maiṁ āpaṇē bacē nū cagī tar'hāṁ vēkhadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਦਾ ਹਾਂ",
+        "I see my child well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "child",
+            "det": "my",
+            "adv": "well"
+        }
+    ],
+    [
+        "I see my child too",
+        "maiṁ āpaṇē bacē nū vī vēkhadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੀ ਵੇਖਦਾ ਹਾਂ",
+        "I see my child too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "child",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I see my family here",
+        "maiṁ āpaṇē parivāra nū ithē vēkha rihā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਇਥੇ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see my family here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "family",
+            "det": "my",
+            "adv": "here"
+        }
+    ],
+    [
+        "I see my family now",
+        "maiṁ huṇa āpaṇē parivāra nū vēkha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see my family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "family",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I see my family well",
+        "maiṁ āpaṇē parivāra nū cagī tar'hāṁ vēkhadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਦਾ ਹਾਂ",
+        "I see my family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "family",
+            "det": "my",
+            "adv": "well"
+        }
+    ],
+    [
+        "I see my family too",
+        "maiṁ āpaṇē parivāra nū vī vēkhadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਵੀ ਵੇਖਦਾ ਹਾਂ",
+        "I see my family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "family",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I see a hand here",
+        "maiṁ ithē ika hatha vēkha rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਹੱਥ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a hand here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I see a hand now",
+        "maiṁ huṇa ika hatha vēkha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਹੱਥ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a hand now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I see a hand well",
+        "maiṁ ika hatha cagī tar'hāṁ vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਹੱਥ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a hand well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I see a hand too",
+        "maiṁ ika hatha vī vēkhadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਹੱਥ ਵੀ ਵੇਖਦਾ ਹਾਂ",
+        "I see a hand too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I see a home here",
+        "maiṁ ithē ika ghara vēkha rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਘਰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "home",
+            "adv": "here"
+        }
+    ],
+    [
+        "I see a home now",
+        "maiṁ huṇa ika ghara vēkha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਘਰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "home",
+            "adv": "now"
+        }
+    ],
+    [
+        "I see a home well",
+        "maiṁ ika ghara cagī tar'hāṁ vēkha rihā hāṁ",
+        "ਮੈਂ ਇਕ ਘਰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "home",
+            "adv": "well"
+        }
+    ],
+    [
+        "I see a home too",
+        "maiṁ ika ghara vī vēkhadā hāṁ",
+        "ਮੈਂ ਇਕ ਘਰ ਵੀ ਵੇਖਦਾ ਹਾਂ",
+        "I see a home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "home",
+            "adv": "too"
+        }
+    ],
+    [
+        "I see a man here",
+        "maiṁ ithē ika ādamī nū vēkhadā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਆਦਮੀ ਨੂੰ ਵੇਖਦਾ ਹਾਂ",
+        "I see a man here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I see a man now",
+        "maiṁ huṇa ika ādamī nū vēkha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇਕ ਆਦਮੀ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a man now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I see a man well",
+        "maiṁ ika ādamī nū cagī tar'hāṁ vēkha rihā hāṁ",
+        "ਮੈਂ ਇਕ ਆਦਮੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a man well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I see a man too",
+        "maiṁ ika ādamī nū vī vēkhadā hāṁ",
+        "ਮੈਂ ਇਕ ਆਦਮੀ ਨੂੰ ਵੀ ਵੇਖਦਾ ਹਾਂ",
+        "I see a man too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I see my mother here",
+        "maiṁ āpaṇī māṁ nū ithē vēkha rihā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਇਥੇ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see my mother here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "mother",
+            "det": "my",
+            "adv": "here"
+        }
+    ],
+    [
+        "I see my mother now",
+        "maiṁ huṇa āpaṇī māṁ nū vēkha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਆਪਣੀ ਮਾਂ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see my mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "mother",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I see my mother well",
+        "maiṁ āpaṇī māṁ nū cagī tar'hāṁ vēkhadā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਦਾ ਹਾਂ",
+        "I see my mother well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "mother",
+            "det": "my",
+            "adv": "well"
+        }
+    ],
+    [
+        "I see my mother too",
+        "maiṁ āpaṇī māṁ nū vī vēkhadā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਵੀ ਵੇਖਦਾ ਹਾਂ",
+        "I see my mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "mother",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I see a room here",
+        "maiṁ ithē ika kamarā vēkha rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇੱਕ ਕਮਰਾ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I see a room now",
+        "maiṁ huṇa ika kamarā vēkha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਕਮਰਾ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I see a room well",
+        "maiṁ ika kamarā cagī tar'hāṁ vēkha rihā hāṁ",
+        "ਮੈਂ ਇਕ ਕਮਰਾ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a room well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I see a room too",
+        "maiṁ ika kamarā vī vēkhadā hāṁ",
+        "ਮੈਂ ਇਕ ਕਮਰਾ ਵੀ ਵੇਖਦਾ ਹਾਂ",
+        "I see a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I see a student here",
+        "maiṁ ithē ika vidi'ārathī nū vēkha rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I see a student now",
+        "maiṁ huṇa ika vidi'ārathī nū vēkha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a student now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I see a student well",
+        "maiṁ ika vidi'ārathī nū cagī tarāṁ vēkhadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਚੰਗੀ ਤਰਾਂ ਵੇਖਦਾ ਹਾਂ",
+        "I see a student well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I see a student too",
+        "maiṁ ika vidi'ārathī vī vēkhadā hāṁ",
+        "ਮੈਂ ਇਕ ਵਿਦਿਆਰਥੀ ਵੀ ਵੇਖਦਾ ਹਾਂ",
+        "I see a student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I see a thing here",
+        "maiṁ ithē ika cīza vēkha rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਚੀਜ਼ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a thing here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I see a thing now",
+        "Maiṁ huṇa ika cīza dēkha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇਕ ਚੀਜ਼ ਦੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I see a thing well",
+        "maiṁ ika cīza cagī tar'hāṁ vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੀਜ਼ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I see a thing too",
+        "maiṁ ika cīja vī vēkhadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੀਜ ਵੀ ਵੇਖਦਾ ਹਾਂ",
+        "I see a thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I see water here",
+        "maiṁ ithē pāṇī dēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਪਾਣੀ ਦੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see water here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "water",
+            "adv": "here"
+        }
+    ],
+    [
+        "I see water now",
+        "maiṁ huṇa pāṇī dēkha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਪਾਣੀ ਦੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see water now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "water",
+            "adv": "now"
+        }
+    ],
+    [
+        "I see water well",
+        "maiṁ pāṇī cagī tar'hāṁ vēkhadā hāṁ",
+        "ਮੈਂ ਪਾਣੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਦਾ ਹਾਂ",
+        "I see water well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "water",
+            "adv": "well"
+        }
+    ],
+    [
+        "I see water too",
+        "maiṁ vī pāṇī dēkhadā hāṁ",
+        "ਮੈਂ ਵੀ ਪਾਣੀ ਦੇਖਦਾ ਹਾਂ",
+        "I see water too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "water",
+            "adv": "too"
+        }
+    ],
+    [
+        "I see a woman here",
+        "maiṁ ithē ika seerata vēkha rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ seeਰਤ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a woman here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I see a woman now",
+        "maiṁ huṇa ika seerata nū vēkha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇਕ seeਰਤ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a woman now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I see a woman well",
+        "maiṁ ika womanrata nū cagī tarāṁ vēkhadā hāṁ",
+        "ਮੈਂ ਇਕ womanਰਤ ਨੂੰ ਚੰਗੀ ਤਰਾਂ ਵੇਖਦਾ ਹਾਂ",
+        "I see a woman well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I see a woman too",
+        "maiṁ ika womanrata vī vēkhadī hāṁ",
+        "ਮੈਂ ਇਕ womanਰਤ ਵੀ ਵੇਖਦੀ ਹਾਂ",
+        "I see a woman too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I come to my family here",
+        "maiṁ ithē āpaṇē parivāra kōla ā'i'ā hāṁ",
+        "ਮੈਂ ਇਥੇ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਆਇਆ ਹਾਂ",
+        "I come to my family here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "family",
+            "det": "my",
+            "adv": "here"
+        }
+    ],
+    [
+        "I come to my family now",
+        "maiṁ huṇa āpaṇē parivāra kōla ā'i'ā hāṁ",
+        "ਮੈਂ ਹੁਣ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਆਇਆ ਹਾਂ",
+        "I come to my family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "family",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I come to my family well",
+        "maiṁ āpaṇē parivāra kōla cagī tar'hāṁ ā'i'ā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਇਆ ਹਾਂ",
+        "I come to my family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "family",
+            "det": "my",
+            "adv": "well"
+        }
+    ],
+    [
+        "I come to my family too",
+        "maiṁ āpaṇē parivāra kōla vī ā'i'ā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਵੀ ਆਇਆ ਹਾਂ",
+        "I come to my family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "family",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I come home here",
+        "maiṁ ithē ghara ā'i'ā hāṁ",
+        "ਮੈਂ ਇਥੇ ਘਰ ਆਇਆ ਹਾਂ",
+        "I come home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "home",
+            "adv": "here"
+        }
+    ],
+    [
+        "I come home now",
+        "maiṁ huṇa ghara ā gi'ā hāṁ",
+        "ਮੈਂ ਹੁਣ ਘਰ ਆ ਗਿਆ ਹਾਂ",
+        "I come home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "home",
+            "adv": "now"
+        }
+    ],
+    [
+        "I come home well",
+        "maiṁ ghara cagī tarāṁ ā'undī hāṁ",
+        "ਮੈਂ ਘਰ ਚੰਗੀ ਤਰਾਂ ਆਉਂਦੀ ਹਾਂ",
+        "I come home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "home",
+            "adv": "well"
+        }
+    ],
+    [
+        "I come home too",
+        "maiṁ vī ghara ā'undī hāṁ",
+        "ਮੈਂ ਵੀ ਘਰ ਆਉਂਦੀ ਹਾਂ",
+        "I come home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "home",
+            "adv": "too"
+        }
+    ],
+    [
+        "I come to my mother here",
+        "maiṁ ithē āpaṇī māṁ kōla ā'i'ā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਆਪਣੀ ਮਾਂ ਕੋਲ ਆਇਆ ਹਾਂ",
+        "I come to my mother here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "mother",
+            "det": "my",
+            "adv": "here"
+        }
+    ],
+    [
+        "I come to my mother now",
+        "maiṁ huṇa āpaṇī māṁ kōla ā'i'ā hāṁ",
+        "ਮੈਂ ਹੁਣ ਆਪਣੀ ਮਾਂ ਕੋਲ ਆਇਆ ਹਾਂ",
+        "I come to my mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "mother",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I come to my mother well",
+        "maiṁ cagī tar'hāṁ āpaṇī māṁ kōla ā'undī hāṁ",
+        "ਮੈਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਪਣੀ ਮਾਂ ਕੋਲ ਆਉਂਦੀ ਹਾਂ",
+        "I come to my mother well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "mother",
+            "det": "my",
+            "adv": "well"
+        }
+    ],
+    [
+        "I come to my mother too",
+        "maiṁ āpaṇī māṁ kōla vī ā'undī hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਕੋਲ ਵੀ ਆਉਂਦੀ ਹਾਂ",
+        "I come to my mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "mother",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I come to a room here",
+        "maiṁ ithē ika kamarē vica ā'i'ā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਕਮਰੇ ਵਿਚ ਆਇਆ ਹਾਂ",
+        "I come to a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I come to a room now",
+        "maiṁ huṇa ika kamarē vica ā'i'ā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇਕ ਕਮਰੇ ਵਿਚ ਆਇਆ ਹਾਂ",
+        "I come to a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I come to a room well",
+        "maiṁ ika kamarē vica cagī tar'hāṁ ā'i'ā hāṁ",
+        "ਮੈਂ ਇਕ ਕਮਰੇ ਵਿਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਇਆ ਹਾਂ",
+        "I come to a room well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I come to a room too",
+        "maiṁ vī ika kamarē vica ā'i'ā hāṁ",
+        "ਮੈਂ ਵੀ ਇਕ ਕਮਰੇ ਵਿਚ ਆਇਆ ਹਾਂ",
+        "I come to a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I come for a week here",
+        "maiṁ ithē ika hafatē ā'i'ā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਹਫ਼ਤੇ ਆਇਆ ਹਾਂ",
+        "I come for a week here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I come for a week now",
+        "Maiṁ huṇa ika haphatā ā'i'ā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਹਫਤਾ ਆਇਆ ਹਾਂ",
+        "I come for a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I come for a week well",
+        "maiṁ ika haphatē la'ī cagī tar'hāṁ ā'i'ā hāṁ",
+        "ਮੈਂ ਇਕ ਹਫਤੇ ਲਈ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਇਆ ਹਾਂ",
+        "I come for a week well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I come for a week too",
+        "maiṁ vī ika hafatē la'ī ā'i'ā hāṁ",
+        "ਮੈਂ ਵੀ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਆਇਆ ਹਾਂ",
+        "I come for a week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I come to work here",
+        "maiṁ ithē kama karana ā'i'ā hāṁ",
+        "ਮੈਂ ਇਥੇ ਕੰਮ ਕਰਨ ਆਇਆ ਹਾਂ",
+        "I come to work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "I come to work now",
+        "maiṁ huṇa kama tē ā'i'ā hāṁ",
+        "ਮੈਂ ਹੁਣ ਕੰਮ ਤੇ ਆਇਆ ਹਾਂ",
+        "I come to work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "I come to work well",
+        "maiṁ cagī tar'hāṁ kama karana ā'i'ā hāṁ",
+        "ਮੈਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕੰਮ ਕਰਨ ਆਇਆ ਹਾਂ",
+        "I come to work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "I come to work too",
+        "maiṁ vī kama tē ā'i'ā hāṁ",
+        "ਮੈਂ ਵੀ ਕੰਮ ਤੇ ਆਇਆ ਹਾਂ",
+        "I come to work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "I use a book here",
+        "maiṁ ithē ika kitāba dī varatōṁ karadā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਕਿਤਾਬ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹਾਂ",
+        "I use a book here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I use a book now",
+        "maiṁ huṇa ika kitāba varatadā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇਕ ਕਿਤਾਬ ਵਰਤਦਾ ਹਾਂ",
+        "I use a book now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I use a book well",
+        "maiṁ ika kitāba cagī tar'hāṁ varatadā hāṁ",
+        "ਮੈਂ ਇਕ ਕਿਤਾਬ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤਦਾ ਹਾਂ",
+        "I use a book well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I use a book too",
+        "maiṁ ika kitāba vī varatadā hāṁ",
+        "ਮੈਂ ਇਕ ਕਿਤਾਬ ਵੀ ਵਰਤਦਾ ਹਾਂ",
+        "I use a book too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I use a hand here",
+        "maiṁ ithē ika hatha varatadā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਹੱਥ ਵਰਤਦਾ ਹਾਂ",
+        "I use a hand here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I use a hand now",
+        "maiṁ huṇa ika hatha varatadā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਹੱਥ ਵਰਤਦਾ ਹਾਂ",
+        "I use a hand now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I use a hand well",
+        "maiṁ ika hatha cagī tar'hāṁ varatadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਹੱਥ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤਦਾ ਹਾਂ",
+        "I use a hand well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I use a hand too",
+        "maiṁ ika hatha vī varatadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਹੱਥ ਵੀ ਵਰਤਦਾ ਹਾਂ",
+        "I use a hand too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I use a room here",
+        "maiṁ ithē ika kamarā varatadā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਕਮਰਾ ਵਰਤਦਾ ਹਾਂ",
+        "I use a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I use a room now",
+        "maiṁ huṇa kamarā varatadā hāṁ",
+        "ਮੈਂ ਹੁਣ ਕਮਰਾ ਵਰਤਦਾ ਹਾਂ",
+        "I use a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I use a room well",
+        "maiṁ kamarā cagī tarāṁ varatadā hāṁ",
+        "ਮੈਂ ਕਮਰਾ ਚੰਗੀ ਤਰਾਂ ਵਰਤਦਾ ਹਾਂ",
+        "I use a room well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I use a room too",
+        "maiṁ ika kamarā vī varatadā hāṁ",
+        "ਮੈਂ ਇਕ ਕਮਰਾ ਵੀ ਵਰਤਦਾ ਹਾਂ",
+        "I use a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I use a thing here",
+        "maiṁ ithē ika cīza dī varatōṁ karadā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹਾਂ",
+        "I use a thing here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I use a thing now",
+        "maiṁ huṇa ika cīza dī varatōṁ karadā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇਕ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹਾਂ",
+        "I use a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I use a thing well",
+        "maiṁ ika cīza dī cagī tar'hāṁ varatōṁ karadā hāṁ",
+        "ਮੈਂ ਇਕ ਚੀਜ਼ ਦੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤੋਂ ਕਰਦਾ ਹਾਂ",
+        "I use a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I use a thing too",
+        "maiṁ vī ika cīza dī varatōṁ karadā hāṁ",
+        "ਮੈਂ ਵੀ ਇਕ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹਾਂ",
+        "I use a thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I use water here",
+        "maiṁ ithē pāṇī dī varatōṁ karadā hāṁ",
+        "ਮੈਂ ਇਥੇ ਪਾਣੀ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹਾਂ",
+        "I use water here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "water",
+            "adv": "here"
+        }
+    ],
+    [
+        "I use water now",
+        "maiṁ huṇa pāṇī dī varatōṁ karadā hāṁ",
+        "ਮੈਂ ਹੁਣ ਪਾਣੀ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹਾਂ",
+        "I use water now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "water",
+            "adv": "now"
+        }
+    ],
+    [
+        "I use water well",
+        "maiṁ pāṇī dī cagī varatōṁ karadā hāṁ",
+        "ਮੈਂ ਪਾਣੀ ਦੀ ਚੰਗੀ ਵਰਤੋਂ ਕਰਦਾ ਹਾਂ",
+        "I use water well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "water",
+            "adv": "well"
+        }
+    ],
+    [
+        "I use water too",
+        "maiṁ vī pāṇī dī varatōṁ karadā hāṁ",
+        "ਮੈਂ ਵੀ ਪਾਣੀ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹਾਂ",
+        "I use water too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "water",
+            "adv": "too"
+        }
+    ],
+    [
+        "I use a week here",
+        "maiṁ ithē ika hafatā varatadā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਹਫ਼ਤਾ ਵਰਤਦਾ ਹਾਂ",
+        "I use a week here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I use a week now",
+        "maiṁ huṇa ika haphatā varatadā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਹਫਤਾ ਵਰਤਦਾ ਹਾਂ",
+        "I use a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I use a week well",
+        "maiṁ ika haphatā cagī tar'hāṁ varatadā hāṁ",
+        "ਮੈਂ ਇਕ ਹਫਤਾ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤਦਾ ਹਾਂ",
+        "I use a week well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I use a week too",
+        "maiṁ ika haphatā vī varatadā hāṁ",
+        "ਮੈਂ ਇਕ ਹਫਤਾ ਵੀ ਵਰਤਦਾ ਹਾਂ",
+        "I use a week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I use a word here",
+        "maiṁ ithē ika śabada varatadā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਸ਼ਬਦ ਵਰਤਦਾ ਹਾਂ",
+        "I use a word here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I use a word now",
+        "Maiṁ huṇa ika śabada varatadā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਸ਼ਬਦ ਵਰਤਦਾ ਹਾਂ",
+        "I use a word now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I use a word well",
+        "maiṁ ika śabada cagī tar'hāṁ varatadā hāṁ",
+        "ਮੈਂ ਇਕ ਸ਼ਬਦ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤਦਾ ਹਾਂ",
+        "I use a word well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I use a word too",
+        "maiṁ ika śabada vī varatadā hāṁ",
+        "ਮੈਂ ਇਕ ਸ਼ਬਦ ਵੀ ਵਰਤਦਾ ਹਾਂ",
+        "I use a word too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I find a book here",
+        "mainū ithē ika kitāba milī",
+        "ਮੈਨੂੰ ਇਥੇ ਇਕ ਕਿਤਾਬ ਮਿਲੀ",
+        "I find a book here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I find a book now",
+        "mainū huṇa ika kitāba milī",
+        "ਮੈਨੂੰ ਹੁਣ ਇੱਕ ਕਿਤਾਬ ਮਿਲੀ",
+        "I find a book now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I find a book well",
+        "mainū ika kitāba cagī lagī hai",
+        "ਮੈਨੂੰ ਇਕ ਕਿਤਾਬ ਚੰਗੀ ਲੱਗੀ ਹੈ",
+        "I find a book well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I find a book too",
+        "mainū ika kitāba vī mila ga'ī",
+        "ਮੈਨੂੰ ਇਕ ਕਿਤਾਬ ਵੀ ਮਿਲ ਗਈ",
+        "I find a book too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I find a home here",
+        "mainū ithē ika ghara mili'ā hai",
+        "ਮੈਨੂੰ ਇਥੇ ਇਕ ਘਰ ਮਿਲਿਆ ਹੈ",
+        "I find a home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "home",
+            "adv": "here"
+        }
+    ],
+    [
+        "I find a home now",
+        "mainū huṇa ika ghara mila gi'ā",
+        "ਮੈਨੂੰ ਹੁਣ ਇੱਕ ਘਰ ਮਿਲ ਗਿਆ",
+        "I find a home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "home",
+            "adv": "now"
+        }
+    ],
+    [
+        "I find a home well",
+        "mainū ika ghara vadhī'ā mili'ā hai",
+        "ਮੈਨੂੰ ਇਕ ਘਰ ਵਧੀਆ ਮਿਲਿਆ ਹੈ",
+        "I find a home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "home",
+            "adv": "well"
+        }
+    ],
+    [
+        "I find a home too",
+        "mainū vī ika ghara mila gi'ā",
+        "ਮੈਨੂੰ ਵੀ ਇਕ ਘਰ ਮਿਲ ਗਿਆ",
+        "I find a home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "home",
+            "adv": "too"
+        }
+    ],
+    [
+        "I find a room here",
+        "mainū ithē ika kamarā mili'ā hai",
+        "ਮੈਨੂੰ ਇੱਥੇ ਇੱਕ ਕਮਰਾ ਮਿਲਿਆ ਹੈ",
+        "I find a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I find a room now",
+        "mainū huṇa ika kamarā mili'ā hai",
+        "ਮੈਨੂੰ ਹੁਣ ਇੱਕ ਕਮਰਾ ਮਿਲਿਆ ਹੈ",
+        "I find a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I find a room well",
+        "mainū ika kamarā vadhī'ā mili'ā hai",
+        "ਮੈਨੂੰ ਇੱਕ ਕਮਰਾ ਵਧੀਆ ਮਿਲਿਆ ਹੈ",
+        "I find a room well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I find a room too",
+        "mainū ika kamarā vī mili'ā hai",
+        "ਮੈਨੂੰ ਇਕ ਕਮਰਾ ਵੀ ਮਿਲਿਆ ਹੈ",
+        "I find a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I find a thing here",
+        "mainū ithē ika cīza mila ga'ī",
+        "ਮੈਨੂੰ ਇੱਥੇ ਇਕ ਚੀਜ਼ ਮਿਲ ਗਈ",
+        "I find a thing here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I find a thing now",
+        "mainū huṇa ika cīza mila ga'ī",
+        "ਮੈਨੂੰ ਹੁਣ ਇਕ ਚੀਜ਼ ਮਿਲ ਗਈ",
+        "I find a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I find a thing well",
+        "mainū ika cīza cagī lagī hai",
+        "ਮੈਨੂੰ ਇਕ ਚੀਜ਼ ਚੰਗੀ ਲੱਗੀ ਹੈ",
+        "I find a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I find a thing too",
+        "mainū vī ika cīza mila ga'ī",
+        "ਮੈਨੂੰ ਵੀ ਇਕ ਚੀਜ਼ ਮਿਲ ਗਈ",
+        "I find a thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I find water here",
+        "mainū ithē pāṇī miladā hai",
+        "ਮੈਨੂੰ ਇੱਥੇ ਪਾਣੀ ਮਿਲਦਾ ਹੈ",
+        "I find water here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "water",
+            "adv": "here"
+        }
+    ],
+    [
+        "I find water now",
+        "mainū huṇa pāṇī mila gi'ā",
+        "ਮੈਨੂੰ ਹੁਣ ਪਾਣੀ ਮਿਲ ਗਿਆ",
+        "I find water now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "water",
+            "adv": "now"
+        }
+    ],
+    [
+        "I find water well",
+        "maiṁ pāṇī cagī tar'hāṁ labhadā hāṁ",
+        "ਮੈਂ ਪਾਣੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲੱਭਦਾ ਹਾਂ",
+        "I find water well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "water",
+            "adv": "well"
+        }
+    ],
+    [
+        "I find water too",
+        "mainū vī pāṇī miladā hai",
+        "ਮੈਨੂੰ ਵੀ ਪਾਣੀ ਮਿਲਦਾ ਹੈ",
+        "I find water too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "water",
+            "adv": "too"
+        }
+    ],
+    [
+        "I find a woman here",
+        "mainū ithē ika findrata milī",
+        "ਮੈਨੂੰ ਇਥੇ ਇਕ findਰਤ ਮਿਲੀ",
+        "I find a woman here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I find a woman now",
+        "mainū huṇa ika findrata milī hai",
+        "ਮੈਨੂੰ ਹੁਣ ਇੱਕ findਰਤ ਮਿਲੀ ਹੈ",
+        "I find a woman now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I find a woman well",
+        "mainū ika wellrata cagī lagī hai",
+        "ਮੈਨੂੰ ਇਕ wellਰਤ ਚੰਗੀ ਲੱਗੀ ਹੈ",
+        "I find a woman well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I find a woman too",
+        "maiṁ ika findrata vī labhadī hāṁ",
+        "ਮੈਂ ਇਕ findਰਤ ਵੀ ਲੱਭਦੀ ਹਾਂ",
+        "I find a woman too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I find a word here",
+        "mainū ithē ika śabada mili'ā hai",
+        "ਮੈਨੂੰ ਇੱਥੇ ਇੱਕ ਸ਼ਬਦ ਮਿਲਿਆ ਹੈ",
+        "I find a word here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I find a word now",
+        "Mainū huṇa ika śabada mili'ā hai",
+        "ਮੈਨੂੰ ਹੁਣ ਇੱਕ ਸ਼ਬਦ ਮਿਲਿਆ ਹੈ",
+        "I find a word now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I find a word well",
+        "mainū ika śabada cagā mili'ā hai",
+        "ਮੈਨੂੰ ਇੱਕ ਸ਼ਬਦ ਚੰਗਾ ਮਿਲਿਆ ਹੈ",
+        "I find a word well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I find a word too",
+        "mainū ika śabada vī mili'ā hai",
+        "ਮੈਨੂੰ ਇੱਕ ਸ਼ਬਦ ਵੀ ਮਿਲਿਆ ਹੈ",
+        "I find a word too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I find work here",
+        "mainū ithē kama miladā hai",
+        "ਮੈਨੂੰ ਇਥੇ ਕੰਮ ਮਿਲਦਾ ਹੈ",
+        "I find work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "I find work now",
+        "mainū huṇa kama mila rihā hai",
+        "ਮੈਨੂੰ ਹੁਣ ਕੰਮ ਮਿਲ ਰਿਹਾ ਹੈ",
+        "I find work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "I find work well",
+        "mainū kama vadhī'ā miladā hai",
+        "ਮੈਨੂੰ ਕੰਮ ਵਧੀਆ ਮਿਲਦਾ ਹੈ",
+        "I find work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "I find work too",
+        "mainū vī kama miladā hai",
+        "ਮੈਨੂੰ ਵੀ ਕੰਮ ਮਿਲਦਾ ਹੈ",
+        "I find work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "work",
+            "adv": "too"
+        }
+    ]
+]

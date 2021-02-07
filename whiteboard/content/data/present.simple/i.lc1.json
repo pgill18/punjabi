@@ -1,0 +1,1651 @@
+[
+    [
+        "I am my child",
+        "Maiṁ mērā bacā hāṁ",
+        "ਮੈਂ ਮੇਰਾ ਬੱਚਾ ਹਾਂ",
+        "I am my child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "child",
+            "det": "my"
+        }
+    ],
+    [
+        "I am a student",
+        "maiṁ ika vidi'ārathī hāṁ",
+        "ਮੈਂ ਇਕ ਵਿਦਿਆਰਥੀ ਹਾਂ",
+        "I am a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "I have a book",
+        "mērē kōla ika kitāba hai",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਕਿਤਾਬ ਹੈ",
+        "I have a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "book",
+            "det": "a"
+        }
+    ],
+    [
+        "I have my child",
+        "mērē kōla mērā bacā hai",
+        "ਮੇਰੇ ਕੋਲ ਮੇਰਾ ਬੱਚਾ ਹੈ",
+        "I have my child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "child",
+            "det": "my"
+        }
+    ],
+    [
+        "I have my family",
+        "mērā parivāra hai",
+        "ਮੇਰਾ ਪਰਿਵਾਰ ਹੈ",
+        "I have my family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "family",
+            "det": "my"
+        }
+    ],
+    [
+        "I have a hand",
+        "mērā hatha hai",
+        "ਮੇਰਾ ਹੱਥ ਹੈ",
+        "I have a hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "hand",
+            "det": "a"
+        }
+    ],
+    [
+        "I have a home",
+        "mērē kōla ika ghara hai",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਘਰ ਹੈ",
+        "I have a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "home"
+        }
+    ],
+    [
+        "I have my mother",
+        "mērī māṁ hai",
+        "ਮੇਰੀ ਮਾਂ ਹੈ",
+        "I have my mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "det": "my"
+        }
+    ],
+    [
+        "I have a room",
+        "mērē kōla ika kamarā hai",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਕਮਰਾ ਹੈ",
+        "I have a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "I have a thing",
+        "mērē kōla ika cīza hai",
+        "ਮੇਰੇ ਕੋਲ ਇਕ ਚੀਜ਼ ਹੈ",
+        "I have a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "I have water",
+        "mērē kōla pāṇī hai",
+        "ਮੇਰੇ ਕੋਲ ਪਾਣੀ ਹੈ",
+        "I have water",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "water"
+        }
+    ],
+    [
+        "I have a week",
+        "mērē kōla ika hafatā hai",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਹਫ਼ਤਾ ਹੈ",
+        "I have a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "I have my work",
+        "Mērē kōla mērā kama hai",
+        "ਮੇਰੇ ਕੋਲ ਮੇਰਾ ਕੰਮ ਹੈ",
+        "I have my work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "work"
+        }
+    ],
+    [
+        "I do a thing",
+        "maiṁ ika cīza karadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੀਜ਼ ਕਰਦਾ ਹਾਂ",
+        "I do a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "I do work",
+        "maiṁ kama karadā hāṁ",
+        "ਮੈਂ ਕੰਮ ਕਰਦਾ ਹਾਂ",
+        "I do work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "work"
+        }
+    ],
+    [
+        "I go to my family",
+        "maiṁ āpaṇē parivāra kōla jāndā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਜਾਂਦਾ ਹਾਂ",
+        "I go to my family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "family",
+            "det": "my"
+        }
+    ],
+    [
+        "I go home",
+        "maiṁ ghara jāndā hāṁ",
+        "ਮੈਂ ਘਰ ਜਾਂਦਾ ਹਾਂ",
+        "I go home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "home"
+        }
+    ],
+    [
+        "I go to my mother",
+        "maiṁ āpaṇī māṁ kōla jāndā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਕੋਲ ਜਾਂਦਾ ਹਾਂ",
+        "I go to my mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "mother",
+            "det": "my"
+        }
+    ],
+    [
+        "I go to a room",
+        "maiṁ ika kamarē vica jāndā hāṁ",
+        "ਮੈਂ ਇੱਕ ਕਮਰੇ ਵਿੱਚ ਜਾਂਦਾ ਹਾਂ",
+        "I go to a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "I go to a student",
+        "maiṁ ika vidi'ārathī kōla jāndā hāṁ",
+        "ਮੈਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾਂਦਾ ਹਾਂ",
+        "I go to a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "I go for a week",
+        "maiṁ ika hafatē la'ī jāndā hāṁ",
+        "ਮੈਂ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਜਾਂਦਾ ਹਾਂ",
+        "I go for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "I go to work",
+        "maiṁ kama tē jāndā hāṁ",
+        "ਮੈਂ ਕੰਮ ਤੇ ਜਾਂਦਾ ਹਾਂ",
+        "I go to work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "work"
+        }
+    ],
+    [
+        "I know my child",
+        "maiṁ āpaṇē bacē nū jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know my child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "child",
+            "det": "my"
+        }
+    ],
+    [
+        "I know my family",
+        "maiṁ āpaṇē parivāra nū jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know my family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "family",
+            "det": "my"
+        }
+    ],
+    [
+        "I know a man",
+        "maiṁ ika ādamī nū jāṇadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਆਦਮੀ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "I know my mother",
+        "maiṁ āpaṇī māṁ nū jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know my mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "mother",
+            "det": "my"
+        }
+    ],
+    [
+        "I know a student",
+        "maiṁ ika vidi'ārathī nū jāṇadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "I know my thing",
+        "mainū mērī cīza patā hai",
+        "ਮੈਨੂੰ ਮੇਰੀ ਚੀਜ਼ ਪਤਾ ਹੈ",
+        "I know my thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "I know a woman",
+        "maiṁ ika knowrata nū jāṇadā hāṁ",
+        "ਮੈਂ ਇੱਕ knowਰਤ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "I know a word",
+        "mainū ika śabada patā hai",
+        "ਮੈਨੂੰ ਇੱਕ ਸ਼ਬਦ ਪਤਾ ਹੈ",
+        "I know a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "word",
+            "det": "a"
+        }
+    ],
+    [
+        "I know my work",
+        "mainū mērā kama patā hai",
+        "ਮੈਨੂੰ ਮੇਰਾ ਕੰਮ ਪਤਾ ਹੈ",
+        "I know my work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "work"
+        }
+    ],
+    [
+        "I see a book",
+        "maiṁ ika kitāba vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਕਿਤਾਬ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "book",
+            "det": "a"
+        }
+    ],
+    [
+        "I see my child",
+        "maiṁ āpaṇē bacē nū vēkha rihā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see my child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "child",
+            "det": "my"
+        }
+    ],
+    [
+        "I see my family",
+        "maiṁ āpaṇē parivāra nū vēkhadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਵੇਖਦਾ ਹਾਂ",
+        "I see my family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "family",
+            "det": "my"
+        }
+    ],
+    [
+        "I see a hand",
+        "maiṁ ika hatha vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਹੱਥ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a"
+        }
+    ],
+    [
+        "I see a home",
+        "maiṁ ika ghara vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਘਰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "home"
+        }
+    ],
+    [
+        "I see a man",
+        "maiṁ ika ādamī nū vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਆਦਮੀ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "I see my mother",
+        "maiṁ āpaṇī māṁ nū vēkhadā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਵੇਖਦਾ ਹਾਂ",
+        "I see my mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "mother",
+            "det": "my"
+        }
+    ],
+    [
+        "I see a room",
+        "maiṁ ika kamarā vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਕਮਰਾ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "I see a student",
+        "maiṁ ika vidi'ārathī nū vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "I see a thing",
+        "maiṁ ika cīza vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੀਜ਼ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "I see water",
+        "maiṁ pāṇī dēkha rihā hāṁ",
+        "ਮੈਂ ਪਾਣੀ ਦੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see water",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "water"
+        }
+    ],
+    [
+        "I see a woman",
+        "maiṁ ika seerata vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ seeਰਤ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "I come to my family",
+        "maiṁ āpaṇē parivāra kōla ā'i'ā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਆਇਆ ਹਾਂ",
+        "I come to my family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "family",
+            "det": "my"
+        }
+    ],
+    [
+        "I come home",
+        "maiṁ ghara ā gi'ā",
+        "ਮੈਂ ਘਰ ਆ ਗਿਆ",
+        "I come home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "home"
+        }
+    ],
+    [
+        "I come to my mother",
+        "Maiṁ āpaṇī māṁ kōla ā'i'ā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਕੋਲ ਆਇਆ ਹਾਂ",
+        "I come to my mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "mother",
+            "det": "my"
+        }
+    ],
+    [
+        "I come to a room",
+        "maiṁ ika kamarē vica ā'i'ā hāṁ",
+        "ਮੈਂ ਇੱਕ ਕਮਰੇ ਵਿੱਚ ਆਇਆ ਹਾਂ",
+        "I come to a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "I come for a week",
+        "maiṁ ika haphatē la'ī ā'i'ā hāṁ",
+        "ਮੈਂ ਇੱਕ ਹਫਤੇ ਲਈ ਆਇਆ ਹਾਂ",
+        "I come for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "I come to work",
+        "maiṁ kama tē ā'i'ā hāṁ",
+        "ਮੈਂ ਕੰਮ ਤੇ ਆਇਆ ਹਾਂ",
+        "I come to work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "work"
+        }
+    ],
+    [
+        "I use a book",
+        "maiṁ ika kitāba dī varatōṁ karadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਕਿਤਾਬ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹਾਂ",
+        "I use a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "book",
+            "det": "a"
+        }
+    ],
+    [
+        "I use a hand",
+        "maiṁ ika hatha varatadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਹੱਥ ਵਰਤਦਾ ਹਾਂ",
+        "I use a hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a"
+        }
+    ],
+    [
+        "I use a room",
+        "maiṁ ika kamarā varatadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਕਮਰਾ ਵਰਤਦਾ ਹਾਂ",
+        "I use a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "I use a thing",
+        "maiṁ ika cīza varatadā hāṁ",
+        "ਮੈਂ ਇਕ ਚੀਜ਼ ਵਰਤਦਾ ਹਾਂ",
+        "I use a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "I use water",
+        "maiṁ pāṇī dī varatōṁ karadā hāṁ",
+        "ਮੈਂ ਪਾਣੀ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹਾਂ",
+        "I use water",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "water"
+        }
+    ],
+    [
+        "I use a week",
+        "maiṁ ika haphatā varatadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਹਫਤਾ ਵਰਤਦਾ ਹਾਂ",
+        "I use a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "I use a word",
+        "maiṁ ika śabada varatadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਸ਼ਬਦ ਵਰਤਦਾ ਹਾਂ",
+        "I use a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "word",
+            "det": "a"
+        }
+    ],
+    [
+        "I find a book",
+        "mainū ika kitāba milī",
+        "ਮੈਨੂੰ ਇੱਕ ਕਿਤਾਬ ਮਿਲੀ",
+        "I find a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "book",
+            "det": "a"
+        }
+    ],
+    [
+        "I find a home",
+        "mainū ika ghara mila gi'ā",
+        "ਮੈਨੂੰ ਇੱਕ ਘਰ ਮਿਲ ਗਿਆ",
+        "I find a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "home"
+        }
+    ],
+    [
+        "I find a room",
+        "mainū ika kamarā mili'ā",
+        "ਮੈਨੂੰ ਇੱਕ ਕਮਰਾ ਮਿਲਿਆ",
+        "I find a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "I find a thing",
+        "Mainū ika cīza mila ga'ī",
+        "ਮੈਨੂੰ ਇਕ ਚੀਜ਼ ਮਿਲ ਗਈ",
+        "I find a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "I find water",
+        "mainū pāṇī mila gi'ā",
+        "ਮੈਨੂੰ ਪਾਣੀ ਮਿਲ ਗਿਆ",
+        "I find water",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "water"
+        }
+    ],
+    [
+        "I find a woman",
+        "mainū ika findrata milī",
+        "ਮੈਨੂੰ ਇੱਕ findਰਤ ਮਿਲੀ",
+        "I find a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "I find a word",
+        "mainū ika śabada mili'ā",
+        "ਮੈਨੂੰ ਇੱਕ ਸ਼ਬਦ ਮਿਲਿਆ",
+        "I find a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "word",
+            "det": "a"
+        }
+    ],
+    [
+        "I find work",
+        "maiṁ kama labhadā hāṁ",
+        "ਮੈਂ ਕੰਮ ਲੱਭਦਾ ਹਾਂ",
+        "I find work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "work"
+        }
+    ]
+]

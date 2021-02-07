@@ -1,0 +1,753 @@
+[
+    [
+        "It has been coming on time",
+        "iha samēṁ tē ā rihā hai",
+        "ਇਹ ਸਮੇਂ ਤੇ ਆ ਰਿਹਾ ਹੈ",
+        "It has been coming on time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "It has been coming to work",
+        "iha kama'tē ā gi'ā hai",
+        "ਇਹ ਕੰਮ 'ਤੇ ਆ ਗਿਆ ਹੈ",
+        "It has been coming to work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "It has been thinking about the group",
+        "iha samūha bārē sōcadā rihā hai",
+        "ਇਹ ਸਮੂਹ ਬਾਰੇ ਸੋਚਦਾ ਰਿਹਾ ਹੈ",
+        "It has been thinking about the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "lot"
+        }
+    ],
+    [
+        "It has been thinking about a job",
+        "iha kisē naukarī bārē sōcadā rihā hai",
+        "ਇਹ ਕਿਸੇ ਨੌਕਰੀ ਬਾਰੇ ਸੋਚਦਾ ਰਿਹਾ ਹੈ",
+        "It has been thinking about a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "mother",
+            "det": "its"
+        }
+    ],
+    [
+        "It has been thinking about money",
+        "iha paisē bārē sōcadā rihā hai",
+        "ਇਹ ਪੈਸੇ ਬਾਰੇ ਸੋਚਦਾ ਰਿਹਾ ਹੈ",
+        "It has been thinking about money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "It has been thinking about its mother",
+        "iha āpaṇī māṁ bārē sōcadā rihā hai",
+        "ਇਹ ਆਪਣੀ ਮਾਂ ਬਾਰੇ ਸੋਚਦਾ ਰਿਹਾ ਹੈ",
+        "It has been thinking about its mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "It has been thinking right",
+        "iha sahī sōca rihā hai",
+        "ਇਹ ਸਹੀ ਸੋਚ ਰਿਹਾ ਹੈ",
+        "It has been thinking right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "It has been looking after a business",
+        "iha ika kārōbāra dī dēkhabhāla kara rihā hai",
+        "ਇਹ ਇੱਕ ਕਾਰੋਬਾਰ ਦੀ ਦੇਖਭਾਲ ਕਰ ਰਿਹਾ ਹੈ",
+        "It has been looking after a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "It has been looking after its family",
+        "iha āpaṇē parivāra dī dēkhabhāla kara rihā hai",
+        "ਇਹ ਆਪਣੇ ਪਰਿਵਾਰ ਦੀ ਦੇਖਭਾਲ ਕਰ ਰਿਹਾ ਹੈ",
+        "It has been looking after its family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "It has been looking at a man",
+        "iha ika ādamī vala vēkha rihā hai",
+        "ਇਹ ਇਕ ਆਦਮੀ ਵੱਲ ਵੇਖ ਰਿਹਾ ਹੈ",
+        "It has been looking at a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "It has been looking after its mother",
+        "iha āpaṇī māṁ dī dēkhabhāla kara rihā hai",
+        "ਇਹ ਆਪਣੀ ਮਾਂ ਦੀ ਦੇਖਭਾਲ ਕਰ ਰਿਹਾ ਹੈ",
+        "It has been looking after its mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "do",
+            "noun": "lot"
+        }
+    ],
+    [
+        "It has known a student",
+        "iha ika vidi'ārathī nū jāṇadā hai",
+        "ਇਹ ਇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦਾ ਹੈ",
+        "It has known a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "tell",
+            "noun": "life"
+        }
+    ],
+    [
+        "It has known a system",
+        "iha ika sisaṭama jāṇadā hai",
+        "ਇਹ ਇੱਕ ਸਿਸਟਮ ਜਾਣਦਾ ਹੈ",
+        "It has known a system",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "It has known its thing",
+        "iha āpaṇī cīza jāṇadā hai",
+        "ਇਹ ਆਪਣੀ ਚੀਜ਼ ਜਾਣਦਾ ਹੈ",
+        "It has known its thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "its"
+        }
+    ],
+    [
+        "It has known its way",
+        "iha āpaṇā rasatā jāṇadā hai",
+        "ਇਹ ਆਪਣਾ ਰਸਤਾ ਜਾਣਦਾ ਹੈ",
+        "It has known its way",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "It has known a word",
+        "iha ika śabada jāṇadā hai",
+        "ਇਹ ਇੱਕ ਸ਼ਬਦ ਜਾਣਦਾ ਹੈ",
+        "It has known a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "It has known its work",
+        "iha isa dē kama nū jāṇadā hai",
+        "ਇਹ ਇਸ ਦੇ ਕੰਮ ਨੂੰ ਜਾਣਦਾ ਹੈ",
+        "It has known its work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a"
+        }
+    ],
+    [
+        "It has been taking a job",
+        "iha ika naukarī lai rihā hai",
+        "ਇਹ ਇੱਕ ਨੌਕਰੀ ਲੈ ਰਿਹਾ ਹੈ",
+        "It has been taking a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "It has been seeing its child",
+        "iha āpaṇē bacē nū vēkhadā rihā hai",
+        "ਇਹ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੇਖਦਾ ਰਿਹਾ ਹੈ",
+        "It has been seeing its child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "It has been seeing its family",
+        "iha āpaṇē parivāra nū vēkhadā rihā hai",
+        "ਇਹ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਵੇਖਦਾ ਰਿਹਾ ਹੈ",
+        "It has been seeing its family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "its"
+        }
+    ],
+    [
+        "It has been seeing a hand",
+        "iha ika hatha vēkhi'ā gi'ā hai",
+        "ਇਹ ਇੱਕ ਹੱਥ ਵੇਖਿਆ ਗਿਆ ਹੈ",
+        "It has been seeing a hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "It has been seeing a home",
+        "iha ika ghara vēkhadā rihā hai",
+        "ਇਹ ਇੱਕ ਘਰ ਵੇਖਦਾ ਰਿਹਾ ਹੈ",
+        "It has been seeing a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "It has been seeing its mother",
+        "iha āpaṇī māṁ nū vēkhadā rihā hai",
+        "ਇਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਵੇਖਦਾ ਰਿਹਾ ਹੈ",
+        "It has been seeing its mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "It has been coming to a job",
+        "iha ika naukarī'tē ā gi'ā hai",
+        "ਇਹ ਇੱਕ ਨੌਕਰੀ 'ਤੇ ਆ ਗਿਆ ਹੈ",
+        "It has been coming to a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "try",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "It has been coming to a room",
+        "iha ika kamarē vica ā'undī rahī hai",
+        "ਇਹ ਇਕ ਕਮਰੇ ਵਿਚ ਆਉਂਦੀ ਰਹੀ ਹੈ",
+        "It has been coming to a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "try",
+            "noun": "month",
+            "det": "a"
+        }
+    ],
+    [
+        "It has been trying for a week",
+        "iha ika haphatē tōṁ kōśiśa kara rihā hai",
+        "ਇਹ ਇੱਕ ਹਫਤੇ ਤੋਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ",
+        "It has been trying for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "try",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "It has been trying for a year",
+        "iha ika sāla tōṁ kōśiśa kara rihā hai",
+        "ਇਹ ਇਕ ਸਾਲ ਤੋਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ",
+        "It has been trying for a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "try",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "It has been leaving a business",
+        "iha ika kārōbāra chaḍa rihā hai",
+        "ਇਹ ਇੱਕ ਕਾਰੋਬਾਰ ਛੱਡ ਰਿਹਾ ਹੈ",
+        "It has been leaving a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "It has been calling its mother",
+        "iha āpaṇī māṁ nū bulā'undā rihā hai",
+        "ਇਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਬੁਲਾਉਂਦਾ ਰਿਹਾ ਹੈ",
+        "It has been calling its mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "call",
+            "noun": "mother",
+            "det": "its"
+        }
+    ]
+]

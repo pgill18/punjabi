@@ -1,0 +1,1336 @@
+[
+    [
+        "You had been coming to a place",
+        "tusīṁ kisē jag'hā ā rahē sī",
+        "ਤੁਸੀਂ ਕਿਸੇ ਜਗ੍ਹਾ ਆ ਰਹੇ ਸੀ",
+        "You had been coming to a place",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "people"
+        }
+    ],
+    [
+        "You had been coming on time",
+        "tusīṁ samēṁ tē ā rahē sī",
+        "ਤੁਸੀਂ ਸਮੇਂ ਤੇ ਆ ਰਹੇ ਸੀ",
+        "You had been coming on time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "You had been coming to work",
+        "tusīṁ kama tē ā rahē sī",
+        "ਤੁਸੀਂ ਕੰਮ ਤੇ ਆ ਰਹੇ ਸੀ",
+        "You had been coming to work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "You had been thinking about a book",
+        "tusīṁ kisē kitāba bārē sōca rahē sī",
+        "ਤੁਸੀਂ ਕਿਸੇ ਕਿਤਾਬ ਬਾਰੇ ਸੋਚ ਰਹੇ ਸੀ",
+        "You had been thinking about a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "family",
+            "det": "your"
+        }
+    ],
+    [
+        "You had been thinking about a business",
+        "tusīṁ kisē kārōbāra bārē sōca rahē sī",
+        "ਤੁਸੀਂ ਕਿਸੇ ਕਾਰੋਬਾਰ ਬਾਰੇ ਸੋਚ ਰਹੇ ਸੀ",
+        "You had been thinking about a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "You had been thinking about your family",
+        "tusīṁ āpaṇē parivāra bārē sōca rahē sī",
+        "ਤੁਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਬਾਰੇ ਸੋਚ ਰਹੇ ਸੀ",
+        "You had been thinking about your family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "You had been thinking about home",
+        "tusīṁ ghara bārē sōca rahē sī",
+        "ਤੁਸੀਂ ਘਰ ਬਾਰੇ ਸੋਚ ਰਹੇ ਸੀ",
+        "You had been thinking about home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "money"
+        }
+    ],
+    [
+        "You had been thinking about a job",
+        "tusīṁ kisē naukarī bārē sōca rahē sī",
+        "ਤੁਸੀਂ ਕਿਸੇ ਨੌਕਰੀ ਬਾਰੇ ਸੋਚ ਰਹੇ ਸੀ",
+        "You had been thinking about a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "det": "your"
+        }
+    ],
+    [
+        "You had been thinking about people",
+        "tusīṁ lōkāṁ bārē sōca rahē sī",
+        "ਤੁਸੀਂ ਲੋਕਾਂ ਬਾਰੇ ਸੋਚ ਰਹੇ ਸੀ",
+        "You had been thinking about people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "right"
+        }
+    ],
+    [
+        "You had been thinking about a problem",
+        "tusīṁ kisē samasi'ā bārē sōca rahē sī",
+        "ਤੁਸੀਂ ਕਿਸੇ ਸਮੱਸਿਆ ਬਾਰੇ ਸੋਚ ਰਹੇ ਸੀ",
+        "You had been thinking about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "You had been thinking right",
+        "tusīṁ sahī sōca rahē sī",
+        "ਤੁਸੀਂ ਸਹੀ ਸੋਚ ਰਹੇ ਸੀ",
+        "You had been thinking right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "You had been thinking about a story",
+        "tusīṁ kisē kahāṇī bārē sōca rahē sī",
+        "ਤੁਸੀਂ ਕਿਸੇ ਕਹਾਣੀ ਬਾਰੇ ਸੋਚ ਰਹੇ ਸੀ",
+        "You had been thinking about a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "You had been looking after your child",
+        "Tusīṁ āpaṇē bacē dī dēkhabhāla kara rahē sī",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬੱਚੇ ਦੀ ਦੇਖਭਾਲ ਕਰ ਰਹੇ ਸੀ",
+        "You had been looking after your child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "work"
+        }
+    ],
+    [
+        "You had been looking at a man",
+        "tusīṁ kisē ādamī vala vēkha rahē sī",
+        "ਤੁਸੀਂ ਕਿਸੇ ਆਦਮੀ ਵੱਲ ਵੇਖ ਰਹੇ ਸੀ",
+        "You had been looking at a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "You had been looking at money",
+        "tusīṁ paisē nū vēkha rahē sī",
+        "ਤੁਸੀਂ ਪੈਸੇ ਨੂੰ ਵੇਖ ਰਹੇ ਸੀ",
+        "You had been looking at money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "You had been looking at a problem",
+        "tusīṁ kisē samasi'ā vala vēkha rahē sī",
+        "ਤੁਸੀਂ ਕਿਸੇ ਸਮੱਸਿਆ ਵੱਲ ਵੇਖ ਰਹੇ ਸੀ",
+        "You had been looking at a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "right"
+        }
+    ],
+    [
+        "You had been looking at a woman",
+        "tusīṁ kisē atrata vala vēkha rahē sī",
+        "ਤੁਸੀਂ ਕਿਸੇ atਰਤ ਵੱਲ ਵੇਖ ਰਹੇ ਸੀ",
+        "You had been looking at a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "You had been looking for work",
+        "tusīṁ kama dī bhāla vica sī",
+        "ਤੁਸੀਂ ਕੰਮ ਦੀ ਭਾਲ ਵਿਚ ਸੀ",
+        "You had been looking for work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "work"
+        }
+    ],
+    [
+        "You had been having the group",
+        "tusīṁ samūha kara rahē sī",
+        "ਤੁਸੀਂ ਸਮੂਹ ਕਰ ਰਹੇ ਸੀ",
+        "You had been having the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "think",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "You had been having a job",
+        "tusīṁ ika naukarī kara rahē sī",
+        "ਤੁਸੀਂ ਇੱਕ ਨੌਕਰੀ ਕਰ ਰਹੇ ਸੀ",
+        "You had been having a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "think",
+            "noun": "family",
+            "det": "your"
+        }
+    ],
+    [
+        "You had been having a lot",
+        "tusīṁ bahuta kujha kara rahē sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਕੁਝ ਕਰ ਰਹੇ ਸੀ",
+        "You had been having a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "think",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "You had been having your mother",
+        "tusīṁ āpaṇī māṁ hō cukē sī",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਹੋ ਚੁੱਕੇ ਸੀ",
+        "You had been having your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "think",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "You had been having a problem",
+        "tuhānū ika samasi'ā hō rahī sī",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਸਮੱਸਿਆ ਹੋ ਰਹੀ ਸੀ",
+        "You had been having a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "think",
+            "noun": "money"
+        }
+    ],
+    [
+        "You had been having a question",
+        "tuhānū ika savāla kītā gi'ā sī",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਸਵਾਲ ਕੀਤਾ ਗਿਆ ਸੀ",
+        "You had been having a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "think",
+            "noun": "mother",
+            "det": "your"
+        }
+    ],
+    [
+        "You had been having the right",
+        "tuhāḍā haka rihā sī",
+        "ਤੁਹਾਡਾ ਹੱਕ ਰਿਹਾ ਸੀ",
+        "You had been having the right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "think",
+            "noun": "people"
+        }
+    ],
+    [
+        "You had been having a story",
+        "tusīṁ kahāṇī suṇā rahē sī",
+        "ਤੁਸੀਂ ਕਹਾਣੀ ਸੁਣਾ ਰਹੇ ਸੀ",
+        "You had been having a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "think",
+            "noun": "right"
+        }
+    ],
+    [
+        "You had been having a thing",
+        "tuhāḍē kōla kujha hudā rihā sī",
+        "ਤੁਹਾਡੇ ਕੋਲ ਕੁਝ ਹੁੰਦਾ ਰਿਹਾ ਸੀ",
+        "You had been having a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "think",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "You had been having time",
+        "tuhāḍē kōla samāṁ rihā sī",
+        "ਤੁਹਾਡੇ ਕੋਲ ਸਮਾਂ ਰਿਹਾ ਸੀ",
+        "You had been having time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "think",
+            "noun": "work"
+        }
+    ],
+    [
+        "You had been having a week",
+        "tuhānū ika hafatā hō gi'ā sī",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਹਫ਼ਤਾ ਹੋ ਗਿਆ ਸੀ",
+        "You had been having a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "look",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "You had been having a year",
+        "tuhānū ika sāla hō gi'ā sī",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਸਾਲ ਹੋ ਗਿਆ ਸੀ",
+        "You had been having a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "look",
+            "noun": "family",
+            "det": "your"
+        }
+    ],
+    [
+        "You had been doing a job",
+        "tusīṁ ika kama kara rahē sī",
+        "ਤੁਸੀਂ ਇੱਕ ਕੰਮ ਕਰ ਰਹੇ ਸੀ",
+        "You had been doing a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "look",
+            "noun": "money"
+        }
+    ],
+    [
+        "You had been doing a lot",
+        "tusīṁ bahuta kara rahē sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਕਰ ਰਹੇ ਸੀ",
+        "You had been doing a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "look",
+            "noun": "mother",
+            "det": "your"
+        }
+    ],
+    [
+        "You had been doing a part",
+        "tusīṁ ika hisā kara rahē sī",
+        "ਤੁਸੀਂ ਇੱਕ ਹਿੱਸਾ ਕਰ ਰਹੇ ਸੀ",
+        "You had been doing a part",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "look",
+            "noun": "people"
+        }
+    ],
+    [
+        "You had been doing a thing",
+        "tusīṁ kujha kara rahē sī",
+        "ਤੁਸੀਂ ਕੁਝ ਕਰ ਰਹੇ ਸੀ",
+        "You had been doing a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "look",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "You had been doing work",
+        "tusīṁ kama kara rahē sī",
+        "ਤੁਸੀਂ ਕੰਮ ਕਰ ਰਹੇ ਸੀ",
+        "You had been doing work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "look",
+            "noun": "work"
+        }
+    ],
+    [
+        "You had been saying a word",
+        "tusīṁ ika śabada kahi rahē sī",
+        "ਤੁਸੀਂ ਇੱਕ ਸ਼ਬਦ ਕਹਿ ਰਹੇ ਸੀ",
+        "You had been saying a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "want",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "You had been getting a book",
+        "tuhānū ika kitāba milī sī",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਕਿਤਾਬ ਮਿਲੀ ਸੀ",
+        "You had been getting a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "want",
+            "noun": "family",
+            "det": "your"
+        }
+    ],
+    [
+        "You had been getting a day",
+        "tuhānū ika dina mila rihā sī",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਦਿਨ ਮਿਲ ਰਿਹਾ ਸੀ",
+        "You had been getting a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "want",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "You had been getting a job",
+        "tuhānū naukarī mila rahī sī",
+        "ਤੁਹਾਨੂੰ ਨੌਕਰੀ ਮਿਲ ਰਹੀ ਸੀ",
+        "You had been getting a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "want",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "You had been getting money",
+        "tuhānū paisē mila rahē sana",
+        "ਤੁਹਾਨੂੰ ਪੈਸੇ ਮਿਲ ਰਹੇ ਸਨ",
+        "You had been getting money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "want",
+            "noun": "money"
+        }
+    ],
+    [
+        "You had been getting your mother",
+        "tusīṁ āpaṇī māṁ nū mila rahē sī",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਮਿਲ ਰਹੇ ਸੀ",
+        "You had been getting your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "want",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "You had been getting a part",
+        "tusīṁ hisā pā rahē sī",
+        "ਤੁਸੀਂ ਹਿੱਸਾ ਪਾ ਰਹੇ ਸੀ",
+        "You had been getting a part",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "want",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "You had been getting a point",
+        "tuhānū ika bidū prāpata kītā gi'ā sī",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਬਿੰਦੂ ਪ੍ਰਾਪਤ ਕੀਤਾ ਗਿਆ ਸੀ",
+        "You had been getting a point",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "want",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "You had been getting time",
+        "tuhānū samāṁ miladā rihā sī",
+        "ਤੁਹਾਨੂੰ ਸਮਾਂ ਮਿਲਦਾ ਰਿਹਾ ਸੀ",
+        "You had been getting time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "want",
+            "noun": "work"
+        }
+    ],
+    [
+        "You had been making a home",
+        "tusīṁ ghara baṇā rahē sī",
+        "ਤੁਸੀਂ ਘਰ ਬਣਾ ਰਹੇ ਸੀ",
+        "You had been making a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "give",
+            "noun": "money"
+        }
+    ],
+    [
+        "You had been making a lot",
+        "tusīṁ bahuta kujha kara rahē sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਕੁਝ ਕਰ ਰਹੇ ਸੀ",
+        "You had been making a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "give",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "You had been seeing a point",
+        "tusīṁ ika bidū vēkha rahē sī",
+        "ਤੁਸੀਂ ਇੱਕ ਬਿੰਦੂ ਵੇਖ ਰਹੇ ਸੀ",
+        "You had been seeing a point",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "work",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "You had been seeing a problem",
+        "tusīṁ ika samasi'ā vēkha rahē sī",
+        "ਤੁਸੀਂ ਇੱਕ ਸਮੱਸਿਆ ਵੇਖ ਰਹੇ ਸੀ",
+        "You had been seeing a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "work",
+            "noun": "family",
+            "det": "your"
+        }
+    ],
+    [
+        "You had been seeing a room",
+        "tusīṁ ika kamarā vēkha rahē sī",
+        "ਤੁਸੀਂ ਇੱਕ ਕਮਰਾ ਵੇਖ ਰਹੇ ਸੀ",
+        "You had been seeing a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "work",
+            "noun": "government",
+            "det": "the"
+        }
+    ],
+    [
+        "You had been seeing a student",
+        "tusīṁ ika vidi'ārathī nū vēkha rahē sī",
+        "ਤੁਸੀਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖ ਰਹੇ ਸੀ",
+        "You had been seeing a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "work",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "You had been seeing water",
+        "tusīṁ pāṇī dēkha rahē sī",
+        "ਤੁਸੀਂ ਪਾਣੀ ਦੇਖ ਰਹੇ ਸੀ",
+        "You had been seeing water",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "work",
+            "noun": "money"
+        }
+    ],
+    [
+        "You had been coming to the country",
+        "tusīṁ dēśa ā rahē sī",
+        "ਤੁਸੀਂ ਦੇਸ਼ ਆ ਰਹੇ ਸੀ",
+        "You had been coming to the country",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "work",
+            "noun": "people"
+        }
+    ]
+]

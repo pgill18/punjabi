@@ -1,0 +1,1336 @@
+[
+    [
+        "I will have come to a place",
+        "maiṁ kisē jag'hā ā jāvāṅgā",
+        "ਮੈਂ ਕਿਸੇ ਜਗ੍ਹਾ ਆ ਜਾਵਾਂਗਾ",
+        "I will have come to a place",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "people"
+        }
+    ],
+    [
+        "I will have come on time",
+        "maiṁ samēṁ tē ā'i'ā hāṁ",
+        "ਮੈਂ ਸਮੇਂ ਤੇ ਆਇਆ ਹਾਂ",
+        "I will have come on time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have come to work",
+        "maiṁ kama tē ā'i'ā hāṁ",
+        "ਮੈਂ ਕੰਮ ਤੇ ਆਇਆ ਹਾਂ",
+        "I will have come to work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have thought about a book",
+        "maiṁ kisē kitāba bārē sōci'ā hōvēgā",
+        "ਮੈਂ ਕਿਸੇ ਕਿਤਾਬ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "I will have thought about a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "family",
+            "det": "my"
+        }
+    ],
+    [
+        "I will have thought about a business",
+        "maiṁ ika kārōbāra bārē sōci'ā hōvēgā",
+        "ਮੈਂ ਇੱਕ ਕਾਰੋਬਾਰ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "I will have thought about a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "I will have thought about my family",
+        "maiṁ āpaṇē parivāra bārē sōci'ā hōvēgā",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "I will have thought about my family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have thought about home",
+        "maiṁ ghara bārē sōci'ā hōvēgā",
+        "ਮੈਂ ਘਰ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "I will have thought about home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "money"
+        }
+    ],
+    [
+        "I will have thought about a job",
+        "maiṁ kisē naukarī bārē sōci'ā hōvēgā",
+        "ਮੈਂ ਕਿਸੇ ਨੌਕਰੀ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "I will have thought about a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "det": "my"
+        }
+    ],
+    [
+        "I will have thought about people",
+        "maiṁ lōkāṁ bārē sōci'ā hōvēgā",
+        "ਮੈਂ ਲੋਕਾਂ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "I will have thought about people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "right"
+        }
+    ],
+    [
+        "I will have thought about a problem",
+        "maiṁ kisē samasi'ā bārē sōci'ā hōvēgā",
+        "ਮੈਂ ਕਿਸੇ ਸਮੱਸਿਆ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "I will have thought about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have thought right",
+        "maiṁ sahī sōci'ā hōvēgā",
+        "ਮੈਂ ਸਹੀ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "I will have thought right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have thought about a story",
+        "maiṁ ika kahāṇī bārē sōci'ā hōvēgā",
+        "ਮੈਂ ਇਕ ਕਹਾਣੀ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "I will have thought about a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have looked after my child",
+        "Maiṁ āpaṇē bacē dī dēkhabhāla karāṅgā",
+        "ਮੈਂ ਆਪਣੇ ਬੱਚੇ ਦੀ ਦੇਖਭਾਲ ਕਰਾਂਗਾ",
+        "I will have looked after my child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "work"
+        }
+    ],
+    [
+        "I will have looked at a man",
+        "maiṁ kisē ādamī vala vēkhi'ā hōvēgā",
+        "ਮੈਂ ਕਿਸੇ ਆਦਮੀ ਵੱਲ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "I will have looked at a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have looked at money",
+        "maiṁ paisē vala vēkhi'ā hōvēgā",
+        "ਮੈਂ ਪੈਸੇ ਵੱਲ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "I will have looked at money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have looked at a problem",
+        "maiṁ kisē samasi'ā vala dhi'āna ditā hōvēgā",
+        "ਮੈਂ ਕਿਸੇ ਸਮੱਸਿਆ ਵੱਲ ਧਿਆਨ ਦਿੱਤਾ ਹੋਵੇਗਾ",
+        "I will have looked at a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "right"
+        }
+    ],
+    [
+        "I will have looked at a woman",
+        "maiṁ kisē atrata vala vēkhi'ā hōvēgā",
+        "ਮੈਂ ਕਿਸੇ atਰਤ ਵੱਲ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "I will have looked at a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have looked for work",
+        "maiṁ kama dī bhāla karāṅgā",
+        "ਮੈਂ ਕੰਮ ਦੀ ਭਾਲ ਕਰਾਂਗਾ",
+        "I will have looked for work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "work"
+        }
+    ],
+    [
+        "I will have had the group",
+        "mērē kōla samūha hōṇā sī",
+        "ਮੇਰੇ ਕੋਲ ਸਮੂਹ ਹੋਣਾ ਸੀ",
+        "I will have had the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have had a job",
+        "mainū ika naukarī milī hōvēgī",
+        "ਮੈਨੂੰ ਇੱਕ ਨੌਕਰੀ ਮਿਲੀ ਹੋਵੇਗੀ",
+        "I will have had a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "family",
+            "det": "my"
+        }
+    ],
+    [
+        "I will have had a lot",
+        "mērē kōla bahuta kujha hōvēgā",
+        "ਮੇਰੇ ਕੋਲ ਬਹੁਤ ਕੁਝ ਹੋਵੇਗਾ",
+        "I will have had a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "I will have had my mother",
+        "mainū mērī māṁ milī hōvēgī",
+        "ਮੈਨੂੰ ਮੇਰੀ ਮਾਂ ਮਿਲੀ ਹੋਵੇਗੀ",
+        "I will have had my mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have had a problem",
+        "mainū ika samasi'ā hōṇī sī",
+        "ਮੈਨੂੰ ਇੱਕ ਸਮੱਸਿਆ ਹੋਣੀ ਸੀ",
+        "I will have had a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "money"
+        }
+    ],
+    [
+        "I will have had a question",
+        "mainū ika savāla hōṇā cāhīdā hai",
+        "ਮੈਨੂੰ ਇੱਕ ਸਵਾਲ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+        "I will have had a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "mother",
+            "det": "my"
+        }
+    ],
+    [
+        "I will have had the right",
+        "mērē kōla adhikāra sī",
+        "ਮੇਰੇ ਕੋਲ ਅਧਿਕਾਰ ਸੀ",
+        "I will have had the right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "people"
+        }
+    ],
+    [
+        "I will have had a story",
+        "mērē kōla ika kahāṇī hōvēgī",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਕਹਾਣੀ ਹੋਵੇਗੀ",
+        "I will have had a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "right"
+        }
+    ],
+    [
+        "I will have had a thing",
+        "mērē kōla ika cīza hōvēgī",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਚੀਜ਼ ਹੋਵੇਗੀ",
+        "I will have had a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have had time",
+        "mērē kōla samāṁ hōvēgā",
+        "ਮੇਰੇ ਕੋਲ ਸਮਾਂ ਹੋਵੇਗਾ",
+        "I will have had time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "work"
+        }
+    ],
+    [
+        "I will have had a week",
+        "mērē kōla ika hafatā hōvēgā",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਹਫ਼ਤਾ ਹੋਵੇਗਾ",
+        "I will have had a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have had a year",
+        "mērē kōla ika sāla hōvēgā",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਸਾਲ ਹੋਵੇਗਾ",
+        "I will have had a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "family",
+            "det": "my"
+        }
+    ],
+    [
+        "I will have done a job",
+        "maiṁ ika kama kītā hōvēgā",
+        "ਮੈਂ ਇੱਕ ਕੰਮ ਕੀਤਾ ਹੋਵੇਗਾ",
+        "I will have done a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "money"
+        }
+    ],
+    [
+        "I will have done a lot",
+        "maiṁ bahuta kujha kītā hōvēgā",
+        "ਮੈਂ ਬਹੁਤ ਕੁਝ ਕੀਤਾ ਹੋਵੇਗਾ",
+        "I will have done a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "mother",
+            "det": "my"
+        }
+    ],
+    [
+        "I will have done a part",
+        "maiṁ ika hisā kītā hōvēgā",
+        "ਮੈਂ ਇੱਕ ਹਿੱਸਾ ਕੀਤਾ ਹੋਵੇਗਾ",
+        "I will have done a part",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "people"
+        }
+    ],
+    [
+        "I will have done a thing",
+        "maiṁ kujha kītā hōvēgā",
+        "ਮੈਂ ਕੁਝ ਕੀਤਾ ਹੋਵੇਗਾ",
+        "I will have done a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have done work",
+        "maiṁ kama kara lavāṅgā",
+        "ਮੈਂ ਕੰਮ ਕਰ ਲਵਾਂਗਾ",
+        "I will have done work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "work"
+        }
+    ],
+    [
+        "I will have said a word",
+        "maiṁ ika śabada kahēgā",
+        "ਮੈਂ ਇੱਕ ਸ਼ਬਦ ਕਹੇਗਾ",
+        "I will have said a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have gotten a book",
+        "mainū ika kitāba milī hōvēgī",
+        "ਮੈਨੂੰ ਇੱਕ ਕਿਤਾਬ ਮਿਲੀ ਹੋਵੇਗੀ",
+        "I will have gotten a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "family",
+            "det": "my"
+        }
+    ],
+    [
+        "I will have gotten a day",
+        "mainū ika dina mila jāvēgā",
+        "ਮੈਨੂੰ ਇੱਕ ਦਿਨ ਮਿਲ ਜਾਵੇਗਾ",
+        "I will have gotten a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "I will have gotten a job",
+        "mainū naukarī mila ga'ī hōvēgī",
+        "ਮੈਨੂੰ ਨੌਕਰੀ ਮਿਲ ਗਈ ਹੋਵੇਗੀ",
+        "I will have gotten a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have gotten money",
+        "mērē kōla paisē hōṇagē",
+        "ਮੇਰੇ ਕੋਲ ਪੈਸੇ ਹੋਣਗੇ",
+        "I will have gotten money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "money"
+        }
+    ],
+    [
+        "I will have gotten my mother",
+        "maiṁ āpaṇī māṁ nū prāpata kara lavāṅgā",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰ ਲਵਾਂਗਾ",
+        "I will have gotten my mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have gotten a part",
+        "maiṁ ika hisā pā lavāṅgā",
+        "ਮੈਂ ਇੱਕ ਹਿੱਸਾ ਪਾ ਲਵਾਂਗਾ",
+        "I will have gotten a part",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have gotten a point",
+        "maiṁ ika bidū hāsala kara lavāṅgā",
+        "ਮੈਂ ਇਕ ਬਿੰਦੂ ਹਾਸਲ ਕਰ ਲਵਾਂਗਾ",
+        "I will have gotten a point",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have gotten time",
+        "maiṁ samāṁ pā lavāṅgā",
+        "ਮੈਂ ਸਮਾਂ ਪਾ ਲਵਾਂਗਾ",
+        "I will have gotten time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "work"
+        }
+    ],
+    [
+        "I will have made a home",
+        "maiṁ ika ghara baṇā lavāṅgā",
+        "ਮੈਂ ਇੱਕ ਘਰ ਬਣਾ ਲਵਾਂਗਾ",
+        "I will have made a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "give",
+            "noun": "money"
+        }
+    ],
+    [
+        "I will have made a lot",
+        "maiṁ bahuta kujha kītā hōvēgā",
+        "ਮੈਂ ਬਹੁਤ ਕੁਝ ਕੀਤਾ ਹੋਵੇਗਾ",
+        "I will have made a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "give",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have seen a point",
+        "maiṁ ika bidū vēkhi'ā hōvēgā",
+        "ਮੈਂ ਇੱਕ ਬਿੰਦੂ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "I will have seen a point",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "work",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have seen a problem",
+        "maiṁ ika samasi'ā vēkhī hōvēgī",
+        "ਮੈਂ ਇੱਕ ਸਮੱਸਿਆ ਵੇਖੀ ਹੋਵੇਗੀ",
+        "I will have seen a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "work",
+            "noun": "family",
+            "det": "my"
+        }
+    ],
+    [
+        "I will have seen a room",
+        "maiṁ ika kamarā vēkha li'ā hōvēgā",
+        "ਮੈਂ ਇੱਕ ਕਮਰਾ ਵੇਖ ਲਿਆ ਹੋਵੇਗਾ",
+        "I will have seen a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "work",
+            "noun": "government",
+            "det": "the"
+        }
+    ],
+    [
+        "I will have seen a student",
+        "maiṁ ika vidi'ārathī nū vēkhi'ā hōvēgā",
+        "ਮੈਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "I will have seen a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "work",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "I will have seen water",
+        "maiṁ pāṇī vēkha li'ā hōvēgā",
+        "ਮੈਂ ਪਾਣੀ ਵੇਖ ਲਿਆ ਹੋਵੇਗਾ",
+        "I will have seen water",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "work",
+            "noun": "money"
+        }
+    ],
+    [
+        "I will have come to the country",
+        "maiṁ dēśa ā gi'ā hāṁ",
+        "ਮੈਂ ਦੇਸ਼ ਆ ਗਿਆ ਹਾਂ",
+        "I will have come to the country",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "work",
+            "noun": "people"
+        }
+    ]
+]

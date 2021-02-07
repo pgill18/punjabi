@@ -74,17 +74,17 @@ $(function () {
     }, 2500); // wait for tile.level to load at 2000ms
 });
 
-function whiteboard_setup(index=0) {
+async function whiteboard_setup(index=0) {
     whiteboard.list = (tile.level>2) ? whiteboard.list_long : whiteboard.list_short;
     whiteboard.list.map(type => whiteboard.costIncurred[type]=0);
     whiteboard.costStructure = (tile.level>2) ? whiteboard.costStructure_long : whiteboard.costStructure_short;
     whiteboard.attemptsLeft = 3;
     // whiteboard_fillReqs();
     // whiteboard_body();
-    whiteboard_initialize(index);
+    await whiteboard_initialize(index);
 }
 
-function whiteboard_initialize(index) {
+async function whiteboard_initialize(index) {
     whiteboard.content = whiteboard_rawdb[index].sequences1;
     whiteboard.shuffled = shuffle(whiteboard.content.slice(0));
     let nrows = Math.ceil(whiteboard.shuffled.length / whiteboard.ncols);
@@ -131,12 +131,14 @@ function whiteboard_initialize(index) {
         if(index===1) data.origlines = [].concat(idata[0].origlines.slice(0,2), idata[1].origlines.slice(0,2));
         if(index===2) data.origlines = [].concat(idata[0].origlines, idata[1].origlines);
         // data.origlines = [].concat(idata[0].origlines, idata[1].origlines, idata[2].origlines);
+        whiteboard.idata = idata;
     }
 
     // whiteboard.expedition_mode = 1;
     // whiteboard.expedition = { level: 4 };
     // if(whiteboard.expedition_mode) 
     //     data = whiteboard_db_levels[whiteboard.expedition.level][1];
+    let irow = 2, icol = 0;
 
     if(whiteboard.expedition_mode) {
         data = { dims: 2 };
@@ -146,7 +148,26 @@ function whiteboard_initialize(index) {
         let idata = db_lvl.slice(x);
         if(x >= db_lvl.length-2) idata = db_lvl.slice(-2);
         if(elevel===4) data.origlines = [].concat(idata[0].origlines, idata[1].origlines);
-        else data.origlines = [].concat(idata[0].origlines.slice(0,2), idata[1].origlines.slice(0,2));
+        // else data.origlines = [].concat(idata[0].origlines.slice(0,2), idata[1].origlines.slice(0,2));
+        else {
+            let platform = whiteboard.expedition.platform || 1;
+            idata = langdb[elevel-1][platform-1];
+            if(idata) {
+                if(idata.length===1) idata.push(idata[0]);
+                console.log(`... langdb =`, langdb)
+                console.log(`... elevel=${elevel}, platform=${platform}, idata =`, idata)
+                data.origlines = [].concat(idata[0].origlines.slice(0,2), idata[1].origlines.slice(0,2));
+            }
+            if(idata) {
+                console.log(`... idata =`, idata)
+                whiteboard.expedition.tenses = [idata[0].tense, idata[1].tense];
+            }
+        }
+        // if no data found, assign the pencil thing
+        if(!data.origlines) {
+            let idata = db_lvl.slice(x);
+            data.origlines = [].concat(idata[0].origlines.slice(0,2), idata[1].origlines.slice(0,2));
+        }
     }
 
     // data.cols = 5;
@@ -346,7 +367,50 @@ function whiteboard_compare_square() {
     let mismatches = whiteboard_compare(data_square, data.original);
     return mismatches;
 }
-
+function whiteboard_credit_langscore() {
+    let tenses = idata2tenses(whiteboard.idata);
+    if(tenses) tenses.map(tense => credit_langscores(tense));
+    function idata2tenses(idata, tenses=[]) {
+        if(!idata || !idata.length) return;
+        for(let origlines of idata.slice(0,2)) {
+            let tense = {};
+            for(let word of origlines[0]) {
+                switch(get_pos_type(word)) {
+                    case 'pron': tense.pron = word; break;
+                    case 'verb': tense.verb = word; break;
+                    case 'noun': tense.noun = word; break;
+                    case 'adj': tense.adj = word; break;
+                    case 'adv': tense.adv = word; break;
+                    case 'det': tense.det = word; break;
+                    case 'prep': tense.prep = word; break;
+                    case 'conj': tense.conj = word; break;
+                    case 'intj': tense.intj = word; break;
+                }
+            }
+        }
+        return tenses;
+    }
+    function get_pos_type(word) {
+        word = clean(word);
+        let postype = '';
+        if(get_lang_data('pronouns').includes(word)) postype = 'pron';
+        if(get_lang_data('verbs').includes(word)) postype = 'verb';
+        if(get_lang_data('nouns').includes(word)) postype = 'noun';
+        if(get_lang_data('adjectives').includes(word)) postype = 'adj';
+        if(get_lang_data('adverbs').includes(word)) postype = 'adv';
+        if(get_lang_data('determiners').includes(word)) postype = 'det';
+        if(get_lang_data('prepositions').includes(word)) postype = 'prep';
+        if(get_lang_data('conjunctions').includes(word)) postype = 'conj';
+        if(get_lang_data('interjections').includes(word)) postype = 'intj';
+        return postype;
+    }
+    function clean(text, icase='') {
+        if(!text) return text;
+        else text = text.toString().trim();
+        text = text.toLowerCase();
+        return text;
+    }
+}
 function whiteboard_check(pay=1) {
     if(pay) whiteboard_deduct(whiteboard.costStructure[0]);
     console.log(whiteboard);
@@ -418,6 +482,8 @@ function whiteboard_finish() {
         $(`#whiteboard-${whiteboard.index}`).css('pointerEvents', 'none');
         minigames.whiteboard[whiteboard.index].collected = 1;
         minigames.whiteboard[whiteboard.index].colltime = (new Date).getTime();
+        // whiteboard_credit_langscore();
+        // localStorage.setItem('langscores', JSON.stringify(langscores));
     }
     $(`#whiteboard-submit`).attr('hidden', false);
     $(`#whiteboard-finish`).attr('hidden', true);
@@ -438,8 +504,8 @@ function whiteboard_refresh() {
     // whiteboard_fillReqs();
 }
 
-function whiteboard_createWhiteboard(index) { 
-    whiteboard_setup(index);
+async function whiteboard_createWhiteboard(index) { 
+    await whiteboard_setup(index);
 }
 
 function whiteboard_launchMiniWhiteboardModal_bak(dbindex, {zindex}={}) { 
@@ -481,7 +547,7 @@ function whiteboard_expedition_launchMiniWhiteboardModal(state, {coll,rewards,co
     $('#whiteboardModal1').on('hide.bs.modal', whiteboard_expedition_cb);
 }
 
-function whiteboard_launchMiniWhiteboardModal(x=0, {zindex,reqcoll}={}) {
+async function whiteboard_launchMiniWhiteboardModal(x=0, {zindex,reqcoll}={}) {
     // console.log(`whiteboard_launchMiniWhiteboardModal(x=${x}, zindex=${zindex})`)
     // whiteboard.parties = x===0 ? 4 : 5;
     whiteboard.attemptsLeft = 3;
@@ -514,7 +580,7 @@ function whiteboard_launchMiniWhiteboardModal(x=0, {zindex,reqcoll}={}) {
     if(!whiteboard.reqqty) available_message = `random items`;
     // if(!whiteboard.reqqty) available_message = `3 attempts`;
 
-    whiteboard_createWhiteboard(x);
+    await whiteboard_createWhiteboard(x);
     // whiteboard_body();
     whiteboard_bscard();
     $('#whiteboard-available').text(available_message);

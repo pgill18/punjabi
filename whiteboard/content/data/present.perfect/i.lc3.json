@@ -1,0 +1,1336 @@
+[
+    [
+        "I have been people",
+        "maiṁ lōka hāṁ",
+        "ਮੈਂ ਲੋਕ ਹਾਂ",
+        "I have been people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "people"
+        }
+    ],
+    [
+        "I have had a business",
+        "mērā kārōbāra hō'i'ā hai",
+        "ਮੇਰਾ ਕਾਰੋਬਾਰ ਹੋਇਆ ਹੈ",
+        "I have had a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "I have had a day",
+        "mērē kōla ika dina rihā hai",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਦਿਨ ਰਿਹਾ ਹੈ",
+        "I have had a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "I have had my family",
+        "mērā parivāra hai",
+        "ਮੇਰਾ ਪਰਿਵਾਰ ਹੈ",
+        "I have had my family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "family",
+            "det": "my"
+        }
+    ],
+    [
+        "I have had the group",
+        "mērē kōla samūha sī",
+        "ਮੇਰੇ ਕੋਲ ਸਮੂਹ ਸੀ",
+        "I have had the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "I have had a job",
+        "mainū ika naukarī milī hai",
+        "ਮੈਨੂੰ ਇੱਕ ਨੌਕਰੀ ਮਿਲੀ ਹੈ",
+        "I have had a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "I have had money",
+        "mērē kōla paisē hana",
+        "ਮੇਰੇ ਕੋਲ ਪੈਸੇ ਹਨ",
+        "I have had money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "money"
+        }
+    ],
+    [
+        "I have had my mother",
+        "mērī māṁ hai",
+        "ਮੇਰੀ ਮਾਂ ਹੈ",
+        "I have had my mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "det": "my"
+        }
+    ],
+    [
+        "I have had the right",
+        "mērā haka sī",
+        "ਮੇਰਾ ਹੱਕ ਸੀ",
+        "I have had the right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "right"
+        }
+    ],
+    [
+        "I have had a room",
+        "mērē kōla ika kamarā hai",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਕਮਰਾ ਹੈ",
+        "I have had a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "I have had a story",
+        "mērī ika kahāṇī ā'ī hai",
+        "ਮੇਰੀ ਇਕ ਕਹਾਣੀ ਆਈ ਹੈ",
+        "I have had a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "I have had a thing",
+        "mērē kōla ika cīza hai",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਚੀਜ਼ ਹੈ",
+        "I have had a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "I have had my work",
+        "Mērā kama hō gi'ā hai",
+        "ਮੇਰਾ ਕੰਮ ਹੋ ਗਿਆ ਹੈ",
+        "I have had my work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "work"
+        }
+    ],
+    [
+        "I have done a business",
+        "maiṁ ika kārōbāra kītā hai",
+        "ਮੈਂ ਇੱਕ ਕਾਰੋਬਾਰ ਕੀਤਾ ਹੈ",
+        "I have done a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "I have done a job",
+        "maiṁ ika kama kītā hai",
+        "ਮੈਂ ਇੱਕ ਕੰਮ ਕੀਤਾ ਹੈ",
+        "I have done a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "I have done it right",
+        "maiṁ iha sahī kītā hai",
+        "ਮੈਂ ਇਹ ਸਹੀ ਕੀਤਾ ਹੈ",
+        "I have done it right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "right"
+        }
+    ],
+    [
+        "I have done a thing",
+        "maiṁ ika kama kītā hai",
+        "ਮੈਂ ਇੱਕ ਕੰਮ ਕੀਤਾ ਹੈ",
+        "I have done a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "I have done work",
+        "maiṁ kama kītā hai",
+        "ਮੈਂ ਕੰਮ ਕੀਤਾ ਹੈ",
+        "I have done work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "work"
+        }
+    ],
+    [
+        "I have thought about a business",
+        "maiṁ ika kārōbāra bārē sōci'ā hai",
+        "ਮੈਂ ਇੱਕ ਕਾਰੋਬਾਰ ਬਾਰੇ ਸੋਚਿਆ ਹੈ",
+        "I have thought about a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "I have thought about my family",
+        "maiṁ āpaṇē parivāra bārē sōci'ā hai",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਬਾਰੇ ਸੋਚਿਆ ਹੈ",
+        "I have thought about my family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "family",
+            "det": "my"
+        }
+    ],
+    [
+        "I have thought about the group",
+        "maiṁ samūha bārē sōci'ā hai",
+        "ਮੈਂ ਸਮੂਹ ਬਾਰੇ ਸੋਚਿਆ ਹੈ",
+        "I have thought about the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "I have thought about a job",
+        "maiṁ ika naukarī bārē sōci'ā hai",
+        "ਮੈਂ ਇੱਕ ਨੌਕਰੀ ਬਾਰੇ ਸੋਚਿਆ ਹੈ",
+        "I have thought about a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "I have thought about money",
+        "maiṁ paisē bārē sōci'ā hai",
+        "ਮੈਂ ਪੈਸੇ ਬਾਰੇ ਸੋਚਿਆ ਹੈ",
+        "I have thought about money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "money"
+        }
+    ],
+    [
+        "I have thought about my mother",
+        "maiṁ āpaṇī māṁ bārē sōci'ā hai",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਬਾਰੇ ਸੋਚਿਆ ਹੈ",
+        "I have thought about my mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "mother",
+            "det": "my"
+        }
+    ],
+    [
+        "I have thought about people",
+        "maiṁ lōkāṁ bārē sōci'ā hai",
+        "ਮੈਂ ਲੋਕਾਂ ਬਾਰੇ ਸੋਚਿਆ ਹੈ",
+        "I have thought about people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "people"
+        }
+    ],
+    [
+        "I have thought right",
+        "maiṁ sahī sōci'ā hai",
+        "ਮੈਂ ਸਹੀ ਸੋਚਿਆ ਹੈ",
+        "I have thought right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "right"
+        }
+    ],
+    [
+        "I have thought about a story",
+        "maiṁ ika kahāṇī bārē sōci'ā hai",
+        "ਮੈਂ ਇਕ ਕਹਾਣੀ ਬਾਰੇ ਸੋਚਿਆ ਹੈ",
+        "I have thought about a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "I have thought about work",
+        "maiṁ kama bārē sōci'ā hai",
+        "ਮੈਂ ਕੰਮ ਬਾਰੇ ਸੋਚਿਆ ਹੈ",
+        "I have thought about work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "work"
+        }
+    ],
+    [
+        "I have looked after a business",
+        "maiṁ ika kārōbāra dī dēkhabhāla kītī hai",
+        "ਮੈਂ ਇੱਕ ਕਾਰੋਬਾਰ ਦੀ ਦੇਖਭਾਲ ਕੀਤੀ ਹੈ",
+        "I have looked after a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "I have looked after my family",
+        "maiṁ āpaṇē parivāra dī dēkhabhāla kītī hai",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਦੀ ਦੇਖਭਾਲ ਕੀਤੀ ਹੈ",
+        "I have looked after my family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "family",
+            "det": "my"
+        }
+    ],
+    [
+        "I have looked at money",
+        "maiṁ paisē vala vēkhi'ā hai",
+        "ਮੈਂ ਪੈਸੇ ਵੱਲ ਵੇਖਿਆ ਹੈ",
+        "I have looked at money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "money"
+        }
+    ],
+    [
+        "I have looked after my mother",
+        "maiṁ āpaṇī māṁ dī dēkhabhāla kītī hai",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਦੀ ਦੇਖਭਾਲ ਕੀਤੀ ਹੈ",
+        "I have looked after my mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "mother",
+            "det": "my"
+        }
+    ],
+    [
+        "I have looked after people",
+        "maiṁ lōkāṁ dī dēkhabhāla kītī hai",
+        "ਮੈਂ ਲੋਕਾਂ ਦੀ ਦੇਖਭਾਲ ਕੀਤੀ ਹੈ",
+        "I have looked after people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "people"
+        }
+    ],
+    [
+        "I have looked at a woman",
+        "maiṁ ika atrata vala vēkhi'ā hai",
+        "ਮੈਂ ਇੱਕ atਰਤ ਵੱਲ ਵੇਖਿਆ ਹੈ",
+        "I have looked at a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "I have looked for work",
+        "maiṁ kama dī bhāla kītī hai",
+        "ਮੈਂ ਕੰਮ ਦੀ ਭਾਲ ਕੀਤੀ ਹੈ",
+        "I have looked for work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "work"
+        }
+    ],
+    [
+        "I have wanted a day",
+        "mainū ika dina cāhīdā hai",
+        "ਮੈਨੂੰ ਇੱਕ ਦਿਨ ਚਾਹੀਦਾ ਹੈ",
+        "I have wanted a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "I have wanted my family",
+        "maiṁ āpaṇā parivāra cāhudā hāṁ",
+        "ਮੈਂ ਆਪਣਾ ਪਰਿਵਾਰ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I have wanted my family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "family",
+            "det": "my"
+        }
+    ],
+    [
+        "I have wanted the group",
+        "maiṁ samūha cāhudā hāṁ",
+        "ਮੈਂ ਸਮੂਹ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I have wanted the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "I have wanted a job",
+        "maiṁ naukarī cāhudā hāṁ",
+        "ਮੈਂ ਨੌਕਰੀ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I have wanted a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "I have wanted money",
+        "mainū paisā cāhīdā hai",
+        "ਮੈਨੂੰ ਪੈਸਾ ਚਾਹੀਦਾ ਹੈ",
+        "I have wanted money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "money"
+        }
+    ],
+    [
+        "I have wanted a room",
+        "mainū ika kamarā cāhīdā hai",
+        "ਮੈਨੂੰ ਇੱਕ ਕਮਰਾ ਚਾਹੀਦਾ ਹੈ",
+        "I have wanted a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "I have wanted a story",
+        "mainū ika kahāṇī cāhīdī hai",
+        "ਮੈਨੂੰ ਇੱਕ ਕਹਾਣੀ ਚਾਹੀਦੀ ਹੈ",
+        "I have wanted a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "I have wanted a thing",
+        "maiṁ ika cīza cāhudā sī",
+        "ਮੈਂ ਇੱਕ ਚੀਜ਼ ਚਾਹੁੰਦਾ ਸੀ",
+        "I have wanted a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "I have wanted work",
+        "maiṁ kama cāhudā hāṁ",
+        "ਮੈਂ ਕੰਮ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I have wanted work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "work"
+        }
+    ],
+    [
+        "I have give money",
+        "mērē kōla paisē hana",
+        "ਮੇਰੇ ਕੋਲ ਪੈਸੇ ਹਨ",
+        "I have give money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "give",
+            "noun": "money"
+        }
+    ],
+    [
+        "I have give a thing",
+        "maiṁ ika cīza ditī hai",
+        "ਮੈਂ ਇੱਕ ਚੀਜ਼ ਦਿੱਤੀ ਹੈ",
+        "I have give a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "give",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "I have worked for a day",
+        "maiṁ ika dina kama kītā hai",
+        "ਮੈਂ ਇੱਕ ਦਿਨ ਕੰਮ ਕੀਤਾ ਹੈ",
+        "I have worked for a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "work",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "I have worked for my family",
+        "maiṁ āpaṇē parivāra la'ī kama kītā hai",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਲਈ ਕੰਮ ਕੀਤਾ ਹੈ",
+        "I have worked for my family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "work",
+            "noun": "family",
+            "det": "my"
+        }
+    ],
+    [
+        "I have worked for the government",
+        "maiṁ sarakāra la'ī kama kītā hai",
+        "ਮੈਂ ਸਰਕਾਰ ਲਈ ਕੰਮ ਕੀਤਾ ਹੈ",
+        "I have worked for the government",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "work",
+            "noun": "government",
+            "det": "the"
+        }
+    ],
+    [
+        "I have worked with the group",
+        "maiṁ samūha nāla kama kītā hai",
+        "ਮੈਂ ਸਮੂਹ ਨਾਲ ਕੰਮ ਕੀਤਾ ਹੈ",
+        "I have worked with the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "work",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "I have worked for money",
+        "maiṁ paisē la'ī kama kītā hai",
+        "ਮੈਂ ਪੈਸੇ ਲਈ ਕੰਮ ਕੀਤਾ ਹੈ",
+        "I have worked for money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "work",
+            "noun": "money"
+        }
+    ],
+    [
+        "I have worked with people",
+        "maiṁ lōkāṁ nāla kama kītā hai",
+        "ਮੈਂ ਲੋਕਾਂ ਨਾਲ ਕੰਮ ਕੀਤਾ ਹੈ",
+        "I have worked with people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "work",
+            "noun": "people"
+        }
+    ]
+]

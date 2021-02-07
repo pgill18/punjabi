@@ -1,0 +1,779 @@
+[
+    [
+        "We have been coming to a room",
+        "asīṁ ika kamarē vica ā'undē rahē hāṁ",
+        "ਅਸੀਂ ਇਕ ਕਮਰੇ ਵਿਚ ਆਉਂਦੇ ਰਹੇ ਹਾਂ",
+        "We have been coming to a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "be",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "We have been coming on time",
+        "asīṁ samēṁ tē ā'undē rahē hāṁ",
+        "ਅਸੀਂ ਸਮੇਂ ਤੇ ਆਉਂਦੇ ਰਹੇ ਹਾਂ",
+        "We have been coming on time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "We have been coming to work",
+        "asīṁ kama tē ā'undē rahē hāṁ",
+        "ਅਸੀਂ ਕੰਮ ਤੇ ਆਉਂਦੇ ਰਹੇ ਹਾਂ",
+        "We have been coming to work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "We have been thinking about the group",
+        "asīṁ samūha bārē sōcadē rahē hāṁ",
+        "ਅਸੀਂ ਸਮੂਹ ਬਾਰੇ ਸੋਚਦੇ ਰਹੇ ਹਾਂ",
+        "We have been thinking about the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "lot"
+        }
+    ],
+    [
+        "We have been thinking about a job",
+        "asīṁ kisē naukarī bārē sōca rahē hāṁ",
+        "ਅਸੀਂ ਕਿਸੇ ਨੌਕਰੀ ਬਾਰੇ ਸੋਚ ਰਹੇ ਹਾਂ",
+        "We have been thinking about a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "mother",
+            "det": "our"
+        }
+    ],
+    [
+        "We have been thinking about money",
+        "asīṁ paisi'āṁ bārē sōcadē rahē hāṁ",
+        "ਅਸੀਂ ਪੈਸਿਆਂ ਬਾਰੇ ਸੋਚਦੇ ਰਹੇ ਹਾਂ",
+        "We have been thinking about money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "We have been thinking about our mother",
+        "asīṁ āpaṇī māṁ bārē sōcadē rahē hāṁ",
+        "ਅਸੀਂ ਆਪਣੀ ਮਾਂ ਬਾਰੇ ਸੋਚਦੇ ਰਹੇ ਹਾਂ",
+        "We have been thinking about our mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "We have been thinking right",
+        "asīṁ sahī sōca rahē hāṁ",
+        "ਅਸੀਂ ਸਹੀ ਸੋਚ ਰਹੇ ਹਾਂ",
+        "We have been thinking right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "We have been looking after a business",
+        "asīṁ ika kārōbāra dēkha rahē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਕਾਰੋਬਾਰ ਦੇਖ ਰਹੇ ਹਾਂ",
+        "We have been looking after a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "We have been looking after our family",
+        "asīṁ āpaṇē parivāra dī dēkhabhāla kara rahē hāṁ",
+        "ਅਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਦੀ ਦੇਖਭਾਲ ਕਰ ਰਹੇ ਹਾਂ",
+        "We have been looking after our family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "We have been looking at a man",
+        "asīṁ ika ādamī vala vēkha rahē hāṁ",
+        "ਅਸੀਂ ਇਕ ਆਦਮੀ ਵੱਲ ਵੇਖ ਰਹੇ ਹਾਂ",
+        "We have been looking at a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "We have been looking after our mother",
+        "asīṁ āpaṇī māṁ dī dēkhabhāla kara rahē hāṁ",
+        "ਅਸੀਂ ਆਪਣੀ ਮਾਂ ਦੀ ਦੇਖਭਾਲ ਕਰ ਰਹੇ ਹਾਂ",
+        "We have been looking after our mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "lot"
+        }
+    ],
+    [
+        "We have known a student",
+        "asīṁ ika vidi'ārathī nū jāṇi'ā hai",
+        "ਅਸੀਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਿਆ ਹੈ",
+        "We have known a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "life"
+        }
+    ],
+    [
+        "We have known a system",
+        "asīṁ ika sisaṭama jāṇi'ā hai",
+        "ਅਸੀਂ ਇੱਕ ਸਿਸਟਮ ਜਾਣਿਆ ਹੈ",
+        "We have known a system",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "We have known our thing",
+        "asīṁ āpaṇī cīza jāṇadē hāṁ",
+        "ਅਸੀਂ ਆਪਣੀ ਚੀਜ਼ ਜਾਣਦੇ ਹਾਂ",
+        "We have known our thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "our"
+        }
+    ],
+    [
+        "We have known our way",
+        "asīṁ āpaṇā rasatā jāṇadē hāṁ",
+        "ਅਸੀਂ ਆਪਣਾ ਰਸਤਾ ਜਾਣਦੇ ਹਾਂ",
+        "We have known our way",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "We have known a word",
+        "sānū ika śabada patā hai",
+        "ਸਾਨੂੰ ਇੱਕ ਸ਼ਬਦ ਪਤਾ ਹੈ",
+        "We have known a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "We have known our work",
+        "asīṁ āpaṇē kama nū jāṇadē hāṁ",
+        "ਅਸੀਂ ਆਪਣੇ ਕੰਮ ਨੂੰ ਜਾਣਦੇ ਹਾਂ",
+        "We have known our work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a"
+        }
+    ],
+    [
+        "We have been taking a job",
+        "asīṁ naukarī kara rahē hāṁ",
+        "ਅਸੀਂ ਨੌਕਰੀ ਕਰ ਰਹੇ ਹਾਂ",
+        "We have been taking a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "We have been seeing our child",
+        "asīṁ āpaṇē bacē nū vēkhadē ā rahē hāṁ",
+        "ਅਸੀਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੇਖਦੇ ਆ ਰਹੇ ਹਾਂ",
+        "We have been seeing our child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "We have been seeing our family",
+        "asīṁ āpaṇē parivāra nū vēkhadē rahē hāṁ",
+        "ਅਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਵੇਖਦੇ ਰਹੇ ਹਾਂ",
+        "We have been seeing our family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "our"
+        }
+    ],
+    [
+        "We have been seeing a hand",
+        "sānū ika hatha vēkhi'ā gi'ā hai",
+        "ਸਾਨੂੰ ਇੱਕ ਹੱਥ ਵੇਖਿਆ ਗਿਆ ਹੈ",
+        "We have been seeing a hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "We have been seeing a home",
+        "asīṁ ika ghara vēkha rahē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਘਰ ਵੇਖ ਰਹੇ ਹਾਂ",
+        "We have been seeing a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "We have been seeing our mother",
+        "asīṁ āpaṇī māṁ nū vēkhadē ā rahē hāṁ",
+        "ਅਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਵੇਖਦੇ ਆ ਰਹੇ ਹਾਂ",
+        "We have been seeing our mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "We have been coming to a job",
+        "asīṁ kisē naukarī tē ā'undē rahē hāṁ",
+        "ਅਸੀਂ ਕਿਸੇ ਨੌਕਰੀ ਤੇ ਆਉਂਦੇ ਰਹੇ ਹਾਂ",
+        "We have been coming to a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "We have been trying for a month",
+        "asīṁ ika mahīnē tōṁ kōśiśa kara rahē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਮਹੀਨੇ ਤੋਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹਾਂ",
+        "We have been trying for a month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "month",
+            "det": "a"
+        }
+    ],
+    [
+        "We have been trying for a week",
+        "asīṁ ika haphatē tōṁ kōśiśa kara rahē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਹਫਤੇ ਤੋਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹਾਂ",
+        "We have been trying for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "We have been trying for a year",
+        "asīṁ ika sāla tōṁ kōśiśa kara rahē hāṁ",
+        "ਅਸੀਂ ਇਕ ਸਾਲ ਤੋਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹਾਂ",
+        "We have been trying for a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "We have been leaving a business",
+        "asīṁ ika kārōbāra chaḍa rahē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਕਾਰੋਬਾਰ ਛੱਡ ਰਹੇ ਹਾਂ",
+        "We have been leaving a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "We have been calling our mother",
+        "asīṁ āpaṇī māṁ nū bulā'undē rahē hāṁ",
+        "ਅਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਬੁਲਾਉਂਦੇ ਰਹੇ ਹਾਂ",
+        "We have been calling our mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "call",
+            "noun": "mother",
+            "det": "our"
+        }
+    ]
+]

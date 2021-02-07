@@ -1,0 +1,779 @@
+[
+    [
+        "You will have been being a student",
+        "tusīṁ vidi'ārathī hō ga'ē hōvōgē",
+        "ਤੁਸੀਂ ਵਿਦਿਆਰਥੀ ਹੋ ਗਏ ਹੋਵੋਗੇ",
+        "You will have been being a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have been having a business",
+        "tuhāḍā kārōbāra rihā hōvēgā",
+        "ਤੁਹਾਡਾ ਕਾਰੋਬਾਰ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "You will have been having a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have been having a day",
+        "tuhāḍā ika dina rihā hōvēgā",
+        "ਤੁਹਾਡਾ ਇੱਕ ਦਿਨ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "You will have been having a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have been having a lot",
+        "tuhāḍē kōla bahuta kujha rihā hōvēgā",
+        "ਤੁਹਾਡੇ ਕੋਲ ਬਹੁਤ ਕੁਝ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "You will have been having a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "lot"
+        }
+    ],
+    [
+        "You will have been having your mother",
+        "tusīṁ āpaṇī māṁ nū karadē hōvōgē",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਕਰਦੇ ਹੋਵੋਗੇ",
+        "You will have been having your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "det": "your"
+        }
+    ],
+    [
+        "You will have been having a problem",
+        "tuhānū kō'ī muśakala ā'ī hōvēgī",
+        "ਤੁਹਾਨੂੰ ਕੋਈ ਮੁਸ਼ਕਲ ਆਈ ਹੋਵੇਗੀ",
+        "You will have been having a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have been having a question",
+        "tuhāḍē kōla kō'ī praśana rihā hōvēgā",
+        "ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਪ੍ਰਸ਼ਨ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "You will have been having a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have been having a story",
+        "tuhāḍē kōla ika kahāṇī rahī hōvēgī",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਕਹਾਣੀ ਰਹੀ ਹੋਵੇਗੀ",
+        "You will have been having a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have been having a week",
+        "tuhāḍē kōla ika hafatā rihā hōvēgā",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਹਫ਼ਤਾ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "You will have been having a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have been having a year",
+        "tuhāḍā ika sāla rihā hōvēgā",
+        "ਤੁਹਾਡਾ ਇੱਕ ਸਾਲ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "You will have been having a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have been doing a business",
+        "tusīṁ ika kārōbāra kara rahē hōvōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਕਾਰੋਬਾਰ ਕਰ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will have been doing a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have been doing a lot",
+        "tusīṁ bahuta kujha kara rahē hōvōgē",
+        "ਤੁਸੀਂ ਬਹੁਤ ਕੁਝ ਕਰ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will have been doing a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "lot"
+        }
+    ],
+    [
+        "You will have been telling about life",
+        "tusīṁ zidagī bārē dasadē rahē hōvōgē",
+        "ਤੁਸੀਂ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਦੱਸਦੇ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will have been telling about life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "life"
+        }
+    ],
+    [
+        "You will have been telling a man",
+        "tusīṁ ika ādamī nū dasa rahē hōvōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਆਦਮੀ ਨੂੰ ਦੱਸ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will have been telling a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have been telling your mother",
+        "tusīṁ āpaṇī māṁ nū kahidē rahē hōvōgē",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਕਹਿੰਦੇ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will have been telling your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "your"
+        }
+    ],
+    [
+        "You will have been telling about a problem",
+        "tusīṁ kisē samasi'ā bārē dasa rahē hōvōgē",
+        "ਤੁਸੀਂ ਕਿਸੇ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will have been telling about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have been telling a story",
+        "tusīṁ ika kahāṇī suṇā rahē hōvōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਕਹਾਣੀ ਸੁਣਾ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will have been telling a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have been telling about a study",
+        "tusīṁ ika adhi'aina bārē dasadē rahē hōvōgē",
+        "ਤੁਸੀਂ ਇਕ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸਦੇ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will have been telling about a study",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have been telling a woman",
+        "tusīṁ kisē.Rata nū kahidē hōvōgē",
+        "ਤੁਸੀਂ ਕਿਸੇ .ਰਤ ਨੂੰ ਕਹਿੰਦੇ ਹੋਵੋਗੇ",
+        "You will have been telling a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have been asking a man",
+        "tusīṁ ika ādamī nū pucha rahē hōvōgē",
+        "ਤੁਸੀਂ ਇਕ ਆਦਮੀ ਨੂੰ ਪੁੱਛ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will have been asking a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have been asking your mother",
+        "tusīṁ āpaṇī māṁ nū pucha rahē hōvōgē",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਪੁੱਛ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will have been asking your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "your"
+        }
+    ],
+    [
+        "You will have been asking a question",
+        "tusīṁ kō'ī praśana pucha rahē hōvōgē",
+        "ਤੁਸੀਂ ਕੋਈ ਪ੍ਰਸ਼ਨ ਪੁੱਛ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will have been asking a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have been asking a student",
+        "tusīṁ kisē vidi'ārathī nū pucha rahē hōvōgē",
+        "ਤੁਸੀਂ ਕਿਸੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will have been asking a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have been asking a woman",
+        "tusīṁ kisē askingrata nū pucha rahē hōvōgē",
+        "ਤੁਸੀਂ ਕਿਸੇ askingਰਤ ਨੂੰ ਪੁੱਛ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will have been asking a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have been trying for a day",
+        "tusīṁ ika dina la'ī kōśiśa kara rahē hōvōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਦਿਨ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will have been trying for a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have been trying for a month",
+        "tusīṁ ika mahīnē tōṁ kōśiśa kara rahē hōvōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਮਹੀਨੇ ਤੋਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will have been trying for a month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "month",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have been trying for a week",
+        "tusīṁ ika haphatē la'ī kōśiśa kara rahē hōvōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਹਫਤੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will have been trying for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have been trying for a year",
+        "tusīṁ ika sāla la'ī kōśiśa kara rahē hōvōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਸਾਲ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will have been trying for a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have been leaving a business",
+        "tusīṁ kō'ī kārōbāra chaḍa rahē hōvōgē",
+        "ਤੁਸੀਂ ਕੋਈ ਕਾਰੋਬਾਰ ਛੱਡ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will have been leaving a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have been calling your mother",
+        "tusīṁ āpaṇī māṁ nū bulā rahē hōvōgē",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਬੁਲਾ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will have been calling your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "call",
+            "noun": "mother",
+            "det": "your"
+        }
+    ]
+]

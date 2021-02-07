@@ -1,0 +1,1336 @@
+[
+    [
+        "We will be coming to a place",
+        "asīṁ kisē jag'hā'tē āvāṅgē",
+        "ਅਸੀਂ ਕਿਸੇ ਜਗ੍ਹਾ 'ਤੇ ਆਵਾਂਗੇ",
+        "We will be coming to a place",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "be",
+            "noun": "people"
+        }
+    ],
+    [
+        "We will be coming on time",
+        "asīṁ samēṁ tē āvāṅgē",
+        "ਅਸੀਂ ਸਮੇਂ ਤੇ ਆਵਾਂਗੇ",
+        "We will be coming on time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "We will be coming to work",
+        "asīṁ kama tē āvāṅgē",
+        "ਅਸੀਂ ਕੰਮ ਤੇ ਆਵਾਂਗੇ",
+        "We will be coming to work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "We will be thinking about a book",
+        "asīṁ kisē kitāba bārē sōca rahē hāṁ",
+        "ਅਸੀਂ ਕਿਸੇ ਕਿਤਾਬ ਬਾਰੇ ਸੋਚ ਰਹੇ ਹਾਂ",
+        "We will be thinking about a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "family",
+            "det": "our"
+        }
+    ],
+    [
+        "We will be thinking about a business",
+        "asīṁ kisē kārōbāra bārē sōca rahē hāṁ",
+        "ਅਸੀਂ ਕਿਸੇ ਕਾਰੋਬਾਰ ਬਾਰੇ ਸੋਚ ਰਹੇ ਹਾਂ",
+        "We will be thinking about a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "We will be thinking about our family",
+        "asīṁ āpaṇē parivāra bārē sōcāṅgē",
+        "ਅਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਬਾਰੇ ਸੋਚਾਂਗੇ",
+        "We will be thinking about our family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "We will be thinking about home",
+        "asīṁ ghara bārē sōca rahē hāṁ",
+        "ਅਸੀਂ ਘਰ ਬਾਰੇ ਸੋਚ ਰਹੇ ਹਾਂ",
+        "We will be thinking about home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "money"
+        }
+    ],
+    [
+        "We will be thinking about a job",
+        "asīṁ kisē naukarī bārē sōca rahē hāṁ",
+        "ਅਸੀਂ ਕਿਸੇ ਨੌਕਰੀ ਬਾਰੇ ਸੋਚ ਰਹੇ ਹਾਂ",
+        "We will be thinking about a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "mother",
+            "det": "our"
+        }
+    ],
+    [
+        "We will be thinking about people",
+        "asīṁ lōkāṁ bārē sōca rahē hāṁ",
+        "ਅਸੀਂ ਲੋਕਾਂ ਬਾਰੇ ਸੋਚ ਰਹੇ ਹਾਂ",
+        "We will be thinking about people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "right"
+        }
+    ],
+    [
+        "We will be thinking about a problem",
+        "asīṁ kisē samasi'ā bārē sōca rahē hāṁ",
+        "ਅਸੀਂ ਕਿਸੇ ਸਮੱਸਿਆ ਬਾਰੇ ਸੋਚ ਰਹੇ ਹਾਂ",
+        "We will be thinking about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "We will be thinking right",
+        "asīṁ sahī sōcāṅgē",
+        "ਅਸੀਂ ਸਹੀ ਸੋਚਾਂਗੇ",
+        "We will be thinking right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "We will be thinking about a story",
+        "asīṁ ika kahāṇī bārē sōca rahē hāṁ",
+        "ਅਸੀਂ ਇਕ ਕਹਾਣੀ ਬਾਰੇ ਸੋਚ ਰਹੇ ਹਾਂ",
+        "We will be thinking about a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "We will be looking after our child",
+        "Asīṁ āpaṇē bacē dī dēkhabhāla karāṅgē",
+        "ਅਸੀਂ ਆਪਣੇ ਬੱਚੇ ਦੀ ਦੇਖਭਾਲ ਕਰਾਂਗੇ",
+        "We will be looking after our child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "work"
+        }
+    ],
+    [
+        "We will be looking at a man",
+        "asīṁ ika ādamī vala vēkha rahē hōvāṅgē",
+        "ਅਸੀਂ ਇਕ ਆਦਮੀ ਵੱਲ ਵੇਖ ਰਹੇ ਹੋਵਾਂਗੇ",
+        "We will be looking at a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "We will be looking at money",
+        "asīṁ paisā vēkha rahē hōvāṅgē",
+        "ਅਸੀਂ ਪੈਸਾ ਵੇਖ ਰਹੇ ਹੋਵਾਂਗੇ",
+        "We will be looking at money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "We will be looking at a problem",
+        "asīṁ kisē samasi'ā vala dhi'āna dēvāṅgē",
+        "ਅਸੀਂ ਕਿਸੇ ਸਮੱਸਿਆ ਵੱਲ ਧਿਆਨ ਦੇਵਾਂਗੇ",
+        "We will be looking at a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "right"
+        }
+    ],
+    [
+        "We will be looking at a woman",
+        "asīṁ ika atrata vala vēkha rahē hōvāṅgē",
+        "ਅਸੀਂ ਇਕ atਰਤ ਵੱਲ ਵੇਖ ਰਹੇ ਹੋਵਾਂਗੇ",
+        "We will be looking at a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "We will be looking for work",
+        "asīṁ kama dī bhāla karāṅgē",
+        "ਅਸੀਂ ਕੰਮ ਦੀ ਭਾਲ ਕਰਾਂਗੇ",
+        "We will be looking for work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "work"
+        }
+    ],
+    [
+        "We will be having the group",
+        "sāḍē kōla samūha hōvēgā",
+        "ਸਾਡੇ ਕੋਲ ਸਮੂਹ ਹੋਵੇਗਾ",
+        "We will be having the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "think",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "We will be having a job",
+        "sāḍī naukarī hōvēgī",
+        "ਸਾਡੀ ਨੌਕਰੀ ਹੋਵੇਗੀ",
+        "We will be having a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "think",
+            "noun": "family",
+            "det": "our"
+        }
+    ],
+    [
+        "We will be having a lot",
+        "sāḍē kōla bahuta kujha hōvēgā",
+        "ਸਾਡੇ ਕੋਲ ਬਹੁਤ ਕੁਝ ਹੋਵੇਗਾ",
+        "We will be having a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "think",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "We will be having our mother",
+        "sāḍī māṁ hōvēgī",
+        "ਸਾਡੀ ਮਾਂ ਹੋਵੇਗੀ",
+        "We will be having our mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "think",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "We will be having a problem",
+        "sānū ika samasi'ā āvēgī",
+        "ਸਾਨੂੰ ਇੱਕ ਸਮੱਸਿਆ ਆਵੇਗੀ",
+        "We will be having a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "think",
+            "noun": "money"
+        }
+    ],
+    [
+        "We will be having a question",
+        "sāḍē kōla ika praśana hōvēgā",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਪ੍ਰਸ਼ਨ ਹੋਵੇਗਾ",
+        "We will be having a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "think",
+            "noun": "mother",
+            "det": "our"
+        }
+    ],
+    [
+        "We will be having the right",
+        "sāḍā haka rahēgā",
+        "ਸਾਡਾ ਹੱਕ ਰਹੇਗਾ",
+        "We will be having the right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "think",
+            "noun": "people"
+        }
+    ],
+    [
+        "We will be having a story",
+        "sāḍē kōla ika kahāṇī hōvēgī",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਕਹਾਣੀ ਹੋਵੇਗੀ",
+        "We will be having a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "think",
+            "noun": "right"
+        }
+    ],
+    [
+        "We will be having a thing",
+        "sāḍē kōla ika cīza hōvēgī",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਚੀਜ਼ ਹੋਵੇਗੀ",
+        "We will be having a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "think",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "We will be having time",
+        "sāḍē kōla samāṁ hōvēgā",
+        "ਸਾਡੇ ਕੋਲ ਸਮਾਂ ਹੋਵੇਗਾ",
+        "We will be having time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "think",
+            "noun": "work"
+        }
+    ],
+    [
+        "We will be having a week",
+        "sāḍē kōla ika hafatā rahēgā",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਹਫ਼ਤਾ ਰਹੇਗਾ",
+        "We will be having a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "look",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "We will be having a year",
+        "sāḍē kōla ika sāla hōvēgā",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਸਾਲ ਹੋਵੇਗਾ",
+        "We will be having a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "look",
+            "noun": "family",
+            "det": "our"
+        }
+    ],
+    [
+        "We will be doing a job",
+        "asīṁ ika kama karāṅgē",
+        "ਅਸੀਂ ਇੱਕ ਕੰਮ ਕਰਾਂਗੇ",
+        "We will be doing a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "look",
+            "noun": "money"
+        }
+    ],
+    [
+        "We will be doing a lot",
+        "asīṁ bahuta kujha karāṅgē",
+        "ਅਸੀਂ ਬਹੁਤ ਕੁਝ ਕਰਾਂਗੇ",
+        "We will be doing a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "look",
+            "noun": "mother",
+            "det": "our"
+        }
+    ],
+    [
+        "We will be doing a part",
+        "asīṁ ika hisā kara rahē hāṁ",
+        "ਅਸੀਂ ਇਕ ਹਿੱਸਾ ਕਰ ਰਹੇ ਹਾਂ",
+        "We will be doing a part",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "look",
+            "noun": "people"
+        }
+    ],
+    [
+        "We will be doing a thing",
+        "asīṁ kujha kara rahē hāṁ",
+        "ਅਸੀਂ ਕੁਝ ਕਰ ਰਹੇ ਹਾਂ",
+        "We will be doing a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "look",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "We will be doing work",
+        "asīṁ kama karāṅgē",
+        "ਅਸੀਂ ਕੰਮ ਕਰਾਂਗੇ",
+        "We will be doing work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "look",
+            "noun": "work"
+        }
+    ],
+    [
+        "We will be saying a word",
+        "asīṁ ika śabada kahi rahē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਸ਼ਬਦ ਕਹਿ ਰਹੇ ਹਾਂ",
+        "We will be saying a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "want",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "We will be getting a book",
+        "sānū ika kitāba milēgī",
+        "ਸਾਨੂੰ ਇੱਕ ਕਿਤਾਬ ਮਿਲੇਗੀ",
+        "We will be getting a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "want",
+            "noun": "family",
+            "det": "our"
+        }
+    ],
+    [
+        "We will be getting a day",
+        "sānū ika dina miladā rahēgā",
+        "ਸਾਨੂੰ ਇੱਕ ਦਿਨ ਮਿਲਦਾ ਰਹੇਗਾ",
+        "We will be getting a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "want",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "We will be getting a job",
+        "sānū naukarī milēgī",
+        "ਸਾਨੂੰ ਨੌਕਰੀ ਮਿਲੇਗੀ",
+        "We will be getting a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "want",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "We will be getting money",
+        "sānū paisā milēgā",
+        "ਸਾਨੂੰ ਪੈਸਾ ਮਿਲੇਗਾ",
+        "We will be getting money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "want",
+            "noun": "money"
+        }
+    ],
+    [
+        "We will be getting our mother",
+        "asīṁ āpaṇī māṁ nū prāpata karāṅgē",
+        "ਅਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰਾਂਗੇ",
+        "We will be getting our mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "want",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "We will be getting a part",
+        "asīṁ hisā pāvāṅgē",
+        "ਅਸੀਂ ਹਿੱਸਾ ਪਾਵਾਂਗੇ",
+        "We will be getting a part",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "want",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "We will be getting a point",
+        "sānū ika bidū mila jāvēgā",
+        "ਸਾਨੂੰ ਇੱਕ ਬਿੰਦੂ ਮਿਲ ਜਾਵੇਗਾ",
+        "We will be getting a point",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "want",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "We will be getting time",
+        "sānū samāṁ miladā rahēgā",
+        "ਸਾਨੂੰ ਸਮਾਂ ਮਿਲਦਾ ਰਹੇਗਾ",
+        "We will be getting time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "want",
+            "noun": "work"
+        }
+    ],
+    [
+        "We will be making a home",
+        "asīṁ ghara baṇāvāṅgē",
+        "ਅਸੀਂ ਘਰ ਬਣਾਵਾਂਗੇ",
+        "We will be making a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "give",
+            "noun": "money"
+        }
+    ],
+    [
+        "We will be making a lot",
+        "asīṁ bahuta kujha baṇāvāṅgē",
+        "ਅਸੀਂ ਬਹੁਤ ਕੁਝ ਬਣਾਵਾਂਗੇ",
+        "We will be making a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "give",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "We will be seeing a point",
+        "asīṁ ika bidū vēkha rahē hāṁ",
+        "ਅਸੀਂ ਇਕ ਬਿੰਦੂ ਵੇਖ ਰਹੇ ਹਾਂ",
+        "We will be seeing a point",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "work",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "We will be seeing a problem",
+        "asīṁ ika samasi'ā vēkhadē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਸਮੱਸਿਆ ਵੇਖਦੇ ਹਾਂ",
+        "We will be seeing a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "work",
+            "noun": "family",
+            "det": "our"
+        }
+    ],
+    [
+        "We will be seeing a room",
+        "asīṁ ika kamarā vēkha rahē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਕਮਰਾ ਵੇਖ ਰਹੇ ਹਾਂ",
+        "We will be seeing a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "work",
+            "noun": "government",
+            "det": "the"
+        }
+    ],
+    [
+        "We will be seeing a student",
+        "asīṁ ika vidi'ārathī nū vēkha rahē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖ ਰਹੇ ਹਾਂ",
+        "We will be seeing a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "work",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "We will be seeing water",
+        "asīṁ pāṇī dēkha rahē hāṁ",
+        "ਅਸੀਂ ਪਾਣੀ ਦੇਖ ਰਹੇ ਹਾਂ",
+        "We will be seeing water",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "work",
+            "noun": "money"
+        }
+    ],
+    [
+        "We will be coming to the country",
+        "asīṁ dēśa āvāṅgē",
+        "ਅਸੀਂ ਦੇਸ਼ ਆਵਾਂਗੇ",
+        "We will be coming to the country",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "work",
+            "noun": "people"
+        }
+    ]
+]

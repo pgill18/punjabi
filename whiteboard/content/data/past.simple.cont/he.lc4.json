@@ -1,0 +1,805 @@
+[
+    [
+        "He was being a man",
+        "uha ādamī sī",
+        "ਉਹ ਆਦਮੀ ਸੀ",
+        "He was being a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "be",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "He was being a student",
+        "uha ika vidi'ārathī sī",
+        "ਉਹ ਇੱਕ ਵਿਦਿਆਰਥੀ ਸੀ",
+        "He was being a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "be",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "He was having a business",
+        "uha ika kārōbāra kara rihā sī",
+        "ਉਹ ਇੱਕ ਕਾਰੋਬਾਰ ਕਰ ਰਿਹਾ ਸੀ",
+        "He was having a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "He was having a day",
+        "uha dina kaṭa rihā sī",
+        "ਉਹ ਦਿਨ ਕੱਟ ਰਿਹਾ ਸੀ",
+        "He was having a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "He was having a lot",
+        "uha bahuta kujha kara rihā sī",
+        "ਉਹ ਬਹੁਤ ਕੁਝ ਕਰ ਰਿਹਾ ਸੀ",
+        "He was having a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "lot"
+        }
+    ],
+    [
+        "He was having his mother",
+        "uha āpaṇī māṁ nāla sī",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨਾਲ ਸੀ",
+        "He was having his mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "mother",
+            "det": "his"
+        }
+    ],
+    [
+        "He was having a problem",
+        "usanū ika samasi'ā hō rahī sī",
+        "ਉਸਨੂੰ ਇੱਕ ਸਮੱਸਿਆ ਹੋ ਰਹੀ ਸੀ",
+        "He was having a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "He was having a question",
+        "usanū ika savāla sī",
+        "ਉਸਨੂੰ ਇੱਕ ਸਵਾਲ ਸੀ",
+        "He was having a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "He was having a story",
+        "uha ika kahāṇī kara rihā sī",
+        "ਉਹ ਇੱਕ ਕਹਾਣੀ ਕਰ ਰਿਹਾ ਸੀ",
+        "He was having a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "He was having a week",
+        "uha ika hafatā rihā sī",
+        "ਉਹ ਇੱਕ ਹਫ਼ਤਾ ਰਿਹਾ ਸੀ",
+        "He was having a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "He was having a year",
+        "uha ika sāla hō rihā sī",
+        "ਉਹ ਇੱਕ ਸਾਲ ਹੋ ਰਿਹਾ ਸੀ",
+        "He was having a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "He was doing a business",
+        "uha ika kārōbāra kara rihā sī",
+        "ਉਹ ਇੱਕ ਕਾਰੋਬਾਰ ਕਰ ਰਿਹਾ ਸੀ",
+        "He was doing a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "He was doing a lot",
+        "uha bahuta kara rihā sī",
+        "ਉਹ ਬਹੁਤ ਕਰ ਰਿਹਾ ਸੀ",
+        "He was doing a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "do",
+            "noun": "lot"
+        }
+    ],
+    [
+        "He was telling about life",
+        "uha zidagī bārē dasa rihā sī",
+        "ਉਹ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਸੀ",
+        "He was telling about life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "tell",
+            "noun": "life"
+        }
+    ],
+    [
+        "He was telling a man",
+        "uha ika ādamī nū kahi rihā sī",
+        "ਉਹ ਇਕ ਆਦਮੀ ਨੂੰ ਕਹਿ ਰਿਹਾ ਸੀ",
+        "He was telling a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "He was telling his mother",
+        "uha āpaṇī māṁ nū kahi rihā sī",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਕਹਿ ਰਿਹਾ ਸੀ",
+        "He was telling his mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "his"
+        }
+    ],
+    [
+        "He was telling about a problem",
+        "uha ika samasi'ā bārē dasa rihā sī",
+        "ਉਹ ਇੱਕ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਸੀ",
+        "He was telling about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "He was telling a story",
+        "uha ika kahāṇī suṇā rihā sī",
+        "ਉਹ ਇਕ ਕਹਾਣੀ ਸੁਣਾ ਰਿਹਾ ਸੀ",
+        "He was telling a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "He was telling about a study",
+        "uha ika adhi'aina bārē dasa rihā sī",
+        "ਉਹ ਇਕ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਸੀ",
+        "He was telling about a study",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a"
+        }
+    ],
+    [
+        "He was telling a woman",
+        "uha ika tellingrata nū kahi rihā sī",
+        "ਉਹ ਇਕ tellingਰਤ ਨੂੰ ਕਹਿ ਰਿਹਾ ਸੀ",
+        "He was telling a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "He was asking a man",
+        "uha ika ādamī nū pucha rihā sī",
+        "ਉਹ ਇਕ ਆਦਮੀ ਨੂੰ ਪੁੱਛ ਰਿਹਾ ਸੀ",
+        "He was asking a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "He was asking his mother",
+        "uha āpaṇī māṁ nū pucha rihā sī",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਪੁੱਛ ਰਿਹਾ ਸੀ",
+        "He was asking his mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "his"
+        }
+    ],
+    [
+        "He was asking a question",
+        "uha ika praśana pucha rihā sī",
+        "ਉਹ ਇੱਕ ਪ੍ਰਸ਼ਨ ਪੁੱਛ ਰਿਹਾ ਸੀ",
+        "He was asking a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "He was asking a student",
+        "uha ika vidi'ārathī nū pucha rihā sī",
+        "ਉਹ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛ ਰਿਹਾ ਸੀ",
+        "He was asking a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "He was asking a woman",
+        "uha ika askingrata nū pucha rihā sī",
+        "ਉਹ ਇਕ askingਰਤ ਨੂੰ ਪੁੱਛ ਰਿਹਾ ਸੀ",
+        "He was asking a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "He was trying for a day",
+        "uha ika dina dī kōśiśa kara rihā sī",
+        "ਉਹ ਇੱਕ ਦਿਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਸੀ",
+        "He was trying for a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "try",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "He was trying for a month",
+        "uha ika mahīnē tōṁ kōśiśa kara rihā sī",
+        "ਉਹ ਇਕ ਮਹੀਨੇ ਤੋਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਸੀ",
+        "He was trying for a month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "try",
+            "noun": "month",
+            "det": "a"
+        }
+    ],
+    [
+        "He was trying for a week",
+        "uha ika hafatē la'ī kōśiśa kara rihā sī",
+        "ਉਹ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਸੀ",
+        "He was trying for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "try",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "He was trying for a year",
+        "uha ika sāla tōṁ kōśiśa kara rihā sī",
+        "ਉਹ ਇਕ ਸਾਲ ਤੋਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਸੀ",
+        "He was trying for a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "try",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "He was leaving a business",
+        "uha ika kārōbāra chaḍa rihā sī",
+        "ਉਹ ਇੱਕ ਕਾਰੋਬਾਰ ਛੱਡ ਰਿਹਾ ਸੀ",
+        "He was leaving a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "He was calling his mother",
+        "uha āpaṇī māṁ nū bulā rihā sī",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਬੁਲਾ ਰਿਹਾ ਸੀ",
+        "He was calling his mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "call",
+            "noun": "mother",
+            "det": "his"
+        }
+    ]
+]

@@ -1,0 +1,3946 @@
+[
+    [
+        "I will see my mother now",
+        "maiṁ huṇa āpaṇī māṁ nū vēkhāṅgā",
+        "ਮੈਂ ਹੁਣ ਆਪਣੀ ਮਾਂ ਨੂੰ ਵੇਖਾਂਗਾ",
+        "I will see my mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "people",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will see my mother well",
+        "maiṁ āpaṇī māṁ nū cagī tar'hāṁ vēkhāṅgā",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਾਂਗਾ",
+        "I will see my mother well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "people",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will see people too",
+        "maiṁ lōkāṁ nū vī vēkhāṅgā",
+        "ਮੈਂ ਲੋਕਾਂ ਨੂੰ ਵੀ ਵੇਖਾਂਗਾ",
+        "I will see people too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "business",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will see a place here",
+        "maiṁ ithē ika jag'hā vēkhāṅgā",
+        "ਮੈਂ ਇਥੇ ਇੱਕ ਜਗ੍ਹਾ ਵੇਖਾਂਗਾ",
+        "I will see a place here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "business",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will see a place too",
+        "maiṁ ika jag'hā vī vēkhāṅgā",
+        "ਮੈਂ ਇੱਕ ਜਗ੍ਹਾ ਵੀ ਵੇਖਾਂਗਾ",
+        "I will see a place too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will see a point here",
+        "maiṁ ithē ika bidū vēkhāṅgā",
+        "ਮੈਂ ਇੱਥੇ ਇੱਕ ਬਿੰਦੂ ਵੇਖਾਂਗਾ",
+        "I will see a point here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will see a point too",
+        "maiṁ ika bidū vī vēkhāṅgā",
+        "ਮੈਂ ਇਕ ਬਿੰਦੂ ਵੀ ਵੇਖਾਂਗਾ",
+        "I will see a point too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "family",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will see a problem here",
+        "maiṁ ithē ika samasi'ā vēkhāṅgā",
+        "ਮੈਂ ਇੱਥੇ ਇੱਕ ਸਮੱਸਿਆ ਵੇਖਾਂਗਾ",
+        "I will see a problem here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "family",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will see a problem now",
+        "maiṁ huṇa ika samasi'ā vēkhāṅgā",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਸਮੱਸਿਆ ਵੇਖਾਂਗਾ",
+        "I will see a problem now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "group",
+            "det": "the",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will see a problem well",
+        "maiṁ ika samasi'ā cagī tar'hāṁ vēkhāṅgā",
+        "ਮੈਂ ਇੱਕ ਸਮੱਸਿਆ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਾਂਗਾ",
+        "I will see a problem well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "group",
+            "det": "the",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will see a room too",
+        "maiṁ ika kamarā vī vēkhāṅgā",
+        "ਮੈਂ ਇੱਕ ਕਮਰਾ ਵੀ ਵੇਖਾਂਗਾ",
+        "I will see a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "job",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will see a student here",
+        "maiṁ ithē ika vidi'ārathī nū vēkhāṅgā",
+        "ਮੈਂ ਇੱਥੇ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖਾਂਗਾ",
+        "I will see a student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "job",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will see a student too",
+        "maiṁ ika vidi'ārathī vī vēkhāṅgā",
+        "ਮੈਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਵੀ ਵੇਖਾਂਗਾ",
+        "I will see a student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "money",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will see a thing here",
+        "maiṁ ithē ika cīza vēkhāṅgā",
+        "ਮੈਂ ਇਥੇ ਇਕ ਚੀਜ਼ ਵੇਖਾਂਗਾ",
+        "I will see a thing here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "money",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will see a thing now",
+        "Maiṁ huṇa ika cīza dēkhāṅgā",
+        "ਮੈਂ ਹੁਣ ਇਕ ਚੀਜ਼ ਦੇਖਾਂਗਾ",
+        "I will see a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will see a thing well",
+        "maiṁ ika cīza cagī tar'hāṁ vēkhāṅgā",
+        "ਮੈਂ ਇਕ ਚੀਜ਼ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਾਂਗਾ",
+        "I will see a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will see a woman too",
+        "maiṁ ika womanrata nū vī vēkhāṅgā",
+        "ਮੈਂ ਇਕ womanਰਤ ਨੂੰ ਵੀ ਵੇਖਾਂਗਾ",
+        "I will see a woman too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "right",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will see the world here",
+        "maiṁ ithē dunī'ā vēkhāṅgā",
+        "ਮੈਂ ਇੱਥੇ ਦੁਨੀਆ ਵੇਖਾਂਗਾ",
+        "I will see the world here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "right",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will see the world now",
+        "maiṁ huṇa dunī'ā vēkhāṅgā",
+        "ਮੈਂ ਹੁਣ ਦੁਨੀਆ ਵੇਖਾਂਗਾ",
+        "I will see the world now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will see the world well",
+        "maiṁ dunī'āṁ nū cagī tar'hāṁ vēkhāṅgā",
+        "ਮੈਂ ਦੁਨੀਆਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਾਂਗਾ",
+        "I will see the world well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will come to the country now",
+        "maiṁ huṇa dēśa āvāṅgā",
+        "ਮੈਂ ਹੁਣ ਦੇਸ਼ ਆਵਾਂਗਾ",
+        "I will come to the country now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "story",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will come to the country well",
+        "maiṁ cagī tar'hāṁ dēśa āvāṅgā",
+        "ਮੈਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਦੇਸ਼ ਆਵਾਂਗਾ",
+        "I will come to the country well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "story",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will come to my family now",
+        "maiṁ huṇa āpaṇē parivāra kōla āvāṅgā",
+        "ਮੈਂ ਹੁਣ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਆਵਾਂਗਾ",
+        "I will come to my family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will come to my family well",
+        "maiṁ āpaṇē parivāra kōla cagī tar'hāṁ āvāṅgā",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਵਾਂਗਾ",
+        "I will come to my family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will come from the group too",
+        "Maiṁ vī garupa vicōṁ āvāṅgā",
+        "ਮੈਂ ਵੀ ਗਰੁੱਪ ਵਿਚੋਂ ਆਵਾਂਗਾ",
+        "I will come from the group too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will come home here",
+        "maiṁ ithē ghara āvāṅgā",
+        "ਮੈਂ ਇਥੇ ਘਰ ਆਵਾਂਗਾ",
+        "I will come home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will come home too",
+        "maiṁ vī ghara āvāṅgā",
+        "ਮੈਂ ਵੀ ਘਰ ਆਵਾਂਗਾ",
+        "I will come home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "business",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will come to a job here",
+        "maiṁ ithē ika naukarī tē āvāṅgā",
+        "ਮੈਂ ਇਥੇ ਇੱਕ ਨੌਕਰੀ ਤੇ ਆਵਾਂਗਾ",
+        "I will come to a job here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "business",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will come to a job now",
+        "maiṁ huṇa naukarī tē āvāṅgā",
+        "ਮੈਂ ਹੁਣ ਨੌਕਰੀ ਤੇ ਆਵਾਂਗਾ",
+        "I will come to a job now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "job",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will come to a job well",
+        "maiṁ cagī naukarī tē āvāṅgā",
+        "ਮੈਂ ਚੰਗੀ ਨੌਕਰੀ ਤੇ ਆਵਾਂਗਾ",
+        "I will come to a job well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "job",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will come to my mother too",
+        "maiṁ āpaṇī māṁ kōla vī āvāṅgā",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਕੋਲ ਵੀ ਆਵਾਂਗਾ",
+        "I will come to my mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "right",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will come to a place here",
+        "maiṁ ithē ika jag'hā āvāṅgā",
+        "ਮੈਂ ਇਥੇ ਇਕ ਜਗ੍ਹਾ ਆਵਾਂਗਾ",
+        "I will come to a place here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "right",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will come to a place now",
+        "maiṁ huṇa ika jag'hā tē āvāṅgā",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਜਗ੍ਹਾ ਤੇ ਆਵਾਂਗਾ",
+        "I will come to a place now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will come to a place well",
+        "maiṁ cagī jag'hā tē āvāṅgā",
+        "ਮੈਂ ਚੰਗੀ ਜਗ੍ਹਾ ਤੇ ਆਵਾਂਗਾ",
+        "I will come to a place well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will come to a place too",
+        "maiṁ vī ika jag'hā āvāṅgā",
+        "ਮੈਂ ਵੀ ਇੱਕ ਜਗ੍ਹਾ ਆਵਾਂਗਾ",
+        "I will come to a place too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will come to a room here",
+        "maiṁ ithē ika kamarē vica āvāṅgā",
+        "ਮੈਂ ਇਥੇ ਇਕ ਕਮਰੇ ਵਿਚ ਆਵਾਂਗਾ",
+        "I will come to a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will take water well",
+        "maiṁ pāṇī cagī tar'hāṁ lavāṅgā",
+        "ਮੈਂ ਪਾਣੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲਵਾਂਗਾ",
+        "I will take water well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "business",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will take water too",
+        "maiṁ vī pāṇī lavāṅgā",
+        "ਮੈਂ ਵੀ ਪਾਣੀ ਲਵਾਂਗਾ",
+        "I will take water too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "business",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will take a week here",
+        "maiṁ ithē ika hafatā lavāṅgā",
+        "ਮੈਂ ਇਥੇ ਇੱਕ ਹਫ਼ਤਾ ਲਵਾਂਗਾ",
+        "I will take a week here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "business",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will take a week now",
+        "maiṁ huṇa ika haphatā lavāṅgā",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਹਫਤਾ ਲਵਾਂਗਾ",
+        "I will take a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "business",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will see a book well",
+        "maiṁ ika kitāba cagī tar'hāṁ vēkhāṅgā",
+        "ਮੈਂ ਇਕ ਕਿਤਾਬ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਾਂਗਾ",
+        "I will see a book well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "family",
+            "det": "my",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will see a book too",
+        "maiṁ ika kitāba vī vēkhāṅgā",
+        "ਮੈਂ ਇਕ ਕਿਤਾਬ ਵੀ ਵੇਖਾਂਗਾ",
+        "I will see a book too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "family",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will see my child here",
+        "maiṁ āpaṇē bacē nū ithē vēkhāṅgā",
+        "ਮੈਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਇੱਥੇ ਵੇਖਾਂਗਾ",
+        "I will see my child here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "family",
+            "det": "my",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will see my child now",
+        "Maiṁ huṇa āpaṇē bacē nū vēkhāṅgā",
+        "ਮੈਂ ਹੁਣ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੇਖਾਂਗਾ",
+        "I will see my child now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "family",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will see my child well",
+        "maiṁ āpaṇē bacē nū cagī tar'hāṁ vēkhāṅgā",
+        "ਮੈਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਾਂਗਾ",
+        "I will see my child well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "group",
+            "det": "the",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will see my child too",
+        "maiṁ āpaṇē bacē nū vī vēkhāṅgā",
+        "ਮੈਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੀ ਵੇਖਾਂਗਾ",
+        "I will see my child too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "group",
+            "det": "the",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will see the country here",
+        "maiṁ dēśa nū ithē vēkhāṅgā",
+        "ਮੈਂ ਦੇਸ਼ ਨੂੰ ਇਥੇ ਵੇਖਾਂਗਾ",
+        "I will see the country here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "group",
+            "det": "the",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will see the country now",
+        "maiṁ huṇa dēśa nū vēkhāṅgā",
+        "ਮੈਂ ਹੁਣ ਦੇਸ਼ ਨੂੰ ਵੇਖਾਂਗਾ",
+        "I will see the country now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "group",
+            "det": "the",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will see my family well",
+        "maiṁ āpaṇē parivāra nū cagī tar'hāṁ vēkhāṅgā",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਾਂਗਾ",
+        "I will see my family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "job",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will see my family too",
+        "maiṁ āpaṇē parivāra nū vī vēkhāṅgā",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਵੀ ਵੇਖਾਂਗਾ",
+        "I will see my family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "job",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will see the group here",
+        "maiṁ ithē samūha vēkhāṅgā",
+        "ਮੈਂ ਇਥੇ ਸਮੂਹ ਵੇਖਾਂਗਾ",
+        "I will see the group here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "job",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will see the group now",
+        "maiṁ huṇa samūha vēkhāṅgā",
+        "ਮੈਂ ਹੁਣ ਸਮੂਹ ਵੇਖਾਂਗਾ",
+        "I will see the group now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "job",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will see a home well",
+        "maiṁ ika ghara cagī tar'hāṁ vēkhāṅgā",
+        "ਮੈਂ ਇੱਕ ਘਰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਾਂਗਾ",
+        "I will see a home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "money",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will see a home too",
+        "maiṁ ika ghara vī vēkhāṅgā",
+        "ਮੈਂ ਇੱਕ ਘਰ ਵੀ ਵੇਖਾਂਗਾ",
+        "I will see a home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "money",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will see a man here",
+        "maiṁ ithē ika ādamī nū vēkhāṅgā",
+        "ਮੈਂ ਇਥੇ ਇਕ ਆਦਮੀ ਨੂੰ ਵੇਖਾਂਗਾ",
+        "I will see a man here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "money",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will see a man now",
+        "maiṁ huṇa ika ādamī nū vēkhāṅgā",
+        "ਮੈਂ ਹੁਣ ਇਕ ਆਦਮੀ ਨੂੰ ਵੇਖਾਂਗਾ",
+        "I will see a man now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "money",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will see a man well",
+        "maiṁ ika ādamī nū cagī tar'hāṁ vēkhāṅgā",
+        "ਮੈਂ ਇਕ ਆਦਮੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਾਂਗਾ",
+        "I will see a man well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "mother",
+            "det": "my",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will see a man too",
+        "maiṁ ika ādamī nū vī vēkhāṅgā",
+        "ਮੈਂ ਇੱਕ ਆਦਮੀ ਨੂੰ ਵੀ ਵੇਖਾਂਗਾ",
+        "I will see a man too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "mother",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will see money here",
+        "maiṁ ithē paisē vēkhāṅgā",
+        "ਮੈਂ ਇੱਥੇ ਪੈਸੇ ਵੇਖਾਂਗਾ",
+        "I will see money here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "mother",
+            "det": "my",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will see money now",
+        "maiṁ huṇa paisē vēkhāṅgā",
+        "ਮੈਂ ਹੁਣ ਪੈਸੇ ਵੇਖਾਂਗਾ",
+        "I will see money now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "mother",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will see money well",
+        "maiṁ paisē nū cagī tar'hāṁ vēkhāṅgā",
+        "ਮੈਂ ਪੈਸੇ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਾਂਗਾ",
+        "I will see money well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "people",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will want a year too",
+        "Maiṁ ika sāla vī cāhudā hāṁ",
+        "ਮੈਂ ਇੱਕ ਸਾਲ ਵੀ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I will want a year too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "people",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will give them a book here",
+        "maiṁ unhāṁ nū ithē ika kitāba dēvāṅgā",
+        "ਮੈਂ ਉਨ੍ਹਾਂ ਨੂੰ ਇਥੇ ਇਕ ਕਿਤਾਬ ਦੇਵਾਂਗਾ",
+        "I will give them a book here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "people",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will give them a book now",
+        "maiṁ unhāṁ nū huṇa ika kitāba dēvāṅgā",
+        "ਮੈਂ ਉਨ੍ਹਾਂ ਨੂੰ ਹੁਣ ਇਕ ਕਿਤਾਬ ਦੇਵਾਂਗਾ",
+        "I will give them a book now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "people",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will give to the country well",
+        "maiṁ dēśa nū cagī tar'hāṁ dēvāṅgā",
+        "ਮੈਂ ਦੇਸ਼ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਦੇਵਾਂਗਾ",
+        "I will give to the country well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "right",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will give to the country too",
+        "maiṁ dēśa nū vī dēvāṅgā",
+        "ਮੈਂ ਦੇਸ਼ ਨੂੰ ਵੀ ਦੇਵਾਂਗਾ",
+        "I will give to the country too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "right",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will give money here",
+        "maiṁ ithē paisē dēvāṅgā",
+        "ਮੈਂ ਇੱਥੇ ਪੈਸੇ ਦੇਵਾਂਗਾ",
+        "I will give money here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "right",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will give money now",
+        "maiṁ huṇa paisē dēvāṅgā",
+        "ਮੈਂ ਹੁਣ ਪੈਸੇ ਦੇਵਾਂਗਾ",
+        "I will give money now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "right",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will give a thing well",
+        "maiṁ cagī cīza dēvāṅgā",
+        "ਮੈਂ ਚੰਗੀ ਚੀਜ਼ ਦੇਵਾਂਗਾ",
+        "I will give a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "story",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will give a thing too",
+        "maiṁ ika cīza vī dēvāṅgā",
+        "ਮੈਂ ਇੱਕ ਚੀਜ਼ ਵੀ ਦੇਵਾਂਗਾ",
+        "I will give a thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "story",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will give it time here",
+        "maiṁ isa nū ithē samāṁ dēvāṅgā",
+        "ਮੈਂ ਇਸ ਨੂੰ ਇਥੇ ਸਮਾਂ ਦੇਵਾਂਗਾ",
+        "I will give it time here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "story",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will give it time now",
+        "maiṁ isa nū huṇa samāṁ dēvāṅgā",
+        "ਮੈਂ ਇਸ ਨੂੰ ਹੁਣ ਸਮਾਂ ਦੇਵਾਂਗਾ",
+        "I will give it time now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "story",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will give it time well",
+        "maiṁ isa nū cagī tar'hāṁ samāṁ dēvāṅgā",
+        "ਮੈਂ ਇਸ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਸਮਾਂ ਦੇਵਾਂਗਾ",
+        "I will give it time well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will give it time too",
+        "maiṁ isa nū vī samāṁ dēvāṅgā",
+        "ਮੈਂ ਇਸ ਨੂੰ ਵੀ ਸਮਾਂ ਦੇਵਾਂਗਾ",
+        "I will give it time too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will give it water here",
+        "maiṁ isanū ithē pāṇī dēvāṅgā",
+        "ਮੈਂ ਇਸਨੂੰ ਇੱਥੇ ਪਾਣੀ ਦੇਵਾਂਗਾ",
+        "I will give it water here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will give it water now",
+        "maiṁ huṇa isanū pāṇī dēvāṅgā",
+        "ਮੈਂ ਹੁਣ ਇਸਨੂੰ ਪਾਣੀ ਦੇਵਾਂਗਾ",
+        "I will give it water now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will give it a year well",
+        "maiṁ isa nū ika sāla dēvāṅgā",
+        "ਮੈਂ ਇਸ ਨੂੰ ਇਕ ਸਾਲ ਦੇਵਾਂਗਾ",
+        "I will give it a year well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "business",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will give it a year too",
+        "maiṁ isa nū ika sāla vī dēvāṅgā",
+        "ਮੈਂ ਇਸ ਨੂੰ ਇਕ ਸਾਲ ਵੀ ਦੇਵਾਂਗਾ",
+        "I will give it a year too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "business",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will use a book here",
+        "maiṁ ithē ika kitāba dī varatōṁ karāṅgā",
+        "ਮੈਂ ਇੱਥੇ ਇੱਕ ਕਿਤਾਬ ਦੀ ਵਰਤੋਂ ਕਰਾਂਗਾ",
+        "I will use a book here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "business",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will use a book now",
+        "maiṁ huṇa ika kitāba dī varatōṁ karāṅgā",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਕਿਤਾਬ ਦੀ ਵਰਤੋਂ ਕਰਾਂਗਾ",
+        "I will use a book now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "business",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will use a hand well",
+        "maiṁ ika hatha cagī tar'hāṁ isatēmāla karāṅgā",
+        "ਮੈਂ ਇੱਕ ਹੱਥ ਚੰਗੀ ਤਰ੍ਹਾਂ ਇਸਤੇਮਾਲ ਕਰਾਂਗਾ",
+        "I will use a hand well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "family",
+            "det": "my",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will use a hand too",
+        "maiṁ ika hatha vī varatēgā",
+        "ਮੈਂ ਇੱਕ ਹੱਥ ਵੀ ਵਰਤੇਗਾ",
+        "I will use a hand too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "family",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will use money here",
+        "maiṁ ithē paisē dī varatōṁ karāṅgā",
+        "ਮੈਂ ਇੱਥੇ ਪੈਸੇ ਦੀ ਵਰਤੋਂ ਕਰਾਂਗਾ",
+        "I will use money here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "family",
+            "det": "my",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will use money now",
+        "maiṁ huṇa paisē dī varatōṁ karāṅgā",
+        "ਮੈਂ ਹੁਣ ਪੈਸੇ ਦੀ ਵਰਤੋਂ ਕਰਾਂਗਾ",
+        "I will use money now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "family",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will use a month well",
+        "maiṁ ika mahīnā cagī tar'hāṁ isatēmāla karāṅgā",
+        "ਮੈਂ ਇਕ ਮਹੀਨਾ ਚੰਗੀ ਤਰ੍ਹਾਂ ਇਸਤੇਮਾਲ ਕਰਾਂਗਾ",
+        "I will use a month well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "money",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will use a month too",
+        "maiṁ ika mahīnā vī varatāṅgā",
+        "ਮੈਂ ਇੱਕ ਮਹੀਨਾ ਵੀ ਵਰਤਾਂਗਾ",
+        "I will use a month too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "money",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will use a place here",
+        "maiṁ ithē ika jag'hā dī varatōṁ karāṅgā",
+        "ਮੈਂ ਇਥੇ ਇੱਕ ਜਗ੍ਹਾ ਦੀ ਵਰਤੋਂ ਕਰਾਂਗਾ",
+        "I will use a place here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "money",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will use a place now",
+        "maiṁ huṇa ika jag'hā dī varatōṁ karāṅgā",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਜਗ੍ਹਾ ਦੀ ਵਰਤੋਂ ਕਰਾਂਗਾ",
+        "I will use a place now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "money",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will use a place well",
+        "maiṁ ika jag'hā dī cagī tar'hāṁ varatōṁ karāṅgā",
+        "ਮੈਂ ਇੱਕ ਜਗ੍ਹਾ ਦੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤੋਂ ਕਰਾਂਗਾ",
+        "I will use a place well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "mother",
+            "det": "my",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will use a place too",
+        "maiṁ vī ika jag'hā dī varatōṁ karāṅgā",
+        "ਮੈਂ ਵੀ ਇੱਕ ਜਗ੍ਹਾ ਦੀ ਵਰਤੋਂ ਕਰਾਂਗਾ",
+        "I will use a place too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "mother",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will use a program here",
+        "maiṁ ithē ika prōgarāma dī varatōṁ karāṅgā",
+        "ਮੈਂ ਇਥੇ ਇੱਕ ਪ੍ਰੋਗਰਾਮ ਦੀ ਵਰਤੋਂ ਕਰਾਂਗਾ",
+        "I will use a program here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "mother",
+            "det": "my",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will use a program now",
+        "maiṁ huṇa ika prōgarāma dī varatōṁ karāṅgā",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਪ੍ਰੋਗਰਾਮ ਦੀ ਵਰਤੋਂ ਕਰਾਂਗਾ",
+        "I will use a program now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "mother",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will use a program well",
+        "maiṁ ika prōgarāma dī cagī tar'hāṁ varatōṁ karāṅgā",
+        "ਮੈਂ ਇੱਕ ਪ੍ਰੋਗਰਾਮ ਦੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤੋਂ ਕਰਾਂਗਾ",
+        "I will use a program well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "people",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will use a program too",
+        "Maiṁ ika prōgarāma vī isatēmāla karāṅgā",
+        "ਮੈਂ ਇੱਕ ਪ੍ਰੋਗਰਾਮ ਵੀ ਇਸਤੇਮਾਲ ਕਰਾਂਗਾ",
+        "I will use a program too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "people",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will use a room here",
+        "maiṁ ithē ika kamarā varatēgā",
+        "ਮੈਂ ਇਥੇ ਇੱਕ ਕਮਰਾ ਵਰਤੇਗਾ",
+        "I will use a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "people",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will use a room now",
+        "maiṁ huṇa ika kamarā varatēgā",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਕਮਰਾ ਵਰਤੇਗਾ",
+        "I will use a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "people",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will use a story well",
+        "maiṁ ika kahāṇī cagī tar'hāṁ varatāṅgā",
+        "ਮੈਂ ਇਕ ਕਹਾਣੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤਾਂਗਾ",
+        "I will use a story well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "woman",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will use a story too",
+        "maiṁ ika kahāṇī vī varatēgā",
+        "ਮੈਂ ਇਕ ਕਹਾਣੀ ਵੀ ਵਰਤੇਗਾ",
+        "I will use a story too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "woman",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will use a system here",
+        "maiṁ ithē ika sisaṭama dī varatōṁ karāṅgā",
+        "ਮੈਂ ਇੱਥੇ ਇੱਕ ਸਿਸਟਮ ਦੀ ਵਰਤੋਂ ਕਰਾਂਗਾ",
+        "I will use a system here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "woman",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will use a system now",
+        "maiṁ huṇa ika sisaṭama dī varatōṁ karāṅgā",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਸਿਸਟਮ ਦੀ ਵਰਤੋਂ ਕਰਾਂਗਾ",
+        "I will use a system now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "woman",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will use a system well",
+        "maiṁ ika sisaṭama dī cagī tar'hāṁ varatōṁ karāṅgā",
+        "ਮੈਂ ਇੱਕ ਸਿਸਟਮ ਦੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤੋਂ ਕਰਾਂਗਾ",
+        "I will use a system well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will use a system too",
+        "maiṁ ika sisaṭama dī varatōṁ vī karāṅgā",
+        "ਮੈਂ ਇੱਕ ਸਿਸਟਮ ਦੀ ਵਰਤੋਂ ਵੀ ਕਰਾਂਗਾ",
+        "I will use a system too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will use a thing here",
+        "maiṁ ithē ika cīza dī varatōṁ karāṅgā",
+        "ਮੈਂ ਇਥੇ ਇਕ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰਾਂਗਾ",
+        "I will use a thing here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will use a thing now",
+        "maiṁ huṇa ika cīza dī varatōṁ karāṅgā",
+        "ਮੈਂ ਹੁਣ ਇਕ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰਾਂਗਾ",
+        "I will use a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will use water well",
+        "maiṁ pāṇī dī cagī tar'hāṁ varatōṁ karāṅgā",
+        "ਮੈਂ ਪਾਣੀ ਦੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤੋਂ ਕਰਾਂਗਾ",
+        "I will use water well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "day",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will use water too",
+        "maiṁ vī pāṇī dī varatōṁ karāṅgā",
+        "ਮੈਂ ਵੀ ਪਾਣੀ ਦੀ ਵਰਤੋਂ ਕਰਾਂਗਾ",
+        "I will use water too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "day",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will use a week here",
+        "maiṁ ithē ika hafatā varatēgā",
+        "ਮੈਂ ਇਥੇ ਇੱਕ ਹਫ਼ਤਾ ਵਰਤੇਗਾ",
+        "I will use a week here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "day",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will use a week now",
+        "maiṁ huṇa ika haphatā varatēgā",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਹਫਤਾ ਵਰਤੇਗਾ",
+        "I will use a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "day",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will use a week well",
+        "maiṁ ika haphatā cagī tar'hāṁ varatāṅgā",
+        "ਮੈਂ ਇੱਕ ਹਫਤਾ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤਾਂਗਾ",
+        "I will use a week well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "family",
+            "det": "my",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will use a week too",
+        "maiṁ ika haphatā vī varata lavāṅgā",
+        "ਮੈਂ ਇੱਕ ਹਫਤਾ ਵੀ ਵਰਤ ਲਵਾਂਗਾ",
+        "I will use a week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "family",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will use a word here",
+        "maiṁ ithē ika śabada dī varatōṁ karāṅgā",
+        "ਮੈਂ ਇਥੇ ਇਕ ਸ਼ਬਦ ਦੀ ਵਰਤੋਂ ਕਰਾਂਗਾ",
+        "I will use a word here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "family",
+            "det": "my",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will use a word now",
+        "Maiṁ huṇa ika śabada dī varatōṁ karāṅgā",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਸ਼ਬਦ ਦੀ ਵਰਤੋਂ ਕਰਾਂਗਾ",
+        "I will use a word now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "family",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will use a word well",
+        "maiṁ ika śabada dī varatōṁ karāṅgā",
+        "ਮੈਂ ਇੱਕ ਸ਼ਬਦ ਦੀ ਵਰਤੋਂ ਕਰਾਂਗਾ",
+        "I will use a word well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "group",
+            "det": "the",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will use a word too",
+        "maiṁ ika śabada vī isatēmāla karāṅgā",
+        "ਮੈਂ ਇਕ ਸ਼ਬਦ ਵੀ ਇਸਤੇਮਾਲ ਕਰਾਂਗਾ",
+        "I will use a word too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "group",
+            "det": "the",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will use a year here",
+        "maiṁ ithē ika sāla varatēgā",
+        "ਮੈਂ ਇਥੇ ਇੱਕ ਸਾਲ ਵਰਤੇਗਾ",
+        "I will use a year here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "group",
+            "det": "the",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will use a year now",
+        "maiṁ huṇa ika sāla varatēgā",
+        "ਮੈਂ ਹੁਣ ਇਕ ਸਾਲ ਵਰਤੇਗਾ",
+        "I will use a year now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "group",
+            "det": "the",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will find a book well",
+        "maiṁ ika kitāba cagī tar'hāṁ lavāṅgā",
+        "ਮੈਂ ਇਕ ਕਿਤਾਬ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲਵਾਂਗਾ",
+        "I will find a book well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "job",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will find a book too",
+        "mainū ika kitāba vī milēgī",
+        "ਮੈਨੂੰ ਇਕ ਕਿਤਾਬ ਵੀ ਮਿਲੇਗੀ",
+        "I will find a book too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "job",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will find the group here",
+        "maiṁ ithē samūha labhāṅgā",
+        "ਮੈਂ ਇਥੇ ਸਮੂਹ ਲੱਭਾਂਗਾ",
+        "I will find the group here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "job",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will find the group now",
+        "maiṁ huṇa samūha labha lavāṅgā",
+        "ਮੈਂ ਹੁਣ ਸਮੂਹ ਲੱਭ ਲਵਾਂਗਾ",
+        "I will find the group now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "job",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will find the group well",
+        "maiṁ samūha nū cagī tar'hāṁ labhāṅgā",
+        "ਮੈਂ ਸਮੂਹ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲੱਭਾਂਗਾ",
+        "I will find the group well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "money",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will find the group too",
+        "maiṁ samūha vī labha lavāṅgā",
+        "ਮੈਂ ਸਮੂਹ ਵੀ ਲੱਭ ਲਵਾਂਗਾ",
+        "I will find the group too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "money",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will find a home here",
+        "mainū ithē ika ghara milēgā",
+        "ਮੈਨੂੰ ਇੱਥੇ ਇੱਕ ਘਰ ਮਿਲੇਗਾ",
+        "I will find a home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "money",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will find a home now",
+        "mainū huṇa ika ghara mila jāvēgā",
+        "ਮੈਨੂੰ ਹੁਣ ਇੱਕ ਘਰ ਮਿਲ ਜਾਵੇਗਾ",
+        "I will find a home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "money",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will find a job well",
+        "mainū naukarī cagī tar'hāṁ milēgī",
+        "ਮੈਨੂੰ ਨੌਕਰੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਮਿਲੇਗੀ",
+        "I will find a job well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will find a job too",
+        "mainū ika naukarī vī milēgī",
+        "ਮੈਨੂੰ ਇੱਕ ਨੌਕਰੀ ਵੀ ਮਿਲੇਗੀ",
+        "I will find a job too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will find money here",
+        "mainū ithē paisē mila jāṇagē",
+        "ਮੈਨੂੰ ਇੱਥੇ ਪੈਸੇ ਮਿਲ ਜਾਣਗੇ",
+        "I will find money here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will find money now",
+        "mainū huṇa paisē mila jāṇagē",
+        "ਮੈਨੂੰ ਹੁਣ ਪੈਸੇ ਮਿਲ ਜਾਣਗੇ",
+        "I will find money now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will find money well",
+        "mainū paisē vadhī'ā milaṇagē",
+        "ਮੈਨੂੰ ਪੈਸੇ ਵਧੀਆ ਮਿਲਣਗੇ",
+        "I will find money well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "story",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will find money too",
+        "mainū paisē vī mila jāṇagē",
+        "ਮੈਨੂੰ ਪੈਸੇ ਵੀ ਮਿਲ ਜਾਣਗੇ",
+        "I will find money too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "story",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will find a place here",
+        "mainū ithē ika jag'hā milēgī",
+        "ਮੈਨੂੰ ਇੱਥੇ ਇੱਕ ਜਗ੍ਹਾ ਮਿਲੇਗੀ",
+        "I will find a place here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "story",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will find a place now",
+        "mainū huṇa ika jag'hā milēgī",
+        "ਮੈਨੂੰ ਹੁਣ ਇੱਕ ਜਗ੍ਹਾ ਮਿਲੇਗੀ",
+        "I will find a place now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "story",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will find a problem well",
+        "mainū ika samasi'ā cagī tar'hāṁ milēgī",
+        "ਮੈਨੂੰ ਇੱਕ ਸਮੱਸਿਆ ਚੰਗੀ ਤਰ੍ਹਾਂ ਮਿਲੇਗੀ",
+        "I will find a problem well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will find a problem too",
+        "mainū vī ika samasi'ā milēgī",
+        "ਮੈਨੂੰ ਵੀ ਇੱਕ ਸਮੱਸਿਆ ਮਿਲੇਗੀ",
+        "I will find a problem too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will find a room here",
+        "mainū ithē ika kamarā milēgā",
+        "ਮੈਨੂੰ ਇੱਥੇ ਇੱਕ ਕਮਰਾ ਮਿਲੇਗਾ",
+        "I will find a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will find a room now",
+        "mainū huṇa ika kamarā milēgā",
+        "ਮੈਨੂੰ ਹੁਣ ਇੱਕ ਕਮਰਾ ਮਿਲੇਗਾ",
+        "I will find a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will find a way well",
+        "mainū ika rasatā vadhī'ā milēgā",
+        "ਮੈਨੂੰ ਇੱਕ ਰਸਤਾ ਵਧੀਆ ਮਿਲੇਗਾ",
+        "I will find a way well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will find a way too",
+        "mainū vī kō'ī rasatā mila jāvēgā",
+        "ਮੈਨੂੰ ਵੀ ਕੋਈ ਰਸਤਾ ਮਿਲ ਜਾਵੇਗਾ",
+        "I will find a way too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will find a woman here",
+        "maiṁ ithē ika findrata lavāṅgā",
+        "ਮੈਂ ਇੱਥੇ ਇੱਕ findਰਤ ਲਵਾਂਗਾ",
+        "I will find a woman here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will find a woman now",
+        "maiṁ huṇa ika findrata lavāṅgā",
+        "ਮੈਂ ਹੁਣ ਇੱਕ findਰਤ ਲਵਾਂਗਾ",
+        "I will find a woman now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will have a day too",
+        "mērē kōla ika dina vī hōvēgā",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਦਿਨ ਵੀ ਹੋਵੇਗਾ",
+        "I will have a day too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "give",
+            "noun": "money",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will have an eye now",
+        "mērī huṇa ika akha hōvēgī",
+        "ਮੇਰੀ ਹੁਣ ਇਕ ਅੱਖ ਹੋਵੇਗੀ",
+        "I will have an eye now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "give",
+            "noun": "money",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will have an eye too",
+        "mērī vī ika akha hōvēgī",
+        "ਮੇਰੀ ਵੀ ਇਕ ਅੱਖ ਹੋਵੇਗੀ",
+        "I will have an eye too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "give",
+            "noun": "money",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will have my family now",
+        "mērē kōla huṇa mērā parivāra hōvēgā",
+        "ਮੇਰੇ ਕੋਲ ਹੁਣ ਮੇਰਾ ਪਰਿਵਾਰ ਹੋਵੇਗਾ",
+        "I will have my family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "give",
+            "noun": "money",
+            "adv": "too"
+        }
+    ],
+    [
+        "I will have my family too",
+        "maiṁ āpaṇā parivāra vī rakhāṅgā",
+        "ਮੈਂ ਆਪਣਾ ਪਰਿਵਾਰ ਵੀ ਰੱਖਾਂਗਾ",
+        "I will have my family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "give",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I will have the group now",
+        "mērē kōla huṇa samūha hōvēgā",
+        "ਮੇਰੇ ਕੋਲ ਹੁਣ ਸਮੂਹ ਹੋਵੇਗਾ",
+        "I will have the group now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "give",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I will have the group too",
+        "mērē kōla samūha vī hōvēgā",
+        "ਮੇਰੇ ਕੋਲ ਸਮੂਹ ਵੀ ਹੋਵੇਗਾ",
+        "I will have the group too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "give",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I will have a hand now",
+        "mērā huṇa ika hatha hōvēgā",
+        "ਮੇਰਾ ਹੁਣ ਇੱਕ ਹੱਥ ਹੋਵੇਗਾ",
+        "I will have a hand now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "give",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ]
+]

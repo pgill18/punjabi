@@ -1,0 +1,1398 @@
+[
+    [
+        "I am a student here",
+        "maiṁ ithē ika vidi'ārathī hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਇੱਕ ਵਿਦਿਆਰਥੀ ਹਾਂ",
+        "I am a student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am a student too",
+        "maiṁ vī ika vidi'ārathī hāṁ",
+        "ਮੈਂ ਵੀ ਇੱਕ ਵਿਦਿਆਰਥੀ ਹਾਂ",
+        "I am a student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I have a business now",
+        "mērā huṇa ika kārōbāra hai",
+        "ਮੇਰਾ ਹੁਣ ਇੱਕ ਕਾਰੋਬਾਰ ਹੈ",
+        "I have a business now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "business",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I have a business too",
+        "mērā vī ika kārōbāra hai",
+        "ਮੇਰਾ ਵੀ ਇੱਕ ਕਾਰੋਬਾਰ ਹੈ",
+        "I have a business too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "business",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I have a day now",
+        "mērē kōla huṇa ika dina hai",
+        "ਮੇਰੇ ਕੋਲ ਹੁਣ ਇਕ ਦਿਨ ਹੈ",
+        "I have a day now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I have a day too",
+        "mērē kōla ika dina vī hai",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਦਿਨ ਵੀ ਹੈ",
+        "I have a day too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I have a lot now",
+        "mērē kōla huṇa bahuta hai",
+        "ਮੇਰੇ ਕੋਲ ਹੁਣ ਬਹੁਤ ਹੈ",
+        "I have a lot now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "lot",
+            "adv": "now"
+        }
+    ],
+    [
+        "I have a lot too",
+        "mērē kōla vī bahuta hai",
+        "ਮੇਰੇ ਕੋਲ ਵੀ ਬਹੁਤ ਹੈ",
+        "I have a lot too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "lot",
+            "adv": "too"
+        }
+    ],
+    [
+        "I have my mother now",
+        "Mērē kōla huṇa mērī māṁ hai",
+        "ਮੇਰੇ ਕੋਲ ਹੁਣ ਮੇਰੀ ਮਾਂ ਹੈ",
+        "I have my mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I have my mother too",
+        "mērī māṁ vī hai",
+        "ਮੇਰੀ ਮਾਂ ਵੀ ਹੈ",
+        "I have my mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I have a problem now",
+        "mainū huṇa ika samasi'ā hai",
+        "ਮੈਨੂੰ ਹੁਣ ਇੱਕ ਸਮੱਸਿਆ ਹੈ",
+        "I have a problem now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I have a problem too",
+        "mainū vī ika samasi'ā hai",
+        "ਮੈਨੂੰ ਵੀ ਇੱਕ ਸਮੱਸਿਆ ਹੈ",
+        "I have a problem too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I have a question now",
+        "mērē kōla huṇa ika praśana hai",
+        "ਮੇਰੇ ਕੋਲ ਹੁਣ ਇੱਕ ਪ੍ਰਸ਼ਨ ਹੈ",
+        "I have a question now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "question",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I have a question too",
+        "mērē kōla vī ika praśana hai",
+        "ਮੇਰੇ ਕੋਲ ਵੀ ਇੱਕ ਪ੍ਰਸ਼ਨ ਹੈ",
+        "I have a question too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "question",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I have a story now",
+        "mērē kōla huṇa ika kahāṇī hai",
+        "ਮੇਰੇ ਕੋਲ ਹੁਣ ਇਕ ਕਹਾਣੀ ਹੈ",
+        "I have a story now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "story",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I have a story too",
+        "mērī ika kahāṇī vī hai",
+        "ਮੇਰੀ ਇਕ ਕਹਾਣੀ ਵੀ ਹੈ",
+        "I have a story too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "story",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I have a week now",
+        "mērē kōla huṇa ika hafatā hai",
+        "ਮੇਰੇ ਕੋਲ ਹੁਣ ਇਕ ਹਫ਼ਤਾ ਹੈ",
+        "I have a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I have a week too",
+        "mērē kōla ika haphatā vī hai",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਹਫਤਾ ਵੀ ਹੈ",
+        "I have a week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I have a year now",
+        "mērē kōla huṇa ika sāla hai",
+        "ਮੇਰੇ ਕੋਲ ਹੁਣ ਇਕ ਸਾਲ ਹੈ",
+        "I have a year now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "year",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I have a year too",
+        "mērē kōla ika sāla vī hai",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਸਾਲ ਵੀ ਹੈ",
+        "I have a year too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "year",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I do a business now",
+        "maiṁ huṇa ika kārōbāra karadā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਕਾਰੋਬਾਰ ਕਰਦਾ ਹਾਂ",
+        "I do a business now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "business",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I do a business well",
+        "maiṁ ika kārōbāra cagī tar'hāṁ karadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਕਾਰੋਬਾਰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਰਦਾ ਹਾਂ",
+        "I do a business well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "business",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I do a lot now",
+        "maiṁ huṇa bahuta kujha karadā hāṁ",
+        "ਮੈਂ ਹੁਣ ਬਹੁਤ ਕੁਝ ਕਰਦਾ ਹਾਂ",
+        "I do a lot now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "lot",
+            "adv": "now"
+        }
+    ],
+    [
+        "I do a lot well",
+        "maiṁ bahuta vadhī'ā karadā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਵਧੀਆ ਕਰਦਾ ਹਾਂ",
+        "I do a lot well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "lot",
+            "adv": "well"
+        }
+    ],
+    [
+        "I tell about life here",
+        "maiṁ ithē zidagī bārē dasadā hāṁ",
+        "ਮੈਂ ਇਥੇ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਦੱਸਦਾ ਹਾਂ",
+        "I tell about life here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "life",
+            "adv": "here"
+        }
+    ],
+    [
+        "I tell about life now",
+        "maiṁ huṇa zidagī bārē dasadā hāṁ",
+        "ਮੈਂ ਹੁਣ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਦੱਸਦਾ ਹਾਂ",
+        "I tell about life now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "life",
+            "adv": "now"
+        }
+    ],
+    [
+        "I tell about life well",
+        "maiṁ zidagī bārē cagī tar'hāṁ dasadā hāṁ",
+        "ਮੈਂ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਦੱਸਦਾ ਹਾਂ",
+        "I tell about life well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "life",
+            "adv": "well"
+        }
+    ],
+    [
+        "I tell about life too",
+        "maiṁ zidagī bārē vī dasadā hāṁ",
+        "ਮੈਂ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਵੀ ਦੱਸਦਾ ਹਾਂ",
+        "I tell about life too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "life",
+            "adv": "too"
+        }
+    ],
+    [
+        "I tell a man here",
+        "maiṁ ithē ika ādamī nū kahidā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਆਦਮੀ ਨੂੰ ਕਹਿੰਦਾ ਹਾਂ",
+        "I tell a man here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I tell a man now",
+        "maiṁ huṇa ika ādamī nū kahidā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇਕ ਆਦਮੀ ਨੂੰ ਕਹਿੰਦਾ ਹਾਂ",
+        "I tell a man now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I tell a man well",
+        "maiṁ ika ādamī nū cagī tar'hāṁ kahidā hāṁ",
+        "ਮੈਂ ਇਕ ਆਦਮੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਹਿੰਦਾ ਹਾਂ",
+        "I tell a man well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I tell a man too",
+        "maiṁ ika ādamī nū vī kahidā hāṁ",
+        "ਮੈਂ ਇਕ ਆਦਮੀ ਨੂੰ ਵੀ ਕਹਿੰਦਾ ਹਾਂ",
+        "I tell a man too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I tell my mother here",
+        "maiṁ āpaṇī māṁ nū ithē dasadā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਇਥੇ ਦੱਸਦਾ ਹਾਂ",
+        "I tell my mother here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "my",
+            "adv": "here"
+        }
+    ],
+    [
+        "I tell my mother now",
+        "maiṁ huṇa āpaṇī māṁ nū kahidā hāṁ",
+        "ਮੈਂ ਹੁਣ ਆਪਣੀ ਮਾਂ ਨੂੰ ਕਹਿੰਦਾ ਹਾਂ",
+        "I tell my mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I tell my mother well",
+        "maiṁ āpaṇī māṁ nū cagī tar'hāṁ kahidā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਹਿੰਦਾ ਹਾਂ",
+        "I tell my mother well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "my",
+            "adv": "well"
+        }
+    ],
+    [
+        "I tell my mother too",
+        "maiṁ āpaṇī māṁ nū vī kahidā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਵੀ ਕਹਿੰਦਾ ਹਾਂ",
+        "I tell my mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I tell about a problem here",
+        "maiṁ ithē ika samasi'ā bārē dasadā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਇੱਕ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸਦਾ ਹਾਂ",
+        "I tell about a problem here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I tell about a problem now",
+        "maiṁ huṇa ika samasi'ā bārē dasadā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸਦਾ ਹਾਂ",
+        "I tell about a problem now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I tell about a problem well",
+        "maiṁ cagī tar'hāṁ ika samasi'ā bārē dasadā hāṁ",
+        "ਮੈਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਇੱਕ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸਦਾ ਹਾਂ",
+        "I tell about a problem well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I tell about a problem too",
+        "maiṁ ika samasi'ā bārē vī dasadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਸਮੱਸਿਆ ਬਾਰੇ ਵੀ ਦੱਸਦਾ ਹਾਂ",
+        "I tell about a problem too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I tell a story here",
+        "maiṁ ithē ika kahāṇī suṇā'undā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਕਹਾਣੀ ਸੁਣਾਉਂਦਾ ਹਾਂ",
+        "I tell a story here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I tell a story now",
+        "maiṁ huṇa ika kahāṇī suṇā'undā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇਕ ਕਹਾਣੀ ਸੁਣਾਉਂਦਾ ਹਾਂ",
+        "I tell a story now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I tell a story well",
+        "maiṁ ika kahāṇī cagī tar'hāṁ dasadā hāṁ",
+        "ਮੈਂ ਇਕ ਕਹਾਣੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਦੱਸਦਾ ਹਾਂ",
+        "I tell a story well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I tell a story too",
+        "maiṁ ika kahāṇī vī suṇā'undā hāṁ",
+        "ਮੈਂ ਇਕ ਕਹਾਣੀ ਵੀ ਸੁਣਾਉਂਦਾ ਹਾਂ",
+        "I tell a story too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I tell about a study here",
+        "maiṁ ithē ika adhi'aina bārē dasadā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸਦਾ ਹਾਂ",
+        "I tell about a study here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I tell about a study now",
+        "maiṁ huṇa ika adhi'aina bārē dasadā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇਕ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸਦਾ ਹਾਂ",
+        "I tell about a study now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I tell about a study well",
+        "maiṁ cagī tar'hāṁ adhi'aina bārē dasadā hāṁ",
+        "ਮੈਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸਦਾ ਹਾਂ",
+        "I tell about a study well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I tell about a study too",
+        "maiṁ ika adhi'aina bārē vī dasadā hāṁ",
+        "ਮੈਂ ਇਕ ਅਧਿਐਨ ਬਾਰੇ ਵੀ ਦੱਸਦਾ ਹਾਂ",
+        "I tell about a study too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I tell a woman here",
+        "maiṁ ithē ika tellrata nū kahidā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ tellਰਤ ਨੂੰ ਕਹਿੰਦਾ ਹਾਂ",
+        "I tell a woman here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I tell a woman now",
+        "maiṁ huṇa ika tellrata nū kahidā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇਕ tellਰਤ ਨੂੰ ਕਹਿੰਦਾ ਹਾਂ",
+        "I tell a woman now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I tell a woman well",
+        "maiṁ ika womanrata nū cagī tar'hāṁ kahidā hāṁ",
+        "ਮੈਂ ਇਕ womanਰਤ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਹਿੰਦਾ ਹਾਂ",
+        "I tell a woman well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I tell a woman too",
+        "maiṁ ika womanrata nū vī kahidā hāṁ",
+        "ਮੈਂ ਇਕ womanਰਤ ਨੂੰ ਵੀ ਕਹਿੰਦਾ ਹਾਂ",
+        "I tell a woman too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a",
+            "adv": "too"
+        }
+    ]
+]

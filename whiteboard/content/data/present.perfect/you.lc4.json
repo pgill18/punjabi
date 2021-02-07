@@ -1,0 +1,779 @@
+[
+    [
+        "You have been a student",
+        "tusīṁ vidi'ārathī hō",
+        "ਤੁਸੀਂ ਵਿਦਿਆਰਥੀ ਹੋ",
+        "You have been a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "You have had a business",
+        "tuhāḍā kārōbāra hō'i'ā hai",
+        "ਤੁਹਾਡਾ ਕਾਰੋਬਾਰ ਹੋਇਆ ਹੈ",
+        "You have had a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "You have had a day",
+        "tuhāḍē kōla ika dina rihā hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਦਿਨ ਰਿਹਾ ਹੈ",
+        "You have had a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "You have had a lot",
+        "tuhāḍē kōla bahuta kujha sī",
+        "ਤੁਹਾਡੇ ਕੋਲ ਬਹੁਤ ਕੁਝ ਸੀ",
+        "You have had a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "lot"
+        }
+    ],
+    [
+        "You have had your mother",
+        "tuhānū āpaṇī māṁ milī hai",
+        "ਤੁਹਾਨੂੰ ਆਪਣੀ ਮਾਂ ਮਿਲੀ ਹੈ",
+        "You have had your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "det": "your"
+        }
+    ],
+    [
+        "You have had a problem",
+        "tuhānū ika samasi'ā ā'ī hai",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਸਮੱਸਿਆ ਆਈ ਹੈ",
+        "You have had a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "You have had a question",
+        "tuhāḍē kōla ika praśana hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਪ੍ਰਸ਼ਨ ਹੈ",
+        "You have had a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "You have had a story",
+        "tuhāḍē kōla ika kahāṇī hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਕਹਾਣੀ ਹੈ",
+        "You have had a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "You have had a week",
+        "tuhāḍē kōla ika haphatā hō gi'ā hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਹਫਤਾ ਹੋ ਗਿਆ ਹੈ",
+        "You have had a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "You have had a year",
+        "tuhāḍē kōla ika sāla hō gi'ā hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਸਾਲ ਹੋ ਗਿਆ ਹੈ",
+        "You have had a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "You have done a business",
+        "tusīṁ ika kārōbāra kītā hai",
+        "ਤੁਸੀਂ ਇੱਕ ਕਾਰੋਬਾਰ ਕੀਤਾ ਹੈ",
+        "You have done a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "You have done a lot",
+        "tusīṁ bahuta kītā hai",
+        "ਤੁਸੀਂ ਬਹੁਤ ਕੀਤਾ ਹੈ",
+        "You have done a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "lot"
+        }
+    ],
+    [
+        "You have told about life",
+        "tusīṁ zidagī bārē dasi'ā hai",
+        "ਤੁਸੀਂ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਦੱਸਿਆ ਹੈ",
+        "You have told about life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "life"
+        }
+    ],
+    [
+        "You have told a man",
+        "tusīṁ ika ādamī nū dasi'ā hai",
+        "ਤੁਸੀਂ ਇਕ ਆਦਮੀ ਨੂੰ ਦੱਸਿਆ ਹੈ",
+        "You have told a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "You have told your mother",
+        "tusīṁ āpaṇī māṁ nū dasi'ā hai",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਦੱਸਿਆ ਹੈ",
+        "You have told your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "your"
+        }
+    ],
+    [
+        "You have told about a problem",
+        "tusīṁ ika samasi'ā bārē dasi'ā hai",
+        "ਤੁਸੀਂ ਇੱਕ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸਿਆ ਹੈ",
+        "You have told about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "You have told a story",
+        "tusīṁ ika kahāṇī dasī hai",
+        "ਤੁਸੀਂ ਇੱਕ ਕਹਾਣੀ ਦੱਸੀ ਹੈ",
+        "You have told a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "You have told about a study",
+        "tusīṁ ika adhi'aina bārē dasi'ā hai",
+        "ਤੁਸੀਂ ਇਕ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸਿਆ ਹੈ",
+        "You have told about a study",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a"
+        }
+    ],
+    [
+        "You have told a woman",
+        "tusīṁ ika.Rata nū dasi'ā hai",
+        "ਤੁਸੀਂ ਇਕ .ਰਤ ਨੂੰ ਦੱਸਿਆ ਹੈ",
+        "You have told a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "You have asked a man",
+        "tusīṁ ika ādamī nū puchi'ā hai",
+        "ਤੁਸੀਂ ਇਕ ਆਦਮੀ ਨੂੰ ਪੁੱਛਿਆ ਹੈ",
+        "You have asked a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "You have asked your mother",
+        "tusīṁ āpaṇī māṁ nū puchi'ā hai",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਪੁੱਛਿਆ ਹੈ",
+        "You have asked your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "your"
+        }
+    ],
+    [
+        "You have asked a question",
+        "tusīṁ ika praśana puchi'ā hai",
+        "ਤੁਸੀਂ ਇੱਕ ਪ੍ਰਸ਼ਨ ਪੁੱਛਿਆ ਹੈ",
+        "You have asked a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "You have asked a student",
+        "tusīṁ ika vidi'ārathī nū puchi'ā hai",
+        "ਤੁਸੀਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛਿਆ ਹੈ",
+        "You have asked a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "You have asked a woman",
+        "tusīṁ ika askedrata nū puchi'ā hai",
+        "ਤੁਸੀਂ ਇੱਕ askedਰਤ ਨੂੰ ਪੁੱਛਿਆ ਹੈ",
+        "You have asked a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "You have tried for a day",
+        "tusīṁ ika dina la'ī kōśiśa kītī hai",
+        "ਤੁਸੀਂ ਇੱਕ ਦਿਨ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਹੈ",
+        "You have tried for a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "You have tried for a month",
+        "tusīṁ ika mahīnē la'ī kōśiśa kītī hai",
+        "ਤੁਸੀਂ ਇੱਕ ਮਹੀਨੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਹੈ",
+        "You have tried for a month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "month",
+            "det": "a"
+        }
+    ],
+    [
+        "You have tried for a week",
+        "tusīṁ ika hafatē la'ī kōśiśa kītī hai",
+        "ਤੁਸੀਂ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਹੈ",
+        "You have tried for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "You have tried for a year",
+        "tusīṁ ika sāla kōśiśa kītī hai",
+        "ਤੁਸੀਂ ਇੱਕ ਸਾਲ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਹੈ",
+        "You have tried for a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "You have left a business",
+        "tusīṁ ika kārōbāra chaḍa ditā hai",
+        "ਤੁਸੀਂ ਇੱਕ ਕਾਰੋਬਾਰ ਛੱਡ ਦਿੱਤਾ ਹੈ",
+        "You have left a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "You have called your mother",
+        "tusīṁ āpaṇī māṁ nū bulā'i'ā hai",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਬੁਲਾਇਆ ਹੈ",
+        "You have called your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "call",
+            "noun": "mother",
+            "det": "your"
+        }
+    ]
+]

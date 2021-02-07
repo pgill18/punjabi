@@ -1,0 +1,2872 @@
+[
+    [
+        "We are going to the first student here",
+        "asīṁ ithē pahilē vidi'ārathī kōla jā rahē hāṁ",
+        "ਅਸੀਂ ਇੱਥੇ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to the first student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "be",
+            "noun": "people",
+            "det": "the",
+            "adj": "first",
+            "adv": "here"
+        }
+    ],
+    [
+        "We are going to the first student now",
+        "asīṁ huṇa pahilē vidi'ārathī kōla jā rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to the first student now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "be",
+            "noun": "people",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are going to the first student well",
+        "asīṁ pahilē vidi'ārathī kōla cagī tar'hāṁ jā rahē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਕੋਲ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to the first student well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "be",
+            "noun": "people",
+            "adj": "many",
+            "adv": "here"
+        }
+    ],
+    [
+        "We are going to the first student too",
+        "asīṁ vī pahilē vidi'ārathī kōla jā rahē hāṁ",
+        "ਅਸੀਂ ਵੀ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to the first student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "be",
+            "noun": "people",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are going to a many studies here",
+        "asīṁ ithē bahuta sārē adhi'aina karana jā rahē hāṁ",
+        "ਅਸੀਂ ਇੱਥੇ ਬਹੁਤ ਸਾਰੇ ਅਧਿਐਨ ਕਰਨ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to a many studies here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "business",
+            "det": "a",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going to a many studies now",
+        "asīṁ huṇa bahuta sārē adhi'aina karana jā rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਬਹੁਤ ਸਾਰੇ ਅਧਿਐਨ ਕਰਨ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to a many studies now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "business",
+            "det": "a",
+            "adj": "good",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are going to a many studies well",
+        "asīṁ bahuta sārē adhi'aina karana jā rahē hāṁ",
+        "ਅਸੀਂ ਬਹੁਤ ਸਾਰੇ ਅਧਿਐਨ ਕਰਨ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to a many studies well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "business",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going to a many studies too",
+        "asīṁ vī bahuta sārē adhi'aina karana jā rahē hāṁ",
+        "ਅਸੀਂ ਵੀ ਬਹੁਤ ਸਾਰੇ ਅਧਿਐਨ ਕਰਨ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to a many studies too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "business",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are going for a good week well",
+        "asīṁ cagē haphatē la'ī jā rahē hāṁ",
+        "ਅਸੀਂ ਚੰਗੇ ਹਫਤੇ ਲਈ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going for a good week well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going for a good week too",
+        "asīṁ vī ika cagē haphatē la'ī jā rahē hāṁ",
+        "ਅਸੀਂ ਵੀ ਇੱਕ ਚੰਗੇ ਹਫਤੇ ਲਈ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going for a good week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adj": "good",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are going for the first week here",
+        "asīṁ ithē pahilē hafatē jā rahē hāṁ",
+        "ਅਸੀਂ ਇੱਥੇ ਪਹਿਲੇ ਹਫ਼ਤੇ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going for the first week here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "day",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going for the first week now",
+        "asīṁ huṇa pahilē hafatē la'ī jā rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਪਹਿਲੇ ਹਫ਼ਤੇ ਲਈ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going for the first week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "day",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are going for the first week well",
+        "asīṁ pahilē haphatē cagī tar'hāṁ jā rahē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੇ ਹਫਤੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going for the first week well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going for the first week too",
+        "asīṁ pahilē hafatē vī jā rahē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੇ ਹਫ਼ਤੇ ਵੀ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going for the first week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are going for a many a week here",
+        "asīṁ ithē bahuta sārē hafatē la'ī jā rahē hāṁ",
+        "ਅਸੀਂ ਇੱਥੇ ਬਹੁਤ ਸਾਰੇ ਹਫ਼ਤੇ ਲਈ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going for a many a week here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "day",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going for a many a week now",
+        "asīṁ huṇa bahuta sārē hafatē la'ī jā rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਬਹੁਤ ਸਾਰੇ ਹਫ਼ਤੇ ਲਈ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going for a many a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "day",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are going for each week well",
+        "asīṁ hara haphatē cagī tar'hāṁ jā rahē hāṁ",
+        "ਅਸੀਂ ਹਰ ਹਫਤੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going for each week well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "family",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going for each week too",
+        "asīṁ hara hafatē vī jā rahē hāṁ",
+        "ਅਸੀਂ ਹਰ ਹਫ਼ਤੇ ਵੀ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going for each week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "family",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are going to good work here",
+        "asīṁ ithē cagē kama karana jā rahē hāṁ",
+        "ਅਸੀਂ ਇੱਥੇ ਚੰਗੇ ਕੰਮ ਕਰਨ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to good work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "family",
+            "det": "our",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going to good work now",
+        "asīṁ huṇa cagē kama la'ī jā rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਚੰਗੇ ਕੰਮ ਲਈ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to good work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "family",
+            "det": "our",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are going to good work well",
+        "asīṁ vadhī'ā kama karana jā rahē hāṁ",
+        "ਅਸੀਂ ਵਧੀਆ ਕੰਮ ਕਰਨ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to good work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "family",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going to good work too",
+        "asīṁ cagē kama la'ī vī jā rahē hāṁ",
+        "ਅਸੀਂ ਚੰਗੇ ਕੰਮ ਲਈ ਵੀ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to good work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "family",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are going to the first work here",
+        "asīṁ ithē pahilē kama tē jā rahē hāṁ",
+        "ਅਸੀਂ ਇੱਥੇ ਪਹਿਲੇ ਕੰਮ ਤੇ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to the first work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "group",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going to the first work now",
+        "asīṁ huṇa pahilē kama tē jā rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਪਹਿਲੇ ਕੰਮ ਤੇ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to the first work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "group",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are going to the first work well",
+        "asīṁ pahilē kama tē cagī tar'hāṁ jā rahē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੇ ਕੰਮ ਤੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to the first work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "group",
+            "det": "the",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going to the first work too",
+        "asīṁ vī pahilē kama tē jā rahē hāṁ",
+        "ਅਸੀਂ ਵੀ ਪਹਿਲੇ ਕੰਮ ਤੇ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to the first work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "group",
+            "det": "the",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are going to each work here",
+        "asīṁ ithē harēka kama la'ī jā rahē hāṁ",
+        "ਅਸੀਂ ਇੱਥੇ ਹਰੇਕ ਕੰਮ ਲਈ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to each work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "group",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going to each work now",
+        "asīṁ huṇa hara kama'tē jā rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਹਰ ਕੰਮ 'ਤੇ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to each work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "group",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are knowing the first child here",
+        "asīṁ ithē pahilē bacē nū jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਇੱਥੇ ਪਹਿਲੇ ਬੱਚੇ ਨੂੰ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing the first child here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "job",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are knowing the first child now",
+        "asīṁ huṇa pahilē bacē nū jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਪਹਿਲੇ ਬੱਚੇ ਨੂੰ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing the first child now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "job",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are knowing the first child well",
+        "asīṁ pahilē bacē nū cagī tar'hāṁ jāṇadē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੇ ਬੱਚੇ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹਾਂ",
+        "We are knowing the first child well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "job",
+            "det": "a",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are knowing the first child too",
+        "asīṁ pahilē bacē nū vī jāṇadē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੇ ਬੱਚੇ ਨੂੰ ਵੀ ਜਾਣਦੇ ਹਾਂ",
+        "We are knowing the first child too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "job",
+            "det": "a",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are knowing our many children here",
+        "asīṁ āpaṇē bahuta sārē baci'āṁ nū ithē jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚਿਆਂ ਨੂੰ ਇੱਥੇ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing our many children here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "job",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are knowing our many children now",
+        "asīṁ huṇa āpaṇē bahuta sārē baci'āṁ nū jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚਿਆਂ ਨੂੰ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing our many children now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "job",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are knowing our many countries here",
+        "asīṁ āpaṇē bahuta sārē dēśāṁ nū ithē jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਨੂੰ ਇੱਥੇ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing our many countries here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are knowing our many countries now",
+        "asīṁ huṇa āpaṇē bahuta sārē dēśāṁ nū jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਨੂੰ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing our many countries now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are knowing our many countries well",
+        "asīṁ āpaṇē bahuta sārē dēśāṁ nū cagī tar'hāṁ jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing our many countries well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "mother",
+            "det": "our",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are knowing our many countries too",
+        "asīṁ āpaṇē bahuta sārē dēśāṁ nū vī jāṇadē hāṁ",
+        "ਅਸੀਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਨੂੰ ਵੀ ਜਾਣਦੇ ਹਾਂ",
+        "We are knowing our many countries too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "mother",
+            "det": "our",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are knowing our each country here",
+        "asīṁ ithē āpaṇē harēka dēśa nū jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਇੱਥੇ ਆਪਣੇ ਹਰੇਕ ਦੇਸ਼ ਨੂੰ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing our each country here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "mother",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are knowing our each country now",
+        "asīṁ huṇa āpaṇē harēka dēśa nū jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਆਪਣੇ ਹਰੇਕ ਦੇਸ਼ ਨੂੰ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing our each country now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "mother",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are knowing our many groups well",
+        "asīṁ āpaṇē bahuta sārē samūhāṁ nū cagī tar'hāṁ jāṇadē hāṁ",
+        "ਅਸੀਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਸਮੂਹਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹਾਂ",
+        "We are knowing our many groups well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "right",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are knowing our many groups too",
+        "asīṁ āpaṇē bahuta sārē samūhāṁ nū vī jāṇadē hāṁ",
+        "ਅਸੀਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਸਮੂਹਾਂ ਨੂੰ ਵੀ ਜਾਣਦੇ ਹਾਂ",
+        "We are knowing our many groups too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "right",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are knowing our each group here",
+        "asīṁ ithē āpaṇē harēka samūha nū jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਇੱਥੇ ਆਪਣੇ ਹਰੇਕ ਸਮੂਹ ਨੂੰ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing our each group here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "right",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are knowing our each group now",
+        "asīṁ huṇa āpaṇē harēka samūha nū jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਆਪਣੇ ਹਰੇਕ ਸਮੂਹ ਨੂੰ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing our each group now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "right",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are knowing our each group well",
+        "asīṁ āpaṇē harēka samūha nū cagī tar'hāṁ jāṇadē hāṁ",
+        "ਅਸੀਂ ਆਪਣੇ ਹਰੇਕ ਸਮੂਹ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹਾਂ",
+        "We are knowing our each group well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "right",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are knowing our each group too",
+        "asīṁ āpaṇē harēka samūha nū jāṇadē hāṁ",
+        "ਅਸੀਂ ਆਪਣੇ ਹਰੇਕ ਸਮੂਹ ਨੂੰ ਜਾਣਦੇ ਹਾਂ",
+        "We are knowing our each group too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "right",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are knowing our first job here",
+        "asīṁ ithē āpaṇī pahilī naukarī jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਇੱਥੇ ਆਪਣੀ ਪਹਿਲੀ ਨੌਕਰੀ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing our first job here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "room",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are knowing our first job now",
+        "asīṁ huṇa sāḍī pahilī naukarī jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਸਾਡੀ ਪਹਿਲੀ ਨੌਕਰੀ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing our first job now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "room",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are knowing our first job well",
+        "Asīṁ āpaṇī pahilī naukarī cagī tar'hāṁ jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਆਪਣੀ ਪਹਿਲੀ ਨੌਕਰੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing our first job well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are knowing our first job too",
+        "asīṁ āpaṇī pahilī naukarī vī jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਆਪਣੀ ਪਹਿਲੀ ਨੌਕਰੀ ਵੀ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing our first job too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are knowing our many jobs here",
+        "asīṁ ithē āpaṇī'āṁ bahuta sārī'āṁ naukarī'āṁ jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਇੱਥੇ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing our many jobs here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "room",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are knowing our many jobs now",
+        "asīṁ huṇa āpaṇī'āṁ bahuta sārī'āṁ naukarī'āṁ jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing our many jobs now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "room",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are knowing a first lot here",
+        "asīṁ ithē bahuta kujha jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਇੱਥੇ ਬਹੁਤ ਕੁਝ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing a first lot here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "story",
+            "det": "a",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are knowing a first lot now",
+        "asīṁ huṇa bahuta kujha jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਬਹੁਤ ਕੁਝ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing a first lot now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "story",
+            "det": "a",
+            "adj": "good",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are knowing a first lot well",
+        "asīṁ cagī tar'hāṁ jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing a first lot well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "story",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are knowing a first lot too",
+        "asīṁ vī bahuta kujha jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਵੀ ਬਹੁਤ ਕੁਝ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing a first lot too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "story",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are knowing a many lots here",
+        "asīṁ ithē bahuta sārē jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਇੱਥੇ ਬਹੁਤ ਸਾਰੇ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing a many lots here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "story",
+            "det": "a",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are knowing a many lots now",
+        "asīṁ huṇa bahuta sārī'āṁ galāṁ jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਬਹੁਤ ਸਾਰੀਆਂ ਗੱਲਾਂ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing a many lots now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "story",
+            "det": "a",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are knowing a many lots well",
+        "asīṁ bahuta sārī'āṁ cagī tar'hāṁ jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing a many lots well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "story",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are knowing a many lots too",
+        "asīṁ bahuta sārē jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਬਹੁਤ ਸਾਰੇ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing a many lots too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "story",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are knowing the first man here",
+        "asīṁ ithē pahilē ādamī nū jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਇੱਥੇ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing the first man here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are knowing the first man now",
+        "asīṁ huṇa pahilē ādamī nū jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing the first man now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are knowing the first man well",
+        "asīṁ pahilē ādamī nū cagī tar'hāṁ jāṇa rahē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣ ਰਹੇ ਹਾਂ",
+        "We are knowing the first man well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are knowing the first man too",
+        "asīṁ pahilē ādamī nū vī jāṇadē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਵੀ ਜਾਣਦੇ ਹਾਂ",
+        "We are knowing the first man too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are making each time here",
+        "Asīṁ hara vāra ithē baṇā rahē hāṁ",
+        "ਅਸੀਂ ਹਰ ਵਾਰ ਇੱਥੇ ਬਣਾ ਰਹੇ ਹਾਂ",
+        "We are making each time here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are making each time now",
+        "asīṁ huṇa hara vāra baṇā rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਹਰ ਵਾਰ ਬਣਾ ਰਹੇ ਹਾਂ",
+        "We are making each time now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are making each time well",
+        "asīṁ hara vāra cagī tar'hāṁ baṇā rahē hāṁ",
+        "ਅਸੀਂ ਹਰ ਵਾਰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਬਣਾ ਰਹੇ ਹਾਂ",
+        "We are making each time well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "thing",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are making each time too",
+        "asīṁ hara vāra vī baṇā rahē hāṁ",
+        "ਅਸੀਂ ਹਰ ਵਾਰ ਵੀ ਬਣਾ ਰਹੇ ਹਾਂ",
+        "We are making each time too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "thing",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are going to the many countries well",
+        "asīṁ bahuta sārē dēśāṁ nū cagī tar'hāṁ jā rahē hāṁ",
+        "ਅਸੀਂ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to the many countries well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "work",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going to the many countries too",
+        "asīṁ bahuta sārē dēśāṁ vica jā rahē hāṁ",
+        "ਅਸੀਂ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਵਿਚ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to the many countries too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "work",
+            "adj": "good",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are going to each country here",
+        "asīṁ ithē harēka dēśa jā rahē hāṁ",
+        "ਅਸੀਂ ਇੱਥੇ ਹਰੇਕ ਦੇਸ਼ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to each country here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "work",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going to each country now",
+        "asīṁ huṇa harēka dēśa jā rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਹਰੇਕ ਦੇਸ਼ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to each country now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "work",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are going to each country well",
+        "Asīṁ hara dēśa vica cagī tar'hāṁ jā rahē hāṁ",
+        "ਅਸੀਂ ਹਰ ਦੇਸ਼ ਵਿਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to each country well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "work",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going to each country too",
+        "asīṁ hara dēśa jā rahē hāṁ",
+        "ਅਸੀਂ ਹਰ ਦੇਸ਼ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to each country too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "work",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "We are going to the first family here",
+        "asīṁ ithē pahilē parivāra kōla jā rahē hāṁ",
+        "ਅਸੀਂ ਇੱਥੇ ਪਹਿਲੇ ਪਰਿਵਾਰ ਕੋਲ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to the first family here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "business",
+            "det": "a",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going to the first family now",
+        "asīṁ huṇa pahilē parivāra kōla jā rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਪਹਿਲੇ ਪਰਿਵਾਰ ਕੋਲ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to the first family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "business",
+            "det": "a",
+            "adj": "good",
+            "adv": "well"
+        }
+    ],
+    [
+        "We are going to the first family well",
+        "asīṁ pahilē parivāra vica cagī tar'hāṁ jā rahē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੇ ਪਰਿਵਾਰ ਵਿਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to the first family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "business",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going to the first family too",
+        "asīṁ pahilē parivāra vica vī jā rahē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੇ ਪਰਿਵਾਰ ਵਿਚ ਵੀ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to the first family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "business",
+            "adj": "each",
+            "adv": "well"
+        }
+    ],
+    [
+        "We are going to our many families here",
+        "asīṁ ithē āpaṇē bahuta sārē parivārāṁ nū jā rahē hāṁ",
+        "ਅਸੀਂ ਇੱਥੇ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਨੂੰ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to our many families here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "job",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going to our many families now",
+        "asīṁ huṇa āpaṇē bahuta sārē parivārāṁ kōla jā rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਕੋਲ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to our many families now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "job",
+            "det": "the",
+            "adj": "first",
+            "adv": "well"
+        }
+    ],
+    [
+        "We are going to our many families well",
+        "asīṁ āpaṇē bahuta sārē parivārāṁ nū cagī tar'hāṁ jā rahē hāṁ",
+        "ਅਸੀਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to our many families well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "job",
+            "det": "a",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going to our many families too",
+        "asīṁ āpaṇē bahuta sārē parivārāṁ nū vī jā rahē hāṁ",
+        "ਅਸੀਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਨੂੰ ਵੀ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to our many families too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "job",
+            "det": "a",
+            "adj": "many",
+            "adv": "well"
+        }
+    ],
+    [
+        "We are going to each family here",
+        "asīṁ ithē harēka parivāra kōla jā rahē hāṁ",
+        "ਅਸੀਂ ਇੱਥੇ ਹਰੇਕ ਪਰਿਵਾਰ ਕੋਲ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to each family here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "job",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going to each family now",
+        "asīṁ huṇa harēka parivāra kōla jā rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਹਰੇਕ ਪਰਿਵਾਰ ਕੋਲ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to each family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "job",
+            "adj": "each",
+            "adv": "well"
+        }
+    ],
+    [
+        "We are going the first home here",
+        "asīṁ ithē pahilē ghara jā rahē hāṁ",
+        "ਅਸੀਂ ਇਥੇ ਪਹਿਲੇ ਘਰ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going the first home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "right",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going to the first home now",
+        "asīṁ huṇa pahilē ghara jā rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਪਹਿਲੇ ਘਰ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to the first home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "right",
+            "det": "the",
+            "adj": "first",
+            "adv": "well"
+        }
+    ],
+    [
+        "We are going the first home well",
+        "asīṁ pahilāṁ ghara cagī tar'hāṁ jā rahē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲਾਂ ਘਰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going the first home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "right",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going the first home too",
+        "asīṁ vī pahilē ghara jā rahē hāṁ",
+        "ਅਸੀਂ ਵੀ ਪਹਿਲੇ ਘਰ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going the first home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "right",
+            "adj": "many",
+            "adv": "well"
+        }
+    ],
+    [
+        "We are going to many homes here",
+        "Asīṁ ithē bahuta sārē gharāṁ nū jā rahē hāṁ",
+        "ਅਸੀਂ ਇੱਥੇ ਬਹੁਤ ਸਾਰੇ ਘਰਾਂ ਨੂੰ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to many homes here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "right",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going to many homes now",
+        "asīṁ huṇa bahuta sārē gharāṁ nū jā rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਬਹੁਤ ਸਾਰੇ ਘਰਾਂ ਨੂੰ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to many homes now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "right",
+            "adj": "each",
+            "adv": "well"
+        }
+    ],
+    [
+        "We are going many homes well",
+        "asīṁ bahuta sārē gharāṁ nū cagī tar'hāṁ jā rahē hāṁ",
+        "ਅਸੀਂ ਬਹੁਤ ਸਾਰੇ ਘਰਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going many homes well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going to many homes too",
+        "asīṁ bahuta sārē gharāṁ nū vī jā rahē hāṁ",
+        "ਅਸੀਂ ਬਹੁਤ ਸਾਰੇ ਘਰਾਂ ਨੂੰ ਵੀ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to many homes too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good",
+            "adv": "well"
+        }
+    ],
+    [
+        "We are going each home here",
+        "asīṁ ithē hara ghara jā rahē hāṁ",
+        "ਅਸੀਂ ਇੱਥੇ ਹਰ ਘਰ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going each home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going each home now",
+        "asīṁ huṇa hara ghara jā rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਹਰ ਘਰ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going each home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first",
+            "adv": "well"
+        }
+    ],
+    [
+        "We are going to each home well",
+        "asīṁ harēka ghara vica cagī tar'hāṁ jā rahē hāṁ",
+        "ਅਸੀਂ ਹਰੇਕ ਘਰ ਵਿਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to each home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going to each home too",
+        "asīṁ harēka ghara vī jā rahē hāṁ",
+        "ਅਸੀਂ ਹਰੇਕ ਘਰ ਵੀ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to each home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many",
+            "adv": "well"
+        }
+    ],
+    [
+        "We are going to the first job here",
+        "asīṁ ithē pahilī naukarī tē jā rahē hāṁ",
+        "ਅਸੀਂ ਇੱਥੇ ਪਹਿਲੀ ਨੌਕਰੀ ਤੇ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to the first job here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "thing",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going to the first job now",
+        "asīṁ huṇa pahilī naukarī'tē jā rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਪਹਿਲੀ ਨੌਕਰੀ 'ਤੇ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to the first job now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "thing",
+            "adj": "each",
+            "adv": "well"
+        }
+    ],
+    [
+        "We are going to the first job well",
+        "asīṁ pahilī naukarī cagī tar'hāṁ jā rahē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੀ ਨੌਕਰੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to the first job well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "work",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going to the first job too",
+        "asīṁ vī pahilī naukarī tē jā rahē hāṁ",
+        "ਅਸੀਂ ਵੀ ਪਹਿਲੀ ਨੌਕਰੀ ਤੇ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to the first job too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "work",
+            "adj": "good",
+            "adv": "well"
+        }
+    ],
+    [
+        "We are going to a many jobs here",
+        "asīṁ ithē bahuta sārī'āṁ naukarī'āṁ la'ī jā rahē hāṁ",
+        "ਅਸੀਂ ਇੱਥੇ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਲਈ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to a many jobs here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "work",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going to a many jobs now",
+        "asīṁ huṇa bahuta sārī'āṁ naukarī'āṁ vala jā rahē hāṁ",
+        "ਅਸੀਂ ਹੁਣ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਵੱਲ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to a many jobs now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "work",
+            "det": "the",
+            "adj": "first",
+            "adv": "well"
+        }
+    ],
+    [
+        "We are going to a many jobs well",
+        "asīṁ bahuta sārī'āṁ naukarī'āṁ la'ī jā rahē hāṁ",
+        "ਅਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਲਈ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to a many jobs well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "work",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "We are going to a many jobs too",
+        "asīṁ bahuta sārī'āṁ naukarī'āṁ la'ī vī jā rahē hāṁ",
+        "ਅਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਲਈ ਵੀ ਜਾ ਰਹੇ ਹਾਂ",
+        "We are going to a many jobs too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "work",
+            "adj": "each",
+            "adv": "well"
+        }
+    ]
+]

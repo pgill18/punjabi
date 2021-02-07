@@ -1,0 +1,831 @@
+[
+    [
+        "She will have been being her mother",
+        "uha usadī māṁ rahī hōvēgī",
+        "ਉਹ ਉਸਦੀ ਮਾਂ ਰਹੀ ਹੋਵੇਗੀ",
+        "She will have been being her mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "mother",
+            "det": "her"
+        }
+    ],
+    [
+        "She will have been being a student",
+        "uha ika vidi'ārathī rahī hōvēgī",
+        "ਉਹ ਇਕ ਵਿਦਿਆਰਥੀ ਰਹੀ ਹੋਵੇਗੀ",
+        "She will have been being a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "She will have been being a woman",
+        "uha ika beingrata hudī rahēgī",
+        "ਉਹ ਇੱਕ beingਰਤ ਹੁੰਦੀ ਰਹੇਗੀ",
+        "She will have been being a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "She will have been having a business",
+        "usadā kārōbāra rihā hōvēgā",
+        "ਉਸਦਾ ਕਾਰੋਬਾਰ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "She will have been having a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "She will have been having a day",
+        "usadā ika dina rihā hōvēgā",
+        "ਉਸਦਾ ਇੱਕ ਦਿਨ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "She will have been having a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "She will have been having a lot",
+        "uha bahuta kujha kara rahī hōvēgī",
+        "ਉਹ ਬਹੁਤ ਕੁਝ ਕਰ ਰਹੀ ਹੋਵੇਗੀ",
+        "She will have been having a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "lot"
+        }
+    ],
+    [
+        "She will have been having her mother",
+        "uha āpaṇī māṁ nū karadī rahēgī",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਕਰਦੀ ਰਹੇਗੀ",
+        "She will have been having her mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "mother",
+            "det": "her"
+        }
+    ],
+    [
+        "She will have been having a problem",
+        "usa nū kō'ī muśakala ā'ī hōvēgī",
+        "ਉਸ ਨੂੰ ਕੋਈ ਮੁਸ਼ਕਲ ਆਈ ਹੋਵੇਗੀ",
+        "She will have been having a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "She will have been having a question",
+        "usa nū kō'ī savāla rihā hōvēgā",
+        "ਉਸ ਨੂੰ ਕੋਈ ਸਵਾਲ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "She will have been having a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "She will have been having a story",
+        "uha ika kahāṇī rahī hōvēgī",
+        "ਉਹ ਇੱਕ ਕਹਾਣੀ ਰਹੀ ਹੋਵੇਗੀ",
+        "She will have been having a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "She will have been having a week",
+        "usa nū ika hafatā rihā hōvēgā",
+        "ਉਸ ਨੂੰ ਇੱਕ ਹਫ਼ਤਾ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "She will have been having a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "She will have been having a year",
+        "uha ika sāla rihā hōvēgā",
+        "ਉਹ ਇੱਕ ਸਾਲ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "She will have been having a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "She will have been doing a business",
+        "uha ika kārōbāra kara rahī hōvēgī",
+        "ਉਹ ਇੱਕ ਕਾਰੋਬਾਰ ਕਰ ਰਹੀ ਹੋਵੇਗੀ",
+        "She will have been doing a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "She will have been doing a lot",
+        "uha bahuta kujha kara rahī hōvēgī",
+        "ਉਹ ਬਹੁਤ ਕੁਝ ਕਰ ਰਹੀ ਹੋਵੇਗੀ",
+        "She will have been doing a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "lot"
+        }
+    ],
+    [
+        "She will have been telling about life",
+        "uha zidagī bārē dasadī rahī hōvēgī",
+        "ਉਹ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਦੱਸਦੀ ਰਹੀ ਹੋਵੇਗੀ",
+        "She will have been telling about life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "life"
+        }
+    ],
+    [
+        "She will have been telling a man",
+        "uha ika ādamī nū kahidī rahī hōvēgī",
+        "ਉਹ ਇਕ ਆਦਮੀ ਨੂੰ ਕਹਿੰਦੀ ਰਹੀ ਹੋਵੇਗੀ",
+        "She will have been telling a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "She will have been telling her mother",
+        "uha āpaṇī māṁ nū dasadā rihā hōvēgā",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਦੱਸਦਾ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "She will have been telling her mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "her"
+        }
+    ],
+    [
+        "She will have been telling about a problem",
+        "uha kisē samasi'ā bārē dasadī rahī hōvēgī",
+        "ਉਹ ਕਿਸੇ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸਦੀ ਰਹੀ ਹੋਵੇਗੀ",
+        "She will have been telling about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "She will have been telling a story",
+        "uha ika kahāṇī suṇā'undī rahī hōvēgī",
+        "ਉਹ ਇੱਕ ਕਹਾਣੀ ਸੁਣਾਉਂਦੀ ਰਹੀ ਹੋਵੇਗੀ",
+        "She will have been telling a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "She will have been telling about a study",
+        "uha ika adhi'aina bārē dasadī rahī hōvēgī",
+        "ਉਹ ਇਕ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸਦੀ ਰਹੀ ਹੋਵੇਗੀ",
+        "She will have been telling about a study",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a"
+        }
+    ],
+    [
+        "She will have been telling a woman",
+        "uha kisē tellingrata nū kahidā rihā hōvēgā",
+        "ਉਹ ਕਿਸੇ tellingਰਤ ਨੂੰ ਕਹਿੰਦਾ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "She will have been telling a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "She will have been asking a man",
+        "uha ika ādamī nū puchadī rahī hōvēgī",
+        "ਉਹ ਇੱਕ ਆਦਮੀ ਨੂੰ ਪੁੱਛਦੀ ਰਹੀ ਹੋਵੇਗੀ",
+        "She will have been asking a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "She will have been asking her mother",
+        "uha āpaṇī māṁ nū puchadā rahēgā",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਪੁੱਛਦਾ ਰਹੇਗਾ",
+        "She will have been asking her mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "her"
+        }
+    ],
+    [
+        "She will have been asking a question",
+        "uha kō'ī praśana pucha rahī hōvēgī",
+        "ਉਹ ਕੋਈ ਪ੍ਰਸ਼ਨ ਪੁੱਛ ਰਹੀ ਹੋਵੇਗੀ",
+        "She will have been asking a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "She will have been asking a student",
+        "uha ika vidi'ārathī nū puchadī rahī hōvēgī",
+        "ਉਹ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛਦੀ ਰਹੀ ਹੋਵੇਗੀ",
+        "She will have been asking a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "She will have been asking a woman",
+        "uha kisē askingrata nū puchadā rihā hōvēgā",
+        "ਉਹ ਕਿਸੇ askingਰਤ ਨੂੰ ਪੁੱਛਦਾ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "She will have been asking a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "She will have been trying for a day",
+        "uha ika dina la'ī kōśiśa kara rahī hōvēgī",
+        "ਉਹ ਇੱਕ ਦਿਨ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੀ ਹੋਵੇਗੀ",
+        "She will have been trying for a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "She will have been trying for a month",
+        "uha ika mahīnē tōṁ kōśiśa kara rahī hōvēgī",
+        "ਉਹ ਇੱਕ ਮਹੀਨੇ ਤੋਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੀ ਹੋਵੇਗੀ",
+        "She will have been trying for a month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "month",
+            "det": "a"
+        }
+    ],
+    [
+        "She will have been trying for a week",
+        "uha ika hafatē tōṁ kōśiśa kara rahī hōvēgī",
+        "ਉਹ ਇੱਕ ਹਫ਼ਤੇ ਤੋਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੀ ਹੋਵੇਗੀ",
+        "She will have been trying for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "She will have been trying for a year",
+        "uha ika sāla tōṁ kōśiśa kara rahī hōvēgī",
+        "ਉਹ ਇੱਕ ਸਾਲ ਤੋਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੀ ਹੋਵੇਗੀ",
+        "She will have been trying for a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "She will have been leaving a business",
+        "uha ika kārōbāra chaḍa rahī hōvēgī",
+        "ਉਹ ਇੱਕ ਕਾਰੋਬਾਰ ਛੱਡ ਰਹੀ ਹੋਵੇਗੀ",
+        "She will have been leaving a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "She will have been calling her mother",
+        "uha āpaṇī māṁ nū bulā'undī rahēgī",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਬੁਲਾਉਂਦੀ ਰਹੇਗੀ",
+        "She will have been calling her mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "call",
+            "noun": "mother",
+            "det": "her"
+        }
+    ]
+]

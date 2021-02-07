@@ -1,0 +1,1651 @@
+[
+    [
+        "We are our child",
+        "Asīṁ āpaṇē bacē hāṁ",
+        "ਅਸੀਂ ਆਪਣੇ ਬੱਚੇ ਹਾਂ",
+        "We are our child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "be",
+            "noun": "child",
+            "det": "our"
+        }
+    ],
+    [
+        "We are a student",
+        "asīṁ ika vidi'ārathī hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਹਾਂ",
+        "We are a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "be",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "We have a book",
+        "sāḍē kōla ika kitāba hai",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਕਿਤਾਬ ਹੈ",
+        "We have a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "book",
+            "det": "a"
+        }
+    ],
+    [
+        "We have our child",
+        "sāḍē kōla sāḍā bacā hai",
+        "ਸਾਡੇ ਕੋਲ ਸਾਡਾ ਬੱਚਾ ਹੈ",
+        "We have our child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "child",
+            "det": "our"
+        }
+    ],
+    [
+        "We have our family",
+        "sāḍē kōla sāḍā parivāra hai",
+        "ਸਾਡੇ ਕੋਲ ਸਾਡਾ ਪਰਿਵਾਰ ਹੈ",
+        "We have our family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "family",
+            "det": "our"
+        }
+    ],
+    [
+        "We have a hand",
+        "sāḍā hatha hai",
+        "ਸਾਡਾ ਹੱਥ ਹੈ",
+        "We have a hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "hand",
+            "det": "a"
+        }
+    ],
+    [
+        "We have a home",
+        "sāḍē kōla ika ghara hai",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਘਰ ਹੈ",
+        "We have a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "home"
+        }
+    ],
+    [
+        "We have our mother",
+        "sāḍī māṁ hai",
+        "ਸਾਡੀ ਮਾਂ ਹੈ",
+        "We have our mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "mother",
+            "det": "our"
+        }
+    ],
+    [
+        "We have a room",
+        "sāḍē kōla ika kamarā hai",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਕਮਰਾ ਹੈ",
+        "We have a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "We have a thing",
+        "sāḍē kōla ika cīza hai",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਚੀਜ਼ ਹੈ",
+        "We have a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "We have water",
+        "sāḍē kōla pāṇī hai",
+        "ਸਾਡੇ ਕੋਲ ਪਾਣੀ ਹੈ",
+        "We have water",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "water"
+        }
+    ],
+    [
+        "We have a week",
+        "sāḍē kōla ika hafatā hai",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਹਫ਼ਤਾ ਹੈ",
+        "We have a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "We have our work",
+        "Sāḍē kōla sāḍā kama hai",
+        "ਸਾਡੇ ਕੋਲ ਸਾਡਾ ਕੰਮ ਹੈ",
+        "We have our work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "work"
+        }
+    ],
+    [
+        "We do a thing",
+        "asīṁ kujha karadē hāṁ",
+        "ਅਸੀਂ ਕੁਝ ਕਰਦੇ ਹਾਂ",
+        "We do a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "We do work",
+        "asīṁ kama karadē hāṁ",
+        "ਅਸੀਂ ਕੰਮ ਕਰਦੇ ਹਾਂ",
+        "We do work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "work"
+        }
+    ],
+    [
+        "We go to our family",
+        "asīṁ āpaṇē parivāra kōla jāndē hāṁ",
+        "ਅਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਜਾਂਦੇ ਹਾਂ",
+        "We go to our family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "go",
+            "noun": "family",
+            "det": "our"
+        }
+    ],
+    [
+        "We go home",
+        "asīṁ ghara calē jāndē hāṁ",
+        "ਅਸੀਂ ਘਰ ਚਲੇ ਜਾਂਦੇ ਹਾਂ",
+        "We go home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "go",
+            "noun": "home"
+        }
+    ],
+    [
+        "We go to our mother",
+        "asīṁ āpaṇī māṁ kōla jāndē hāṁ",
+        "ਅਸੀਂ ਆਪਣੀ ਮਾਂ ਕੋਲ ਜਾਂਦੇ ਹਾਂ",
+        "We go to our mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "go",
+            "noun": "mother",
+            "det": "our"
+        }
+    ],
+    [
+        "We go to a room",
+        "asīṁ ika kamarē vica jāndē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਕਮਰੇ ਵਿੱਚ ਜਾਂਦੇ ਹਾਂ",
+        "We go to a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "go",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "We go to a student",
+        "asīṁ ika vidi'ārathī kōla jāndē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾਂਦੇ ਹਾਂ",
+        "We go to a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "go",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "We go for a week",
+        "asīṁ ika hafatē la'ī jāndē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਜਾਂਦੇ ਹਾਂ",
+        "We go for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "go",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "We go to work",
+        "asīṁ kama tē jāndē hāṁ",
+        "ਅਸੀਂ ਕੰਮ ਤੇ ਜਾਂਦੇ ਹਾਂ",
+        "We go to work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "go",
+            "noun": "work"
+        }
+    ],
+    [
+        "We know our child",
+        "asīṁ āpaṇē bacē nū jāṇadē hāṁ",
+        "ਅਸੀਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਜਾਣਦੇ ਹਾਂ",
+        "We know our child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "know",
+            "noun": "child",
+            "det": "our"
+        }
+    ],
+    [
+        "We know our family",
+        "asīṁ āpaṇē parivāra nū jāṇadē hāṁ",
+        "ਅਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਜਾਣਦੇ ਹਾਂ",
+        "We know our family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "know",
+            "noun": "family",
+            "det": "our"
+        }
+    ],
+    [
+        "We know a man",
+        "asīṁ ika ādamī nū jāṇadē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਆਦਮੀ ਨੂੰ ਜਾਣਦੇ ਹਾਂ",
+        "We know a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "know",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "We know our mother",
+        "asīṁ āpaṇī māṁ nū jāṇadē hāṁ",
+        "ਅਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਜਾਣਦੇ ਹਾਂ",
+        "We know our mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "know",
+            "noun": "mother",
+            "det": "our"
+        }
+    ],
+    [
+        "We know a student",
+        "asīṁ ika vidi'ārathī nū jāṇadē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦੇ ਹਾਂ",
+        "We know a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "know",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "We know our thing",
+        "asīṁ āpaṇī cīza jāṇadē hāṁ",
+        "ਅਸੀਂ ਆਪਣੀ ਚੀਜ਼ ਜਾਣਦੇ ਹਾਂ",
+        "We know our thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "We know a woman",
+        "asīṁ ika knowrata nū jāṇadē hāṁ",
+        "ਅਸੀਂ ਇੱਕ knowਰਤ ਨੂੰ ਜਾਣਦੇ ਹਾਂ",
+        "We know a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "We know a word",
+        "asīṁ ika śabada jāṇadē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਸ਼ਬਦ ਜਾਣਦੇ ਹਾਂ",
+        "We know a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "know",
+            "noun": "word",
+            "det": "a"
+        }
+    ],
+    [
+        "We know our work",
+        "asīṁ āpaṇā kama jāṇadē hāṁ",
+        "ਅਸੀਂ ਆਪਣਾ ਕੰਮ ਜਾਣਦੇ ਹਾਂ",
+        "We know our work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "know",
+            "noun": "work"
+        }
+    ],
+    [
+        "We see a book",
+        "asīṁ ika kitāba vēkhadē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਕਿਤਾਬ ਵੇਖਦੇ ਹਾਂ",
+        "We see a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "see",
+            "noun": "book",
+            "det": "a"
+        }
+    ],
+    [
+        "We see our child",
+        "asīṁ āpaṇē bacē nū vēkhadē hāṁ",
+        "ਅਸੀਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੇਖਦੇ ਹਾਂ",
+        "We see our child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "see",
+            "noun": "child",
+            "det": "our"
+        }
+    ],
+    [
+        "We see our family",
+        "asīṁ āpaṇē parivāra nū vēkhadē hāṁ",
+        "ਅਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਵੇਖਦੇ ਹਾਂ",
+        "We see our family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "see",
+            "noun": "family",
+            "det": "our"
+        }
+    ],
+    [
+        "We see a hand",
+        "asīṁ ika hatha vēkhadē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਹੱਥ ਵੇਖਦੇ ਹਾਂ",
+        "We see a hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a"
+        }
+    ],
+    [
+        "We see a home",
+        "asīṁ ika ghara vēkhadē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਘਰ ਵੇਖਦੇ ਹਾਂ",
+        "We see a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "see",
+            "noun": "home"
+        }
+    ],
+    [
+        "We see a man",
+        "asīṁ ika ādamī nū vēkhadē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਆਦਮੀ ਨੂੰ ਵੇਖਦੇ ਹਾਂ",
+        "We see a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "see",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "We see our mother",
+        "asīṁ āpaṇī māṁ nū vēkhadē hāṁ",
+        "ਅਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਵੇਖਦੇ ਹਾਂ",
+        "We see our mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "see",
+            "noun": "mother",
+            "det": "our"
+        }
+    ],
+    [
+        "We see a room",
+        "asīṁ ika kamarā vēkhadē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਕਮਰਾ ਵੇਖਦੇ ਹਾਂ",
+        "We see a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "see",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "We see a student",
+        "asīṁ ika vidi'ārathī nū vēkhadē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖਦੇ ਹਾਂ",
+        "We see a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "see",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "We see a thing",
+        "asīṁ ika cīza vēkhadē hāṁ",
+        "ਅਸੀਂ ਇਕ ਚੀਜ਼ ਵੇਖਦੇ ਹਾਂ",
+        "We see a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "We see water",
+        "asīṁ pāṇī dēkhadē hāṁ",
+        "ਅਸੀਂ ਪਾਣੀ ਦੇਖਦੇ ਹਾਂ",
+        "We see water",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "see",
+            "noun": "water"
+        }
+    ],
+    [
+        "We see a woman",
+        "asīṁ ika seerata vēkhadē hāṁ",
+        "ਅਸੀਂ ਇੱਕ seeਰਤ ਵੇਖਦੇ ਹਾਂ",
+        "We see a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "We come to our family",
+        "asīṁ āpaṇē parivāra kōla ā'undē hāṁ",
+        "ਅਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਆਉਂਦੇ ਹਾਂ",
+        "We come to our family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "come",
+            "noun": "family",
+            "det": "our"
+        }
+    ],
+    [
+        "We come home",
+        "asīṁ ghara ā'undē hāṁ",
+        "ਅਸੀਂ ਘਰ ਆਉਂਦੇ ਹਾਂ",
+        "We come home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "come",
+            "noun": "home"
+        }
+    ],
+    [
+        "We come to our mother",
+        "Asīṁ āpaṇī māṁ kōla ā'undē hāṁ",
+        "ਅਸੀਂ ਆਪਣੀ ਮਾਂ ਕੋਲ ਆਉਂਦੇ ਹਾਂ",
+        "We come to our mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "come",
+            "noun": "mother",
+            "det": "our"
+        }
+    ],
+    [
+        "We come to a room",
+        "asīṁ ika kamarē vica ā'undē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਕਮਰੇ ਵਿੱਚ ਆਉਂਦੇ ਹਾਂ",
+        "We come to a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "come",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "We come for a week",
+        "asīṁ ika hafatē la'ī ā'undē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਆਉਂਦੇ ਹਾਂ",
+        "We come for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "come",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "We come to work",
+        "asīṁ kama tē ā'undē hāṁ",
+        "ਅਸੀਂ ਕੰਮ ਤੇ ਆਉਂਦੇ ਹਾਂ",
+        "We come to work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "come",
+            "noun": "work"
+        }
+    ],
+    [
+        "We use a book",
+        "asīṁ ika kitāba dī varatōṁ karadē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਕਿਤਾਬ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹਾਂ",
+        "We use a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "use",
+            "noun": "book",
+            "det": "a"
+        }
+    ],
+    [
+        "We use a hand",
+        "asīṁ ika hatha dī varatōṁ karadē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹਾਂ",
+        "We use a hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a"
+        }
+    ],
+    [
+        "We use a room",
+        "asīṁ ika kamarā varatadē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਕਮਰਾ ਵਰਤਦੇ ਹਾਂ",
+        "We use a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "use",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "We use a thing",
+        "asīṁ ika cīza dī varatōṁ karadē hāṁ",
+        "ਅਸੀਂ ਇਕ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹਾਂ",
+        "We use a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "We use water",
+        "asīṁ pāṇī dī varatōṁ karadē hāṁ",
+        "ਅਸੀਂ ਪਾਣੀ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹਾਂ",
+        "We use water",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "use",
+            "noun": "water"
+        }
+    ],
+    [
+        "We use a week",
+        "asīṁ ika haphatā varatadē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਹਫਤਾ ਵਰਤਦੇ ਹਾਂ",
+        "We use a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "use",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "We use a word",
+        "asīṁ ika śabada varatadē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਸ਼ਬਦ ਵਰਤਦੇ ਹਾਂ",
+        "We use a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "use",
+            "noun": "word",
+            "det": "a"
+        }
+    ],
+    [
+        "We find a book",
+        "sānū ika kitāba milī",
+        "ਸਾਨੂੰ ਇੱਕ ਕਿਤਾਬ ਮਿਲੀ",
+        "We find a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "find",
+            "noun": "book",
+            "det": "a"
+        }
+    ],
+    [
+        "We find a home",
+        "sānū ika ghara miladā hai",
+        "ਸਾਨੂੰ ਇੱਕ ਘਰ ਮਿਲਦਾ ਹੈ",
+        "We find a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "find",
+            "noun": "home"
+        }
+    ],
+    [
+        "We find a room",
+        "sānū ika kamarā mili'ā",
+        "ਸਾਨੂੰ ਇੱਕ ਕਮਰਾ ਮਿਲਿਆ",
+        "We find a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "find",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "We find a thing",
+        "Asīṁ ika cīza labhadē hāṁ",
+        "ਅਸੀਂ ਇਕ ਚੀਜ਼ ਲੱਭਦੇ ਹਾਂ",
+        "We find a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "We find water",
+        "sānū pāṇī miladā hai",
+        "ਸਾਨੂੰ ਪਾਣੀ ਮਿਲਦਾ ਹੈ",
+        "We find water",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "find",
+            "noun": "water"
+        }
+    ],
+    [
+        "We find a woman",
+        "asīṁ ika findrata labhadē hāṁ",
+        "ਅਸੀਂ ਇੱਕ findਰਤ ਲੱਭਦੇ ਹਾਂ",
+        "We find a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "We find a word",
+        "sānū ika śabada miladā hai",
+        "ਸਾਨੂੰ ਇੱਕ ਸ਼ਬਦ ਮਿਲਦਾ ਹੈ",
+        "We find a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "find",
+            "noun": "word",
+            "det": "a"
+        }
+    ],
+    [
+        "We find work",
+        "asīṁ kama labhadē hāṁ",
+        "ਅਸੀਂ ਕੰਮ ਲੱਭਦੇ ਹਾਂ",
+        "We find work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "find",
+            "noun": "work"
+        }
+    ]
+]

@@ -1,0 +1,2872 @@
+[
+    [
+        "I am going to the first student here",
+        "maiṁ ithē pahilē vidi'ārathī kōla jā rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to the first student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "people",
+            "det": "the",
+            "adj": "first",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am going to the first student now",
+        "maiṁ huṇa pahilē vidi'ārathī kōla jā rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to the first student now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "people",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am going to the first student well",
+        "maiṁ pahilē vidi'ārathī nāla cagī tar'hāṁ jā rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਨਾਲ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to the first student well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "people",
+            "adj": "many",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am going to the first student too",
+        "maiṁ vī pahilē vidi'ārathī kōla jā rihā hāṁ",
+        "ਮੈਂ ਵੀ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to the first student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "people",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am going to a many studies here",
+        "maiṁ ithē bahuta sārē adhi'aina karana jā rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਬਹੁਤ ਸਾਰੇ ਅਧਿਐਨ ਕਰਨ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to a many studies here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "business",
+            "det": "a",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going to a many studies now",
+        "maiṁ huṇa bahuta sārē adhi'aina karana jā rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਬਹੁਤ ਸਾਰੇ ਅਧਿਐਨ ਕਰਨ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to a many studies now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "business",
+            "det": "a",
+            "adj": "good",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am going to a many studies well",
+        "maiṁ bahuta sārī'āṁ paṛhā'ī'āṁ vica jā rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਪੜ੍ਹਾਈਆਂ ਵਿਚ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to a many studies well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "business",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going to a many studies too",
+        "maiṁ vī bahuta sārē adhi'aina karana jā rihā hāṁ",
+        "ਮੈਂ ਵੀ ਬਹੁਤ ਸਾਰੇ ਅਧਿਐਨ ਕਰਨ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to a many studies too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "business",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am going for a good week well",
+        "maiṁ ika cagē haphatē la'ī jā rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗੇ ਹਫਤੇ ਲਈ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going for a good week well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going for a good week too",
+        "maiṁ vī ika cagē haphatē la'ī jā rihā hāṁ",
+        "ਮੈਂ ਵੀ ਇੱਕ ਚੰਗੇ ਹਫਤੇ ਲਈ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going for a good week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adj": "good",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am going for the first week here",
+        "maiṁ ithē pahilē haphatē jā rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਪਹਿਲੇ ਹਫਤੇ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going for the first week here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "day",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going for the first week now",
+        "maiṁ huṇa pahilē haphatē jā rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਪਹਿਲੇ ਹਫਤੇ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going for the first week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "day",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am going for the first week well",
+        "maiṁ pahilē haphatē cagī tar'hāṁ jā rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਹਫਤੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going for the first week well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going for the first week too",
+        "maiṁ pahilē hafatē vī jā rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਹਫ਼ਤੇ ਵੀ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going for the first week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am going for a many a week here",
+        "maiṁ ithē bahuta sārē hafatē jā rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਬਹੁਤ ਸਾਰੇ ਹਫ਼ਤੇ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going for a many a week here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "day",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going for a many a week now",
+        "maiṁ huṇa bahuta sārē hafatē jā rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਬਹੁਤ ਸਾਰੇ ਹਫ਼ਤੇ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going for a many a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "day",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am going for each week well",
+        "maiṁ hara haphatē cagī tar'hāṁ jā rihā hāṁ",
+        "ਮੈਂ ਹਰ ਹਫਤੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going for each week well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "family",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going for each week too",
+        "maiṁ hara haphatē vī jā rihā hāṁ",
+        "ਮੈਂ ਹਰ ਹਫਤੇ ਵੀ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going for each week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "family",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am going to good work here",
+        "maiṁ ithē cagā kama karana jā rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਚੰਗਾ ਕੰਮ ਕਰਨ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to good work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "family",
+            "det": "my",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going to good work now",
+        "maiṁ huṇa cagā kama karana jā rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਚੰਗਾ ਕੰਮ ਕਰਨ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to good work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "family",
+            "det": "my",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am going to good work well",
+        "maiṁ vadhī'ā kama karana jā rihā hāṁ",
+        "ਮੈਂ ਵਧੀਆ ਕੰਮ ਕਰਨ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to good work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "family",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going to good work too",
+        "maiṁ vī cagā kama karana jā rihā hāṁ",
+        "ਮੈਂ ਵੀ ਚੰਗਾ ਕੰਮ ਕਰਨ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to good work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "family",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am going to the first work here",
+        "maiṁ ithē pahilē kama tē jā rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਪਹਿਲੇ ਕੰਮ ਤੇ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to the first work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "group",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going to the first work now",
+        "maiṁ huṇa pahilē kama tē jā rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਪਹਿਲੇ ਕੰਮ ਤੇ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to the first work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "group",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am going to the first work well",
+        "maiṁ pahilē kama'tē cagī tar'hāṁ jā rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਕੰਮ 'ਤੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to the first work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "group",
+            "det": "the",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going to the first work too",
+        "maiṁ vī pahilē kama tē jā rihā hāṁ",
+        "ਮੈਂ ਵੀ ਪਹਿਲੇ ਕੰਮ ਤੇ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to the first work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "group",
+            "det": "the",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am going to each work here",
+        "maiṁ ithē hara kama tē jā rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਹਰ ਕੰਮ ਤੇ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to each work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "group",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going to each work now",
+        "maiṁ huṇa hara kama tē jā rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਹਰ ਕੰਮ ਤੇ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to each work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "group",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am knowing the first child here",
+        "maiṁ ithē pahilē bacē nū jāṇa rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਪਹਿਲੇ ਬੱਚੇ ਨੂੰ ਜਾਣ ਰਿਹਾ ਹਾਂ",
+        "I am knowing the first child here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "job",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am knowing the first child now",
+        "maiṁ huṇa pahilē bacē nū jāṇa rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਪਹਿਲੇ ਬੱਚੇ ਨੂੰ ਜਾਣ ਰਿਹਾ ਹਾਂ",
+        "I am knowing the first child now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "job",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am knowing the first child well",
+        "maiṁ pahilē bacē nū cagī tar'hāṁ jāṇadā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਬੱਚੇ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦਾ ਹਾਂ",
+        "I am knowing the first child well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "job",
+            "det": "a",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am knowing the first child too",
+        "maiṁ pahilē bacē nū vī jāṇadā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਬੱਚੇ ਨੂੰ ਵੀ ਜਾਣਦਾ ਹਾਂ",
+        "I am knowing the first child too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "job",
+            "det": "a",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am knowing my many children here",
+        "maiṁ āpaṇē bahuta sārē baci'āṁ nū ithē jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚਿਆਂ ਨੂੰ ਇੱਥੇ ਜਾਣਦਾ ਹਾਂ",
+        "I am knowing my many children here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "job",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am knowing my many children now",
+        "maiṁ huṇa āpaṇē bahuta sārē baci'āṁ nū jāṇa rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚਿਆਂ ਨੂੰ ਜਾਣ ਰਿਹਾ ਹਾਂ",
+        "I am knowing my many children now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "job",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am knowing my many countries here",
+        "maiṁ ithē āpaṇē bahuta sārē dēśāṁ nū jāṇa rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਨੂੰ ਜਾਣ ਰਿਹਾ ਹਾਂ",
+        "I am knowing my many countries here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am knowing my many countries now",
+        "maiṁ huṇa āpaṇē bahuta sārē dēśāṁ nū jāṇa rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਨੂੰ ਜਾਣ ਰਿਹਾ ਹਾਂ",
+        "I am knowing my many countries now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am knowing my many countries well",
+        "maiṁ āpaṇē bahuta sārē dēśāṁ nū cagī tar'hāṁ jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦਾ ਹਾਂ",
+        "I am knowing my many countries well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "det": "my",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am knowing my many countries too",
+        "maiṁ āpaṇē bahuta sārē dēśāṁ nū vī jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਨੂੰ ਵੀ ਜਾਣਦਾ ਹਾਂ",
+        "I am knowing my many countries too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "det": "my",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am knowing my each country here",
+        "maiṁ ithē āpaṇē harēka dēśa nū jāṇa rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਆਪਣੇ ਹਰੇਕ ਦੇਸ਼ ਨੂੰ ਜਾਣ ਰਿਹਾ ਹਾਂ",
+        "I am knowing my each country here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am knowing my each country now",
+        "maiṁ huṇa āpaṇē harēka dēśa nū jāṇa rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਆਪਣੇ ਹਰੇਕ ਦੇਸ਼ ਨੂੰ ਜਾਣ ਰਿਹਾ ਹਾਂ",
+        "I am knowing my each country now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am knowing my many groups well",
+        "maiṁ āpaṇē bahuta sārē samūhāṁ nū cagī tar'hāṁ jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਸਮੂਹਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦਾ ਹਾਂ",
+        "I am knowing my many groups well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "right",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am knowing my many groups too",
+        "maiṁ āpaṇē bahuta sārē samūhāṁ nū vī jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਸਮੂਹਾਂ ਨੂੰ ਵੀ ਜਾਣਦਾ ਹਾਂ",
+        "I am knowing my many groups too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "right",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am knowing my each group here",
+        "maiṁ ithē āpaṇē harēka samūha nū jāṇa rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਆਪਣੇ ਹਰੇਕ ਸਮੂਹ ਨੂੰ ਜਾਣ ਰਿਹਾ ਹਾਂ",
+        "I am knowing my each group here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "right",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am knowing my each group now",
+        "maiṁ huṇa āpaṇē harēka samūha nū jāṇadā hāṁ",
+        "ਮੈਂ ਹੁਣ ਆਪਣੇ ਹਰੇਕ ਸਮੂਹ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I am knowing my each group now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "right",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am knowing my each group well",
+        "maiṁ āpaṇē harēka samūha nū cagī tar'hāṁ jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਹਰੇਕ ਸਮੂਹ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦਾ ਹਾਂ",
+        "I am knowing my each group well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "right",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am knowing my each group too",
+        "maiṁ āpaṇē harēka samūha nū jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਹਰੇਕ ਸਮੂਹ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I am knowing my each group too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "right",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am knowing my first job here",
+        "maiṁ ithē āpaṇī pahilī naukarī jāṇa rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਆਪਣੀ ਪਹਿਲੀ ਨੌਕਰੀ ਜਾਣ ਰਿਹਾ ਹਾਂ",
+        "I am knowing my first job here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "room",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am knowing my first job now",
+        "maiṁ huṇa āpaṇī pahilī naukarī jāṇadā hāṁ",
+        "ਮੈਂ ਹੁਣ ਆਪਣੀ ਪਹਿਲੀ ਨੌਕਰੀ ਜਾਣਦਾ ਹਾਂ",
+        "I am knowing my first job now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "room",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am knowing my first job well",
+        "Maiṁ āpaṇī pahilī naukarī cagī tar'hāṁ jāṇa rihā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਪਹਿਲੀ ਨੌਕਰੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣ ਰਿਹਾ ਹਾਂ",
+        "I am knowing my first job well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am knowing my first job too",
+        "maiṁ āpaṇī pahilī naukarī vī jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਪਹਿਲੀ ਨੌਕਰੀ ਵੀ ਜਾਣਦਾ ਹਾਂ",
+        "I am knowing my first job too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am knowing my many jobs here",
+        "maiṁ ithē āpaṇī'āṁ bahuta sārī'āṁ naukarī'āṁ jāṇa rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਜਾਣ ਰਿਹਾ ਹਾਂ",
+        "I am knowing my many jobs here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "room",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am knowing my many jobs now",
+        "maiṁ huṇa āpaṇī'āṁ bahuta sārī'āṁ naukarī'āṁ jāṇa rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਜਾਣ ਰਿਹਾ ਹਾਂ",
+        "I am knowing my many jobs now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "room",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am knowing a first lot here",
+        "maiṁ ithē bahuta kujha jāṇa rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਬਹੁਤ ਕੁਝ ਜਾਣ ਰਿਹਾ ਹਾਂ",
+        "I am knowing a first lot here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "story",
+            "det": "a",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am knowing a first lot now",
+        "maiṁ huṇa bahuta kujha jāṇa rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਬਹੁਤ ਕੁਝ ਜਾਣ ਰਿਹਾ ਹਾਂ",
+        "I am knowing a first lot now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "story",
+            "det": "a",
+            "adj": "good",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am knowing a first lot well",
+        "maiṁ pahilāṁ bahuta cagī tar'hāṁ jāṇa rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾਂ ਬਹੁਤ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣ ਰਿਹਾ ਹਾਂ",
+        "I am knowing a first lot well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "story",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am knowing a first lot too",
+        "maiṁ vī bahuta kujha jāṇa rihā hāṁ",
+        "ਮੈਂ ਵੀ ਬਹੁਤ ਕੁਝ ਜਾਣ ਰਿਹਾ ਹਾਂ",
+        "I am knowing a first lot too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "story",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am knowing a many lots here",
+        "maiṁ ithē bahuta sārī'āṁ jāṇa rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਬਹੁਤ ਸਾਰੀਆਂ ਜਾਣ ਰਿਹਾ ਹਾਂ",
+        "I am knowing a many lots here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "story",
+            "det": "a",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am knowing a many lots now",
+        "maiṁ huṇa bahuta sārī'āṁ cīzāṁ jāṇa rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਜਾਣ ਰਿਹਾ ਹਾਂ",
+        "I am knowing a many lots now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "story",
+            "det": "a",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am knowing a many lots well",
+        "maiṁ bahuta sārī'āṁ cagī tar'hāṁ jāṇa rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣ ਰਿਹਾ ਹਾਂ",
+        "I am knowing a many lots well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "story",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am knowing a many lots too",
+        "maiṁ bahuta sārī'āṁ jāṇadā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਜਾਣਦਾ ਹਾਂ",
+        "I am knowing a many lots too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "story",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am knowing the first man here",
+        "maiṁ ithē pahilē ādamī nū jāṇa rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਜਾਣ ਰਿਹਾ ਹਾਂ",
+        "I am knowing the first man here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am knowing the first man now",
+        "maiṁ huṇa pahilē ādamī nū jāṇa rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਜਾਣ ਰਿਹਾ ਹਾਂ",
+        "I am knowing the first man now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am knowing the first man well",
+        "maiṁ pahilē ādamī nū cagī tar'hāṁ jāṇadā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦਾ ਹਾਂ",
+        "I am knowing the first man well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am knowing the first man too",
+        "maiṁ pahilē ādamī nū vī jāṇadā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਵੀ ਜਾਣਦਾ ਹਾਂ",
+        "I am knowing the first man too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am making each time here",
+        "Maiṁ hara vāra ithē baṇā rihā hāṁ",
+        "ਮੈਂ ਹਰ ਵਾਰ ਇਥੇ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am making each time here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am making each time now",
+        "maiṁ huṇa hara vāra baṇā rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਹਰ ਵਾਰ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am making each time now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am making each time well",
+        "maiṁ hara vāra cagī tar'hāṁ baṇā rihā hāṁ",
+        "ਮੈਂ ਹਰ ਵਾਰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am making each time well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am making each time too",
+        "maiṁ hara vāra vī baṇā rihā hāṁ",
+        "ਮੈਂ ਹਰ ਵਾਰ ਵੀ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am making each time too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am going to the many countries well",
+        "maiṁ bahuta sārē dēśāṁ nū cagī tar'hāṁ jā rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to the many countries well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "work",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going to the many countries too",
+        "maiṁ bahuta sārē dēśāṁ vica jā rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਵਿਚ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to the many countries too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "work",
+            "adj": "good",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am going to each country here",
+        "maiṁ ithē hara dēśa jā rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਹਰ ਦੇਸ਼ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to each country here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "work",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going to each country now",
+        "maiṁ huṇa hara dēśa jā rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਹਰ ਦੇਸ਼ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to each country now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "work",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am going to each country well",
+        "Maiṁ hara dēśa vica cagī tar'hāṁ jā rihā hāṁ",
+        "ਮੈਂ ਹਰ ਦੇਸ਼ ਵਿਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to each country well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "work",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going to each country too",
+        "maiṁ vī hara dēśa jā rihā hāṁ",
+        "ਮੈਂ ਵੀ ਹਰ ਦੇਸ਼ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to each country too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "work",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am going to the first family here",
+        "maiṁ ithē pahilē parivāra nū jā rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਪਹਿਲੇ ਪਰਿਵਾਰ ਨੂੰ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to the first family here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "business",
+            "det": "a",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going to the first family now",
+        "maiṁ huṇa pahilē parivāra jā rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਪਹਿਲੇ ਪਰਿਵਾਰ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to the first family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "business",
+            "det": "a",
+            "adj": "good",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am going to the first family well",
+        "maiṁ pahilē parivāra vica cagī tar'hāṁ jā rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਪਰਿਵਾਰ ਵਿਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to the first family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "business",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going to the first family too",
+        "maiṁ vī pahilē parivāra jā rihā hāṁ",
+        "ਮੈਂ ਵੀ ਪਹਿਲੇ ਪਰਿਵਾਰ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to the first family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "business",
+            "adj": "each",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am going to my many families here",
+        "maiṁ ithē āpaṇē bahuta sārē parivārāṁ nū jā rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਨੂੰ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to my many families here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "job",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going to my many families now",
+        "maiṁ huṇa āpaṇē bahuta sārē parivārāṁ nū jā rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਨੂੰ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to my many families now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "job",
+            "det": "the",
+            "adj": "first",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am going to my many families well",
+        "maiṁ āpaṇē bahuta sārē parivārāṁ nū cagī tar'hāṁ jā rihā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to my many families well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "job",
+            "det": "a",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going to my many families too",
+        "maiṁ āpaṇē bahuta sārē parivārāṁ nū jā rihā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਨੂੰ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to my many families too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "job",
+            "det": "a",
+            "adj": "many",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am going to each family here",
+        "maiṁ ithē harēka parivāra nū jā rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਹਰੇਕ ਪਰਿਵਾਰ ਨੂੰ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to each family here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "job",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going to each family now",
+        "maiṁ huṇa hara parivāra jā rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਹਰ ਪਰਿਵਾਰ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to each family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "job",
+            "adj": "each",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am going the first home here",
+        "maiṁ ithē pahilāṁ ghara jā rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਪਹਿਲਾਂ ਘਰ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going the first home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "right",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going to the first home now",
+        "maiṁ huṇa pahilē ghara jā rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਪਹਿਲੇ ਘਰ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to the first home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "right",
+            "det": "the",
+            "adj": "first",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am going the first home well",
+        "maiṁ pahilāṁ ghara jā rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾਂ ਘਰ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going the first home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "right",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going the first home too",
+        "maiṁ vī pahilē ghara jā rihā hāṁ",
+        "ਮੈਂ ਵੀ ਪਹਿਲੇ ਘਰ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going the first home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "right",
+            "adj": "many",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am going to many homes here",
+        "Maiṁ ithē bahuta sārē gharāṁ nū jā rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਬਹੁਤ ਸਾਰੇ ਘਰਾਂ ਨੂੰ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to many homes here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "right",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going to many homes now",
+        "maiṁ huṇa bahuta sārē gharāṁ nū jā rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਬਹੁਤ ਸਾਰੇ ਘਰਾਂ ਨੂੰ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to many homes now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "right",
+            "adj": "each",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am going many homes well",
+        "maiṁ bahuta sārē gharāṁ nū cagī tar'hāṁ jā rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਘਰਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going many homes well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going to many homes too",
+        "maiṁ bahuta sārē gharāṁ nū jā rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਘਰਾਂ ਨੂੰ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to many homes too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am going each home here",
+        "maiṁ ithē hara ghara jā rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਹਰ ਘਰ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going each home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going each home now",
+        "maiṁ huṇa hara ghara jā rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਹਰ ਘਰ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going each home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am going to each home well",
+        "maiṁ hara ghara cagī tar'hāṁ jā rihā hāṁ",
+        "ਮੈਂ ਹਰ ਘਰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to each home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going each home too",
+        "maiṁ vī hara ghara jā rihā hāṁ",
+        "ਮੈਂ ਵੀ ਹਰ ਘਰ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going each home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am going to the first job here",
+        "maiṁ ithē pahilī naukarī tē jā rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਪਹਿਲੀ ਨੌਕਰੀ ਤੇ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to the first job here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going to the first job now",
+        "maiṁ huṇa pahilī naukarī jā rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਪਹਿਲੀ ਨੌਕਰੀ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to the first job now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "adj": "each",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am going to the first job well",
+        "maiṁ cagī tar'hāṁ pahilī naukarī jā rihā hāṁ",
+        "ਮੈਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਪਹਿਲੀ ਨੌਕਰੀ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to the first job well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "work",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going to the first job too",
+        "maiṁ vī pahilī naukarī tē jā rihā hāṁ",
+        "ਮੈਂ ਵੀ ਪਹਿਲੀ ਨੌਕਰੀ ਤੇ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to the first job too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "work",
+            "adj": "good",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am going to a many jobs here",
+        "maiṁ ithē bahuta sārī'āṁ naukarī'āṁ la'ī jā rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਲਈ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to a many jobs here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "work",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going to a many jobs now",
+        "maiṁ huṇa bahuta sārī'āṁ naukarī'āṁ la'ī jā rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਲਈ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to a many jobs now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "work",
+            "det": "the",
+            "adj": "first",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am going to a many jobs well",
+        "maiṁ bahuta sārī'āṁ naukarī'āṁ la'ī jā rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਲਈ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to a many jobs well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "work",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am going to a many jobs too",
+        "maiṁ bahuta sārī'āṁ naukarī'āṁ'tē jā rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ 'ਤੇ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am going to a many jobs too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "work",
+            "adj": "each",
+            "adv": "well"
+        }
+    ]
+]

@@ -1,0 +1,6160 @@
+[
+    [
+        "She is her child here",
+        "Uha ithē usadī bacī hai",
+        "ਉਹ ਇਥੇ ਉਸਦੀ ਬੱਚੀ ਹੈ",
+        "She is her child here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "child",
+            "det": "her",
+            "adv": "here"
+        }
+    ],
+    [
+        "She is her child too",
+        "uha vī usa dā bacā hai",
+        "ਉਹ ਵੀ ਉਸ ਦਾ ਬੱਚਾ ਹੈ",
+        "She is her child too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "child",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She is her mother here",
+        "uha ithē usadī māṁ hai",
+        "ਉਹ ਇਥੇ ਉਸਦੀ ਮਾਂ ਹੈ",
+        "She is her mother here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "mother",
+            "det": "her",
+            "adv": "here"
+        }
+    ],
+    [
+        "She is her mother too",
+        "uha vī usadī māṁ hai",
+        "ਉਹ ਵੀ ਉਸਦੀ ਮਾਂ ਹੈ",
+        "She is her mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "mother",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She is a student here",
+        "uha ithē ika vidi'ārathī hai",
+        "ਉਹ ਇਥੇ ਇਕ ਵਿਦਿਆਰਥੀ ਹੈ",
+        "She is a student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She is a student too",
+        "uha vī ika vidi'ārathī hai",
+        "ਉਹ ਵੀ ਇੱਕ ਵਿਦਿਆਰਥੀ ਹੈ",
+        "She is a student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She is a woman here",
+        "uha ithē ika israta hai",
+        "ਉਹ ਇਥੇ ਇਕ isਰਤ ਹੈ",
+        "She is a woman here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "woman",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She is a woman too",
+        "uha ika womanrata vī hai",
+        "ਉਹ ਇਕ womanਰਤ ਵੀ ਹੈ",
+        "She is a woman too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "woman",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She has a book now",
+        "usa kōla huṇa ika kitāba hai",
+        "ਉਸ ਕੋਲ ਹੁਣ ਇਕ ਕਿਤਾਬ ਹੈ",
+        "She has a book now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "book",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She has a book too",
+        "usa dī ika kitāba vī hai",
+        "ਉਸ ਦੀ ਇਕ ਕਿਤਾਬ ਵੀ ਹੈ",
+        "She has a book too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "book",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She has her child now",
+        "huṇa uhadā bacā hai",
+        "ਹੁਣ ਉਹਦਾ ਬੱਚਾ ਹੈ",
+        "She has her child now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "child",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She has her child too",
+        "usa dā āpaṇā bacā vī hai",
+        "ਉਸ ਦਾ ਆਪਣਾ ਬੱਚਾ ਵੀ ਹੈ",
+        "She has her child too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "child",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She has her family now",
+        "huṇa usadā parivāra hai",
+        "ਹੁਣ ਉਸਦਾ ਪਰਿਵਾਰ ਹੈ",
+        "She has her family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "family",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She has her family too",
+        "usa dā āpaṇā parivāra vī hai",
+        "ਉਸ ਦਾ ਆਪਣਾ ਪਰਿਵਾਰ ਵੀ ਹੈ",
+        "She has her family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "family",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She has a hand now",
+        "usadā huṇa ika hatha hai",
+        "ਉਸਦਾ ਹੁਣ ਇੱਕ ਹੱਥ ਹੈ",
+        "She has a hand now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "hand",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She has a hand too",
+        "usadā vī ika hatha hai",
+        "ਉਸਦਾ ਵੀ ਇੱਕ ਹੱਥ ਹੈ",
+        "She has a hand too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "hand",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She has a home now",
+        "usadā huṇa ika ghara hai",
+        "ਉਸਦਾ ਹੁਣ ਇਕ ਘਰ ਹੈ",
+        "She has a home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "home",
+            "adv": "now"
+        }
+    ],
+    [
+        "She has a home too",
+        "usadā ika ghara vī hai",
+        "ਉਸਦਾ ਇੱਕ ਘਰ ਵੀ ਹੈ",
+        "She has a home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "home",
+            "adv": "too"
+        }
+    ],
+    [
+        "She has her mother now",
+        "huṇa usadī māṁ hai",
+        "ਹੁਣ ਉਸਦੀ ਮਾਂ ਹੈ",
+        "She has her mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "mother",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She has her mother too",
+        "usadī māṁ vī hai",
+        "ਉਸਦੀ ਮਾਂ ਵੀ ਹੈ",
+        "She has her mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "mother",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She has a room now",
+        "usa kōla huṇa ika kamarā hai",
+        "ਉਸ ਕੋਲ ਹੁਣ ਇੱਕ ਕਮਰਾ ਹੈ",
+        "She has a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She has a room too",
+        "usa kōla ika kamarā vī hai",
+        "ਉਸ ਕੋਲ ਇੱਕ ਕਮਰਾ ਵੀ ਹੈ",
+        "She has a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She has a thing now",
+        "usa kōla huṇa ika cīza hai",
+        "ਉਸ ਕੋਲ ਹੁਣ ਇਕ ਚੀਜ਼ ਹੈ",
+        "She has a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She has a thing too",
+        "usa kōla vī ika cīza hai",
+        "ਉਸ ਕੋਲ ਵੀ ਇਕ ਚੀਜ਼ ਹੈ",
+        "She has a thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She has water now",
+        "usa kōla huṇa pāṇī hai",
+        "ਉਸ ਕੋਲ ਹੁਣ ਪਾਣੀ ਹੈ",
+        "She has water now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "water",
+            "adv": "now"
+        }
+    ],
+    [
+        "She has water too",
+        "usa kōla pāṇī vī hai",
+        "ਉਸ ਕੋਲ ਪਾਣੀ ਵੀ ਹੈ",
+        "She has water too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "water",
+            "adv": "too"
+        }
+    ],
+    [
+        "She has a week now",
+        "usa kōla huṇa ika hafatā hai",
+        "ਉਸ ਕੋਲ ਹੁਣ ਇੱਕ ਹਫ਼ਤਾ ਹੈ",
+        "She has a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She has a week too",
+        "usa kōla ika hafatā vī hai",
+        "ਉਸ ਕੋਲ ਇੱਕ ਹਫ਼ਤਾ ਵੀ ਹੈ",
+        "She has a week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She has her work now",
+        "huṇa usadā kama hai",
+        "ਹੁਣ ਉਸਦਾ ਕੰਮ ਹੈ",
+        "She has her work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "She has her work too",
+        "usadā kama vī hai",
+        "ਉਸਦਾ ਕੰਮ ਵੀ ਹੈ",
+        "She has her work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "She does a thing now",
+        "uha huṇa ika cīza karadī hai",
+        "ਉਹ ਹੁਣ ਇਕ ਚੀਜ਼ ਕਰਦੀ ਹੈ",
+        "She does a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She does a thing well",
+        "uha ika cīza cagī tar'hāṁ karadī hai",
+        "ਉਹ ਇੱਕ ਚੀਜ਼ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਰਦੀ ਹੈ",
+        "She does a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She does work now",
+        "uha huṇa kama karadī hai",
+        "ਉਹ ਹੁਣ ਕੰਮ ਕਰਦੀ ਹੈ",
+        "She does work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "She does work well",
+        "uha cagī tar'hāṁ kama karadī hai",
+        "ਉਹ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕੰਮ ਕਰਦੀ ਹੈ",
+        "She does work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "She goes to her family here",
+        "uha ithē āpaṇē parivāra kōla jāndī hai",
+        "ਉਹ ਇਥੇ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਜਾਂਦੀ ਹੈ",
+        "She goes to her family here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "family",
+            "det": "her",
+            "adv": "here"
+        }
+    ],
+    [
+        "She goes to her family now",
+        "uha huṇa āpaṇē parivāra kōla jāndī hai",
+        "ਉਹ ਹੁਣ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਜਾਂਦੀ ਹੈ",
+        "She goes to her family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "family",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She goes to her family well",
+        "uha cagī tar'hāṁ āpaṇē parivāra kōla jāndī hai",
+        "ਉਹ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਜਾਂਦੀ ਹੈ",
+        "She goes to her family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "family",
+            "det": "her",
+            "adv": "well"
+        }
+    ],
+    [
+        "She goes to her family too",
+        "uha āpaṇē parivāra kōla vī jāndī hai",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਵੀ ਜਾਂਦੀ ਹੈ",
+        "She goes to her family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "family",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She goes home here",
+        "uha ithē ghara jāndī hai",
+        "ਉਹ ਇਥੇ ਘਰ ਜਾਂਦੀ ਹੈ",
+        "She goes home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "home",
+            "adv": "here"
+        }
+    ],
+    [
+        "She goes home now",
+        "uha huṇa ghara jāndī hai",
+        "ਉਹ ਹੁਣ ਘਰ ਜਾਂਦੀ ਹੈ",
+        "She goes home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "home",
+            "adv": "now"
+        }
+    ],
+    [
+        "She goes home well",
+        "uha cagī tar'hāṁ ghara jāndī hai",
+        "ਉਹ ਚੰਗੀ ਤਰ੍ਹਾਂ ਘਰ ਜਾਂਦੀ ਹੈ",
+        "She goes home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "home",
+            "adv": "well"
+        }
+    ],
+    [
+        "She goes home too",
+        "uha vī ghara jāndī hai",
+        "ਉਹ ਵੀ ਘਰ ਜਾਂਦੀ ਹੈ",
+        "She goes home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "home",
+            "adv": "too"
+        }
+    ],
+    [
+        "She goes to her mother here",
+        "uha ithē āpaṇī māṁ kōla jāndī hai",
+        "ਉਹ ਇਥੇ ਆਪਣੀ ਮਾਂ ਕੋਲ ਜਾਂਦੀ ਹੈ",
+        "She goes to her mother here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "mother",
+            "det": "her",
+            "adv": "here"
+        }
+    ],
+    [
+        "She goes to her mother now",
+        "uha huṇa āpaṇī māṁ kōla jāndī hai",
+        "ਉਹ ਹੁਣ ਆਪਣੀ ਮਾਂ ਕੋਲ ਜਾਂਦੀ ਹੈ",
+        "She goes to her mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "mother",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She goes to her mother well",
+        "uha cagī tar'hāṁ āpaṇī māṁ kōla jāndī hai",
+        "ਉਹ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਪਣੀ ਮਾਂ ਕੋਲ ਜਾਂਦੀ ਹੈ",
+        "She goes to her mother well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "mother",
+            "det": "her",
+            "adv": "well"
+        }
+    ],
+    [
+        "She goes to her mother too",
+        "uha āpaṇī māṁ kōla vī jāndā hai",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਕੋਲ ਵੀ ਜਾਂਦਾ ਹੈ",
+        "She goes to her mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "mother",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She goes to a room here",
+        "uha ithē ika kamarē vica ga'ī",
+        "ਉਹ ਇਥੇ ਇਕ ਕਮਰੇ ਵਿਚ ਗਈ",
+        "She goes to a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She goes to a room now",
+        "uha huṇa ika kamarē vica jāndī hai",
+        "ਉਹ ਹੁਣ ਇੱਕ ਕਮਰੇ ਵਿੱਚ ਜਾਂਦੀ ਹੈ",
+        "She goes to a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She goes to a room well",
+        "uha ika kamarē vica cagī tar'hāṁ jāndī hai",
+        "ਉਹ ਇਕ ਕਮਰੇ ਵਿਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਂਦੀ ਹੈ",
+        "She goes to a room well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She goes to a room too",
+        "uha ika kamarē vica vī jāndī hai",
+        "ਉਹ ਇਕ ਕਮਰੇ ਵਿਚ ਵੀ ਜਾਂਦੀ ਹੈ",
+        "She goes to a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She goes to a student here",
+        "uha ithē ika vidi'ārathī kōla jāndī hai",
+        "ਉਹ ਇਥੇ ਇਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾਂਦੀ ਹੈ",
+        "She goes to a student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She goes to a student now",
+        "uha huṇa ika vidi'ārathī kōla jāndī hai",
+        "ਉਹ ਹੁਣ ਇਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾਂਦੀ ਹੈ",
+        "She goes to a student now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She goes to a student well",
+        "uha cagī tar'hāṁ ika vidi'ārathī kōla jāndī hai",
+        "ਉਹ ਚੰਗੀ ਤਰ੍ਹਾਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾਂਦੀ ਹੈ",
+        "She goes to a student well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She goes to a student too",
+        "uha vī ika vidi'ārathī kōla jāndī hai",
+        "ਉਹ ਵੀ ਇਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾਂਦੀ ਹੈ",
+        "She goes to a student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She goes for a week here",
+        "uha ithē ika hafatē la'ī jāndī hai",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਜਾਂਦੀ ਹੈ",
+        "She goes for a week here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She goes for a week now",
+        "uha huṇa ika hafatē la'ī jāndī hai",
+        "ਉਹ ਹੁਣ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਜਾਂਦੀ ਹੈ",
+        "She goes for a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She goes for a week well",
+        "uha ika hafatē cagī tar'hāṁ caladī hai",
+        "ਉਹ ਇੱਕ ਹਫ਼ਤੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਚਲਦੀ ਹੈ",
+        "She goes for a week well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She goes for a week too",
+        "uha ika hafatē vī jāndī hai",
+        "ਉਹ ਇੱਕ ਹਫ਼ਤੇ ਵੀ ਜਾਂਦੀ ਹੈ",
+        "She goes for a week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She goes to work here",
+        "uha ithē kama tē jāndī hai",
+        "ਉਹ ਇਥੇ ਕੰਮ ਤੇ ਜਾਂਦੀ ਹੈ",
+        "She goes to work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "She goes to work now",
+        "uha huṇa kama tē jāndī hai",
+        "ਉਹ ਹੁਣ ਕੰਮ ਤੇ ਜਾਂਦੀ ਹੈ",
+        "She goes to work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "She goes to work well",
+        "uha cagī tar'hāṁ kama karana jāndī hai",
+        "ਉਹ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕੰਮ ਕਰਨ ਜਾਂਦੀ ਹੈ",
+        "She goes to work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "She goes to work too",
+        "uha kama tē vī jāndī hai",
+        "ਉਹ ਕੰਮ ਤੇ ਵੀ ਜਾਂਦੀ ਹੈ",
+        "She goes to work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "She knows her child here",
+        "uha āpaṇē bacē nū ithē jāṇadī hai",
+        "ਉਹ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਇੱਥੇ ਜਾਣਦੀ ਹੈ",
+        "She knows her child here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "child",
+            "det": "her",
+            "adv": "here"
+        }
+    ],
+    [
+        "She knows her child now",
+        "uha huṇa āpaṇē bacē nū jāṇadī hai",
+        "ਉਹ ਹੁਣ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਜਾਣਦੀ ਹੈ",
+        "She knows her child now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "child",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She knows her child well",
+        "uha āpaṇē bacē nū cagī tar'hāṁ jāṇadī hai",
+        "ਉਹ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੀ ਹੈ",
+        "She knows her child well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "child",
+            "det": "her",
+            "adv": "well"
+        }
+    ],
+    [
+        "She knows her child too",
+        "uha āpaṇē bacē nū vī jāṇadī hai",
+        "ਉਹ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੀ ਜਾਣਦੀ ਹੈ",
+        "She knows her child too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "child",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She knows her family here",
+        "uha ithē āpaṇē parivāra nū jāṇadī hai",
+        "ਉਹ ਇੱਥੇ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਜਾਣਦੀ ਹੈ",
+        "She knows her family here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "family",
+            "det": "her",
+            "adv": "here"
+        }
+    ],
+    [
+        "She knows her family now",
+        "Uha huṇa āpaṇē parivāra nū jāṇadī hai",
+        "ਉਹ ਹੁਣ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਜਾਣਦੀ ਹੈ",
+        "She knows her family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "family",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She knows her family well",
+        "uha āpaṇē parivāra nū cagī tar'hāṁ jāṇadī hai",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੀ ਹੈ",
+        "She knows her family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "family",
+            "det": "her",
+            "adv": "well"
+        }
+    ],
+    [
+        "She knows her family too",
+        "uha āpaṇē parivāra nū vī jāṇadī hai",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਵੀ ਜਾਣਦੀ ਹੈ",
+        "She knows her family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "family",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She knows a man here",
+        "uha ithē ika ādamī nū jāṇadī hai",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਆਦਮੀ ਨੂੰ ਜਾਣਦੀ ਹੈ",
+        "She knows a man here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She knows a man now",
+        "uha huṇa ika ādamī nū jāṇadī hai",
+        "ਉਹ ਹੁਣ ਇਕ ਆਦਮੀ ਨੂੰ ਜਾਣਦੀ ਹੈ",
+        "She knows a man now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She knows a man well",
+        "uha ādamī nū cagī tar'hāṁ jāṇadī hai",
+        "ਉਹ ਆਦਮੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੀ ਹੈ",
+        "She knows a man well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She knows a man too",
+        "uha ika ādamī nū vī jāṇadī hai",
+        "ਉਹ ਇਕ ਆਦਮੀ ਨੂੰ ਵੀ ਜਾਣਦੀ ਹੈ",
+        "She knows a man too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She knows her mother here",
+        "uha āpaṇī māṁ nū ithē jāṇadī hai",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਇੱਥੇ ਜਾਣਦੀ ਹੈ",
+        "She knows her mother here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "mother",
+            "det": "her",
+            "adv": "here"
+        }
+    ],
+    [
+        "She knows her mother now",
+        "uha huṇa āpaṇī māṁ nū jāṇadī hai",
+        "ਉਹ ਹੁਣ ਆਪਣੀ ਮਾਂ ਨੂੰ ਜਾਣਦੀ ਹੈ",
+        "She knows her mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "mother",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She knows her mother well",
+        "uha āpaṇī māṁ nū cagī tar'hāṁ jāṇadī hai",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੀ ਹੈ",
+        "She knows her mother well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "mother",
+            "det": "her",
+            "adv": "well"
+        }
+    ],
+    [
+        "She knows her mother too",
+        "uha āpaṇī māṁ nū vī jāṇadī hai",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਵੀ ਜਾਣਦੀ ਹੈ",
+        "She knows her mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "mother",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She knows a student here",
+        "uha ithē ika vidi'ārathī nū jāṇadī hai",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦੀ ਹੈ",
+        "She knows a student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She knows a student now",
+        "uha huṇa ika vidi'ārathī nū jāṇadī hai",
+        "ਉਹ ਹੁਣ ਇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦੀ ਹੈ",
+        "She knows a student now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She knows a student well",
+        "uha ika vidi'ārathī nū cagī tar'hāṁ jāṇadī hai",
+        "ਉਹ ਇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੀ ਹੈ",
+        "She knows a student well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She knows a student too",
+        "uha ika vidi'ārathī nū vī jāṇadī hai",
+        "ਉਹ ਇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੀ ਜਾਣਦੀ ਹੈ",
+        "She knows a student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She knows her thing here",
+        "uha usadī gala ithē jāṇadī hai",
+        "ਉਹ ਉਸਦੀ ਗੱਲ ਇੱਥੇ ਜਾਣਦੀ ਹੈ",
+        "She knows her thing here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She knows her thing now",
+        "uha huṇa usadī gala jāṇadī hai",
+        "ਉਹ ਹੁਣ ਉਸਦੀ ਗੱਲ ਜਾਣਦੀ ਹੈ",
+        "She knows her thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She knows her think well",
+        "uha jāṇadī hai ki uha cagī sōcadī hai",
+        "ਉਹ ਜਾਣਦੀ ਹੈ ਕਿ ਉਹ ਚੰਗੀ ਸੋਚਦੀ ਹੈ",
+        "She knows her think well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She knows her thing too",
+        "uha āpaṇī cīza nū vī jāṇadī hai",
+        "ਉਹ ਆਪਣੀ ਚੀਜ਼ ਨੂੰ ਵੀ ਜਾਣਦੀ ਹੈ",
+        "She knows her thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She knows a woman here",
+        "uha ithē ika knowsrata nū jāṇadī hai",
+        "ਉਹ ਇੱਥੇ ਇੱਕ knowsਰਤ ਨੂੰ ਜਾਣਦੀ ਹੈ",
+        "She knows a woman here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She knows a woman now",
+        "uha huṇa ika knowsrata nū jāṇadī hai",
+        "ਉਹ ਹੁਣ ਇਕ knowsਰਤ ਨੂੰ ਜਾਣਦੀ ਹੈ",
+        "She knows a woman now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She knows a woman well",
+        "uha ika womanrata nū cagī tar'hāṁ jāṇadī hai",
+        "ਉਹ ਇਕ womanਰਤ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੀ ਹੈ",
+        "She knows a woman well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She knows a woman too",
+        "uha ika womanrata nū vī jāṇadī hai",
+        "ਉਹ ਇਕ womanਰਤ ਨੂੰ ਵੀ ਜਾਣਦੀ ਹੈ",
+        "She knows a woman too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She knows a word here",
+        "uha ithē ika śabada jāṇadī hai",
+        "ਉਹ ਇਥੇ ਇਕ ਸ਼ਬਦ ਜਾਣਦੀ ਹੈ",
+        "She knows a word here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She knows a word now",
+        "uha huṇa ika śabada jāṇadī hai",
+        "ਉਹ ਹੁਣ ਇਕ ਸ਼ਬਦ ਜਾਣਦੀ ਹੈ",
+        "She knows a word now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She knows a word well",
+        "uha ika śabada cagī tar'hāṁ jāṇadī hai",
+        "ਉਹ ਇਕ ਸ਼ਬਦ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੀ ਹੈ",
+        "She knows a word well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She knows a word too",
+        "uha ika śabada vī jāṇadī hai",
+        "ਉਹ ਇਕ ਸ਼ਬਦ ਵੀ ਜਾਣਦੀ ਹੈ",
+        "She knows a word too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She knows her work here",
+        "uha ithē āpaṇā kama jāṇadī hai",
+        "ਉਹ ਇਥੇ ਆਪਣਾ ਕੰਮ ਜਾਣਦੀ ਹੈ",
+        "She knows her work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "She knows her work now",
+        "uha huṇa āpaṇā kama jāṇadī hai",
+        "ਉਹ ਹੁਣ ਆਪਣਾ ਕੰਮ ਜਾਣਦੀ ਹੈ",
+        "She knows her work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "She knows her work well",
+        "uha āpaṇē kama nū cagī tar'hāṁ jāṇadī hai",
+        "ਉਹ ਆਪਣੇ ਕੰਮ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੀ ਹੈ",
+        "She knows her work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "She knows her work too",
+        "uha āpaṇā kama vī jāṇadī hai",
+        "ਉਹ ਆਪਣਾ ਕੰਮ ਵੀ ਜਾਣਦੀ ਹੈ",
+        "She knows her work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "She sees a book here",
+        "uha ithē ika kitāba vēkhadī hai",
+        "ਉਹ ਇਥੇ ਇਕ ਕਿਤਾਬ ਵੇਖਦੀ ਹੈ",
+        "She sees a book here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She sees a book now",
+        "Uha huṇa ika kitāba dēkhadī hai",
+        "ਉਹ ਹੁਣ ਇਕ ਕਿਤਾਬ ਦੇਖਦੀ ਹੈ",
+        "She sees a book now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She sees a book well",
+        "uha ika kitāba cagī tar'hāṁ dēkhadī hai",
+        "ਉਹ ਇਕ ਕਿਤਾਬ ਚੰਗੀ ਤਰ੍ਹਾਂ ਦੇਖਦੀ ਹੈ",
+        "She sees a book well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She sees a book too",
+        "uha ika kitāba vī vēkhadī hai",
+        "ਉਹ ਇੱਕ ਕਿਤਾਬ ਵੀ ਵੇਖਦੀ ਹੈ",
+        "She sees a book too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She sees her child here",
+        "uha āpaṇē bacē nū ithē vēkhadī hai",
+        "ਉਹ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਇੱਥੇ ਵੇਖਦੀ ਹੈ",
+        "She sees her child here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "child",
+            "det": "her",
+            "adv": "here"
+        }
+    ],
+    [
+        "She sees her child now",
+        "uha huṇa āpaṇē bacē nū vēkhadī hai",
+        "ਉਹ ਹੁਣ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੇਖਦੀ ਹੈ",
+        "She sees her child now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "child",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She sees her child well",
+        "uha āpaṇē bacē nū cagī tar'hāṁ vēkhadī hai",
+        "ਉਹ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਦੀ ਹੈ",
+        "She sees her child well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "child",
+            "det": "her",
+            "adv": "well"
+        }
+    ],
+    [
+        "She sees her child too",
+        "uha āpaṇē bacē nū vī vēkhadī hai",
+        "ਉਹ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੀ ਵੇਖਦੀ ਹੈ",
+        "She sees her child too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "child",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She sees her family here",
+        "uha āpaṇē parivāra nū ithē vēkhadī hai",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਇੱਥੇ ਵੇਖਦੀ ਹੈ",
+        "She sees her family here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "family",
+            "det": "her",
+            "adv": "here"
+        }
+    ],
+    [
+        "She sees her family now",
+        "uha huṇa āpaṇē parivāra nū vēkhadī hai",
+        "ਉਹ ਹੁਣ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਵੇਖਦੀ ਹੈ",
+        "She sees her family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "family",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She sees her family well",
+        "uha āpaṇē parivāra nū cagī tar'hāṁ vēkhadī hai",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਦੀ ਹੈ",
+        "She sees her family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "family",
+            "det": "her",
+            "adv": "well"
+        }
+    ],
+    [
+        "She sees her family too",
+        "uha āpaṇē parivāra nū vī vēkhadī hai",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਵੀ ਵੇਖਦੀ ਹੈ",
+        "She sees her family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "family",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She sees a hand here",
+        "uha ithē ika hatha vēkhadī hai",
+        "ਉਹ ਇਥੇ ਇੱਕ ਹੱਥ ਵੇਖਦੀ ਹੈ",
+        "She sees a hand here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She sees a hand now",
+        "uha huṇa ika hatha vēkhadī hai",
+        "ਉਹ ਹੁਣ ਇੱਕ ਹੱਥ ਵੇਖਦੀ ਹੈ",
+        "She sees a hand now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She sees a hand well",
+        "uha ika hatha cagī tar'hāṁ vēkhadī hai",
+        "ਉਹ ਇੱਕ ਹੱਥ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਦੀ ਹੈ",
+        "She sees a hand well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She sees a hand too",
+        "uha ika hatha vī vēkhadī hai",
+        "ਉਹ ਇੱਕ ਹੱਥ ਵੀ ਵੇਖਦੀ ਹੈ",
+        "She sees a hand too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She sees a home here",
+        "uha ithē ika ghara vēkhadī hai",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਘਰ ਵੇਖਦੀ ਹੈ",
+        "She sees a home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "home",
+            "adv": "here"
+        }
+    ],
+    [
+        "She sees a home now",
+        "uha huṇa ika ghara vēkhadī hai",
+        "ਉਹ ਹੁਣ ਇੱਕ ਘਰ ਵੇਖਦੀ ਹੈ",
+        "She sees a home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "home",
+            "adv": "now"
+        }
+    ],
+    [
+        "She sees a home well",
+        "uha ika ghara cagī tar'hāṁ vēkhadī hai",
+        "ਉਹ ਇੱਕ ਘਰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਦੀ ਹੈ",
+        "She sees a home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "home",
+            "adv": "well"
+        }
+    ],
+    [
+        "She sees a home too",
+        "uha ika ghara vī vēkhadī hai",
+        "ਉਹ ਇੱਕ ਘਰ ਵੀ ਵੇਖਦੀ ਹੈ",
+        "She sees a home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "home",
+            "adv": "too"
+        }
+    ],
+    [
+        "She sees a man here",
+        "uha ithē ika ādamī nū vēkhadī hai",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਆਦਮੀ ਨੂੰ ਵੇਖਦੀ ਹੈ",
+        "She sees a man here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She sees a man now",
+        "uha huṇa ika ādamī nū vēkhadī hai",
+        "ਉਹ ਹੁਣ ਇੱਕ ਆਦਮੀ ਨੂੰ ਵੇਖਦੀ ਹੈ",
+        "She sees a man now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She sees a man well",
+        "uha ika ādamī nū cagī tar'hāṁ vēkhadī hai",
+        "ਉਹ ਇੱਕ ਆਦਮੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਦੀ ਹੈ",
+        "She sees a man well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She sees a man too",
+        "Uha ika ādamī nū vī vēkhadī hai",
+        "ਉਹ ਇੱਕ ਆਦਮੀ ਨੂੰ ਵੀ ਵੇਖਦੀ ਹੈ",
+        "She sees a man too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She sees her mother here",
+        "uha āpaṇī māṁ nū ithē vēkhadī hai",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਇੱਥੇ ਵੇਖਦੀ ਹੈ",
+        "She sees her mother here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "mother",
+            "det": "her",
+            "adv": "here"
+        }
+    ],
+    [
+        "She sees her mother now",
+        "uha huṇa āpaṇī māṁ nū vēkhadī hai",
+        "ਉਹ ਹੁਣ ਆਪਣੀ ਮਾਂ ਨੂੰ ਵੇਖਦੀ ਹੈ",
+        "She sees her mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "mother",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She sees her mother well",
+        "uha āpaṇī māṁ nū cagī tar'hāṁ vēkhadī hai",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਦੀ ਹੈ",
+        "She sees her mother well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "mother",
+            "det": "her",
+            "adv": "well"
+        }
+    ],
+    [
+        "She sees her mother too",
+        "uha āpaṇī māṁ nū vī vēkhadī hai",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਵੀ ਵੇਖਦੀ ਹੈ",
+        "She sees her mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "mother",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She sees a room here",
+        "uha ithē ika kamarā vēkhadī hai",
+        "ਉਹ ਇਥੇ ਇੱਕ ਕਮਰਾ ਵੇਖਦੀ ਹੈ",
+        "She sees a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She sees a room now",
+        "uha huṇa ika kamarā vēkhadī hai",
+        "ਉਹ ਹੁਣ ਇੱਕ ਕਮਰਾ ਵੇਖਦੀ ਹੈ",
+        "She sees a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She sees a room well",
+        "uha ika kamarā cagī tar'hāṁ vēkhadī hai",
+        "ਉਹ ਇੱਕ ਕਮਰਾ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਦੀ ਹੈ",
+        "She sees a room well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She sees a room too",
+        "uha ika kamarā vī vēkhadī hai",
+        "ਉਹ ਇੱਕ ਕਮਰਾ ਵੀ ਵੇਖਦੀ ਹੈ",
+        "She sees a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She sees a student here",
+        "uha ithē ika vidi'ārathī nū vēkhadī hai",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖਦੀ ਹੈ",
+        "She sees a student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She sees a student now",
+        "Uha huṇa ika vidi'ārathī nū vēkhadī hai",
+        "ਉਹ ਹੁਣ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖਦੀ ਹੈ",
+        "She sees a student now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She sees a student well",
+        "uha ika vidi'ārathī nū cagī tar'hāṁ dēkhadī hai",
+        "ਉਹ ਇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਦੇਖਦੀ ਹੈ",
+        "She sees a student well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She sees a student too",
+        "uha ika vidi'ārathī nū vī vēkhadī hai",
+        "ਉਹ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੀ ਵੇਖਦੀ ਹੈ",
+        "She sees a student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She sees a thing here",
+        "uha ithē ika cīja vēkhadī hai",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਚੀਜ ਵੇਖਦੀ ਹੈ",
+        "She sees a thing here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She sees a thing now",
+        "uha huṇa ika cīza dēkhadī hai",
+        "ਉਹ ਹੁਣ ਇਕ ਚੀਜ਼ ਦੇਖਦੀ ਹੈ",
+        "She sees a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She sees a thing well",
+        "uha ika cīza nū cagī tar'hāṁ dēkhadī hai",
+        "ਉਹ ਇਕ ਚੀਜ਼ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਦੇਖਦੀ ਹੈ",
+        "She sees a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She sees a thing too",
+        "uha ika cīja vī vēkhadī hai",
+        "ਉਹ ਇੱਕ ਚੀਜ ਵੀ ਵੇਖਦੀ ਹੈ",
+        "She sees a thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She sees water here",
+        "uha ithē pāṇī dēkhadī hai",
+        "ਉਹ ਇੱਥੇ ਪਾਣੀ ਦੇਖਦੀ ਹੈ",
+        "She sees water here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "water",
+            "adv": "here"
+        }
+    ],
+    [
+        "She sees water now",
+        "uha huṇa pāṇī dēkhadī hai",
+        "ਉਹ ਹੁਣ ਪਾਣੀ ਦੇਖਦੀ ਹੈ",
+        "She sees water now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "water",
+            "adv": "now"
+        }
+    ],
+    [
+        "She sees a water well",
+        "uha pāṇī dī khūha dēkhadī hai",
+        "ਉਹ ਪਾਣੀ ਦੀ ਖੂਹ ਦੇਖਦੀ ਹੈ",
+        "She sees a water well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "water",
+            "adv": "well"
+        }
+    ],
+    [
+        "She sees water too",
+        "uha pāṇī vī dēkhadī hai",
+        "ਉਹ ਪਾਣੀ ਵੀ ਦੇਖਦੀ ਹੈ",
+        "She sees water too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "water",
+            "adv": "too"
+        }
+    ],
+    [
+        "She sees a woman here",
+        "uha ithē ika seesrata nū vēkhadī hai",
+        "ਉਹ ਇੱਥੇ ਇੱਕ seesਰਤ ਨੂੰ ਵੇਖਦੀ ਹੈ",
+        "She sees a woman here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She sees a woman now",
+        "uha huṇa ika seesrata nū vēkhadī hai",
+        "ਉਹ ਹੁਣ ਇਕ seesਰਤ ਨੂੰ ਵੇਖਦੀ ਹੈ",
+        "She sees a woman now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She sees a woman well",
+        "uha ika womanrata nū cagī tar'hāṁ dēkhadī hai",
+        "ਉਹ ਇਕ womanਰਤ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਦੇਖਦੀ ਹੈ",
+        "She sees a woman well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She sees a woman too",
+        "uha ika womanrata nū vī vēkhadī hai",
+        "ਉਹ ਇਕ womanਰਤ ਨੂੰ ਵੀ ਵੇਖਦੀ ਹੈ",
+        "She sees a woman too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She comes to her family here",
+        "uha ithē āpaṇē parivāra kōla ā'undī hai",
+        "ਉਹ ਇਥੇ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਆਉਂਦੀ ਹੈ",
+        "She comes to her family here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "family",
+            "det": "her",
+            "adv": "here"
+        }
+    ],
+    [
+        "She comes to her family now",
+        "uha huṇa āpaṇē parivāra kōla ā'undī hai",
+        "ਉਹ ਹੁਣ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਆਉਂਦੀ ਹੈ",
+        "She comes to her family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "family",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She comes to her family well",
+        "uha āpaṇē parivāra kōla cagī tar'hāṁ ā'undī hai",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਉਂਦੀ ਹੈ",
+        "She comes to her family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "family",
+            "det": "her",
+            "adv": "well"
+        }
+    ],
+    [
+        "She comes to her family too",
+        "uha āpaṇē parivāra vica vī ā'undī hai",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਵਿਚ ਵੀ ਆਉਂਦੀ ਹੈ",
+        "She comes to her family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "family",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She comes home here",
+        "uha ithē ghara ā'undī hai",
+        "ਉਹ ਇਥੇ ਘਰ ਆਉਂਦੀ ਹੈ",
+        "She comes home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "home",
+            "adv": "here"
+        }
+    ],
+    [
+        "She comes home now",
+        "uha huṇa ghara ā'undī hai",
+        "ਉਹ ਹੁਣ ਘਰ ਆਉਂਦੀ ਹੈ",
+        "She comes home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "home",
+            "adv": "now"
+        }
+    ],
+    [
+        "She comes home well",
+        "uha cagī tar'hāṁ ghara ā'undī hai",
+        "ਉਹ ਚੰਗੀ ਤਰ੍ਹਾਂ ਘਰ ਆਉਂਦੀ ਹੈ",
+        "She comes home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "home",
+            "adv": "well"
+        }
+    ],
+    [
+        "She comes home too",
+        "uha vī ghara ā'undī hai",
+        "ਉਹ ਵੀ ਘਰ ਆਉਂਦੀ ਹੈ",
+        "She comes home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "home",
+            "adv": "too"
+        }
+    ],
+    [
+        "She comes to her mother here",
+        "uha ithē āpaṇī māṁ kōla ā'undī hai",
+        "ਉਹ ਇਥੇ ਆਪਣੀ ਮਾਂ ਕੋਲ ਆਉਂਦੀ ਹੈ",
+        "She comes to her mother here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "mother",
+            "det": "her",
+            "adv": "here"
+        }
+    ],
+    [
+        "She comes to her mother now",
+        "uha huṇa āpaṇī māṁ kōla ā'undī hai",
+        "ਉਹ ਹੁਣ ਆਪਣੀ ਮਾਂ ਕੋਲ ਆਉਂਦੀ ਹੈ",
+        "She comes to her mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "mother",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She comes to her mother well",
+        "uha āpaṇī māṁ kōla cagī tar'hāṁ ā'undī hai",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਕੋਲ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਉਂਦੀ ਹੈ",
+        "She comes to her mother well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "mother",
+            "det": "her",
+            "adv": "well"
+        }
+    ],
+    [
+        "She comes to her mother too",
+        "uha āpaṇī māṁ kōla vī ā'undī hai",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਕੋਲ ਵੀ ਆਉਂਦੀ ਹੈ",
+        "She comes to her mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "mother",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She comes to a room here",
+        "uha ithē ika kamarē vica ā'undī hai",
+        "ਉਹ ਇਥੇ ਇਕ ਕਮਰੇ ਵਿਚ ਆਉਂਦੀ ਹੈ",
+        "She comes to a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She comes to a room now",
+        "uha huṇa ika kamarē vica ā'undī hai",
+        "ਉਹ ਹੁਣ ਇੱਕ ਕਮਰੇ ਵਿੱਚ ਆਉਂਦੀ ਹੈ",
+        "She comes to a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She comes to a room well",
+        "uha ika kamarē vica cagī tar'hāṁ ā'undī hai",
+        "ਉਹ ਇਕ ਕਮਰੇ ਵਿਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਉਂਦੀ ਹੈ",
+        "She comes to a room well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She comes to a room too",
+        "uha vī ika kamarē vica ā'undī hai",
+        "ਉਹ ਵੀ ਇੱਕ ਕਮਰੇ ਵਿੱਚ ਆਉਂਦੀ ਹੈ",
+        "She comes to a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She comes for a week here",
+        "uha ithē ika hafatē la'ī ā'undī hai",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਆਉਂਦੀ ਹੈ",
+        "She comes for a week here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She comes for a week now",
+        "uha huṇa ika hafatē la'ī ā'undī hai",
+        "ਉਹ ਹੁਣ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਆਉਂਦੀ ਹੈ",
+        "She comes for a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She comes for a week well",
+        "uha cagī tar'hāṁ ika hafatē la'ī ā'undī hai",
+        "ਉਹ ਚੰਗੀ ਤਰ੍ਹਾਂ ਇਕ ਹਫ਼ਤੇ ਲਈ ਆਉਂਦੀ ਹੈ",
+        "She comes for a week well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She comes for a week too",
+        "uha ika hafatē la'ī vī ā'undī hai",
+        "ਉਹ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਵੀ ਆਉਂਦੀ ਹੈ",
+        "She comes for a week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She comes to work here",
+        "uha ithē kama tē ā'undī hai",
+        "ਉਹ ਇਥੇ ਕੰਮ ਤੇ ਆਉਂਦੀ ਹੈ",
+        "She comes to work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "She comes to work now",
+        "uha huṇa kama tē ā'undī hai",
+        "ਉਹ ਹੁਣ ਕੰਮ ਤੇ ਆਉਂਦੀ ਹੈ",
+        "She comes to work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "She comes to work well",
+        "uha cagī tar'hāṁ kama karana ā'undī hai",
+        "ਉਹ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕੰਮ ਕਰਨ ਆਉਂਦੀ ਹੈ",
+        "She comes to work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "She comes to work too",
+        "uha kama tē vī ā'undī hai",
+        "ਉਹ ਕੰਮ ਤੇ ਵੀ ਆਉਂਦੀ ਹੈ",
+        "She comes to work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "She uses a book here",
+        "uha ithē ika kitāba dī varatōṁ karadī hai",
+        "ਉਹ ਇਥੇ ਇਕ ਕਿਤਾਬ ਦੀ ਵਰਤੋਂ ਕਰਦੀ ਹੈ",
+        "She uses a book here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She uses a book now",
+        "uha huṇa ika kitāba varatadī hai",
+        "ਉਹ ਹੁਣ ਇਕ ਕਿਤਾਬ ਵਰਤਦੀ ਹੈ",
+        "She uses a book now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She uses a book well",
+        "uha ika kitāba cagī tar'hāṁ varatadī hai",
+        "ਉਹ ਇੱਕ ਕਿਤਾਬ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤਦੀ ਹੈ",
+        "She uses a book well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She uses a book too",
+        "uha ika kitāba vī varatadī hai",
+        "ਉਹ ਇਕ ਕਿਤਾਬ ਵੀ ਵਰਤਦੀ ਹੈ",
+        "She uses a book too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She uses a hand here",
+        "uha ithē ika hatha dī varatōṁ karadī hai",
+        "ਉਹ ਇਥੇ ਇਕ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਦੀ ਹੈ",
+        "She uses a hand here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She uses a hand now",
+        "uha huṇa ika hatha varatadī hai",
+        "ਉਹ ਹੁਣ ਇੱਕ ਹੱਥ ਵਰਤਦੀ ਹੈ",
+        "She uses a hand now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She uses a hand well",
+        "uha ika hatha cagī tar'hāṁ varatadī hai",
+        "ਉਹ ਇੱਕ ਹੱਥ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤਦੀ ਹੈ",
+        "She uses a hand well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She uses a hand too",
+        "uha ika hatha vī varatadī hai",
+        "ਉਹ ਇੱਕ ਹੱਥ ਵੀ ਵਰਤਦੀ ਹੈ",
+        "She uses a hand too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She uses a room here",
+        "uha ithē ika kamarā varatadī hai",
+        "ਉਹ ਇਥੇ ਇੱਕ ਕਮਰਾ ਵਰਤਦੀ ਹੈ",
+        "She uses a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She uses a room now",
+        "uha huṇa ika kamarā varatadī hai",
+        "ਉਹ ਹੁਣ ਇੱਕ ਕਮਰਾ ਵਰਤਦੀ ਹੈ",
+        "She uses a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She uses a room well",
+        "uha ika kamarā cagī tar'hāṁ varatadī hai",
+        "ਉਹ ਇੱਕ ਕਮਰਾ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤਦੀ ਹੈ",
+        "She uses a room well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She uses a room too",
+        "uha ika kamarā vī varatadī hai",
+        "ਉਹ ਇੱਕ ਕਮਰਾ ਵੀ ਵਰਤਦੀ ਹੈ",
+        "She uses a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She uses a thing here",
+        "uha ithē ika cīza dī varatōṁ karadī hai",
+        "ਉਹ ਇਥੇ ਇਕ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰਦੀ ਹੈ",
+        "She uses a thing here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She uses a thing now",
+        "uha huṇa ika cīza dī varatōṁ karadī hai",
+        "ਉਹ ਹੁਣ ਇਕ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰਦੀ ਹੈ",
+        "She uses a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She uses a thing well",
+        "uha ika cīza dī cagī tar'hāṁ varatōṁ karadī hai",
+        "ਉਹ ਇਕ ਚੀਜ਼ ਦੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤੋਂ ਕਰਦੀ ਹੈ",
+        "She uses a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She uses a thing too",
+        "uha ika cīza dī varatōṁ vī karadī hai",
+        "ਉਹ ਇਕ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਵੀ ਕਰਦੀ ਹੈ",
+        "She uses a thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She uses water here",
+        "uha ithē pāṇī dī varatōṁ karadī hai",
+        "ਉਹ ਇਥੇ ਪਾਣੀ ਦੀ ਵਰਤੋਂ ਕਰਦੀ ਹੈ",
+        "She uses water here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "water",
+            "adv": "here"
+        }
+    ],
+    [
+        "She uses water now",
+        "uha huṇa pāṇī dī varatōṁ karadī hai",
+        "ਉਹ ਹੁਣ ਪਾਣੀ ਦੀ ਵਰਤੋਂ ਕਰਦੀ ਹੈ",
+        "She uses water now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "water",
+            "adv": "now"
+        }
+    ],
+    [
+        "She uses a water well",
+        "uha pāṇī dī khūha dī varatōṁ karadī hai",
+        "ਉਹ ਪਾਣੀ ਦੀ ਖੂਹ ਦੀ ਵਰਤੋਂ ਕਰਦੀ ਹੈ",
+        "She uses a water well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "water",
+            "adv": "well"
+        }
+    ],
+    [
+        "She uses water too",
+        "uha pāṇī dī varatōṁ vī karadī hai",
+        "ਉਹ ਪਾਣੀ ਦੀ ਵਰਤੋਂ ਵੀ ਕਰਦੀ ਹੈ",
+        "She uses water too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "water",
+            "adv": "too"
+        }
+    ],
+    [
+        "She uses a week here",
+        "uha ithē ika hafatā varatadī hai",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਹਫ਼ਤਾ ਵਰਤਦੀ ਹੈ",
+        "She uses a week here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She uses a week now",
+        "Uha huṇa ika hafatā varatadī hai",
+        "ਉਹ ਹੁਣ ਇੱਕ ਹਫ਼ਤਾ ਵਰਤਦੀ ਹੈ",
+        "She uses a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She uses a week well",
+        "uha ika hafatā cagī tar'hāṁ varatadī hai",
+        "ਉਹ ਇੱਕ ਹਫ਼ਤਾ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤਦੀ ਹੈ",
+        "She uses a week well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She uses a week too",
+        "uha ika hafatā vī varatadī hai",
+        "ਉਹ ਇੱਕ ਹਫ਼ਤਾ ਵੀ ਵਰਤਦੀ ਹੈ",
+        "She uses a week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She uses a word here",
+        "uha ithē ika śabada dī varatōṁ karadī hai",
+        "ਉਹ ਇਥੇ ਇਕ ਸ਼ਬਦ ਦੀ ਵਰਤੋਂ ਕਰਦੀ ਹੈ",
+        "She uses a word here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She uses a word now",
+        "uha huṇa ika śabada varatadī hai",
+        "ਉਹ ਹੁਣ ਇੱਕ ਸ਼ਬਦ ਵਰਤਦੀ ਹੈ",
+        "She uses a word now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She uses a word well",
+        "uha ika śabada dī varatōṁ cagī tar'hāṁ karadī hai",
+        "ਉਹ ਇੱਕ ਸ਼ਬਦ ਦੀ ਵਰਤੋਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਰਦੀ ਹੈ",
+        "She uses a word well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She uses a word too",
+        "uha ika śabada vī varatadī hai",
+        "ਉਹ ਇੱਕ ਸ਼ਬਦ ਵੀ ਵਰਤਦੀ ਹੈ",
+        "She uses a word too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She finds a book here",
+        "usa nū ithē ika kitāba milī",
+        "ਉਸ ਨੂੰ ਇਥੇ ਇਕ ਕਿਤਾਬ ਮਿਲੀ",
+        "She finds a book here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She finds a book now",
+        "usa nū huṇa ika kitāba milī hai",
+        "ਉਸ ਨੂੰ ਹੁਣ ਇਕ ਕਿਤਾਬ ਮਿਲੀ ਹੈ",
+        "She finds a book now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She finds a book well",
+        "uha ika kitāba cagī tar'hāṁ labhadī hai",
+        "ਉਹ ਇੱਕ ਕਿਤਾਬ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲੱਭਦੀ ਹੈ",
+        "She finds a book well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She finds a book too",
+        "usa nū ika kitāba vī milī",
+        "ਉਸ ਨੂੰ ਇਕ ਕਿਤਾਬ ਵੀ ਮਿਲੀ",
+        "She finds a book too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She finds a home here",
+        "usa nū ithē ika ghara mili'ā",
+        "ਉਸ ਨੂੰ ਇਥੇ ਇਕ ਘਰ ਮਿਲਿਆ",
+        "She finds a home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "home",
+            "adv": "here"
+        }
+    ],
+    [
+        "She finds a home now",
+        "uha huṇa ika ghara labhadī hai",
+        "ਉਹ ਹੁਣ ਇੱਕ ਘਰ ਲੱਭਦੀ ਹੈ",
+        "She finds a home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "home",
+            "adv": "now"
+        }
+    ],
+    [
+        "She finds a home well",
+        "usa nū ika ghara cagī tar'hāṁ miladā hai",
+        "ਉਸ ਨੂੰ ਇਕ ਘਰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਮਿਲਦਾ ਹੈ",
+        "She finds a home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "home",
+            "adv": "well"
+        }
+    ],
+    [
+        "She finds a home too",
+        "usa nū ika ghara vī mili'ā",
+        "ਉਸ ਨੂੰ ਇਕ ਘਰ ਵੀ ਮਿਲਿਆ",
+        "She finds a home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "home",
+            "adv": "too"
+        }
+    ],
+    [
+        "She finds a room here",
+        "usanū ithē ika kamarā mili'ā",
+        "ਉਸਨੂੰ ਇਥੇ ਇੱਕ ਕਮਰਾ ਮਿਲਿਆ",
+        "She finds a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She finds a room now",
+        "usanū huṇa ika kamarā mili'ā hai",
+        "ਉਸਨੂੰ ਹੁਣ ਇੱਕ ਕਮਰਾ ਮਿਲਿਆ ਹੈ",
+        "She finds a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She finds a room well",
+        "usanū ika kamarā vadhī'ā mili'ā hai",
+        "ਉਸਨੂੰ ਇੱਕ ਕਮਰਾ ਵਧੀਆ ਮਿਲਿਆ ਹੈ",
+        "She finds a room well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She finds a room too",
+        "uhanū ika kamarā vī mili'ā",
+        "ਉਹਨੂੰ ਇੱਕ ਕਮਰਾ ਵੀ ਮਿਲਿਆ",
+        "She finds a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She finds a thing here",
+        "usa nū ithē ika cīza milī",
+        "ਉਸ ਨੂੰ ਇਥੇ ਇਕ ਚੀਜ਼ ਮਿਲੀ",
+        "She finds a thing here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She finds a thing now",
+        "usa nū huṇa ika cīza mila ga'ī",
+        "ਉਸ ਨੂੰ ਹੁਣ ਇਕ ਚੀਜ਼ ਮਿਲ ਗਈ",
+        "She finds a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She finds a thing well",
+        "uha ika cīza cagī tar'hāṁ labhadī hai",
+        "ਉਹ ਇੱਕ ਚੀਜ਼ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲੱਭਦੀ ਹੈ",
+        "She finds a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She finds a thing too",
+        "usanū ika cīja vī miladī hai",
+        "ਉਸਨੂੰ ਇੱਕ ਚੀਜ ਵੀ ਮਿਲਦੀ ਹੈ",
+        "She finds a thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She finds water here",
+        "uha ithē pāṇī labhadī hai",
+        "ਉਹ ਇੱਥੇ ਪਾਣੀ ਲੱਭਦੀ ਹੈ",
+        "She finds water here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "water",
+            "adv": "here"
+        }
+    ],
+    [
+        "She finds water now",
+        "uha huṇa pāṇī labhadī hai",
+        "ਉਹ ਹੁਣ ਪਾਣੀ ਲੱਭਦੀ ਹੈ",
+        "She finds water now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "water",
+            "adv": "now"
+        }
+    ],
+    [
+        "She finds a water well",
+        "usa nū pāṇī dī khūha milī",
+        "ਉਸ ਨੂੰ ਪਾਣੀ ਦੀ ਖੂਹ ਮਿਲੀ",
+        "She finds a water well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "water",
+            "adv": "well"
+        }
+    ],
+    [
+        "She finds water too",
+        "uha pāṇī vī labhadī hai",
+        "ਉਹ ਪਾਣੀ ਵੀ ਲੱਭਦੀ ਹੈ",
+        "She finds water too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "water",
+            "adv": "too"
+        }
+    ],
+    [
+        "She finds a woman here",
+        "uha ithē ika womanrata labhadī hai",
+        "ਉਹ ਇੱਥੇ ਇੱਕ womanਰਤ ਲੱਭਦੀ ਹੈ",
+        "She finds a woman here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She finds a woman now",
+        "Uha huṇa ika findsrata labhadī hai",
+        "ਉਹ ਹੁਣ ਇੱਕ findsਰਤ ਲੱਭਦੀ ਹੈ",
+        "She finds a woman now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She finds a woman well",
+        "uha ika womanrata nū cagī tar'hāṁ labhadī hai",
+        "ਉਹ ਇਕ womanਰਤ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲੱਭਦੀ ਹੈ",
+        "She finds a woman well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She finds a woman too",
+        "uha ika womanrata vī labhadī hai",
+        "ਉਹ ਇੱਕ womanਰਤ ਵੀ ਲੱਭਦੀ ਹੈ",
+        "She finds a woman too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She finds a word here",
+        "usanū ithē ika śabada mili'ā",
+        "ਉਸਨੂੰ ਇਥੇ ਇੱਕ ਸ਼ਬਦ ਮਿਲਿਆ",
+        "She finds a word here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She finds a word now",
+        "usanū huṇa ika śabada mili'ā hai",
+        "ਉਸਨੂੰ ਹੁਣ ਇੱਕ ਸ਼ਬਦ ਮਿਲਿਆ ਹੈ",
+        "She finds a word now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She finds a word well",
+        "uha ika śabada cagī tar'hāṁ labhadī hai",
+        "ਉਹ ਇੱਕ ਸ਼ਬਦ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲੱਭਦੀ ਹੈ",
+        "She finds a word well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She finds a word too",
+        "uha ika śabada vī labhadī hai",
+        "ਉਹ ਇੱਕ ਸ਼ਬਦ ਵੀ ਲੱਭਦੀ ਹੈ",
+        "She finds a word too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She finds work here",
+        "uha ithē kama labhadī hai",
+        "ਉਹ ਇਥੇ ਕੰਮ ਲੱਭਦੀ ਹੈ",
+        "She finds work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "She finds work now",
+        "uha huṇa kama labhadī hai",
+        "ਉਹ ਹੁਣ ਕੰਮ ਲੱਭਦੀ ਹੈ",
+        "She finds work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "She finds work well",
+        "usa nū kama cagā lagadā hai",
+        "ਉਸ ਨੂੰ ਕੰਮ ਚੰਗਾ ਲੱਗਦਾ ਹੈ",
+        "She finds work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "She finds work too",
+        "usa nū kama vī miladā hai",
+        "ਉਸ ਨੂੰ ਕੰਮ ਵੀ ਮਿਲਦਾ ਹੈ",
+        "She finds work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "work",
+            "adv": "too"
+        }
+    ]
+]

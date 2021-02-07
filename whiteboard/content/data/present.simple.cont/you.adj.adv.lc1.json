@@ -1,0 +1,6748 @@
+[
+    [
+        "You are going to each state well",
+        "Tusīṁ hara rāja vica cagī tar'hāṁ jā rahē hō",
+        "ਤੁਸੀਂ ਹਰ ਰਾਜ ਵਿਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to each state well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "child",
+            "det": "the",
+            "adj": "first",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are going to each state too",
+        "tusīṁ vī hara rāja vica jā rahē hō",
+        "ਤੁਸੀਂ ਵੀ ਹਰ ਰਾਜ ਵਿਚ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to each state too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "child",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are going to a good student here",
+        "tusīṁ ithē ika cagē vidi'ārathī la'ī jā rahē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇੱਕ ਚੰਗੇ ਵਿਦਿਆਰਥੀ ਲਈ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to a good student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "child",
+            "det": "your",
+            "adj": "many",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are going to a good student now",
+        "tusīṁ huṇa ika cagē vidi'ārathī kōla jā rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਚੰਗੇ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to a good student now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "child",
+            "det": "your",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are going to a good student well",
+        "tusīṁ ika cagē vidi'ārathī la'ī jā rahē hō",
+        "ਤੁਸੀਂ ਇਕ ਚੰਗੇ ਵਿਦਿਆਰਥੀ ਲਈ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to a good student well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "child",
+            "adj": "each",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are going to a good student too",
+        "tusīṁ ika cagē vidi'ārathī vī jā rahē hō",
+        "ਤੁਸੀਂ ਇਕ ਚੰਗੇ ਵਿਦਿਆਰਥੀ ਵੀ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to a good student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "child",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are going to a many students here",
+        "tusīṁ ithē bahuta sārē vidi'ārathī'āṁ kōla jā rahē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਕੋਲ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to a many students here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adj": "good",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are going to a many students now",
+        "tusīṁ huṇa bahuta sārē vidi'ārathī'āṁ kōla jā rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਕੋਲ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to a many students now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adj": "good",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are going to a many students well",
+        "tusīṁ bahuta sārē vidi'ārathī'āṁ dē nāla jā rahē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਦੇ ਨਾਲ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to a many students well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "det": "the",
+            "adj": "first",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are going to a many students too",
+        "tusīṁ bahuta sārē vidi'ārathī'āṁ kōla jā rahē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਕੋਲ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to a many students too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are going to each student here",
+        "tusīṁ ithē harēka vidi'ārathī kōla jā rahē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਹਰੇਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to each student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adj": "many",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are going to each student now",
+        "tusīṁ huṇa harēka vidi'ārathī kōla jā rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਹਰੇਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to each student now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are going to each student well",
+        "tusīṁ harēka vidi'ārathī nāla cagī tar'hāṁ jā rahē hō",
+        "ਤੁਸੀਂ ਹਰੇਕ ਵਿਦਿਆਰਥੀ ਨਾਲ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to each student well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "adj": "each",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are going to each student too",
+        "tusīṁ harēka vidi'ārathī kōla jā rahē hō",
+        "ਤੁਸੀਂ ਹਰੇਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to each student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are going to the first study here",
+        "tusīṁ ithē pahilē adhi'aina la'ī jā rahē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਪਹਿਲੇ ਅਧਿਐਨ ਲਈ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to the first study here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "book",
+            "det": "a",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are going to the first study now",
+        "tusīṁ huṇa pahilē adhi'aina la'ī jā rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਪਹਿਲੇ ਅਧਿਐਨ ਲਈ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to the first study now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "book",
+            "det": "a",
+            "adj": "good",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are going to the first study well",
+        "tusīṁ cagī tar'hāṁ pahilē adhi'aina la'ī jā rahē hō",
+        "ਤੁਸੀਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਪਹਿਲੇ ਅਧਿਐਨ ਲਈ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to the first study well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "book",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are going to the first study too",
+        "tusīṁ vī pahilē adhi'aina karana jā rahē hō",
+        "ਤੁਸੀਂ ਵੀ ਪਹਿਲੇ ਅਧਿਐਨ ਕਰਨ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to the first study too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "book",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are going to each study here",
+        "tusīṁ ithē harēka adhi'aina la'ī jā rahē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਹਰੇਕ ਅਧਿਐਨ ਲਈ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to each study here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "child",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are going to each study now",
+        "tusīṁ huṇa harēka adhi'aina la'ī jā rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਹਰੇਕ ਅਧਿਐਨ ਲਈ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to each study now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "child",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are going to each study well",
+        "tusīṁ harēka adhi'aina la'ī cagī tar'hāṁ jā rahē hō",
+        "ਤੁਸੀਂ ਹਰੇਕ ਅਧਿਐਨ ਲਈ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to each study well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "child",
+            "det": "your",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are going to each study too",
+        "tusīṁ hara adhi'aina vica vī jā rahē hō",
+        "ਤੁਸੀਂ ਹਰ ਅਧਿਐਨ ਵਿਚ ਵੀ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to each study too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "child",
+            "det": "your",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are going for a good week here",
+        "Tusīṁ ithē ika cagē haphatē la'ī jā rahē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇੱਕ ਚੰਗੇ ਹਫਤੇ ਲਈ ਜਾ ਰਹੇ ਹੋ",
+        "You are going for a good week here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "child",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are going for a good week now",
+        "tusīṁ huṇa ika cagē haphatē la'ī jā rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਚੰਗੇ ਹਫਤੇ ਲਈ ਜਾ ਰਹੇ ਹੋ",
+        "You are going for a good week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "child",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are going for each week well",
+        "tusīṁ hara haphatē cagī tar'hāṁ jā rahē hō",
+        "ਤੁਸੀਂ ਹਰ ਹਫਤੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਹੇ ਹੋ",
+        "You are going for each week well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "family",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are going for each week too",
+        "tusīṁ hara haphatē vī jā rahē hō",
+        "ਤੁਸੀਂ ਹਰ ਹਫਤੇ ਵੀ ਜਾ ਰਹੇ ਹੋ",
+        "You are going for each week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "family",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are going to good work here",
+        "tusīṁ ithē cagē kama karana jā rahē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਚੰਗੇ ਕੰਮ ਕਰਨ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to good work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "family",
+            "det": "your",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are going to good work now",
+        "tusīṁ huṇa cagē kama karana jā rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਚੰਗੇ ਕੰਮ ਕਰਨ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to good work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "family",
+            "det": "your",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are going to good work well",
+        "tusīṁ cagē kama karana jā rahē hō",
+        "ਤੁਸੀਂ ਚੰਗੇ ਕੰਮ ਕਰਨ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to good work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "family",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are going to good work too",
+        "tusīṁ vī cagē kama karana jā rahē hō",
+        "ਤੁਸੀਂ ਵੀ ਚੰਗੇ ਕੰਮ ਕਰਨ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to good work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "family",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are going to each work well",
+        "tusīṁ hara kama la'ī cagī tar'hāṁ jā rahē hō",
+        "ਤੁਸੀਂ ਹਰ ਕੰਮ ਲਈ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to each work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "hand",
+            "det": "a",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are going to each work too",
+        "tusīṁ vī hara kama vica jā rahē hō",
+        "ਤੁਸੀਂ ਵੀ ਹਰ ਕੰਮ ਵਿਚ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to each work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "hand",
+            "det": "a",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know your good business here",
+        "tusīṁ āpaṇē cagē kārōbāra nū ithē jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਚੰਗੇ ਕਾਰੋਬਾਰ ਨੂੰ ਇੱਥੇ ਜਾਣਦੇ ਹੋ",
+        "You know your good business here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "hand",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know your good business now",
+        "tusīṁ huṇa āpaṇē cagē kārōbāra nū jāṇadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੇ ਚੰਗੇ ਕਾਰੋਬਾਰ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know your good business now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "hand",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know your good business well",
+        "Tusīṁ āpaṇē cagē kārōbāra nū cagī tar'hāṁ jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਚੰਗੇ ਕਾਰੋਬਾਰ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹੋ",
+        "You know your good business well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "home",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know your good business too",
+        "tusīṁ āpaṇē cagē kārōbāra nū vī jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਚੰਗੇ ਕਾਰੋਬਾਰ ਨੂੰ ਵੀ ਜਾਣਦੇ ਹੋ",
+        "You know your good business too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "home",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know your each business here",
+        "tusīṁ āpaṇē harēka kārōbāra nū ithē jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਹਰੇਕ ਕਾਰੋਬਾਰ ਨੂੰ ਇੱਥੇ ਜਾਣਦੇ ਹੋ",
+        "You know your each business here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "home",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know your each business now",
+        "tusīṁ huṇa āpaṇē harēka kārōbāra nū jāṇadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੇ ਹਰੇਕ ਕਾਰੋਬਾਰ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know your each business now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "home",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know your each business well",
+        "tusīṁ āpaṇē harēka kārōbāra nū cagī tar'hāṁ jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਹਰੇਕ ਕਾਰੋਬਾਰ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹੋ",
+        "You know your each business well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "home",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know your each business too",
+        "tusīṁ āpaṇē harēka kārōbāra nū vī jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਹਰੇਕ ਕਾਰੋਬਾਰ ਨੂੰ ਵੀ ਜਾਣਦੇ ਹੋ",
+        "You know your each business too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "home",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know your many countries here",
+        "tusīṁ āpaṇē bahuta sārē dēśāṁ nū ithē jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਨੂੰ ਇੱਥੇ ਜਾਣਦੇ ਹੋ",
+        "You know your many countries here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know your many countries now",
+        "tusīṁ huṇa āpaṇē bahuta sārē dēśāṁ nū jāṇadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know your many countries now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know your many countries well",
+        "tusīṁ āpaṇē bahuta sārē dēśāṁ nū cagī tar'hāṁ jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹੋ",
+        "You know your many countries well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know your many countries too",
+        "tusīṁ āpaṇē bahuta sārē dēśāṁ nū vī jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਨੂੰ ਵੀ ਜਾਣਦੇ ਹੋ",
+        "You know your many countries too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know your each country here",
+        "tusīṁ āpaṇē harēka dēśa nū ithē jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਹਰੇਕ ਦੇਸ਼ ਨੂੰ ਇੱਥੇ ਜਾਣਦੇ ਹੋ",
+        "You know your each country here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know your each country now",
+        "tusīṁ huṇa āpaṇē harēka dēśa nū jāṇadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੇ ਹਰੇਕ ਦੇਸ਼ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know your each country now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know your first job here",
+        "tusīṁ ithē āpaṇī pahilī naukarī jāṇadē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਆਪਣੀ ਪਹਿਲੀ ਨੌਕਰੀ ਜਾਣਦੇ ਹੋ",
+        "You know your first job here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "room",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know your first job now",
+        "tusīṁ huṇa āpaṇī pahilī naukarī jāṇadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੀ ਪਹਿਲੀ ਨੌਕਰੀ ਜਾਣਦੇ ਹੋ",
+        "You know your first job now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "room",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know your first job well",
+        "Tusīṁ āpaṇī pahilī naukarī cagī tar'hāṁ jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੀ ਪਹਿਲੀ ਨੌਕਰੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹੋ",
+        "You know your first job well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know your first job too",
+        "tusīṁ āpaṇī pahilī naukarī vī jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੀ ਪਹਿਲੀ ਨੌਕਰੀ ਵੀ ਜਾਣਦੇ ਹੋ",
+        "You know your first job too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know your many jobs here",
+        "tusīṁ āpaṇī'āṁ bahuta sārī'āṁ naukarī'āṁ ithē jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਇੱਥੇ ਜਾਣਦੇ ਹੋ",
+        "You know your many jobs here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "room",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know your many jobs now",
+        "tusīṁ huṇa āpaṇī'āṁ bahuta sārī'āṁ naukarī'āṁ jāṇadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਜਾਣਦੇ ਹੋ",
+        "You know your many jobs now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "room",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know the first man here",
+        "tusīṁ ithē pahilē ādamī nū jāṇadē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know the first man here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know the first man now",
+        "tusīṁ huṇa pahilē ādamī nū jāṇadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know the first man now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know the first man well",
+        "tusīṁ pahilē ādamī nū cagī tar'hāṁ jāṇadē hō",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹੋ",
+        "You know the first man well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know the first man too",
+        "tusīṁ pahilē ādamī nū vī jāṇadē hō",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਵੀ ਜਾਣਦੇ ਹੋ",
+        "You know the first man too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are making each time here",
+        "Tusīṁ hara vāra ithē baṇā rahē hō",
+        "ਤੁਸੀਂ ਹਰ ਵਾਰ ਇੱਥੇ ਬਣਾ ਰਹੇ ਹੋ",
+        "You are making each time here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are making each time now",
+        "tusīṁ huṇa hara vāra baṇā rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਹਰ ਵਾਰ ਬਣਾ ਰਹੇ ਹੋ",
+        "You are making each time now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are making each time well",
+        "tusīṁ hara vāra cagī tar'hāṁ baṇā rahē hō",
+        "ਤੁਸੀਂ ਹਰ ਵਾਰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਬਣਾ ਰਹੇ ਹੋ",
+        "You are making each time well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "thing",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are making each time too",
+        "tusīṁ hara vāra vī baṇā rahē hō",
+        "ਤੁਸੀਂ ਹਰ ਵਾਰ ਵੀ ਬਣਾ ਰਹੇ ਹੋ",
+        "You are making each time too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "thing",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are going to a good business well",
+        "tusīṁ ika vadhī'ā kārōbāra vala jā rahē hō",
+        "ਤੁਸੀਂ ਇਕ ਵਧੀਆ ਕਾਰੋਬਾਰ ਵੱਲ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to a good business well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are going to a good business too",
+        "tusīṁ ika cagē kārōbāra vica vī jā rahē hō",
+        "ਤੁਸੀਂ ਇਕ ਚੰਗੇ ਕਾਰੋਬਾਰ ਵਿਚ ਵੀ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to a good business too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adj": "good",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are going to each business here",
+        "tusīṁ ithē harēka kārōbāra la'ī jā rahē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਹਰੇਕ ਕਾਰੋਬਾਰ ਲਈ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to each business here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are going to each business now",
+        "tusīṁ huṇa harēka kārōbāra vala jā rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਹਰੇਕ ਕਾਰੋਬਾਰ ਵੱਲ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to each business now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are going to each business well",
+        "tusīṁ harēka kārōbāra vica cagī tar'hāṁ jā rahē hō",
+        "ਤੁਸੀਂ ਹਰੇਕ ਕਾਰੋਬਾਰ ਵਿਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to each business well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are going to each business too",
+        "tusīṁ harēka kārōbāra vica vī jā rahē hō",
+        "ਤੁਸੀਂ ਹਰੇਕ ਕਾਰੋਬਾਰ ਵਿਚ ਵੀ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to each business too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are going to the many countries here",
+        "tusīṁ ithē bahuta sārē dēśāṁ vica jā rahē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਵਿੱਚ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to the many countries here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are going to the many countries now",
+        "tusīṁ huṇa bahuta sārē dēśāṁ vica jā rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਵਿੱਚ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to the many countries now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are going to the many countries well",
+        "tusīṁ bahuta sārē dēśāṁ vica jā rahē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਵਿੱਚ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to the many countries well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "work",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are going to the many countries too",
+        "tusīṁ bahuta sārē dēśāṁ vica jā rahē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਵਿੱਚ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to the many countries too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "work",
+            "adj": "good",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are going to each country here",
+        "tusīṁ ithē hara dēśa jā rahē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਹਰ ਦੇਸ਼ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to each country here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "work",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are going to each country now",
+        "tusīṁ huṇa hara dēśa jā rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਹਰ ਦੇਸ਼ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to each country now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "work",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are going to each country well",
+        "Tusīṁ cagī tarāṁ harēka dēśa jā rahē hō",
+        "ਤੁਸੀਂ ਚੰਗੀ ਤਰਾਂ ਹਰੇਕ ਦੇਸ਼ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to each country well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "work",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are going to each country too",
+        "tusīṁ hara dēśa jā rahē hō",
+        "ਤੁਸੀਂ ਹਰ ਦੇਸ਼ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to each country too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "work",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are going many homes well",
+        "tusīṁ bahuta sārē gharāṁ nū cagī tar'hāṁ jā rahē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਘਰਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਹੇ ਹੋ",
+        "You are going many homes well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are going to many homes too",
+        "tusīṁ bahuta sārē gharāṁ nū vī jā rahē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਘਰਾਂ ਨੂੰ ਵੀ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to many homes too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are going each home here",
+        "tusīṁ ithē hara ghara jā rahē hō",
+        "ਤੁਸੀਂ ਇਥੇ ਹਰ ਘਰ ਜਾ ਰਹੇ ਹੋ",
+        "You are going each home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are going each home now",
+        "tusīṁ huṇa hara ghara jā rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਹਰ ਘਰ ਜਾ ਰਹੇ ਹੋ",
+        "You are going each home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are going each home well",
+        "tusīṁ hara ghara nū cagī tar'hāṁ jā rahē hō",
+        "ਤੁਸੀਂ ਹਰ ਘਰ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਹੇ ਹੋ",
+        "You are going each home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are going each home too",
+        "tusīṁ vī hara ghara jā rahē hō",
+        "ਤੁਸੀਂ ਵੀ ਹਰ ਘਰ ਜਾ ਰਹੇ ਹੋ",
+        "You are going each home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are going to the first job here",
+        "tusīṁ ithē pahilī naukarī tē jā rahē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਪਹਿਲੀ ਨੌਕਰੀ ਤੇ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to the first job here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "thing",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are going to the first job now",
+        "tusīṁ huṇa pahilī naukarī jā rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਪਹਿਲੀ ਨੌਕਰੀ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to the first job now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "thing",
+            "adj": "each",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are going to the first job well",
+        "tusīṁ cagī tar'hāṁ pahilī naukarī jā rahē hō",
+        "ਤੁਸੀਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਪਹਿਲੀ ਨੌਕਰੀ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to the first job well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "work",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are going to the first job too",
+        "tusīṁ vī pahilī naukarī'tē jā rahē hō",
+        "ਤੁਸੀਂ ਵੀ ਪਹਿਲੀ ਨੌਕਰੀ 'ਤੇ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to the first job too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "work",
+            "adj": "good",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are going to a many jobs here",
+        "tusīṁ ithē bahuta sārī'āṁ naukarī'āṁ vala jā rahē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਵੱਲ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to a many jobs here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "work",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are going to a many jobs now",
+        "tusīṁ huṇa bahuta sārī'āṁ naukarī'āṁ vala jā rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਵੱਲ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to a many jobs now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "work",
+            "det": "the",
+            "adj": "first",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are going to a many jobs well",
+        "tusīṁ bahuta sārī'āṁ naukarī'āṁ la'ī jā rahē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਲਈ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to a many jobs well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "work",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are going to a many jobs too",
+        "tusīṁ bahuta sārī'āṁ naukarī'āṁ vī jā rahē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਵੀ ਜਾ ਰਹੇ ਹੋ",
+        "You are going to a many jobs too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "work",
+            "adj": "each",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are having a good day now",
+        "huṇa tuhāḍā dina vadhī'ā rihā hai",
+        "ਹੁਣ ਤੁਹਾਡਾ ਦਿਨ ਵਧੀਆ ਰਿਹਾ ਹੈ",
+        "You are having a good day now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "family",
+            "det": "the",
+            "adj": "first",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are having a good day too",
+        "tuhāḍā dina vī cagā batīta hō rihā hai",
+        "ਤੁਹਾਡਾ ਦਿਨ ਵੀ ਚੰਗਾ ਬਤੀਤ ਹੋ ਰਿਹਾ ਹੈ",
+        "You are having a good day too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "family",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are having the first day now",
+        "huṇa tuhāḍā pahilā dina ā rihā hai",
+        "ਹੁਣ ਤੁਹਾਡਾ ਪਹਿਲਾ ਦਿਨ ਆ ਰਿਹਾ ਹੈ",
+        "You are having the first day now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "family",
+            "det": "the",
+            "adj": "first",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are having the first day too",
+        "tuhāḍā pahilā dina vī hō rihā hai",
+        "ਤੁਹਾਡਾ ਪਹਿਲਾ ਦਿਨ ਵੀ ਹੋ ਰਿਹਾ ਹੈ",
+        "You are having the first day too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "family",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are having a many days now",
+        "tuhāḍē kōla huṇa bahuta dina hō rahē hana",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹੁਣ ਬਹੁਤ ਦਿਨ ਹੋ ਰਹੇ ਹਨ",
+        "You are having a many days now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "family",
+            "det": "your",
+            "adj": "many",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are having a many days too",
+        "tuhānū vī bahuta dina hō rahē hana",
+        "ਤੁਹਾਨੂੰ ਵੀ ਬਹੁਤ ਦਿਨ ਹੋ ਰਹੇ ਹਨ",
+        "You are having a many days too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "family",
+            "det": "your",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are having each day now",
+        "tuhāḍē kōla huṇa hara dina hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹੁਣ ਹਰ ਦਿਨ ਹੈ",
+        "You are having each day now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "family",
+            "det": "your",
+            "adj": "many",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are having each day too",
+        "tusīṁ hara dina vī lagha rahē hō",
+        "ਤੁਸੀਂ ਹਰ ਦਿਨ ਵੀ ਲੰਘ ਰਹੇ ਹੋ",
+        "You are having each day too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "family",
+            "det": "your",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are having a many eyes now",
+        "huṇa tuhāḍē kōla bahuta sārī'āṁ akhāṁ hana",
+        "ਹੁਣ ਤੁਹਾਡੇ ਕੋਲ ਬਹੁਤ ਸਾਰੀਆਂ ਅੱਖਾਂ ਹਨ",
+        "You are having a many eyes now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "family",
+            "adj": "each",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are having a many eyes too",
+        "tuhāḍī'āṁ vī bahuta sārī'āṁ akhāṁ hana",
+        "ਤੁਹਾਡੀਆਂ ਵੀ ਬਹੁਤ ਸਾਰੀਆਂ ਅੱਖਾਂ ਹਨ",
+        "You are having a many eyes too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "family",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are having each eye now",
+        "huṇa tusīṁ hara ika dī akha baṇā rahē hō",
+        "ਹੁਣ ਤੁਸੀਂ ਹਰ ਇਕ ਦੀ ਅੱਖ ਬਣਾ ਰਹੇ ਹੋ",
+        "You are having each eye now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "family",
+            "adj": "each",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are having each eye too",
+        "tuhāḍī vī hara ika akha hai",
+        "ਤੁਹਾਡੀ ਵੀ ਹਰ ਇਕ ਅੱਖ ਹੈ",
+        "You are having each eye too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "family",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are having a many hands now",
+        "tuhāḍē kōla huṇa bahuta sārē hatha hana",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹੁਣ ਬਹੁਤ ਸਾਰੇ ਹੱਥ ਹਨ",
+        "You are having a many hands now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "home",
+            "det": "the",
+            "adj": "first",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are having a many hands too",
+        "tuhāḍē vī bahuta sārē hatha hō rahē hana",
+        "ਤੁਹਾਡੇ ਵੀ ਬਹੁਤ ਸਾਰੇ ਹੱਥ ਹੋ ਰਹੇ ਹਨ",
+        "You are having a many hands too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "home",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are having each hand now",
+        "huṇa tuhāḍē kōla hara ika hatha hai",
+        "ਹੁਣ ਤੁਹਾਡੇ ਕੋਲ ਹਰ ਇਕ ਹੱਥ ਹੈ",
+        "You are having each hand now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "home",
+            "det": "the",
+            "adj": "first",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are having each hand too",
+        "tuhāḍā vī hara ika hatha hai",
+        "ਤੁਹਾਡਾ ਵੀ ਹਰ ਇਕ ਹੱਥ ਹੈ",
+        "You are having each hand too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "home",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are having a first home now",
+        "Huṇa tuhāḍā pahilā ghara hai",
+        "ਹੁਣ ਤੁਹਾਡਾ ਪਹਿਲਾ ਘਰ ਹੈ",
+        "You are having a first home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "home",
+            "adj": "many",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are having a first home too",
+        "tuhāḍā pahilā ghara vī hai",
+        "ਤੁਹਾਡਾ ਪਹਿਲਾ ਘਰ ਵੀ ਹੈ",
+        "You are having a first home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "home",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are having a many homes now",
+        "tuhāḍē kōla huṇa bahuta sārē ghara hana",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹੁਣ ਬਹੁਤ ਸਾਰੇ ਘਰ ਹਨ",
+        "You are having a many homes now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "home",
+            "adj": "many",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are having a many homes too",
+        "tuhāḍē bahuta sārē ghara vī hana",
+        "ਤੁਹਾਡੇ ਬਹੁਤ ਸਾਰੇ ਘਰ ਵੀ ਹਨ",
+        "You are having a many homes too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "home",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are having a home now",
+        "tuhāḍē kōla huṇa ika ghara hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹੁਣ ਇੱਕ ਘਰ ਹੈ",
+        "You are having a home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "home",
+            "adj": "each",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are having a home too",
+        "tuhāḍē kōla vī ika ghara hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਵੀ ਇੱਕ ਘਰ ਹੈ",
+        "You are having a home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "home",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are having the first job now",
+        "huṇa tusīṁ pahilī naukarī kara rahē hō",
+        "ਹੁਣ ਤੁਸੀਂ ਪਹਿਲੀ ਨੌਕਰੀ ਕਰ ਰਹੇ ਹੋ",
+        "You are having the first job now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "home",
+            "adj": "each",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are having the first job too",
+        "tuhāḍī vī pahilī naukarī hō rahī hai",
+        "ਤੁਹਾਡੀ ਵੀ ਪਹਿਲੀ ਨੌਕਰੀ ਹੋ ਰਹੀ ਹੈ",
+        "You are having the first job too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "home",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are having the first point now",
+        "tuhāḍē kōla huṇa pahilā bidū hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹੁਣ ਪਹਿਲਾ ਬਿੰਦੂ ਹੈ",
+        "You are having the first point now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are having the first point too",
+        "tuhāḍī vī pahilī gala hai",
+        "ਤੁਹਾਡੀ ਵੀ ਪਹਿਲੀ ਗੱਲ ਹੈ",
+        "You are having the first point too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are having a many points now",
+        "tuhāḍē kōla huṇa bahuta sārē nukatē hana",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹੁਣ ਬਹੁਤ ਸਾਰੇ ਨੁਕਤੇ ਹਨ",
+        "You are having a many points now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are having a many points too",
+        "tuhāḍē vī bahuta sārē aka hana",
+        "ਤੁਹਾਡੇ ਵੀ ਬਹੁਤ ਸਾਰੇ ਅੰਕ ਹਨ",
+        "You are having a many points too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are having each point now",
+        "tuhāḍē kōla huṇa hara nukatē hana",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹੁਣ ਹਰ ਨੁਕਤੇ ਹਨ",
+        "You are having each point now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are having each point too",
+        "tuhāḍē kōla vī hara nukatā hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਵੀ ਹਰ ਨੁਕਤਾ ਹੈ",
+        "You are having each point too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are having the first problem now",
+        "tuhānū huṇa pahilī samasi'ā hō rahī hai",
+        "ਤੁਹਾਨੂੰ ਹੁਣ ਪਹਿਲੀ ਸਮੱਸਿਆ ਹੋ ਰਹੀ ਹੈ",
+        "You are having the first problem now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are having the first problem too",
+        "tuhānū vī pahilī samasi'ā hō rahī hai",
+        "ਤੁਹਾਨੂੰ ਵੀ ਪਹਿਲੀ ਸਮੱਸਿਆ ਹੋ ਰਹੀ ਹੈ",
+        "You are having the first problem too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are having a many problems now",
+        "tuhānū huṇa bahuta sārī'āṁ muśakalāṁ ā rahī'āṁ hana",
+        "ਤੁਹਾਨੂੰ ਹੁਣ ਬਹੁਤ ਸਾਰੀਆਂ ਮੁਸ਼ਕਲਾਂ ਆ ਰਹੀਆਂ ਹਨ",
+        "You are having a many problems now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "mother",
+            "adj": "each",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are having a many problems too",
+        "tuhānū vī bahuta sārī'āṁ muśakalāṁ ā rahī'āṁ hana",
+        "ਤੁਹਾਨੂੰ ਵੀ ਬਹੁਤ ਸਾਰੀਆਂ ਮੁਸ਼ਕਲਾਂ ਆ ਰਹੀਆਂ ਹਨ",
+        "You are having a many problems too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "mother",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are having each problem now",
+        "tuhānū huṇa hara samasi'ā ā rahī hai",
+        "ਤੁਹਾਨੂੰ ਹੁਣ ਹਰ ਸਮੱਸਿਆ ਆ ਰਹੀ ਹੈ",
+        "You are having each problem now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "mother",
+            "adj": "each",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are having each problem too",
+        "tuhānū vī hara samasi'ā ā rahī hai",
+        "ਤੁਹਾਨੂੰ ਵੀ ਹਰ ਸਮੱਸਿਆ ਆ ਰਹੀ ਹੈ",
+        "You are having each problem too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "mother",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are having the right now",
+        "tuhāḍē kōla huṇē hō rihā hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹੁਣੇ ਹੋ ਰਿਹਾ ਹੈ",
+        "You are having the right now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "room",
+            "det": "the",
+            "adj": "first",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are having the right too",
+        "tusīṁ vī sahī hō rahē hō",
+        "ਤੁਸੀਂ ਵੀ ਸਹੀ ਹੋ ਰਹੇ ਹੋ",
+        "You are having the right too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "room",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are having the first room now",
+        "tuhāḍē kōla huṇa pahilā kamarā hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹੁਣ ਪਹਿਲਾ ਕਮਰਾ ਹੈ",
+        "You are having the first room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "room",
+            "det": "the",
+            "adj": "first",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are having the first room too",
+        "tuhāḍē kōla vī pahilā kamarā hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਵੀ ਪਹਿਲਾ ਕਮਰਾ ਹੈ",
+        "You are having the first room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "room",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are having a many rooms now",
+        "Tuhāḍē kōla huṇa bahuta sārē kamarē hana",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹੁਣ ਬਹੁਤ ਸਾਰੇ ਕਮਰੇ ਹਨ",
+        "You are having a many rooms now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adj": "many",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are having a many rooms too",
+        "tuhāḍē kōla bahuta sārē kamarē vī hana",
+        "ਤੁਹਾਡੇ ਕੋਲ ਬਹੁਤ ਸਾਰੇ ਕਮਰੇ ਵੀ ਹਨ",
+        "You are having a many rooms too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are having each room now",
+        "tuhāḍē kōla huṇa hara kamarā hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹੁਣ ਹਰ ਕਮਰਾ ਹੈ",
+        "You are having each room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adj": "many",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are having each room too",
+        "tuhāḍē kōla hara kamarā vī hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹਰ ਕਮਰਾ ਵੀ ਹੈ",
+        "You are having each room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are having the first school now",
+        "tuhāḍē kōla huṇa pahilā sakūla hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹੁਣ ਪਹਿਲਾ ਸਕੂਲ ਹੈ",
+        "You are having the first school now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "room",
+            "adj": "each",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are having the first school too",
+        "tuhāḍā pahilā sakūla vī hō rihā hai",
+        "ਤੁਹਾਡਾ ਪਹਿਲਾ ਸਕੂਲ ਵੀ ਹੋ ਰਿਹਾ ਹੈ",
+        "You are having the first school too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "room",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are having many schools now",
+        "tuhāḍē kōla huṇa bahuta sārē sakūla hana",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹੁਣ ਬਹੁਤ ਸਾਰੇ ਸਕੂਲ ਹਨ",
+        "You are having many schools now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "room",
+            "adj": "each",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are having many schools too",
+        "tuhāḍē kōla bahuta sārē sakūla vī hana",
+        "ਤੁਹਾਡੇ ਕੋਲ ਬਹੁਤ ਸਾਰੇ ਸਕੂਲ ਵੀ ਹਨ",
+        "You are having many schools too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "room",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are having each thing now",
+        "tuhāḍē kōla huṇa hara cīza hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹੁਣ ਹਰ ਚੀਜ਼ ਹੈ",
+        "You are having each thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adj": "good",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are having each thing too",
+        "tuhāḍē kōla hara cīja vī hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹਰ ਚੀਜ ਵੀ ਹੈ",
+        "You are having each thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are having good time now",
+        "tusīṁ huṇa cagā samāṁ bitā rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਚੰਗਾ ਸਮਾਂ ਬਿਤਾ ਰਹੇ ਹੋ",
+        "You are having good time now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adj": "good",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are having good time too",
+        "tusīṁ vī cagā samāṁ bitā rahē hō",
+        "ਤੁਸੀਂ ਵੀ ਚੰਗਾ ਸਮਾਂ ਬਿਤਾ ਰਹੇ ਹੋ",
+        "You are having good time too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adj": "good",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are having the first time now",
+        "huṇa tusīṁ pahilī vāra ā rahē hō",
+        "ਹੁਣ ਤੁਸੀਂ ਪਹਿਲੀ ਵਾਰ ਆ ਰਹੇ ਹੋ",
+        "You are having the first time now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "det": "the",
+            "adj": "first",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are having the first time too",
+        "tusīṁ vī pahilī vāra kara rahē hō",
+        "ਤੁਸੀਂ ਵੀ ਪਹਿਲੀ ਵਾਰ ਕਰ ਰਹੇ ਹੋ",
+        "You are having the first time too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are having many times now",
+        "tuhāḍē kōla huṇa bahuta vāra hō rihā hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹੁਣ ਬਹੁਤ ਵਾਰ ਹੋ ਰਿਹਾ ਹੈ",
+        "You are having many times now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "det": "the",
+            "adj": "first",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are having many times too",
+        "tusīṁ ka'ī vāra ā rahē hō",
+        "ਤੁਸੀਂ ਕਈ ਵਾਰ ਆ ਰਹੇ ਹੋ",
+        "You are having many times too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are having each time now",
+        "huṇa tusīṁ hara vāra hō rahē hō",
+        "ਹੁਣ ਤੁਸੀਂ ਹਰ ਵਾਰ ਹੋ ਰਹੇ ਹੋ",
+        "You are having each time now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adj": "many",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are having each time too",
+        "tusīṁ hara vāra vī rahē hō",
+        "ਤੁਸੀਂ ਹਰ ਵਾਰ ਵੀ ਰਹੇ ਹੋ",
+        "You are having each time too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are having your first way now",
+        "tuhāḍē kōla huṇa tuhāḍā pahilā rasatā hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹੁਣ ਤੁਹਾਡਾ ਪਹਿਲਾ ਰਸਤਾ ਹੈ",
+        "You are having your first way now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adj": "many",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are having your first way too",
+        "tusīṁ vī āpaṇā pahilā rasatā kara rahē hō",
+        "ਤੁਸੀਂ ਵੀ ਆਪਣਾ ਪਹਿਲਾ ਰਸਤਾ ਕਰ ਰਹੇ ਹੋ",
+        "You are having your first way too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are having your many ways now",
+        "tuhāḍē kōla huṇa tuhāḍē bahuta sārē tarīkē hana",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹੁਣ ਤੁਹਾਡੇ ਬਹੁਤ ਸਾਰੇ ਤਰੀਕੇ ਹਨ",
+        "You are having your many ways now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "adj": "each",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are having your many ways too",
+        "tuhāḍē kōla vī tuhāḍē bahuta sārē tarīkē hana",
+        "ਤੁਹਾਡੇ ਕੋਲ ਵੀ ਤੁਹਾਡੇ ਬਹੁਤ ਸਾਰੇ ਤਰੀਕੇ ਹਨ",
+        "You are having your many ways too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are having your each way now",
+        "huṇa tusīṁ hara tarīkē nāla cala rahē hō",
+        "ਹੁਣ ਤੁਸੀਂ ਹਰ ਤਰੀਕੇ ਨਾਲ ਚੱਲ ਰਹੇ ਹੋ",
+        "You are having your each way now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "adj": "each",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are having your each way too",
+        "tusīṁ vī āpaṇē hara tarīkē nāla hō rahē hō",
+        "ਤੁਸੀਂ ਵੀ ਆਪਣੇ ਹਰ ਤਰੀਕੇ ਨਾਲ ਹੋ ਰਹੇ ਹੋ",
+        "You are having your each way too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are having your each work now",
+        "Huṇa tusīṁ āpaṇā hara kama kara rahē hō",
+        "ਹੁਣ ਤੁਸੀਂ ਆਪਣਾ ਹਰ ਕੰਮ ਕਰ ਰਹੇ ਹੋ",
+        "You are having your each work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adj": "good",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are having your each work too",
+        "tusīṁ āpaṇā hara kama vī karavā rahē hō",
+        "ਤੁਸੀਂ ਆਪਣਾ ਹਰ ਕੰਮ ਵੀ ਕਰਵਾ ਰਹੇ ਹੋ",
+        "You are having your each work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are doing a good business now",
+        "tusīṁ huṇa ika cagā kārōbāra kara rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਚੰਗਾ ਕਾਰੋਬਾਰ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing a good business now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adj": "good",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are doing a good business well",
+        "tusīṁ vadhī'ā kārōbāra kara rahē hō",
+        "ਤੁਸੀਂ ਵਧੀਆ ਕਾਰੋਬਾਰ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing a good business well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adj": "good",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are doing each business now",
+        "tusīṁ huṇa harēka kārōbāra kara rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਹਰੇਕ ਕਾਰੋਬਾਰ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing each business now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "det": "the",
+            "adj": "first",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are doing each business well",
+        "tusīṁ harēka kārōbāra nū cagī tar'hāṁ kara rahē hō",
+        "ਤੁਸੀਂ ਹਰੇਕ ਕਾਰੋਬਾਰ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing each business well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are doing the first job now",
+        "tusīṁ huṇa pahilā kama kara rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਪਹਿਲਾ ਕੰਮ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing the first job now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "det": "the",
+            "adj": "first",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are doing the first job well",
+        "tusīṁ pahilā kama cagī tar'hāṁ kara rahē hō",
+        "ਤੁਸੀਂ ਪਹਿਲਾ ਕੰਮ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing the first job well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are doing a many jobs now",
+        "tusīṁ huṇa bahuta sārī'āṁ naukarī'āṁ kara rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing a many jobs now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adj": "many",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are doing a many jobs well",
+        "tusīṁ bahuta sārī'āṁ naukarī'āṁ cagī tar'hāṁ kara rahē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing a many jobs well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are doing each job now",
+        "tusīṁ huṇa hara kama kara rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਹਰ ਕੰਮ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing each job now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adj": "many",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are doing each job well",
+        "tusīṁ hara kama cagī tar'hāṁ kara rahē hō",
+        "ਤੁਸੀਂ ਹਰ ਕੰਮ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing each job well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are doing a first lot now",
+        "tusīṁ huṇa bahuta kujha kara rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਬਹੁਤ ਕੁਝ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing a first lot now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "adj": "each",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are doing a first lot well",
+        "tusīṁ pahilāṁ bahuta vadhī'ā kara rahē hō",
+        "ਤੁਸੀਂ ਪਹਿਲਾਂ ਬਹੁਤ ਵਧੀਆ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing a first lot well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are doing a many lots now",
+        "tusīṁ huṇa bahuta sārā kara rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਬਹੁਤ ਸਾਰਾ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing a many lots now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "adj": "each",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are doing a many lots well",
+        "tusīṁ bahuta vadhī'ā kara rahē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਵਧੀਆ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing a many lots well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are doing a lot now",
+        "tusīṁ huṇa bahuta kujha kara rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਬਹੁਤ ਕੁਝ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing a lot now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "adj": "good",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are doing a lot well",
+        "tusīṁ bahuta vadhī'ā kara rahē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਵਧੀਆ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing a lot well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are doing a good part now",
+        "tusīṁ huṇa vadhī'ā hisā lai rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਵਧੀਆ ਹਿੱਸਾ ਲੈ ਰਹੇ ਹੋ",
+        "You are doing a good part now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "adj": "good",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are doing a good part well",
+        "tusīṁ vadhī'ā hisā lai rahē hō",
+        "ਤੁਸੀਂ ਵਧੀਆ ਹਿੱਸਾ ਲੈ ਰਹੇ ਹੋ",
+        "You are doing a good part well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "adj": "good",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are doing the first part now",
+        "tusīṁ huṇa pahilā bhāga kara rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਪਹਿਲਾ ਭਾਗ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing the first part now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "det": "the",
+            "adj": "first",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are doing the first part well",
+        "tusīṁ pahilā bhāga cagī tar'hāṁ kara rahē hō",
+        "ਤੁਸੀਂ ਪਹਿਲਾ ਭਾਗ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing the first part well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are doing a many parts now",
+        "tusīṁ huṇa bahuta sārē hisē kara rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਬਹੁਤ ਸਾਰੇ ਹਿੱਸੇ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing a many parts now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "det": "the",
+            "adj": "first",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are doing a many parts well",
+        "tusīṁ bahuta sārē hisē cagī tar'hāṁ kara rahē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਹਿੱਸੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing a many parts well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are doing each part now",
+        "tusīṁ huṇa harēka hisē nū kara rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਹਰੇਕ ਹਿੱਸੇ ਨੂੰ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing each part now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "adj": "each",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are doing each part well",
+        "tusīṁ harēka hisē nū cagī tar'hāṁ kara rahē hō",
+        "ਤੁਸੀਂ ਹਰੇਕ ਹਿੱਸੇ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing each part well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are doing it the first right now",
+        "tusīṁ isa nū huṇē kara rahē hō",
+        "ਤੁਸੀਂ ਇਸ ਨੂੰ ਹੁਣੇ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing it the first right now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "adj": "each",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are doing it the first right well",
+        "tusīṁ isa nū sabha tōṁ pahilāṁ kara rahē hō",
+        "ਤੁਸੀਂ ਇਸ ਨੂੰ ਸਭ ਤੋਂ ਪਹਿਲਾਂ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing it the first right well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are doing a many things now",
+        "tusīṁ huṇa bahuta sārī'āṁ cīzāṁ kara rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing a many things now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "child",
+            "det": "the",
+            "adj": "first",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are doing a many things well",
+        "tusīṁ bahuta sārī'āṁ cīzāṁ cagī tar'hāṁ kara rahē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing a many things well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "child",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are doing each thing now",
+        "tusīṁ huṇa hara cīza kara rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਹਰ ਚੀਜ਼ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing each thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "child",
+            "det": "the",
+            "adj": "first",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are doing each thing well",
+        "tusīṁ hara kama cagī tar'hāṁ kara rahē hō",
+        "ਤੁਸੀਂ ਹਰ ਕੰਮ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing each thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "child",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are doing good work now",
+        "tusīṁ huṇa cagē kama kara rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਚੰਗੇ ਕੰਮ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing good work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "child",
+            "det": "your",
+            "adj": "many",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are doing good work well",
+        "tusīṁ vadhī'ā kama kara rahē hō",
+        "ਤੁਸੀਂ ਵਧੀਆ ਕੰਮ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing good work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "child",
+            "det": "your",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are doing the first work now",
+        "tusīṁ huṇa pahilā kama kara rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਪਹਿਲਾ ਕੰਮ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing the first work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "child",
+            "det": "your",
+            "adj": "many",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are doing the first work well",
+        "tusīṁ pahilā kama cagī tar'hāṁ kara rahē hō",
+        "ਤੁਸੀਂ ਪਹਿਲਾ ਕੰਮ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing the first work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "child",
+            "det": "your",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are doing each work now",
+        "tusīṁ huṇa hara kama kara rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਹਰ ਕੰਮ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing each work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "child",
+            "adj": "each",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are doing each work well",
+        "tusīṁ hara kama cagī tar'hāṁ kara rahē hō",
+        "ਤੁਸੀਂ ਹਰ ਕੰਮ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing each work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "child",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are saying a many facts now",
+        "tusīṁ huṇa bahuta sārē tatha kahi rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਬਹੁਤ ਸਾਰੇ ਤੱਥ ਕਹਿ ਰਹੇ ਹੋ",
+        "You are saying a many facts now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "child",
+            "adj": "each",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are saying a many facts well",
+        "tusīṁ bahuta sārē tatha cagī tar'hāṁ kahi rahē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਤੱਥ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਹਿ ਰਹੇ ਹੋ",
+        "You are saying a many facts well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "child",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are saying a good word now",
+        "tusīṁ huṇa ika cagā śabada kahi rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਚੰਗਾ ਸ਼ਬਦ ਕਹਿ ਰਹੇ ਹੋ",
+        "You are saying a good word now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "family",
+            "det": "the",
+            "adj": "first",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are saying a good word well",
+        "tusīṁ ika vadhī'ā śabada kahi rahē hō",
+        "ਤੁਸੀਂ ਇਕ ਵਧੀਆ ਸ਼ਬਦ ਕਹਿ ਰਹੇ ਹੋ",
+        "You are saying a good word well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "family",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are saying a good word too",
+        "tusīṁ ika vadhī'ā śabada vī kahi rahē hō",
+        "ਤੁਸੀਂ ਇਕ ਵਧੀਆ ਸ਼ਬਦ ਵੀ ਕਹਿ ਰਹੇ ਹੋ",
+        "You are saying a good word too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "family",
+            "det": "the",
+            "adj": "first",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are saying the first word now",
+        "tusīṁ huṇa pahilā śabada kahi rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਪਹਿਲਾ ਸ਼ਬਦ ਕਹਿ ਰਹੇ ਹੋ",
+        "You are saying the first word now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "family",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are saying the first word well",
+        "tusīṁ pahilē śabada nū cagī tar'hāṁ kahi rahē hō",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਸ਼ਬਦ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਹਿ ਰਹੇ ਹੋ",
+        "You are saying the first word well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "family",
+            "det": "your",
+            "adj": "many",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are saying the first word too",
+        "tusīṁ pahilā śabada vī kahi rahē hō",
+        "ਤੁਸੀਂ ਪਹਿਲਾ ਸ਼ਬਦ ਵੀ ਕਹਿ ਰਹੇ ਹੋ",
+        "You are saying the first word too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "family",
+            "det": "your",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are saying a many words now",
+        "tusīṁ huṇa bahuta sārē śabada kahi rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਬਹੁਤ ਸਾਰੇ ਸ਼ਬਦ ਕਹਿ ਰਹੇ ਹੋ",
+        "You are saying a many words now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "family",
+            "det": "your",
+            "adj": "many",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are saying a many words well",
+        "tusīṁ bahuta sārē śabada cagī tar'hāṁ kahi rahē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਸ਼ਬਦ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਹਿ ਰਹੇ ਹੋ",
+        "You are saying a many words well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "family",
+            "det": "your",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are saying a many words too",
+        "tusīṁ bahuta sārē śabada vī kahi rahē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਸ਼ਬਦ ਵੀ ਕਹਿ ਰਹੇ ਹੋ",
+        "You are saying a many words too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "family",
+            "adj": "each",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are saying each word now",
+        "tusīṁ huṇa harēka śabada kahi rahē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਹਰੇਕ ਸ਼ਬਦ ਕਹਿ ਰਹੇ ਹੋ",
+        "You are saying each word now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "family",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are saying each word well",
+        "tusīṁ harēka śabada nū cagī tar'hāṁ kahi rahē hō",
+        "ਤੁਸੀਂ ਹਰੇਕ ਸ਼ਬਦ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਹਿ ਰਹੇ ਹੋ",
+        "You are saying each word well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "family",
+            "adj": "each",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are saying each word too",
+        "tusīṁ hara śabada vī kahi rahē hō",
+        "ਤੁਸੀਂ ਹਰ ਸ਼ਬਦ ਵੀ ਕਹਿ ਰਹੇ ਹੋ",
+        "You are saying each word too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "family",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are getting the first job here",
+        "tusīṁ ithē pahilī naukarī prāpata kara rahē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਪਹਿਲੀ ਨੌਕਰੀ ਪ੍ਰਾਪਤ ਕਰ ਰਹੇ ਹੋ",
+        "You are getting the first job here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adj": "good",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are getting the first job now",
+        "tuhānū huṇa pahilī naukarī mila rahī hai",
+        "ਤੁਹਾਨੂੰ ਹੁਣ ਪਹਿਲੀ ਨੌਕਰੀ ਮਿਲ ਰਹੀ ਹੈ",
+        "You are getting the first job now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are getting the first job well",
+        "tusīṁ pahilī naukarī cagī tar'hāṁ prāpata kara rahē hō",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਨੌਕਰੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਪ੍ਰਾਪਤ ਕਰ ਰਹੇ ਹੋ",
+        "You are getting the first job well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adj": "good",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are getting the first job too",
+        "tuhānū vī pahilī naukarī mila rahī hai",
+        "ਤੁਹਾਨੂੰ ਵੀ ਪਹਿਲੀ ਨੌਕਰੀ ਮਿਲ ਰਹੀ ਹੈ",
+        "You are getting the first job too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adj": "good",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are getting a many jobs here",
+        "tuhānū ithē bahuta sārī'āṁ naukarī'āṁ mila rahī'āṁ hana",
+        "ਤੁਹਾਨੂੰ ਇੱਥੇ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਮਿਲ ਰਹੀਆਂ ਹਨ",
+        "You are getting a many jobs here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "det": "the",
+            "adj": "first",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are getting a many jobs now",
+        "tuhānū huṇa bahuta sārī'āṁ naukarī'āṁ mila rahī'āṁ hana",
+        "ਤੁਹਾਨੂੰ ਹੁਣ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਮਿਲ ਰਹੀਆਂ ਹਨ",
+        "You are getting a many jobs now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "You are getting a many jobs well",
+        "tuhānū bahuta sārī'āṁ naukarī'āṁ cagī tar'hāṁ mila rahī'āṁ hana",
+        "ਤੁਹਾਨੂੰ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਮਿਲ ਰਹੀਆਂ ਹਨ",
+        "You are getting a many jobs well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "det": "the",
+            "adj": "first",
+            "adv": "well"
+        }
+    ],
+    [
+        "You are getting a many jobs too",
+        "tuhānū bahuta sārī'āṁ naukarī'āṁ vī mila rahī'āṁ hana",
+        "ਤੁਹਾਨੂੰ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਵੀ ਮਿਲ ਰਹੀਆਂ ਹਨ",
+        "You are getting a many jobs too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know a many men here",
+        "Tusīṁ ithē bahuta sārē ādamī jāṇadē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਬਹੁਤ ਸਾਰੇ ਆਦਮੀ ਜਾਣਦੇ ਹੋ",
+        "You know a many men here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adj": "many",
+            "adv": "here"
+        }
+    ],
+    [
+        "You know a many men now",
+        "tusīṁ huṇa bahuta sārē ādamī jāṇadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਬਹੁਤ ਸਾਰੇ ਆਦਮੀ ਜਾਣਦੇ ਹੋ",
+        "You know a many men now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know a many men well",
+        "tusīṁ bahuta sārē ādamī cagī tar'hāṁ jāṇadē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਆਦਮੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹੋ",
+        "You know a many men well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adj": "many",
+            "adv": "well"
+        }
+    ],
+    [
+        "You know a many men too",
+        "tusīṁ bahuta sārē ādamī vī jāṇadē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਆਦਮੀ ਵੀ ਜਾਣਦੇ ਹੋ",
+        "You know a many men too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know each man here",
+        "tusīṁ ithē harēka ādamī nū jāṇadē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਹਰੇਕ ਆਦਮੀ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know each man here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "adj": "each",
+            "adv": "here"
+        }
+    ],
+    [
+        "You know each man now",
+        "tusīṁ huṇa harēka ādamī nū jāṇadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਹਰੇਕ ਆਦਮੀ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know each man now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know each man well",
+        "tusīṁ hara ādamī nū cagī tar'hāṁ jāṇadē hō",
+        "ਤੁਸੀਂ ਹਰ ਆਦਮੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹੋ",
+        "You know each man well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "adj": "each",
+            "adv": "well"
+        }
+    ],
+    [
+        "You know each man too",
+        "tusīṁ harēka ādamī nū vī jāṇadē hō",
+        "ਤੁਸੀਂ ਹਰੇਕ ਆਦਮੀ ਨੂੰ ਵੀ ਜਾਣਦੇ ਹੋ",
+        "You know each man too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know the first mother here",
+        "tusīṁ ithē pahilī māṁ nū jāṇadē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਪਹਿਲੀ ਮਾਂ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know the first mother here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first",
+            "adv": "here"
+        }
+    ],
+    [
+        "You know the first mother now",
+        "tusīṁ huṇa pahilī māṁ nū jāṇadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਪਹਿਲੀ ਮਾਂ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know the first mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know the first mother well",
+        "tusīṁ pahilī māṁ nū cagī tar'hāṁ jāṇadē hō",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਮਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹੋ",
+        "You know the first mother well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first",
+            "adv": "well"
+        }
+    ],
+    [
+        "You know the first mother too",
+        "tusīṁ pahilī māṁ nū vī jāṇadē hō",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਮਾਂ ਨੂੰ ਵੀ ਜਾਣਦੇ ਹੋ",
+        "You know the first mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know your many mothers here",
+        "tusīṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ nū ithē jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਇੱਥੇ ਜਾਣਦੇ ਹੋ",
+        "You know your many mothers here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many",
+            "adv": "here"
+        }
+    ],
+    [
+        "You know your many mothers now",
+        "tusīṁ huṇa āpaṇī'āṁ bahuta sārī'āṁ māvāṁ nū jāṇadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know your many mothers now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know your many mothers well",
+        "tusīṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ nū cagī tar'hāṁ jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹੋ",
+        "You know your many mothers well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many",
+            "adv": "well"
+        }
+    ],
+    [
+        "You know your many mothers too",
+        "tusīṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ nū vī jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਵੀ ਜਾਣਦੇ ਹੋ",
+        "You know your many mothers too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know each mother here",
+        "tusīṁ ithē hara māṁ nū jāṇadē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਹਰ ਮਾਂ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know each mother here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "mother",
+            "adj": "each",
+            "adv": "here"
+        }
+    ],
+    [
+        "You know each mother now",
+        "tusīṁ huṇa hara māṁ nū jāṇadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਹਰ ਮਾਂ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know each mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "mother",
+            "adj": "each",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know each mother well",
+        "tusīṁ hara māṁ nū cagī tar'hāṁ jāṇadē hō",
+        "ਤੁਸੀਂ ਹਰ ਮਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹੋ",
+        "You know each mother well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "mother",
+            "adj": "each",
+            "adv": "well"
+        }
+    ],
+    [
+        "You know each mother too",
+        "tusīṁ hara māṁ nū vī jāṇadē hō",
+        "ਤੁਸੀਂ ਹਰ ਮਾਂ ਨੂੰ ਵੀ ਜਾਣਦੇ ਹੋ",
+        "You know each mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "mother",
+            "adj": "each",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know a good student here",
+        "tusīṁ ithē ika cagē vidi'ārathī nū jāṇadē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇੱਕ ਚੰਗੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know a good student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adj": "good",
+            "adv": "here"
+        }
+    ],
+    [
+        "You know a good student now",
+        "tusīṁ huṇa ika cagē vidi'ārathī nū jāṇadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਚੰਗੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know a good student now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adj": "good",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know a good student well",
+        "Tusīṁ ika cagē vidi'ārathī nū cagī tar'hāṁ jāṇadē hō",
+        "ਤੁਸੀਂ ਇਕ ਚੰਗੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹੋ",
+        "You know a good student well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adj": "good",
+            "adv": "well"
+        }
+    ],
+    [
+        "You know a good student too",
+        "tusīṁ ika cagē vidi'ārathī nū vī jāṇadē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਚੰਗੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੀ ਜਾਣਦੇ ਹੋ",
+        "You know a good student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adj": "good",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know the first student here",
+        "tusīṁ ithē pahilē vidi'ārathī nū jāṇadē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know the first student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "student",
+            "det": "the",
+            "adj": "first",
+            "adv": "here"
+        }
+    ],
+    [
+        "You know the first student now",
+        "tusīṁ huṇa pahilē vidi'ārathī nū jāṇadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know the first student now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "student",
+            "det": "the",
+            "adj": "first",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know the first student well",
+        "tusīṁ pahilē vidi'ārathī nū cagī tar'hāṁ jāṇadē hō",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹੋ",
+        "You know the first student well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "student",
+            "det": "the",
+            "adj": "first",
+            "adv": "well"
+        }
+    ],
+    [
+        "You know the first student too",
+        "tusīṁ pahilē vidi'ārathī nū vī jāṇadē hō",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੀ ਜਾਣਦੇ ਹੋ",
+        "You know the first student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "student",
+            "det": "the",
+            "adj": "first",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know a many students here",
+        "tusīṁ ithē bahuta sārē vidi'ārathī'āṁ nū jāṇadē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know a many students here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adj": "many",
+            "adv": "here"
+        }
+    ],
+    [
+        "You know a many students now",
+        "tusīṁ huṇa bahuta sārē vidi'ārathī'āṁ nū jāṇadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know a many students now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adj": "many",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know a many students well",
+        "tusīṁ bahuta sārē vidi'ārathī'āṁ nū cagī tar'hāṁ jāṇadē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹੋ",
+        "You know a many students well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adj": "many",
+            "adv": "well"
+        }
+    ],
+    [
+        "You know a many students too",
+        "tusīṁ bahuta sārē vidi'ārathī'āṁ nū vī jāṇadē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਵੀ ਜਾਣਦੇ ਹੋ",
+        "You know a many students too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adj": "many",
+            "adv": "too"
+        }
+    ]
+]

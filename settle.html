@@ -31,6 +31,8 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
     <script src="common.js"></script>
+    <script src="keeping.js"></script>
+    <script src="langinfo.js"></script>
     <script src="settle_canvas.js"></script>
     <script src="settle_script.js"></script>
     <link rel="stylesheet" href="settle_styles.css"></link>
@@ -42,6 +44,7 @@
     <link rel="stylesheet" href="whiteboard/style.css">
     <script src="whiteboard/content/rawdb.js"></script>
     <script src="whiteboard/content/mydb.js"></script>
+    <script src="whiteboard/content/langdb.js"></script>
     <script src="whiteboard/script.js"></script>
 
     <link rel="stylesheet" href="forms/style.css">
@@ -132,6 +135,9 @@
           </li>
           <li class="nav-item">
             <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-3" id="status-report" style="font-size:22px;color:gray;background:white; float-left" onclick="launchStatusReportModal()" data-toggle="tooltip" title="Production status">network_check</i></a>
+          </li>
+          <li class="nav-item">
+            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-3" id="status-report" style="font-size:22px;color:gray;background:white; float-left" onclick="launchLanguageReportModal()" data-toggle="tooltip" title="Langauge scores">view_carousel</i></a>
           </li>
           <!-- <div class="col-2"></div> -->
           <div style="display: inline-flex;" hidden>
@@ -435,6 +441,14 @@
       function launchStatusReportModal() {
           callStatusReportModal();
           $('#statusReportModal').modal()
+      }
+      function launchLanguageReportModal() {
+          let language_data = JSON.parse(localStorage.getItem('langscores')||"{}");
+          if(!language_data || !language_data.clusters) return alert(`No langauge scores data yet!`);
+          let language_report = JSON.stringify(language_data.clusters[1]);
+          alert(language_report);
+          // callLanguageReportModal();
+          // $('#languageReportModal').modal()
       }
       $(() => {
           createMiniFormModal();

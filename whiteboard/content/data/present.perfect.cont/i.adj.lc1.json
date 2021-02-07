@@ -1,0 +1,5115 @@
+[
+    [
+        "I have been being the first child",
+        "Maiṁ pahilā bacā rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਬੱਚਾ ਰਿਹਾ ਹਾਂ",
+        "I have been being the first child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "child",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been being my many children",
+        "maiṁ āpaṇē bahuta sārē bacē rahē hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚੇ ਰਹੇ ਹਾਂ",
+        "I have been being my many children",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "child",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been being each child",
+        "maiṁ hara bacā rihā hāṁ",
+        "ਮੈਂ ਹਰ ਬੱਚਾ ਰਿਹਾ ਹਾਂ",
+        "I have been being each child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "child",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been being a good student",
+        "maiṁ ika cagā vidi'ārathī rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗਾ ਵਿਦਿਆਰਥੀ ਰਿਹਾ ਹਾਂ",
+        "I have been being a good student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have been being the first student",
+        "maiṁ pahilā vidi'ārathī rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਵਿਦਿਆਰਥੀ ਰਿਹਾ ਹਾਂ",
+        "I have been being the first student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been being a many students",
+        "maiṁ bahuta sārē vidi'ārathī rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀ ਰਿਹਾ ਹਾਂ",
+        "I have been being a many students",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been being each student",
+        "maiṁ hara vidi'ārathī rihā hāṁ",
+        "ਮੈਂ ਹਰ ਵਿਦਿਆਰਥੀ ਰਿਹਾ ਹਾਂ",
+        "I have been being each student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been having a good book",
+        "mērī cagī kitāba rahī hai",
+        "ਮੇਰੀ ਚੰਗੀ ਕਿਤਾਬ ਰਹੀ ਹੈ",
+        "I have been having a good book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "book",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have been having each book",
+        "mērē kōla hara kitāba rahī hai",
+        "ਮੇਰੇ ਕੋਲ ਹਰ ਕਿਤਾਬ ਰਹੀ ਹੈ",
+        "I have been having each book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "book",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been having the first child",
+        "mērā pahilā bacā rihā hai",
+        "ਮੇਰਾ ਪਹਿਲਾ ਬੱਚਾ ਰਿਹਾ ਹੈ",
+        "I have been having the first child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "child",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been having my many children",
+        "mērē bahuta sārē bacē hō'ē hana",
+        "ਮੇਰੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚੇ ਹੋਏ ਹਨ",
+        "I have been having my many children",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "child",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been having each child",
+        "mērā hara bacā hudā rihā hai",
+        "ਮੇਰਾ ਹਰ ਬੱਚਾ ਹੁੰਦਾ ਰਿਹਾ ਹੈ",
+        "I have been having each child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "child",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been having the first family",
+        "mērā pahilā parivāra rihā hai",
+        "ਮੇਰਾ ਪਹਿਲਾ ਪਰਿਵਾਰ ਰਿਹਾ ਹੈ",
+        "I have been having the first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been having my many families",
+        "mērē bahuta sārē parivāra rahē hana",
+        "ਮੇਰੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰ ਰਹੇ ਹਨ",
+        "I have been having my many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "family",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been having each family",
+        "mērā hara ika parivāra rihā hai",
+        "ਮੇਰਾ ਹਰ ਇੱਕ ਪਰਿਵਾਰ ਰਿਹਾ ਹੈ",
+        "I have been having each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been having a many hands",
+        "mērē bahuta sārē hatha rahē hana",
+        "ਮੇਰੇ ਬਹੁਤ ਸਾਰੇ ਹੱਥ ਰਹੇ ਹਨ",
+        "I have been having a many hands",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "hand",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been having each hand",
+        "mērā hara hatha rihā hai",
+        "ਮੇਰਾ ਹਰ ਹੱਥ ਰਿਹਾ ਹੈ",
+        "I have been having each hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "hand",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been having a first home",
+        "Mērā pahilā ghara rihā hai",
+        "ਮੇਰਾ ਪਹਿਲਾ ਘਰ ਰਿਹਾ ਹੈ",
+        "I have been having a first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been having a many home",
+        "mērā bahuta sārā ghara rihā hai",
+        "ਮੇਰਾ ਬਹੁਤ ਸਾਰਾ ਘਰ ਰਿਹਾ ਹੈ",
+        "I have been having a many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been having a home",
+        "mērā ika ghara rihā hai",
+        "ਮੇਰਾ ਇੱਕ ਘਰ ਰਿਹਾ ਹੈ",
+        "I have been having a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been having the first mother",
+        "mērī pahilī māṁ rahī hai",
+        "ਮੇਰੀ ਪਹਿਲੀ ਮਾਂ ਰਹੀ ਹੈ",
+        "I have been having the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been having my many mothers",
+        "mainū mērī'āṁ bahuta sārī'āṁ māvāṁ milī'āṁ hana",
+        "ਮੈਨੂੰ ਮੇਰੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਮਿਲੀਆਂ ਹਨ",
+        "I have been having my many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been having each mother",
+        "mērī hara māṁ hudī rahī hai",
+        "ਮੇਰੀ ਹਰ ਮਾਂ ਹੁੰਦੀ ਰਹੀ ਹੈ",
+        "I have been having each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been having the first room",
+        "mērā pahilā kamarā rihā hai",
+        "ਮੇਰਾ ਪਹਿਲਾ ਕਮਰਾ ਰਿਹਾ ਹੈ",
+        "I have been having the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been having a many rooms",
+        "Mērē kōla bahuta sārē kamarē sana",
+        "ਮੇਰੇ ਕੋਲ ਬਹੁਤ ਸਾਰੇ ਕਮਰੇ ਸਨ",
+        "I have been having a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been having each room",
+        "mērē kōla hara kamarā rihā hai",
+        "ਮੇਰੇ ਕੋਲ ਹਰ ਕਮਰਾ ਰਿਹਾ ਹੈ",
+        "I have been having each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been having a good thing",
+        "mainū ika cagī cīza ditī ga'ī hai",
+        "ਮੈਨੂੰ ਇੱਕ ਚੰਗੀ ਚੀਜ਼ ਦਿੱਤੀ ਗਈ ਹੈ",
+        "I have been having a good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have been having the first thing",
+        "mērī pahilī cīza rahī hai",
+        "ਮੇਰੀ ਪਹਿਲੀ ਚੀਜ਼ ਰਹੀ ਹੈ",
+        "I have been having the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been having a many things",
+        "mērē kōla bahuta sārī'āṁ cīzāṁ hudī'āṁ rahī'āṁ hana",
+        "ਮੇਰੇ ਕੋਲ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਹੁੰਦੀਆਂ ਰਹੀਆਂ ਹਨ",
+        "I have been having a many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been having each thing",
+        "mērē kōla hara cīza rahī hai",
+        "ਮੇਰੇ ਕੋਲ ਹਰ ਚੀਜ਼ ਰਹੀ ਹੈ",
+        "I have been having each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been having a good week",
+        "mainū ika cagā hafatā rihā hai",
+        "ਮੈਨੂੰ ਇੱਕ ਚੰਗਾ ਹਫ਼ਤਾ ਰਿਹਾ ਹੈ",
+        "I have been having a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have been having the first week",
+        "maiṁ pahilē haphatē rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਹਫਤੇ ਰਿਹਾ ਹਾਂ",
+        "I have been having the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been having a many weeks",
+        "mainū bahuta sārē haphatē hō'ē hana",
+        "ਮੈਨੂੰ ਬਹੁਤ ਸਾਰੇ ਹਫਤੇ ਹੋਏ ਹਨ",
+        "I have been having a many weeks",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been having each week",
+        "maiṁ hara haphatē rihā hāṁ",
+        "ਮੈਂ ਹਰ ਹਫਤੇ ਰਿਹਾ ਹਾਂ",
+        "I have been having each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been having my good work",
+        "maiṁ āpaṇā cagā kama kara rihā hāṁ",
+        "ਮੈਂ ਆਪਣਾ ਚੰਗਾ ਕੰਮ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I have been having my good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have been having my first work",
+        "maiṁ āpaṇā pahilā kama kara rihā hāṁ",
+        "ਮੈਂ ਆਪਣਾ ਪਹਿਲਾ ਕੰਮ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I have been having my first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been having my each work",
+        "Maiṁ āpaṇā hara kama kara rihā hāṁ",
+        "ਮੈਂ ਆਪਣਾ ਹਰ ਕੰਮ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I have been having my each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been doing a good thing",
+        "maiṁ ika cagā kama kara rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗਾ ਕੰਮ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I have been doing a good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have been doing the first thing",
+        "maiṁ pahilī cīza kara rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਚੀਜ਼ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I have been doing the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been doing a many things",
+        "maiṁ bahuta sārī'āṁ cīzāṁ kara rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I have been doing a many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been doing each thing",
+        "maiṁ hara kama kara rihā hāṁ",
+        "ਮੈਂ ਹਰ ਕੰਮ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I have been doing each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been doing good work",
+        "maiṁ cagā kama kara rihā hāṁ",
+        "ਮੈਂ ਚੰਗਾ ਕੰਮ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I have been doing good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have been doing the first work",
+        "maiṁ pahilā kama kara rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਕੰਮ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I have been doing the first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been doing each work",
+        "maiṁ hara kama kara rihā hāṁ",
+        "ਮੈਂ ਹਰ ਕੰਮ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I have been doing each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been going to the first family",
+        "maiṁ pahilē parivāra nū jā rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਪਰਿਵਾਰ ਨੂੰ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I have been going to the first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been going to my many families",
+        "maiṁ āpaṇē bahuta sārē parivārāṁ nū jā rihā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਨੂੰ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I have been going to my many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "family",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been going to each family",
+        "maiṁ harēka parivāra nū jāndā rihā hāṁ",
+        "ਮੈਂ ਹਰੇਕ ਪਰਿਵਾਰ ਨੂੰ ਜਾਂਦਾ ਰਿਹਾ ਹਾਂ",
+        "I have been going to each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been going to the first home",
+        "maiṁ pahilē ghara jā rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਘਰ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I have been going to the first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been going many home",
+        "maiṁ bahuta sārē ghara jā rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਘਰ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I have been going many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been going each home",
+        "maiṁ hara ghara jā rihā hāṁ",
+        "ਮੈਂ ਹਰ ਘਰ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I have been going each home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been going to the first mother",
+        "maiṁ pahilī māṁ kōla gi'ā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਮਾਂ ਕੋਲ ਗਿਆ ਹਾਂ",
+        "I have been going to the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been going to my many mothers",
+        "maiṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ kōla jā rihā hāṁ",
+        "ਮੈਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਕੋਲ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I have been going to my many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "mother",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been going to each mother",
+        "maiṁ hara māṁ kōla jāndā rihā hāṁ",
+        "ਮੈਂ ਹਰ ਮਾਂ ਕੋਲ ਜਾਂਦਾ ਰਿਹਾ ਹਾਂ",
+        "I have been going to each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been going to the first room",
+        "maiṁ pahilē kamarē vica gi'ā hō'i'ā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਕਮਰੇ ਵਿਚ ਗਿਆ ਹੋਇਆ ਹਾਂ",
+        "I have been going to the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been going to a many rooms",
+        "maiṁ bahuta sārē kamari'āṁ vica jā rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਕਮਰਿਆਂ ਵਿਚ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I have been going to a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been going to each room",
+        "Maiṁ hara kamarē vica jāndā rihā hāṁ",
+        "ਮੈਂ ਹਰ ਕਮਰੇ ਵਿਚ ਜਾਂਦਾ ਰਿਹਾ ਹਾਂ",
+        "I have been going to each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been going to a good student",
+        "maiṁ ika cagē vidi'ārathī kōla gi'ā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗੇ ਵਿਦਿਆਰਥੀ ਕੋਲ ਗਿਆ ਹਾਂ",
+        "I have been going to a good student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have been going to the first student",
+        "maiṁ pahilē vidi'ārathī kōla gi'ā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਕੋਲ ਗਿਆ ਹਾਂ",
+        "I have been going to the first student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been going to a many students",
+        "maiṁ bahuta sārē vidi'ārathī'āṁ kōla gi'ā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਕੋਲ ਗਿਆ ਹਾਂ",
+        "I have been going to a many students",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been going to each student",
+        "maiṁ harēka vidi'ārathī kōla jāndā rihā hāṁ",
+        "ਮੈਂ ਹਰੇਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾਂਦਾ ਰਿਹਾ ਹਾਂ",
+        "I have been going to each student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been going for a good week",
+        "maiṁ ika cagē haphatē la'ī gi'ā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗੇ ਹਫਤੇ ਲਈ ਗਿਆ ਹਾਂ",
+        "I have been going for a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have been going for the first week",
+        "maiṁ pahilē haphatē jā rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਹਫਤੇ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I have been going for the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been going for a many a week",
+        "maiṁ bahuta sārē haphatē tōṁ jā rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਹਫਤੇ ਤੋਂ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I have been going for a many a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been going for each week",
+        "maiṁ hara haphatē jā rihā hāṁ",
+        "ਮੈਂ ਹਰ ਹਫਤੇ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I have been going for each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been going to good work",
+        "maiṁ cagē kama vala gi'ā hāṁ",
+        "ਮੈਂ ਚੰਗੇ ਕੰਮ ਵੱਲ ਗਿਆ ਹਾਂ",
+        "I have been going to good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have been going to the first work",
+        "maiṁ pahilē kama tē gi'ā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਕੰਮ ਤੇ ਗਿਆ ਹਾਂ",
+        "I have been going to the first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been going to each work",
+        "maiṁ hara kama vica jāndā rihā hāṁ",
+        "ਮੈਂ ਹਰ ਕੰਮ ਵਿਚ ਜਾਂਦਾ ਰਿਹਾ ਹਾਂ",
+        "I have been going to each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have known the first child",
+        "maiṁ pahilē bacē nū jāṇi'ā hai",
+        "ਮੈਂ ਪਹਿਲੇ ਬੱਚੇ ਨੂੰ ਜਾਣਿਆ ਹੈ",
+        "I have known the first child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "child",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have known by many children",
+        "maiṁ bahuta sārē baci'āṁ du'ārā jāṇi'ā hai",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਬੱਚਿਆਂ ਦੁਆਰਾ ਜਾਣਿਆ ਹੈ",
+        "I have known by many children",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "child",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have known each child",
+        "maiṁ hara bacē nū jāṇadā hāṁ",
+        "ਮੈਂ ਹਰ ਬੱਚੇ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I have known each child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "child",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have known my first family",
+        "Maiṁ āpaṇē pahilē parivāra nū jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਪਹਿਲੇ ਪਰਿਵਾਰ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I have known my first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have known by many families",
+        "maiṁ bahuta sārē parivārāṁ du'ārā jāṇi'ā hai",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਦੁਆਰਾ ਜਾਣਿਆ ਹੈ",
+        "I have known by many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "family",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have known by each family",
+        "maiṁ harēka parivāra du'ārā jāṇadā hāṁ",
+        "ਮੈਂ ਹਰੇਕ ਪਰਿਵਾਰ ਦੁਆਰਾ ਜਾਣਦਾ ਹਾਂ",
+        "I have known by each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have known a good man",
+        "maiṁ ika cagē ādamī nū jāṇadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗੇ ਆਦਮੀ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I have known a good man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have known the first man",
+        "maiṁ pahilē ādamī nū jāṇa li'ā hai",
+        "ਮੈਂ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਜਾਣ ਲਿਆ ਹੈ",
+        "I have known the first man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "man",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have known a many men",
+        "maiṁ bahuta sārē ādamī'āṁ nū jāṇadā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਆਦਮੀਆਂ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I have known a many men",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have known each man",
+        "maiṁ harēka ādamī nū jāṇadā hāṁ",
+        "ਮੈਂ ਹਰੇਕ ਆਦਮੀ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I have known each man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "man",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have known the first mother",
+        "maiṁ pahilī māṁ nū jāṇadī hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਮਾਂ ਨੂੰ ਜਾਣਦੀ ਹਾਂ",
+        "I have known the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have known by many mothers",
+        "mainū bahuta sārī'āṁ māvāṁ du'ārā jāṇi'ā jāndā hai",
+        "ਮੈਨੂੰ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਦੁਆਰਾ ਜਾਣਿਆ ਜਾਂਦਾ ਹੈ",
+        "I have known by many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "mother",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have known each mother",
+        "maiṁ hara māṁ nū jāṇadā hāṁ",
+        "ਮੈਂ ਹਰ ਮਾਂ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I have known each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have known a good student",
+        "maiṁ ika cagā vidi'ārathī jāṇadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗਾ ਵਿਦਿਆਰਥੀ ਜਾਣਦਾ ਹਾਂ",
+        "I have known a good student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have known the first student",
+        "maiṁ pahilē vidi'ārathī nū jāṇadā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I have known the first student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have known a many students",
+        "maiṁ bahuta sārē vidi'ārathī'āṁ nū jāṇadā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I have known a many students",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have known each student",
+        "maiṁ harēka vidi'ārathī nū jāṇadā hāṁ",
+        "ਮੈਂ ਹਰੇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I have known each student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have known my good thing",
+        "maiṁ āpaṇī cagī cīza jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਚੰਗੀ ਚੀਜ਼ ਜਾਣਦਾ ਹਾਂ",
+        "I have known my good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have known my first thing",
+        "maiṁ āpaṇī pahilī cīza jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਪਹਿਲੀ ਚੀਜ਼ ਜਾਣਦਾ ਹਾਂ",
+        "I have known my first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have known by many things",
+        "maiṁ bahuta sārī'āṁ cīzāṁ du'ārā jāṇi'ā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਦੁਆਰਾ ਜਾਣਿਆ ਹਾਂ",
+        "I have known by many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have known by each thing",
+        "maiṁ hara cīza du'ārā jāṇi'ā hāṁ",
+        "ਮੈਂ ਹਰ ਚੀਜ਼ ਦੁਆਰਾ ਜਾਣਿਆ ਹਾਂ",
+        "I have known by each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have known the first woman",
+        "maiṁ pahilī knownrata nū jāṇi'ā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ knownਰਤ ਨੂੰ ਜਾਣਿਆ ਹਾਂ",
+        "I have known the first woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have known a many women",
+        "maiṁ bahuta sārī'āṁ knownratāṁ nū jāṇi'ā hai",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ knownਰਤਾਂ ਨੂੰ ਜਾਣਿਆ ਹੈ",
+        "I have known a many women",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have known each woman",
+        "maiṁ harēka knownrata nū jāṇadā hāṁ",
+        "ਮੈਂ ਹਰੇਕ knownਰਤ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I have known each woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have known a good word",
+        "mainū ika cagā śabada patā hai",
+        "ਮੈਨੂੰ ਇੱਕ ਚੰਗਾ ਸ਼ਬਦ ਪਤਾ ਹੈ",
+        "I have known a good word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have known the first word",
+        "mainū pahilā śabada patā hai",
+        "ਮੈਨੂੰ ਪਹਿਲਾ ਸ਼ਬਦ ਪਤਾ ਹੈ",
+        "I have known the first word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "word",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have known a many words",
+        "Maiṁ bahuta sārē śabada jāṇē hana",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਸ਼ਬਦ ਜਾਣੇ ਹਨ",
+        "I have known a many words",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have known each word",
+        "maiṁ harēka śabada nū jāṇadā hāṁ",
+        "ਮੈਂ ਹਰੇਕ ਸ਼ਬਦ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I have known each word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "word",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have known my good work",
+        "mainū mērā cagā kama patā hai",
+        "ਮੈਨੂੰ ਮੇਰਾ ਚੰਗਾ ਕੰਮ ਪਤਾ ਹੈ",
+        "I have known my good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have known my first work",
+        "mainū mērā pahilā kama patā hai",
+        "ਮੈਨੂੰ ਮੇਰਾ ਪਹਿਲਾ ਕੰਮ ਪਤਾ ਹੈ",
+        "I have known my first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have known by each work",
+        "maiṁ hara kama du'ārā jāṇadā hāṁ",
+        "ਮੈਂ ਹਰ ਕੰਮ ਦੁਆਰਾ ਜਾਣਦਾ ਹਾਂ",
+        "I have known by each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been seeing a good book",
+        "maiṁ ika cagī kitāba vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗੀ ਕਿਤਾਬ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing a good book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have been seeing each book",
+        "maiṁ hara kitāba vēkha rihā hāṁ",
+        "ਮੈਂ ਹਰ ਕਿਤਾਬ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing each book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "book",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been seeing the first child",
+        "maiṁ pahilē bacē nū vēkha rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਬੱਚੇ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing the first child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "child",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been seeing my many children",
+        "maiṁ āpaṇē bahuta sārē baci'āṁ nū vēkha rihā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚਿਆਂ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing my many children",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "child",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been seeing each child",
+        "maiṁ hara bacē nū vēkhadā rihā hāṁ",
+        "ਮੈਂ ਹਰ ਬੱਚੇ ਨੂੰ ਵੇਖਦਾ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing each child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "child",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been seeing the first family",
+        "maiṁ pahilē parivāra nū vēkha rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਪਰਿਵਾਰ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing the first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been seeing my many families",
+        "maiṁ āpaṇē bahuta sārē parivāra vēkha rihā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing my many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "family",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been seeing each family",
+        "maiṁ harēka parivāra nū vēkhadā rihā hāṁ",
+        "ਮੈਂ ਹਰੇਕ ਪਰਿਵਾਰ ਨੂੰ ਵੇਖਦਾ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been seeing a many hands",
+        "maiṁ bahuta sārē hatha vēkhadā rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਹੱਥ ਵੇਖਦਾ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing a many hands",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been seeing each hand",
+        "maiṁ hara ika hatha nū vēkha rihā hāṁ",
+        "ਮੈਂ ਹਰ ਇੱਕ ਹੱਥ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing each hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "hand",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been seeing a first home",
+        "maiṁ pahilā ghara vēkhadā rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਘਰ ਵੇਖਦਾ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing a first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been seeing a many home",
+        "maiṁ bahuta sārē ghara nū vēkha rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਘਰ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing a many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been seeing a home",
+        "maiṁ ika ghara vēkhadā rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਘਰ ਵੇਖਦਾ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been seeing a good man",
+        "maiṁ ika cagē ādamī nū vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗੇ ਆਦਮੀ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing a good man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have been seeing the first man",
+        "maiṁ pahilē ādamī nū vēkha rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing the first man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "man",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been seeing a many men",
+        "maiṁ bahuta sārē ādamī vēkhadā rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਆਦਮੀ ਵੇਖਦਾ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing a many men",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been seeing each man",
+        "maiṁ hara ādamī nū vēkhadā rihā hāṁ",
+        "ਮੈਂ ਹਰ ਆਦਮੀ ਨੂੰ ਵੇਖਦਾ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing each man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "man",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been seeing the first mother",
+        "maiṁ pahilī māṁ nū vēkha rahī hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਮਾਂ ਨੂੰ ਵੇਖ ਰਹੀ ਹਾਂ",
+        "I have been seeing the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been seeing my many mothers",
+        "maiṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ nū vēkhadā rihā hāṁ",
+        "ਮੈਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਵੇਖਦਾ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing my many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "mother",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been seeing each mother",
+        "maiṁ hara māṁ nū vēkhadā rihā hāṁ",
+        "ਮੈਂ ਹਰ ਮਾਂ ਨੂੰ ਵੇਖਦਾ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been seeing the first room",
+        "maiṁ pahilē kamarē nū vēkha rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਕਮਰੇ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been seeing a many rooms",
+        "maiṁ bahuta sārē kamarē vēkha rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਕਮਰੇ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been seeing each room",
+        "maiṁ harēka kamarē nū vēkha rihā hāṁ",
+        "ਮੈਂ ਹਰੇਕ ਕਮਰੇ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been seeing a good student",
+        "maiṁ ika cagā vidi'ārathī vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗਾ ਵਿਦਿਆਰਥੀ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing a good student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have been seeing the first student",
+        "maiṁ pahilē vidi'ārathī nū vēkha rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing the first student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been seeing a many students",
+        "maiṁ bahuta sārē vidi'ārathī'āṁ nū vēkha rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing a many students",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been seeing each student",
+        "maiṁ harēka vidi'ārathī nū vēkhadā rihā hāṁ",
+        "ਮੈਂ ਹਰੇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖਦਾ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing each student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been seeing a good thing",
+        "maiṁ ika cagī cīza vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗੀ ਚੀਜ਼ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing a good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have been seeing the first thing",
+        "maiṁ pahilī cīza vēkha rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਚੀਜ਼ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been seeing a many things",
+        "maiṁ bahuta sārī'āṁ cīzāṁ vēkha rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing a many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been seeing each thing",
+        "maiṁ hara cīza nū vēkhadā rihā hāṁ",
+        "ਮੈਂ ਹਰ ਚੀਜ਼ ਨੂੰ ਵੇਖਦਾ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been seeing the first woman",
+        "maiṁ pahilī seeingrata nū vēkha rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ seeingਰਤ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing the first woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been seeing a many women",
+        "maiṁ bahuta sārī'āṁ.Ratāṁ nū vēkha rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ .ਰਤਾਂ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing a many women",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been seeing each woman",
+        "maiṁ harēka seeingrata nū vēkhadā rihā hāṁ",
+        "ਮੈਂ ਹਰੇਕ seeingਰਤ ਨੂੰ ਵੇਖਦਾ ਰਿਹਾ ਹਾਂ",
+        "I have been seeing each woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been coming to the first family",
+        "maiṁ pahilē parivāra kōla ā rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਪਰਿਵਾਰ ਕੋਲ ਆ ਰਿਹਾ ਹਾਂ",
+        "I have been coming to the first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been coming to my many families",
+        "Maiṁ āpaṇē bahuta sārē parivārāṁ kōla ā rihā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਕੋਲ ਆ ਰਿਹਾ ਹਾਂ",
+        "I have been coming to my many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "family",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been coming to each family",
+        "maiṁ hara parivāra vica ā rihā hāṁ",
+        "ਮੈਂ ਹਰ ਪਰਿਵਾਰ ਵਿਚ ਆ ਰਿਹਾ ਹਾਂ",
+        "I have been coming to each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been coming to the first home",
+        "maiṁ pahilē ghara ā rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਘਰ ਆ ਰਿਹਾ ਹਾਂ",
+        "I have been coming to the first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been coming many home",
+        "maiṁ bahuta sārē ghara ā rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਘਰ ਆ ਰਿਹਾ ਹਾਂ",
+        "I have been coming many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been coming each home",
+        "maiṁ hara ghara ā'i'ā hō'i'ā hāṁ",
+        "ਮੈਂ ਹਰ ਘਰ ਆਇਆ ਹੋਇਆ ਹਾਂ",
+        "I have been coming each home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been coming to the first mother",
+        "maiṁ pahilī māṁ kōla ā'undī rahī hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਮਾਂ ਕੋਲ ਆਉਂਦੀ ਰਹੀ ਹਾਂ",
+        "I have been coming to the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been coming to my many mothers",
+        "maiṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ kōla ā rihā hāṁ",
+        "ਮੈਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਕੋਲ ਆ ਰਿਹਾ ਹਾਂ",
+        "I have been coming to my many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "mother",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been coming to each mother",
+        "maiṁ hara māṁ kōla ā'undī rahī hāṁ",
+        "ਮੈਂ ਹਰ ਮਾਂ ਕੋਲ ਆਉਂਦੀ ਰਹੀ ਹਾਂ",
+        "I have been coming to each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been coming to the first room",
+        "maiṁ pahilē kamarē vica ā rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਕਮਰੇ ਵਿਚ ਆ ਰਿਹਾ ਹਾਂ",
+        "I have been coming to the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been coming to a many rooms",
+        "maiṁ bahuta sārē kamari'āṁ vica ā rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਕਮਰਿਆਂ ਵਿਚ ਆ ਰਿਹਾ ਹਾਂ",
+        "I have been coming to a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been coming to each room",
+        "maiṁ hara kamarē vica ā'i'ā hō'i'ā hāṁ",
+        "ਮੈਂ ਹਰ ਕਮਰੇ ਵਿਚ ਆਇਆ ਹੋਇਆ ਹਾਂ",
+        "I have been coming to each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been coming for a good week",
+        "maiṁ ika cagē haphatē la'ī ā'i'ā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗੇ ਹਫਤੇ ਲਈ ਆਇਆ ਹਾਂ",
+        "I have been coming for a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have been coming for the first week",
+        "maiṁ pahilē haphatē tōṁ ā'i'ā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਹਫਤੇ ਤੋਂ ਆਇਆ ਹਾਂ",
+        "I have been coming for the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been coming for a many a week",
+        "maiṁ bahuta sārē haphatē tōṁ ā rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਹਫਤੇ ਤੋਂ ਆ ਰਿਹਾ ਹਾਂ",
+        "I have been coming for a many a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been coming for each week",
+        "Maiṁ hara haphatē ā'i'ā hāṁ",
+        "ਮੈਂ ਹਰ ਹਫਤੇ ਆਇਆ ਹਾਂ",
+        "I have been coming for each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been coming to good work",
+        "maiṁ cagē kama karana ā'i'ā hāṁ",
+        "ਮੈਂ ਚੰਗੇ ਕੰਮ ਕਰਨ ਆਇਆ ਹਾਂ",
+        "I have been coming to good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have been coming to the first work",
+        "maiṁ pahilē kama tē ā rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਕੰਮ ਤੇ ਆ ਰਿਹਾ ਹਾਂ",
+        "I have been coming to the first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been coming to each work",
+        "maiṁ hara kama vica ā'i'ā hāṁ",
+        "ਮੈਂ ਹਰ ਕੰਮ ਵਿਚ ਆਇਆ ਹਾਂ",
+        "I have been coming to each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been using a good book",
+        "maiṁ ika cagī kitāba dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗੀ ਕਿਤਾਬ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I have been using a good book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have been using each book",
+        "maiṁ harēka kitāba dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਹਰੇਕ ਕਿਤਾਬ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I have been using each book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "book",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been using a many hands",
+        "maiṁ bahuta sārē hathāṁ dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਹੱਥਾਂ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I have been using a many hands",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been using each hand",
+        "maiṁ hara ika hatha dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਹਰ ਇੱਕ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I have been using each hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "hand",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been using the first room",
+        "maiṁ pahilē kamarē dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਕਮਰੇ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I have been using the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been using a many rooms",
+        "maiṁ bahuta sārē kamarē varata rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਕਮਰੇ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I have been using a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been using each room",
+        "maiṁ harēka kamarē dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਹਰੇਕ ਕਮਰੇ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I have been using each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been using a good thing",
+        "maiṁ ika cagī cīza dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗੀ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I have been using a good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have been using the first thing",
+        "maiṁ pahilī cīza dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I have been using the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been using a many things",
+        "maiṁ bahuta sārī'āṁ cīzāṁ dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I have been using a many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been using each thing",
+        "maiṁ harēka cīza dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਹਰੇਕ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I have been using each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been using a good week",
+        "maiṁ ika cagā haphatā varata rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗਾ ਹਫਤਾ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I have been using a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have been using the first week",
+        "maiṁ pahilē haphatē varata rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਹਫਤੇ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I have been using the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been using a many a week",
+        "maiṁ haphatē vica bahuta varata rihā hāṁ",
+        "ਮੈਂ ਹਫਤੇ ਵਿਚ ਬਹੁਤ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I have been using a many a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been using each week",
+        "maiṁ hara haphatē varata rihā hāṁ",
+        "ਮੈਂ ਹਰ ਹਫਤੇ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I have been using each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been using a good word",
+        "maiṁ ika cagā śabada varata rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗਾ ਸ਼ਬਦ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I have been using a good word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have been using the first word",
+        "maiṁ pahilē śabada dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਸ਼ਬਦ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I have been using the first word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "word",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been using a many words",
+        "maiṁ bahuta sārē śabada varata rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਸ਼ਬਦ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I have been using a many words",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been using each word",
+        "maiṁ harēka śabada dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਹਰੇਕ ਸ਼ਬਦ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I have been using each word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "word",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been finding a good book",
+        "mainū ika cagī kitāba milī hai",
+        "ਮੈਨੂੰ ਇੱਕ ਚੰਗੀ ਕਿਤਾਬ ਮਿਲੀ ਹੈ",
+        "I have been finding a good book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have been finding each book",
+        "maiṁ hara kitāba labha rihā hāṁ",
+        "ਮੈਂ ਹਰ ਕਿਤਾਬ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I have been finding each book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "book",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been finding a first home",
+        "mainū ika pahilā ghara mili'ā hai",
+        "ਮੈਨੂੰ ਇੱਕ ਪਹਿਲਾ ਘਰ ਮਿਲਿਆ ਹੈ",
+        "I have been finding a first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been finding a many home",
+        "mainū bahuta sārā ghara mila rihā hai",
+        "ਮੈਨੂੰ ਬਹੁਤ ਸਾਰਾ ਘਰ ਮਿਲ ਰਿਹਾ ਹੈ",
+        "I have been finding a many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been finding a home",
+        "Maiṁ ika ghara labha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਘਰ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I have been finding a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been finding the first room",
+        "mainū pahilā kamarā mili'ā hai",
+        "ਮੈਨੂੰ ਪਹਿਲਾ ਕਮਰਾ ਮਿਲਿਆ ਹੈ",
+        "I have been finding the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been finding a many rooms",
+        "mainū bahuta sārē kamarē mila rahē hana",
+        "ਮੈਨੂੰ ਬਹੁਤ ਸਾਰੇ ਕਮਰੇ ਮਿਲ ਰਹੇ ਹਨ",
+        "I have been finding a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been finding each room",
+        "maiṁ hara kamarā labha rihā hāṁ",
+        "ਮੈਂ ਹਰ ਕਮਰਾ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I have been finding each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been finding a good thing",
+        "mainū ika cagī cīza mila rahī hai",
+        "ਮੈਨੂੰ ਇੱਕ ਚੰਗੀ ਚੀਜ਼ ਮਿਲ ਰਹੀ ਹੈ",
+        "I have been finding a good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have been finding the first thing",
+        "maiṁ pahilī cīza labha rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਚੀਜ਼ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I have been finding the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been finding a many things",
+        "mainū bahuta sārī'āṁ cīzāṁ milī'āṁ hana",
+        "ਮੈਨੂੰ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਮਿਲੀਆਂ ਹਨ",
+        "I have been finding a many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been finding each thing",
+        "maiṁ hara cīza labha rihā hāṁ",
+        "ਮੈਂ ਹਰ ਚੀਜ਼ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I have been finding each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been finding the first woman",
+        "maiṁ pahilī findingrata labha rahī hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ findingਰਤ ਲੱਭ ਰਹੀ ਹਾਂ",
+        "I have been finding the first woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been finding a many women",
+        "mainū bahuta sārī'āṁ findingratāṁ milī'āṁ hana",
+        "ਮੈਨੂੰ ਬਹੁਤ ਸਾਰੀਆਂ findingਰਤਾਂ ਮਿਲੀਆਂ ਹਨ",
+        "I have been finding a many women",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been finding each woman",
+        "maiṁ harēka findingrata nū labha rihā hāṁ",
+        "ਮੈਂ ਹਰੇਕ findingਰਤ ਨੂੰ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I have been finding each woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been finding a good word",
+        "mainū ika cagā śabada mili'ā hai",
+        "ਮੈਨੂੰ ਇੱਕ ਚੰਗਾ ਸ਼ਬਦ ਮਿਲਿਆ ਹੈ",
+        "I have been finding a good word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have been finding the first word",
+        "mainū pahilā śabada mili'ā hai",
+        "ਮੈਨੂੰ ਪਹਿਲਾ ਸ਼ਬਦ ਮਿਲਿਆ ਹੈ",
+        "I have been finding the first word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "word",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been finding a many words",
+        "mainū bahuta sārē śabada mila rahē hana",
+        "ਮੈਨੂੰ ਬਹੁਤ ਸਾਰੇ ਸ਼ਬਦ ਮਿਲ ਰਹੇ ਹਨ",
+        "I have been finding a many words",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have been finding each word",
+        "Maiṁ harēka śabada nū labha rihā hāṁ",
+        "ਮੈਂ ਹਰੇਕ ਸ਼ਬਦ ਨੂੰ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I have been finding each word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "word",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have been finding good work",
+        "mainū cagā kama mila rihā hai",
+        "ਮੈਨੂੰ ਚੰਗਾ ਕੰਮ ਮਿਲ ਰਿਹਾ ਹੈ",
+        "I have been finding good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have been finding the first work",
+        "maiṁ pahilā kama labha rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਕੰਮ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I have been finding the first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have been finding each work",
+        "maiṁ hara kama labha rihā hāṁ",
+        "ਮੈਂ ਹਰ ਕੰਮ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I have been finding each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "work",
+            "adj": "each"
+        }
+    ]
+]

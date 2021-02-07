@@ -1,0 +1,1336 @@
+[
+    [
+        "Who has been people?",
+        "Lōka kauṇa rahē hana?",
+        "ਲੋਕ ਕੌਣ ਰਹੇ ਹਨ?",
+        "Who has been people?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "be",
+            "noun": "people"
+        }
+    ],
+    [
+        "Who has had a business?",
+        "Kisa dā kārōbāra hō'i'ā hai?",
+        "ਕਿਸ ਦਾ ਕਾਰੋਬਾਰ ਹੋਇਆ ਹੈ?",
+        "Who has had a business?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has had a day?",
+        "Ika dina kauṇa rihā hai?",
+        "ਇੱਕ ਦਿਨ ਕੌਣ ਰਿਹਾ ਹੈ?",
+        "Who has had a day?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has had whose family?",
+        "Kisadā parivāra hai?",
+        "ਕਿਸਦਾ ਪਰਿਵਾਰ ਹੈ?",
+        "Who has had whose family?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "family",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who has had the group?",
+        "Samūha kauṇa hai?",
+        "ਸਮੂਹ ਕੌਣ ਹੈ?",
+        "Who has had the group?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "Who has had a job?",
+        "Kisanē naukarī kītī?",
+        "ਕਿਸਨੇ ਨੌਕਰੀ ਕੀਤੀ?",
+        "Who has had a job?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has had money?",
+        "Kisa kōla paisā hai?",
+        "ਕਿਸ ਕੋਲ ਪੈਸਾ ਹੈ?",
+        "Who has had money?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "money"
+        }
+    ],
+    [
+        "Who has had whose mother?",
+        "Kisadī māṁ hai?",
+        "ਕਿਸਦੀ ਮਾਂ ਹੈ?",
+        "Who has had whose mother?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who has had the right?",
+        "Kisa dā haka hai?",
+        "ਕਿਸ ਦਾ ਹੱਕ ਹੈ?",
+        "Who has had the right?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "right"
+        }
+    ],
+    [
+        "Who has had a room?",
+        "Kisa kōla ika kamarā hai?",
+        "ਕਿਸ ਕੋਲ ਇੱਕ ਕਮਰਾ ਹੈ?",
+        "Who has had a room?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has had a story?",
+        "Kisa dī kahāṇī hai?",
+        "ਕਿਸ ਦੀ ਕਹਾਣੀ ਹੈ?",
+        "Who has had a story?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has had a thing?",
+        "Kisa kōla cīza hai?",
+        "ਕਿਸ ਕੋਲ ਚੀਜ਼ ਹੈ?",
+        "Who has had a thing?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has had whose work?",
+        "Kisa dā kama hō'i'ā hai?",
+        "ਕਿਸ ਦਾ ਕੰਮ ਹੋਇਆ ਹੈ?",
+        "Who has had whose work?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "work"
+        }
+    ],
+    [
+        "Who has done a business?",
+        "Kārōbāra kisanē kītā hai?",
+        "ਕਾਰੋਬਾਰ ਕਿਸਨੇ ਕੀਤਾ ਹੈ?",
+        "Who has done a business?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has done a job?",
+        "Naukarī kisanē kītī?",
+        "ਨੌਕਰੀ ਕਿਸਨੇ ਕੀਤੀ?",
+        "Who has done a job?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has done it right?",
+        "Kisa nē isa nū sahī kītā hai?",
+        "ਕਿਸ ਨੇ ਇਸ ਨੂੰ ਸਹੀ ਕੀਤਾ ਹੈ?",
+        "Who has done it right?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "right"
+        }
+    ],
+    [
+        "Who has done a thing?",
+        "Kisanē ika kama kītā hai?",
+        "ਕਿਸਨੇ ਇੱਕ ਕੰਮ ਕੀਤਾ ਹੈ?",
+        "Who has done a thing?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has done work?",
+        "Kama kisanē kītā?",
+        "ਕੰਮ ਕਿਸਨੇ ਕੀਤਾ?",
+        "Who has done work?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "work"
+        }
+    ],
+    [
+        "Who has thought about a business?",
+        "Kisē kārōbāra bārē kisanē sōci'ā hai?",
+        "ਕਿਸੇ ਕਾਰੋਬਾਰ ਬਾਰੇ ਕਿਸਨੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about a business?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "think",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has thought about whose family?",
+        "Kisa dē parivāra bārē kisanē sōci'ā hai?",
+        "ਕਿਸ ਦੇ ਪਰਿਵਾਰ ਬਾਰੇ ਕਿਸਨੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about whose family?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "think",
+            "noun": "family",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who has thought about the group?",
+        "Garupa bārē kisa nē sōci'ā hai?",
+        "ਗਰੁੱਪ ਬਾਰੇ ਕਿਸ ਨੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about the group?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "think",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "Who has thought about a job?",
+        "Naukarī bārē kisanē sōci'ā hai?",
+        "ਨੌਕਰੀ ਬਾਰੇ ਕਿਸਨੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about a job?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "think",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has thought about money?",
+        "Paisē bārē kisanē sōci'ā hai?",
+        "ਪੈਸੇ ਬਾਰੇ ਕਿਸਨੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about money?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "think",
+            "noun": "money"
+        }
+    ],
+    [
+        "Who has thought about whose mother?",
+        "Kisadī māṁ bārē kisanē sōci'ā hai?",
+        "ਕਿਸਦੀ ਮਾਂ ਬਾਰੇ ਕਿਸਨੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about whose mother?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "think",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who has thought about people?",
+        "Lōkāṁ bārē kisanē sōci'ā hai?",
+        "ਲੋਕਾਂ ਬਾਰੇ ਕਿਸਨੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about people?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "think",
+            "noun": "people"
+        }
+    ],
+    [
+        "Who has thought right?",
+        "Kisa nē sahī sōci'ā hai?",
+        "ਕਿਸ ਨੇ ਸਹੀ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought right?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "think",
+            "noun": "right"
+        }
+    ],
+    [
+        "Who has thought about a story?",
+        "Kisa nē ika kahāṇī bārē sōci'ā hai?",
+        "ਕਿਸ ਨੇ ਇੱਕ ਕਹਾਣੀ ਬਾਰੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about a story?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "think",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has thought about work?",
+        "Kama bārē kisanē sōci'ā hai?",
+        "ਕੰਮ ਬਾਰੇ ਕਿਸਨੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about work?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "think",
+            "noun": "work"
+        }
+    ],
+    [
+        "Who has looked after a business?",
+        "Kārōbāra dī dēkhabhāla kisanē kītī?",
+        "ਕਾਰੋਬਾਰ ਦੀ ਦੇਖਭਾਲ ਕਿਸਨੇ ਕੀਤੀ?",
+        "Who has looked after a business?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "look",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has looked after whose family?",
+        "Kisanē āpaṇē parivāra dī dēkhabhāla kītī?",
+        "ਕਿਸਨੇ ਆਪਣੇ ਪਰਿਵਾਰ ਦੀ ਦੇਖਭਾਲ ਕੀਤੀ?",
+        "Who has looked after whose family?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "look",
+            "noun": "family",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who has looked at money?",
+        "Paisē nū kisa nē vēkhi'ā hai?",
+        "ਪੈਸੇ ਨੂੰ ਕਿਸ ਨੇ ਵੇਖਿਆ ਹੈ?",
+        "Who has looked at money?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "look",
+            "noun": "money"
+        }
+    ],
+    [
+        "Who has looked after whose mother?",
+        "Kisadī māṁ dī dēkhabhāla kītī hai?",
+        "ਕਿਸਦੀ ਮਾਂ ਦੀ ਦੇਖਭਾਲ ਕੀਤੀ ਹੈ?",
+        "Who has looked after whose mother?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "look",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who has looked after people?",
+        "Lōkāṁ dī dēkhabhāla kisanē kītī?",
+        "ਲੋਕਾਂ ਦੀ ਦੇਖਭਾਲ ਕਿਸਨੇ ਕੀਤੀ?",
+        "Who has looked after people?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "look",
+            "noun": "people"
+        }
+    ],
+    [
+        "Who has looked at a woman?",
+        "Kisanē kisē atrata vala vēkhi'ā hai?",
+        "ਕਿਸਨੇ ਕਿਸੇ atਰਤ ਵੱਲ ਵੇਖਿਆ ਹੈ?",
+        "Who has looked at a woman?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "look",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has looked for work?",
+        "Kama dī bhāla kisanē kītī?",
+        "ਕੰਮ ਦੀ ਭਾਲ ਕਿਸਨੇ ਕੀਤੀ?",
+        "Who has looked for work?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "look",
+            "noun": "work"
+        }
+    ],
+    [
+        "Who has wanted a day?",
+        "Kauṇa ika dina cāhudā hai?",
+        "ਕੌਣ ਇੱਕ ਦਿਨ ਚਾਹੁੰਦਾ ਹੈ?",
+        "Who has wanted a day?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "want",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has wanted whose family?",
+        "Kauṇa cāhudā hai kisadā parivāra?",
+        "ਕੌਣ ਚਾਹੁੰਦਾ ਹੈ ਕਿਸਦਾ ਪਰਿਵਾਰ?",
+        "Who has wanted whose family?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "want",
+            "noun": "family",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who has wanted the group?",
+        "Samūha kauṇa cāhudā hai?",
+        "ਸਮੂਹ ਕੌਣ ਚਾਹੁੰਦਾ ਹੈ?",
+        "Who has wanted the group?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "want",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "Who has wanted a job?",
+        "Naukarī kisanē la'ī hai?",
+        "ਨੌਕਰੀ ਕਿਸਨੇ ਲਈ ਹੈ?",
+        "Who has wanted a job?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "want",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has wanted money?",
+        "Paisā kisanū cāhīdā hai?",
+        "ਪੈਸਾ ਕਿਸਨੂੰ ਚਾਹੀਦਾ ਹੈ?",
+        "Who has wanted money?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "want",
+            "noun": "money"
+        }
+    ],
+    [
+        "Who has wanted a room?",
+        "Kauṇa ika kamarā cāhudā hai?",
+        "ਕੌਣ ਇੱਕ ਕਮਰਾ ਚਾਹੁੰਦਾ ਹੈ?",
+        "Who has wanted a room?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "want",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has wanted a story?",
+        "Kauṇa kahāṇī cāhudā hai?",
+        "ਕੌਣ ਕਹਾਣੀ ਚਾਹੁੰਦਾ ਹੈ?",
+        "Who has wanted a story?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "want",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has wanted a thing?",
+        "Kauṇa ika cīza cāhudā sī?",
+        "ਕੌਣ ਇੱਕ ਚੀਜ਼ ਚਾਹੁੰਦਾ ਸੀ?",
+        "Who has wanted a thing?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "want",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has wanted work?",
+        "Kama kauṇa cāhudā hai?",
+        "ਕੰਮ ਕੌਣ ਚਾਹੁੰਦਾ ਹੈ?",
+        "Who has wanted work?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "want",
+            "noun": "work"
+        }
+    ],
+    [
+        "Who has given money?",
+        "Paisē kisanē ditē?",
+        "ਪੈਸੇ ਕਿਸਨੇ ਦਿੱਤੇ?",
+        "Who has given money?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "give",
+            "noun": "money"
+        }
+    ],
+    [
+        "Who has given a thing?",
+        "Kisanē cīza ditī hai?",
+        "ਕਿਸਨੇ ਚੀਜ਼ ਦਿੱਤੀ ਹੈ?",
+        "Who has given a thing?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "give",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has worked for a day?",
+        "Ika dina la'ī kisanē kama kītā?",
+        "ਇੱਕ ਦਿਨ ਲਈ ਕਿਸਨੇ ਕੰਮ ਕੀਤਾ?",
+        "Who has worked for a day?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "work",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has worked for whose family?",
+        "Kisa dē parivāra la'ī kama kītā hai?",
+        "ਕਿਸ ਦੇ ਪਰਿਵਾਰ ਲਈ ਕੰਮ ਕੀਤਾ ਹੈ?",
+        "Who has worked for whose family?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "work",
+            "noun": "family",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who has worked for the government?",
+        "Kisanē sarakāra la'ī kama kītā?",
+        "ਕਿਸਨੇ ਸਰਕਾਰ ਲਈ ਕੰਮ ਕੀਤਾ?",
+        "Who has worked for the government?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "work",
+            "noun": "government",
+            "det": "the"
+        }
+    ],
+    [
+        "Who has worked with the group?",
+        "Garupa nāla kisanē kama kītā hai?",
+        "ਗਰੁੱਪ ਨਾਲ ਕਿਸਨੇ ਕੰਮ ਕੀਤਾ ਹੈ?",
+        "Who has worked with the group?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "work",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "Who has worked for money?",
+        "Paisē la'ī kisanē kama kītā?",
+        "ਪੈਸੇ ਲਈ ਕਿਸਨੇ ਕੰਮ ਕੀਤਾ?",
+        "Who has worked for money?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "work",
+            "noun": "money"
+        }
+    ],
+    [
+        "Who has worked with people?",
+        "Kisanē lōkāṁ nāla kama kītā hai?",
+        "ਕਿਸਨੇ ਲੋਕਾਂ ਨਾਲ ਕੰਮ ਕੀਤਾ ਹੈ?",
+        "Who has worked with people?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "work",
+            "noun": "people"
+        }
+    ]
+]

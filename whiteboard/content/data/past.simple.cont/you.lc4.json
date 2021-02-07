@@ -1,0 +1,779 @@
+[
+    [
+        "You are being a student",
+        "tusīṁ vidi'ārathī hō",
+        "ਤੁਸੀਂ ਵਿਦਿਆਰਥੀ ਹੋ",
+        "You are being a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "You are having a business",
+        "tuhāḍā kārōbāra hō rihā hai",
+        "ਤੁਹਾਡਾ ਕਾਰੋਬਾਰ ਹੋ ਰਿਹਾ ਹੈ",
+        "You are having a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "You are having a day",
+        "tuhāḍā dina hō rihā hai",
+        "ਤੁਹਾਡਾ ਦਿਨ ਹੋ ਰਿਹਾ ਹੈ",
+        "You are having a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "You are having a lot",
+        "tuhāḍē kōla bahuta kujha hō rihā hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਬਹੁਤ ਕੁਝ ਹੋ ਰਿਹਾ ਹੈ",
+        "You are having a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "lot"
+        }
+    ],
+    [
+        "You are having your mother",
+        "tusīṁ āpaṇī māṁ lai rahē hō",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਲੈ ਰਹੇ ਹੋ",
+        "You are having your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "det": "your"
+        }
+    ],
+    [
+        "You are having a problem",
+        "tuhānū ika samasi'ā hō rahī hai",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਸਮੱਸਿਆ ਹੋ ਰਹੀ ਹੈ",
+        "You are having a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "You are having a question",
+        "tuhāḍē kōla ika praśana hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਪ੍ਰਸ਼ਨ ਹੈ",
+        "You are having a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "You are having a story",
+        "tuhāḍī kahāṇī hō rahī hai",
+        "ਤੁਹਾਡੀ ਕਹਾਣੀ ਹੋ ਰਹੀ ਹੈ",
+        "You are having a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "You are having a week",
+        "tuhāḍē kōla ika hafatā hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਹਫ਼ਤਾ ਹੈ",
+        "You are having a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "You are having a year",
+        "tuhāḍā ika sāla hō rihā hai",
+        "ਤੁਹਾਡਾ ਇੱਕ ਸਾਲ ਹੋ ਰਿਹਾ ਹੈ",
+        "You are having a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "You are doing a business",
+        "tusīṁ ika kārōbāra kara rahē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਕਾਰੋਬਾਰ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "You are doing a lot",
+        "tusīṁ bahuta kujha kara rahē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਕੁਝ ਕਰ ਰਹੇ ਹੋ",
+        "You are doing a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "lot"
+        }
+    ],
+    [
+        "You are telling about life",
+        "tusīṁ zidagī bārē dasa rahē hō",
+        "ਤੁਸੀਂ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਦੱਸ ਰਹੇ ਹੋ",
+        "You are telling about life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "life"
+        }
+    ],
+    [
+        "You are telling a man",
+        "tusīṁ ika ādamī nū dasa rahē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਆਦਮੀ ਨੂੰ ਦੱਸ ਰਹੇ ਹੋ",
+        "You are telling a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "You are telling your mother",
+        "tusīṁ āpaṇī māṁ nū dasa rahē hō",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਦੱਸ ਰਹੇ ਹੋ",
+        "You are telling your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "your"
+        }
+    ],
+    [
+        "You are telling about a problem",
+        "tusīṁ ika samasi'ā bārē dasa rahē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸ ਰਹੇ ਹੋ",
+        "You are telling about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "You are telling a story",
+        "tusīṁ ika kahāṇī suṇā rahē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਕਹਾਣੀ ਸੁਣਾ ਰਹੇ ਹੋ",
+        "You are telling a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "You are telling about a study",
+        "tusīṁ ika adhi'aina bārē dasa rahē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸ ਰਹੇ ਹੋ",
+        "You are telling about a study",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a"
+        }
+    ],
+    [
+        "You are telling a woman",
+        "tusīṁ ika.Rata nū kahi rahē hō",
+        "ਤੁਸੀਂ ਇਕ .ਰਤ ਨੂੰ ਕਹਿ ਰਹੇ ਹੋ",
+        "You are telling a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "You are asking a man",
+        "tusīṁ ika ādamī nū pucha rahē hō",
+        "ਤੁਸੀਂ ਇਕ ਆਦਮੀ ਨੂੰ ਪੁੱਛ ਰਹੇ ਹੋ",
+        "You are asking a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "You are asking your mother",
+        "tusīṁ āpaṇī māṁ nū pucha rahē hō",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਪੁੱਛ ਰਹੇ ਹੋ",
+        "You are asking your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "your"
+        }
+    ],
+    [
+        "You are asking a question",
+        "tusīṁ ika praśana pucha rahē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਪ੍ਰਸ਼ਨ ਪੁੱਛ ਰਹੇ ਹੋ",
+        "You are asking a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "You are asking a student",
+        "tusīṁ ika vidi'ārathī nū pucha rahē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛ ਰਹੇ ਹੋ",
+        "You are asking a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "You are asking a woman",
+        "tusīṁ ika askingrata nū pucha rahē hō",
+        "ਤੁਸੀਂ ਇਕ askingਰਤ ਨੂੰ ਪੁੱਛ ਰਹੇ ਹੋ",
+        "You are asking a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "You are trying for a day",
+        "tusīṁ ika dina dī kōśiśa kara rahē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਦਿਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹੋ",
+        "You are trying for a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "You are trying for a month",
+        "tusīṁ ika mahīnē la'ī kōśiśa kara rahē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਮਹੀਨੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹੋ",
+        "You are trying for a month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "month",
+            "det": "a"
+        }
+    ],
+    [
+        "You are trying for a week",
+        "tusīṁ ika haphatē la'ī kōśiśa kara rahē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਹਫਤੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹੋ",
+        "You are trying for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "You are trying for a year",
+        "tusīṁ ika sāla la'ī kōśiśa kara rahē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਸਾਲ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹੋ",
+        "You are trying for a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "You are leaving a business",
+        "tusīṁ ika kārōbāra chaḍa rahē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਕਾਰੋਬਾਰ ਛੱਡ ਰਹੇ ਹੋ",
+        "You are leaving a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "You are calling your mother",
+        "tusīṁ āpaṇī māṁ nū bulā rahē hō",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਬੁਲਾ ਰਹੇ ਹੋ",
+        "You are calling your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "call",
+            "noun": "mother",
+            "det": "your"
+        }
+    ]
+]

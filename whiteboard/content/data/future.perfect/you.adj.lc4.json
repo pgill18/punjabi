@@ -1,0 +1,2455 @@
+[
+    [
+        "You will have been a good student",
+        "tusīṁ ika cagē vidi'ārathī hōvōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਚੰਗੇ ਵਿਦਿਆਰਥੀ ਹੋਵੋਗੇ",
+        "You will have been a good student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will have been the first student",
+        "tusīṁ pahilē vidi'ārathī hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਹੋਵੋਗੇ",
+        "You will have been the first student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will have been a many students",
+        "tusīṁ bahuta sārē vidi'ārathī hōvōgē",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀ ਹੋਵੋਗੇ",
+        "You will have been a many students",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will have been each student",
+        "tusīṁ harēka vidi'ārathī hōvōgē",
+        "ਤੁਸੀਂ ਹਰੇਕ ਵਿਦਿਆਰਥੀ ਹੋਵੋਗੇ",
+        "You will have been each student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have had a good business",
+        "tuhāḍā cagā kārōbāra hō'ēgā",
+        "ਤੁਹਾਡਾ ਚੰਗਾ ਕਾਰੋਬਾਰ ਹੋਏਗਾ",
+        "You will have had a good business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "business",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will have had each business",
+        "tuhāḍā hara kārōbāra hōvēgā",
+        "ਤੁਹਾਡਾ ਹਰ ਕਾਰੋਬਾਰ ਹੋਵੇਗਾ",
+        "You will have had each business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "business",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have had a good day",
+        "tuhāḍā dina cagā rahēgā",
+        "ਤੁਹਾਡਾ ਦਿਨ ਚੰਗਾ ਰਹੇਗਾ",
+        "You will have had a good day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will have had the first day",
+        "tuhāḍā pahilā dina hōvēgā",
+        "ਤੁਹਾਡਾ ਪਹਿਲਾ ਦਿਨ ਹੋਵੇਗਾ",
+        "You will have had the first day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "day",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will have had a many days",
+        "tuhāḍē kōla bahuta dina hō'ē hōṇagē",
+        "ਤੁਹਾਡੇ ਕੋਲ ਬਹੁਤ ਦਿਨ ਹੋਏ ਹੋਣਗੇ",
+        "You will have had a many days",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will have had each day",
+        "tuhāḍē kōla hara dina hōvēgā",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹਰ ਦਿਨ ਹੋਵੇਗਾ",
+        "You will have had each day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "day",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have had a first lot",
+        "tuhāḍē kōla pahilāṁ bahuta kujha hōvēgā",
+        "ਤੁਹਾਡੇ ਕੋਲ ਪਹਿਲਾਂ ਬਹੁਤ ਕੁਝ ਹੋਵੇਗਾ",
+        "You will have had a first lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "lot",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will have had a many lots",
+        "tuhāḍē kōla bahuta sārī'āṁ cīzāṁ hōṇagī'āṁ",
+        "ਤੁਹਾਡੇ ਕੋਲ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਹੋਣਗੀਆਂ",
+        "You will have had a many lots",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "lot",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will have had a lot",
+        "tuhāḍē kōla bahuta kujha hōvēgā",
+        "ਤੁਹਾਡੇ ਕੋਲ ਬਹੁਤ ਕੁਝ ਹੋਵੇਗਾ",
+        "You will have had a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "lot",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have had the first mother",
+        "tuhāḍī pahilī māṁ hōvēgī",
+        "ਤੁਹਾਡੀ ਪਹਿਲੀ ਮਾਂ ਹੋਵੇਗੀ",
+        "You will have had the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will have had your many mothers",
+        "tuhāḍē kōla tuhāḍī'āṁ bahuta sārī'āṁ māvāṁ hōṇagī'āṁ",
+        "ਤੁਹਾਡੇ ਕੋਲ ਤੁਹਾਡੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਹੋਣਗੀਆਂ",
+        "You will have had your many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will have had each mother",
+        "tuhāḍī hara māṁ hōvēgī",
+        "ਤੁਹਾਡੀ ਹਰ ਮਾਂ ਹੋਵੇਗੀ",
+        "You will have had each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have had the first problem",
+        "tuhānū pahilī muśakala ā'ī hōvēgī",
+        "ਤੁਹਾਨੂੰ ਪਹਿਲੀ ਮੁਸ਼ਕਲ ਆਈ ਹੋਵੇਗੀ",
+        "You will have had the first problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "problem",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will have had a many problems",
+        "tuhānū bahuta sārī'āṁ muśakalāṁ ā'ī'āṁ hōṇagī'āṁ",
+        "ਤੁਹਾਨੂੰ ਬਹੁਤ ਸਾਰੀਆਂ ਮੁਸ਼ਕਲਾਂ ਆਈਆਂ ਹੋਣਗੀਆਂ",
+        "You will have had a many problems",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will have had each problem",
+        "tuhānū hara samasi'ā ā'ī hōvēgī",
+        "ਤੁਹਾਨੂੰ ਹਰ ਸਮੱਸਿਆ ਆਈ ਹੋਵੇਗੀ",
+        "You will have had each problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "problem",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have had a good question",
+        "tuhāḍē kōla ika cagā savāla hō'ēgā",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਚੰਗਾ ਸਵਾਲ ਹੋਏਗਾ",
+        "You will have had a good question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "question",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will have had the first question",
+        "tuhāḍē kōla pahilā praśana hōvēgā",
+        "ਤੁਹਾਡੇ ਕੋਲ ਪਹਿਲਾ ਪ੍ਰਸ਼ਨ ਹੋਵੇਗਾ",
+        "You will have had the first question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "question",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will have had a many questions",
+        "tuhāḍē kōla bahuta sārē praśana hōṇagē",
+        "ਤੁਹਾਡੇ ਕੋਲ ਬਹੁਤ ਸਾਰੇ ਪ੍ਰਸ਼ਨ ਹੋਣਗੇ",
+        "You will have had a many questions",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "question",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will have had each question",
+        "tuhāḍē kōla hara praśana hōvēgā",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹਰ ਪ੍ਰਸ਼ਨ ਹੋਵੇਗਾ",
+        "You will have had each question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "question",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have had a good story",
+        "tuhāḍē kōla ika cagī kahāṇī hōvēgī",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਚੰਗੀ ਕਹਾਣੀ ਹੋਵੇਗੀ",
+        "You will have had a good story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "story",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will have had the first story",
+        "tuhāḍī pahilī kahāṇī hōvēgī",
+        "ਤੁਹਾਡੀ ਪਹਿਲੀ ਕਹਾਣੀ ਹੋਵੇਗੀ",
+        "You will have had the first story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "story",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will have had a many stories",
+        "tuhāḍē kōla bahuta sārī'āṁ kahāṇī'āṁ hōṇagī'āṁ",
+        "ਤੁਹਾਡੇ ਕੋਲ ਬਹੁਤ ਸਾਰੀਆਂ ਕਹਾਣੀਆਂ ਹੋਣਗੀਆਂ",
+        "You will have had a many stories",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "story",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will have had each story",
+        "tuhāḍē kōla hara ika kahāṇī hōvēgī",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹਰ ਇੱਕ ਕਹਾਣੀ ਹੋਵੇਗੀ",
+        "You will have had each story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "story",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have had a good week",
+        "tuhāḍā hafatā cagā rahēgā",
+        "ਤੁਹਾਡਾ ਹਫ਼ਤਾ ਚੰਗਾ ਰਹੇਗਾ",
+        "You will have had a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will have had the first week",
+        "tuhāḍē kōla pahilē haphatē hō'ē hōṇagē",
+        "ਤੁਹਾਡੇ ਕੋਲ ਪਹਿਲੇ ਹਫਤੇ ਹੋਏ ਹੋਣਗੇ",
+        "You will have had the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will have had a many a week",
+        "tuhāḍē kōla haphatē vica bahuta sārā hōvēgā",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹਫਤੇ ਵਿੱਚ ਬਹੁਤ ਸਾਰਾ ਹੋਵੇਗਾ",
+        "You will have had a many a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will have had each week",
+        "tuhāḍē kōla hara hafatē hō'ēgā",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹਰ ਹਫ਼ਤੇ ਹੋਏਗਾ",
+        "You will have had each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have done a good business",
+        "tusīṁ cagā kārōbāra kītā hōvēgā",
+        "ਤੁਸੀਂ ਚੰਗਾ ਕਾਰੋਬਾਰ ਕੀਤਾ ਹੋਵੇਗਾ",
+        "You will have done a good business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "business",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will have done each business",
+        "tusīṁ hara ika kārōbāra kītā hōvēgā",
+        "ਤੁਸੀਂ ਹਰ ਇੱਕ ਕਾਰੋਬਾਰ ਕੀਤਾ ਹੋਵੇਗਾ",
+        "You will have done each business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "business",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have done a first lot",
+        "tusīṁ pahilāṁ bahuta kujha kītā hōvēgā",
+        "ਤੁਸੀਂ ਪਹਿਲਾਂ ਬਹੁਤ ਕੁਝ ਕੀਤਾ ਹੋਵੇਗਾ",
+        "You will have done a first lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "lot",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will have done a many lots",
+        "tusīṁ bahuta sārā kītā hōvēgā",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰਾ ਕੀਤਾ ਹੋਵੇਗਾ",
+        "You will have done a many lots",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "lot",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will have done a lot",
+        "tusīṁ bahuta kujha kītā hōvēgā",
+        "ਤੁਸੀਂ ਬਹੁਤ ਕੁਝ ਕੀਤਾ ਹੋਵੇਗਾ",
+        "You will have done a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "lot",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have told about much life",
+        "tusīṁ bahuta sārī zidagī bārē dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told about much life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "life",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will have told about each life",
+        "tusīṁ hara ika zidagī bārē dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਹਰ ਇੱਕ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told about each life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "life",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have told a good man",
+        "tusīṁ ika cagē ādamī nū kihā hōvēgā",
+        "ਤੁਸੀਂ ਇੱਕ ਚੰਗੇ ਆਦਮੀ ਨੂੰ ਕਿਹਾ ਹੋਵੇਗਾ",
+        "You will have told a good man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will have told the first man",
+        "tusīṁ pahilē ādamī nū dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told the first man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "man",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will have told a many men",
+        "tusīṁ bahuta sārē ādamī'āṁ nū kihā hōvēgā",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਆਦਮੀਆਂ ਨੂੰ ਕਿਹਾ ਹੋਵੇਗਾ",
+        "You will have told a many men",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will have told each man",
+        "tusīṁ hara ādamī nū dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਹਰ ਆਦਮੀ ਨੂੰ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told each man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "man",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have told the first mother",
+        "tusīṁ pahilī māṁ nū dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਮਾਂ ਨੂੰ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will have told you many mothers",
+        "Tusīṁ bahuta sārī'āṁ māvāṁ nū dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told you many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will have told each mother",
+        "tusīṁ hara māṁ nū dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਹਰ ਮਾਂ ਨੂੰ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have told about the first problem",
+        "tusīṁ pahilī samasi'ā bārē dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told about the first problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will have told about a many problems",
+        "tusīṁ bahuta sārī'āṁ muśakalāṁ bārē dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮੁਸ਼ਕਲਾਂ ਬਾਰੇ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told about a many problems",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will have told about each problem",
+        "tusīṁ hara samasi'ā bārē dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਹਰ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told about each problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "problem",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have told a good story",
+        "tusīṁ ika cagī kahāṇī suṇā ditī hōvēgī",
+        "ਤੁਸੀਂ ਇੱਕ ਚੰਗੀ ਕਹਾਣੀ ਸੁਣਾ ਦਿੱਤੀ ਹੋਵੇਗੀ",
+        "You will have told a good story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will have told the first story",
+        "tusīṁ pahilī kahāṇī suṇā ditī hōvēgī",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਕਹਾਣੀ ਸੁਣਾ ਦਿੱਤੀ ਹੋਵੇਗੀ",
+        "You will have told the first story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "story",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will have told a many stories",
+        "tusīṁ bahuta sārī'āṁ kahāṇī'āṁ suṇā'ī'āṁ hōṇagī'āṁ",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਕਹਾਣੀਆਂ ਸੁਣਾਈਆਂ ਹੋਣਗੀਆਂ",
+        "You will have told a many stories",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will have told each story",
+        "tusīṁ hara ika kahāṇī suṇā ditī hōvēgī",
+        "ਤੁਸੀਂ ਹਰ ਇਕ ਕਹਾਣੀ ਸੁਣਾ ਦਿੱਤੀ ਹੋਵੇਗੀ",
+        "You will have told each story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "story",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have told about the first study",
+        "tusīṁ pahilē adhi'aina bārē dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told about the first study",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "study",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will have told about a many studies",
+        "tusīṁ bahuta sārē adhi'aināṁ bārē dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਅਧਿਐਨਾਂ ਬਾਰੇ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told about a many studies",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will have told about each study",
+        "tusīṁ hara adhi'aina bārē dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਹਰ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told about each study",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "study",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have told the first woman",
+        "tusīṁ pahilī womanrata nū dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਪਹਿਲੀ womanਰਤ ਨੂੰ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told the first woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will have told a many women",
+        "Tusīṁ bahuta sārī'āṁ.Ratāṁ nū dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ .ਰਤਾਂ ਨੂੰ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told a many women",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will have told each woman",
+        "tusīṁ hara womanrata nū dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਹਰ womanਰਤ ਨੂੰ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told each woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have asked a good man",
+        "tusīṁ ika cagē ādamī nū puchi'ā hōvēgā",
+        "ਤੁਸੀਂ ਇੱਕ ਚੰਗੇ ਆਦਮੀ ਨੂੰ ਪੁੱਛਿਆ ਹੋਵੇਗਾ",
+        "You will have asked a good man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will have asked the first man",
+        "tusīṁ pahilē ādamī nū puchi'ā hōvēgā",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਪੁੱਛਿਆ ਹੋਵੇਗਾ",
+        "You will have asked the first man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "man",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will have asked a many men",
+        "tusīṁ bahuta sārē ādamī'āṁ nū puchi'ā hōvēgā",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਆਦਮੀਆਂ ਨੂੰ ਪੁੱਛਿਆ ਹੋਵੇਗਾ",
+        "You will have asked a many men",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will have asked each man",
+        "tusīṁ harēka ādamī nū puchi'ā hōvēgā",
+        "ਤੁਸੀਂ ਹਰੇਕ ਆਦਮੀ ਨੂੰ ਪੁੱਛਿਆ ਹੋਵੇਗਾ",
+        "You will have asked each man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "man",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have asked the first mother",
+        "tusīṁ pahilī māṁ nū puchi'ā hōvēgā",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਮਾਂ ਨੂੰ ਪੁੱਛਿਆ ਹੋਵੇਗਾ",
+        "You will have asked the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will have asked your many mothers",
+        "tusīṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ nū puchi'ā hōvēgā",
+        "ਤੁਸੀਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਪੁੱਛਿਆ ਹੋਵੇਗਾ",
+        "You will have asked your many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will have asked each mother",
+        "Tusīṁ hara māṁ nū puchi'ā hōvēgā",
+        "ਤੁਸੀਂ ਹਰ ਮਾਂ ਨੂੰ ਪੁੱਛਿਆ ਹੋਵੇਗਾ",
+        "You will have asked each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have asked a good question",
+        "tusīṁ ika cagā savāla puchi'ā hōvēgā",
+        "ਤੁਸੀਂ ਇਕ ਚੰਗਾ ਸਵਾਲ ਪੁੱਛਿਆ ਹੋਵੇਗਾ",
+        "You will have asked a good question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will have asked the first question",
+        "tusīṁ pahilā praśana puchi'ā hōvēgā",
+        "ਤੁਸੀਂ ਪਹਿਲਾ ਪ੍ਰਸ਼ਨ ਪੁੱਛਿਆ ਹੋਵੇਗਾ",
+        "You will have asked the first question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "question",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will have asked a many questions",
+        "tusīṁ bahuta sārē praśana puchē hōṇagē",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਪ੍ਰਸ਼ਨ ਪੁੱਛੇ ਹੋਣਗੇ",
+        "You will have asked a many questions",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will have asked each question",
+        "tusīṁ hara praśana puchi'ā hōvēgā",
+        "ਤੁਸੀਂ ਹਰ ਪ੍ਰਸ਼ਨ ਪੁੱਛਿਆ ਹੋਵੇਗਾ",
+        "You will have asked each question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "question",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have asked a good student",
+        "tusīṁ ika cagē vidi'ārathī nū puchi'ā hōvēgā",
+        "ਤੁਸੀਂ ਇੱਕ ਚੰਗੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛਿਆ ਹੋਵੇਗਾ",
+        "You will have asked a good student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will have asked the first student",
+        "tusīṁ pahilē vidi'ārathī nū puchi'ā hōvēgā",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛਿਆ ਹੋਵੇਗਾ",
+        "You will have asked the first student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will have asked a many students",
+        "tusīṁ bahuta sārē vidi'ārathī'āṁ nū puchi'ā hōvēgā",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਪੁੱਛਿਆ ਹੋਵੇਗਾ",
+        "You will have asked a many students",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will have asked each student",
+        "tusīṁ harēka vidi'ārathī nū puchi'ā hōvēgā",
+        "ਤੁਸੀਂ ਹਰੇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛਿਆ ਹੋਵੇਗਾ",
+        "You will have asked each student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have asked the first woman",
+        "tusīṁ pahilī womanrata nū puchi'ā hōvēgā",
+        "ਤੁਸੀਂ ਪਹਿਲੀ womanਰਤ ਨੂੰ ਪੁੱਛਿਆ ਹੋਵੇਗਾ",
+        "You will have asked the first woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will have asked a many women",
+        "tusīṁ bahuta sārī'āṁ.Ratāṁ nū puchi'ā hōvēgā",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ .ਰਤਾਂ ਨੂੰ ਪੁੱਛਿਆ ਹੋਵੇਗਾ",
+        "You will have asked a many women",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will have asked each woman",
+        "tusīṁ harēka askedrata nū puchi'ā hōvēgā",
+        "ਤੁਸੀਂ ਹਰੇਕ askedਰਤ ਨੂੰ ਪੁੱਛਿਆ ਹੋਵੇਗਾ",
+        "You will have asked each woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have tried for a good day",
+        "tusīṁ cagē dina dī kōśiśa kītī hōvēgī",
+        "ਤੁਸੀਂ ਚੰਗੇ ਦਿਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "You will have tried for a good day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "day",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will have tried for the first day",
+        "tusīṁ pahilē dina kōśiśa kītī hōvēgī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਦਿਨ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "You will have tried for the first day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "day",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will have tried for a many days",
+        "tusīṁ bahuta dināṁ la'ī kōśiśa kītī hōvēgī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਦਿਨਾਂ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "You will have tried for a many days",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "day",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will have tried for each day",
+        "tusīṁ hara dina la'ī kōśiśa kītī hōvēgī",
+        "ਤੁਸੀਂ ਹਰ ਦਿਨ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "You will have tried for each day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "day",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have tried for the first month",
+        "tusīṁ pahilē mahīnē kōśiśa kītī hōvēgī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਮਹੀਨੇ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "You will have tried for the first month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "month",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will have tried for a many months",
+        "tusīṁ ka'ī mahīni'āṁ la'ī kōśiśa kītī hōvēgī",
+        "ਤੁਸੀਂ ਕਈ ਮਹੀਨਿਆਂ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "You will have tried for a many months",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "month",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will have tried for each month",
+        "tusīṁ hara mahīnē kōśiśa karōgē",
+        "ਤੁਸੀਂ ਹਰ ਮਹੀਨੇ ਕੋਸ਼ਿਸ਼ ਕਰੋਗੇ",
+        "You will have tried for each month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "month",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have tried for a good week",
+        "tusīṁ ika cagē haphatē la'ī kōśiśa kītī hōvēgī",
+        "ਤੁਸੀਂ ਇੱਕ ਚੰਗੇ ਹਫਤੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "You will have tried for a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will have tried for the first week",
+        "tusīṁ pahilē haphatē kōśiśa kītī hōvēgī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਹਫਤੇ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "You will have tried for the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will have tried for a many weeks",
+        "tusīṁ ka'ī hafati'āṁ la'ī kōśiśa kītī hōvēgī",
+        "ਤੁਸੀਂ ਕਈ ਹਫ਼ਤਿਆਂ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "You will have tried for a many weeks",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will have tried for each week",
+        "tusīṁ hara hafatē kōśiśa karōgē",
+        "ਤੁਸੀਂ ਹਰ ਹਫ਼ਤੇ ਕੋਸ਼ਿਸ਼ ਕਰੋਗੇ",
+        "You will have tried for each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have left a good business",
+        "tusīṁ cagā kārōbāra chaḍa ditā hōvēgā",
+        "ਤੁਸੀਂ ਚੰਗਾ ਕਾਰੋਬਾਰ ਛੱਡ ਦਿੱਤਾ ਹੋਵੇਗਾ",
+        "You will have left a good business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will have left each business",
+        "tusīṁ harēka kārōbāra nū chaḍa ditā hōvēgā",
+        "ਤੁਸੀਂ ਹਰੇਕ ਕਾਰੋਬਾਰ ਨੂੰ ਛੱਡ ਦਿੱਤਾ ਹੋਵੇਗਾ",
+        "You will have left each business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "leave",
+            "noun": "business",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will have called the first mother",
+        "tusīṁ pahilī māṁ nū bulā'i'ā hōvēgā",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਮਾਂ ਨੂੰ ਬੁਲਾਇਆ ਹੋਵੇਗਾ",
+        "You will have called the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "call",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will have called your many mothers",
+        "tusīṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ nū bulā'i'ā hōvēgā",
+        "ਤੁਸੀਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਬੁਲਾਇਆ ਹੋਵੇਗਾ",
+        "You will have called your many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "call",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will have called each mother",
+        "tusīṁ hara māṁ nū bulā'i'ā hōvēgā",
+        "ਤੁਸੀਂ ਹਰ ਮਾਂ ਨੂੰ ਬੁਲਾਇਆ ਹੋਵੇਗਾ",
+        "You will have called each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "call",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ]
+]

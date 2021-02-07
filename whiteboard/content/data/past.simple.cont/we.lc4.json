@@ -1,0 +1,779 @@
+[
+    [
+        "We were being a student",
+        "asīṁ vidi'ārathī sī",
+        "ਅਸੀਂ ਵਿਦਿਆਰਥੀ ਸੀ",
+        "We were being a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "be",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "We were having a business",
+        "sāḍā kārōbāra sī",
+        "ਸਾਡਾ ਕਾਰੋਬਾਰ ਸੀ",
+        "We were having a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "We were having a day",
+        "sāḍē kōla ika dina sī",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਦਿਨ ਸੀ",
+        "We were having a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "We were having a lot",
+        "sāḍē kōla bahuta sī",
+        "ਸਾਡੇ ਕੋਲ ਬਹੁਤ ਸੀ",
+        "We were having a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "lot"
+        }
+    ],
+    [
+        "We were having our mother",
+        "sāḍī māṁ sī",
+        "ਸਾਡੀ ਮਾਂ ਸੀ",
+        "We were having our mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "mother",
+            "det": "our"
+        }
+    ],
+    [
+        "We were having a problem",
+        "sānū ika samasi'ā sī",
+        "ਸਾਨੂੰ ਇੱਕ ਸਮੱਸਿਆ ਸੀ",
+        "We were having a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "We were having a question",
+        "sāḍē kōla ika praśana sī",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਪ੍ਰਸ਼ਨ ਸੀ",
+        "We were having a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "We were having a story",
+        "sāḍē kōla ika kahāṇī sī",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਕਹਾਣੀ ਸੀ",
+        "We were having a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "We were having a week",
+        "sāḍē kōla ika hafatā sī",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਹਫ਼ਤਾ ਸੀ",
+        "We were having a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "We were having a year",
+        "sāḍē kōla ika sāla hō rihā sī",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਸਾਲ ਹੋ ਰਿਹਾ ਸੀ",
+        "We were having a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "We were doing a business",
+        "asīṁ ika kārōbāra kara rahē sī",
+        "ਅਸੀਂ ਇੱਕ ਕਾਰੋਬਾਰ ਕਰ ਰਹੇ ਸੀ",
+        "We were doing a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "We were doing a lot",
+        "asīṁ bahuta kujha kara rahē sī",
+        "ਅਸੀਂ ਬਹੁਤ ਕੁਝ ਕਰ ਰਹੇ ਸੀ",
+        "We were doing a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "lot"
+        }
+    ],
+    [
+        "We were telling about life",
+        "asīṁ zidagī bārē dasa rahē sī",
+        "ਅਸੀਂ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਦੱਸ ਰਹੇ ਸੀ",
+        "We were telling about life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "life"
+        }
+    ],
+    [
+        "We were telling a man",
+        "asīṁ ika ādamī nū kahi rahē sī",
+        "ਅਸੀਂ ਇਕ ਆਦਮੀ ਨੂੰ ਕਹਿ ਰਹੇ ਸੀ",
+        "We were telling a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "We were telling our mother",
+        "asīṁ āpaṇī māṁ nū dasa rahē sī",
+        "ਅਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਦੱਸ ਰਹੇ ਸੀ",
+        "We were telling our mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "our"
+        }
+    ],
+    [
+        "We were telling about a problem",
+        "asīṁ ika samasi'ā bārē dasa rahē sī",
+        "ਅਸੀਂ ਇੱਕ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸ ਰਹੇ ਸੀ",
+        "We were telling about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "We were telling a story",
+        "asīṁ ika kahāṇī suṇā rahē sī",
+        "ਅਸੀਂ ਇਕ ਕਹਾਣੀ ਸੁਣਾ ਰਹੇ ਸੀ",
+        "We were telling a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "We were telling about a study",
+        "asīṁ ika adhi'aina bārē dasa rahē sī",
+        "ਅਸੀਂ ਇਕ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸ ਰਹੇ ਸੀ",
+        "We were telling about a study",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a"
+        }
+    ],
+    [
+        "We were telling a woman",
+        "asīṁ ika tellingrata nū dasa rahē sī",
+        "ਅਸੀਂ ਇਕ tellingਰਤ ਨੂੰ ਦੱਸ ਰਹੇ ਸੀ",
+        "We were telling a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "We were asking a man",
+        "asīṁ ika ādamī nū pucha rahē sī",
+        "ਅਸੀਂ ਇਕ ਆਦਮੀ ਨੂੰ ਪੁੱਛ ਰਹੇ ਸੀ",
+        "We were asking a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "We were asking our mother",
+        "asīṁ āpaṇī māṁ nū pucha rahē sī",
+        "ਅਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਪੁੱਛ ਰਹੇ ਸੀ",
+        "We were asking our mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "our"
+        }
+    ],
+    [
+        "We were asking a question",
+        "asīṁ ika praśana pucha rahē sī",
+        "ਅਸੀਂ ਇੱਕ ਪ੍ਰਸ਼ਨ ਪੁੱਛ ਰਹੇ ਸੀ",
+        "We were asking a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "We were asking a student",
+        "asīṁ ika vidi'ārathī nū pucha rahē sī",
+        "ਅਸੀਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛ ਰਹੇ ਸੀ",
+        "We were asking a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "We were asking a woman",
+        "asīṁ ika askingrata nū pucha rahē sī",
+        "ਅਸੀਂ ਇਕ askingਰਤ ਨੂੰ ਪੁੱਛ ਰਹੇ ਸੀ",
+        "We were asking a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "We were trying for a day",
+        "asīṁ ika dina dī kōśiśa kara rahē sī",
+        "ਅਸੀਂ ਇੱਕ ਦਿਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਸੀ",
+        "We were trying for a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "We were trying for a month",
+        "asīṁ ika mahīnē la'ī kōśiśa kara rahē sī",
+        "ਅਸੀਂ ਇੱਕ ਮਹੀਨੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਸੀ",
+        "We were trying for a month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "month",
+            "det": "a"
+        }
+    ],
+    [
+        "We were trying for a week",
+        "asīṁ ika hafatē la'ī kōśiśa kara rahē sī",
+        "ਅਸੀਂ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਸੀ",
+        "We were trying for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "We were trying for a year",
+        "asīṁ ika sāla la'ī kōśiśa kara rahē sī",
+        "ਅਸੀਂ ਇਕ ਸਾਲ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਸੀ",
+        "We were trying for a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "We were leaving a business",
+        "asīṁ ika kārōbāra chaḍa rahē sī",
+        "ਅਸੀਂ ਇੱਕ ਕਾਰੋਬਾਰ ਛੱਡ ਰਹੇ ਸੀ",
+        "We were leaving a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "We were calling our mother",
+        "asīṁ āpaṇī māṁ nū bulā rahē sī",
+        "ਅਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਬੁਲਾ ਰਹੇ ਸੀ",
+        "We were calling our mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "call",
+            "noun": "mother",
+            "det": "our"
+        }
+    ]
+]

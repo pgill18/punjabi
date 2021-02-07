@@ -1,0 +1,1336 @@
+[
+    [
+        "I will be people",
+        "maiṁ lōka hōvāṅgā",
+        "ਮੈਂ ਲੋਕ ਹੋਵਾਂਗਾ",
+        "I will be people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "people"
+        }
+    ],
+    [
+        "I will have a business",
+        "mērā kārōbāra hōvēgā",
+        "ਮੇਰਾ ਕਾਰੋਬਾਰ ਹੋਵੇਗਾ",
+        "I will have a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have a day",
+        "mērē kōla ika dina hōvēgā",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਦਿਨ ਹੋਵੇਗਾ",
+        "I will have a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have my family",
+        "mērā parivāra hōvēgā",
+        "ਮੇਰਾ ਪਰਿਵਾਰ ਹੋਵੇਗਾ",
+        "I will have my family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "family",
+            "det": "my"
+        }
+    ],
+    [
+        "I will have the group",
+        "mērē kōla samūha hōvēgā",
+        "ਮੇਰੇ ਕੋਲ ਸਮੂਹ ਹੋਵੇਗਾ",
+        "I will have the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "I will have a job",
+        "mainū ika naukarī milēgī",
+        "ਮੈਨੂੰ ਇੱਕ ਨੌਕਰੀ ਮਿਲੇਗੀ",
+        "I will have a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have money",
+        "mērē kōla paisā hōvēgā",
+        "ਮੇਰੇ ਕੋਲ ਪੈਸਾ ਹੋਵੇਗਾ",
+        "I will have money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "money"
+        }
+    ],
+    [
+        "I will have my mother",
+        "mērī māṁ hōvēgī",
+        "ਮੇਰੀ ਮਾਂ ਹੋਵੇਗੀ",
+        "I will have my mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "det": "my"
+        }
+    ],
+    [
+        "I will have the right",
+        "mērē kōla adhikāra hōvēgā",
+        "ਮੇਰੇ ਕੋਲ ਅਧਿਕਾਰ ਹੋਵੇਗਾ",
+        "I will have the right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "right"
+        }
+    ],
+    [
+        "I will have a room",
+        "mērē kōla ika kamarā hōvēgā",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਕਮਰਾ ਹੋਵੇਗਾ",
+        "I will have a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have a story",
+        "mērē kōla ika kahāṇī hōvēgī",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਕਹਾਣੀ ਹੋਵੇਗੀ",
+        "I will have a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have a thing",
+        "mērē kōla ika cīza hōvēgī",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਚੀਜ਼ ਹੋਵੇਗੀ",
+        "I will have a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "I will have my work",
+        "Maiṁ āpaṇā kama karāṅgā",
+        "ਮੈਂ ਆਪਣਾ ਕੰਮ ਕਰਾਂਗਾ",
+        "I will have my work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "work"
+        }
+    ],
+    [
+        "I will do a business",
+        "maiṁ ika kārōbāra karāṅgā",
+        "ਮੈਂ ਇੱਕ ਕਾਰੋਬਾਰ ਕਰਾਂਗਾ",
+        "I will do a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "I will do a job",
+        "maiṁ ika kama karāṅgā",
+        "ਮੈਂ ਇੱਕ ਕੰਮ ਕਰਾਂਗਾ",
+        "I will do a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "I will do it right",
+        "maiṁ isa nū sahī karāṅgā",
+        "ਮੈਂ ਇਸ ਨੂੰ ਸਹੀ ਕਰਾਂਗਾ",
+        "I will do it right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "right"
+        }
+    ],
+    [
+        "I will do a thing",
+        "maiṁ ika kama karāṅgā",
+        "ਮੈਂ ਇੱਕ ਕੰਮ ਕਰਾਂਗਾ",
+        "I will do a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "I will do work",
+        "maiṁ kama karāṅgā",
+        "ਮੈਂ ਕੰਮ ਕਰਾਂਗਾ",
+        "I will do work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "work"
+        }
+    ],
+    [
+        "I will think about a business",
+        "maiṁ ika kārōbāra bārē sōcāṅgā",
+        "ਮੈਂ ਇੱਕ ਕਾਰੋਬਾਰ ਬਾਰੇ ਸੋਚਾਂਗਾ",
+        "I will think about a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "I will think about my family",
+        "maiṁ āpaṇē parivāra bārē sōcāṅgā",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਬਾਰੇ ਸੋਚਾਂਗਾ",
+        "I will think about my family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "family",
+            "det": "my"
+        }
+    ],
+    [
+        "I will think about the group",
+        "maiṁ samūha bārē sōcāṅgā",
+        "ਮੈਂ ਸਮੂਹ ਬਾਰੇ ਸੋਚਾਂਗਾ",
+        "I will think about the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "I will think about a job",
+        "maiṁ kisē naukarī bārē sōcāṅgā",
+        "ਮੈਂ ਕਿਸੇ ਨੌਕਰੀ ਬਾਰੇ ਸੋਚਾਂਗਾ",
+        "I will think about a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "I will think about money",
+        "maiṁ paisē bārē sōcāṅgā",
+        "ਮੈਂ ਪੈਸੇ ਬਾਰੇ ਸੋਚਾਂਗਾ",
+        "I will think about money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "money"
+        }
+    ],
+    [
+        "I will think about my mother",
+        "maiṁ āpaṇī māṁ bārē sōcāṅgā",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਬਾਰੇ ਸੋਚਾਂਗਾ",
+        "I will think about my mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "mother",
+            "det": "my"
+        }
+    ],
+    [
+        "I will think about people",
+        "maiṁ lōkāṁ bārē sōcāṅgā",
+        "ਮੈਂ ਲੋਕਾਂ ਬਾਰੇ ਸੋਚਾਂਗਾ",
+        "I will think about people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "people"
+        }
+    ],
+    [
+        "I will think right",
+        "maiṁ sahī sōcāṅgā",
+        "ਮੈਂ ਸਹੀ ਸੋਚਾਂਗਾ",
+        "I will think right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "right"
+        }
+    ],
+    [
+        "I will think about a story",
+        "maiṁ ika kahāṇī bārē sōcāṅgā",
+        "ਮੈਂ ਇੱਕ ਕਹਾਣੀ ਬਾਰੇ ਸੋਚਾਂਗਾ",
+        "I will think about a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "I will think about work",
+        "maiṁ kama bārē sōcāṅgā",
+        "ਮੈਂ ਕੰਮ ਬਾਰੇ ਸੋਚਾਂਗਾ",
+        "I will think about work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "work"
+        }
+    ],
+    [
+        "I will look after a business",
+        "maiṁ ika kārōbāra dī dēkhabhāla karāṅgā",
+        "ਮੈਂ ਇੱਕ ਕਾਰੋਬਾਰ ਦੀ ਦੇਖਭਾਲ ਕਰਾਂਗਾ",
+        "I will look after a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "I will look after my family",
+        "maiṁ āpaṇē parivāra dī dēkhabhāla karāṅgā",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਦੀ ਦੇਖਭਾਲ ਕਰਾਂਗਾ",
+        "I will look after my family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "family",
+            "det": "my"
+        }
+    ],
+    [
+        "I will look at money",
+        "maiṁ paisē nū vēkhāṅgā",
+        "ਮੈਂ ਪੈਸੇ ਨੂੰ ਵੇਖਾਂਗਾ",
+        "I will look at money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "money"
+        }
+    ],
+    [
+        "I will look after my mother",
+        "maiṁ āpaṇī māṁ dī dēkhabhāla karāṅgā",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਦੀ ਦੇਖਭਾਲ ਕਰਾਂਗਾ",
+        "I will look after my mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "mother",
+            "det": "my"
+        }
+    ],
+    [
+        "I will look after people",
+        "maiṁ lōkāṁ dī dēkhabhāla karāṅgā",
+        "ਮੈਂ ਲੋਕਾਂ ਦੀ ਦੇਖਭਾਲ ਕਰਾਂਗਾ",
+        "I will look after people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "people"
+        }
+    ],
+    [
+        "I will look at a woman",
+        "maiṁ ika atrata vala vēkhāṅgā",
+        "ਮੈਂ ਇੱਕ atਰਤ ਵੱਲ ਵੇਖਾਂਗਾ",
+        "I will look at a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "I will look for work",
+        "maiṁ kama dī bhāla karāṅgā",
+        "ਮੈਂ ਕੰਮ ਦੀ ਭਾਲ ਕਰਾਂਗਾ",
+        "I will look for work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "work"
+        }
+    ],
+    [
+        "I will want a day",
+        "mainū ika dina cāhīdā hai",
+        "ਮੈਨੂੰ ਇੱਕ ਦਿਨ ਚਾਹੀਦਾ ਹੈ",
+        "I will want a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "I will want my family",
+        "maiṁ āpaṇā parivāra cāhudā hāṁ",
+        "ਮੈਂ ਆਪਣਾ ਪਰਿਵਾਰ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I will want my family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "family",
+            "det": "my"
+        }
+    ],
+    [
+        "I will want the group",
+        "maiṁ samūha cāhudā hāṁ",
+        "ਮੈਂ ਸਮੂਹ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I will want the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "I will want a job",
+        "mainū ika naukarī cāhīdī hai",
+        "ਮੈਨੂੰ ਇੱਕ ਨੌਕਰੀ ਚਾਹੀਦੀ ਹੈ",
+        "I will want a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "I will want money",
+        "mainū paisā cāhīdā hai",
+        "ਮੈਨੂੰ ਪੈਸਾ ਚਾਹੀਦਾ ਹੈ",
+        "I will want money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "money"
+        }
+    ],
+    [
+        "I will want a room",
+        "mainū ika kamarā cāhīdā hai",
+        "ਮੈਨੂੰ ਇੱਕ ਕਮਰਾ ਚਾਹੀਦਾ ਹੈ",
+        "I will want a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "I will want a story",
+        "maiṁ ika kahāṇī cāhudā hāṁ",
+        "ਮੈਂ ਇੱਕ ਕਹਾਣੀ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I will want a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "I will want a thing",
+        "maiṁ ika cīza cāhudā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੀਜ਼ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I will want a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "I will want work",
+        "maiṁ kama cāhudā hāṁ",
+        "ਮੈਂ ਕੰਮ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I will want work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "work"
+        }
+    ],
+    [
+        "I will give money",
+        "maiṁ paisē dēvāṅgā",
+        "ਮੈਂ ਪੈਸੇ ਦੇਵਾਂਗਾ",
+        "I will give money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "give",
+            "noun": "money"
+        }
+    ],
+    [
+        "I will give a thing",
+        "maiṁ ika cīza dēvāṅgā",
+        "ਮੈਂ ਇੱਕ ਚੀਜ਼ ਦੇਵਾਂਗਾ",
+        "I will give a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "give",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "I will work for a day",
+        "maiṁ ika dina kama karāṅgā",
+        "ਮੈਂ ਇੱਕ ਦਿਨ ਕੰਮ ਕਰਾਂਗਾ",
+        "I will work for a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "work",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "I will work for my family",
+        "maiṁ āpaṇē parivāra la'ī kama karāṅgā",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਲਈ ਕੰਮ ਕਰਾਂਗਾ",
+        "I will work for my family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "work",
+            "noun": "family",
+            "det": "my"
+        }
+    ],
+    [
+        "I will work for the government",
+        "maiṁ sarakāra la'ī kama karāṅgā",
+        "ਮੈਂ ਸਰਕਾਰ ਲਈ ਕੰਮ ਕਰਾਂਗਾ",
+        "I will work for the government",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "work",
+            "noun": "government",
+            "det": "the"
+        }
+    ],
+    [
+        "I will work with the group",
+        "maiṁ samūha nāla kama karāṅgā",
+        "ਮੈਂ ਸਮੂਹ ਨਾਲ ਕੰਮ ਕਰਾਂਗਾ",
+        "I will work with the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "work",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "I will work for money",
+        "maiṁ paisē la'ī kama karāṅgā",
+        "ਮੈਂ ਪੈਸੇ ਲਈ ਕੰਮ ਕਰਾਂਗਾ",
+        "I will work for money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "work",
+            "noun": "money"
+        }
+    ],
+    [
+        "I will work with people",
+        "maiṁ lōkāṁ nāla kama karāṅgā",
+        "ਮੈਂ ਲੋਕਾਂ ਨਾਲ ਕੰਮ ਕਰਾਂਗਾ",
+        "I will work with people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "work",
+            "noun": "people"
+        }
+    ]
+]

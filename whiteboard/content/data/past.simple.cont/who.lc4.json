@@ -1,0 +1,779 @@
+[
+    [
+        "Who was being a student",
+        "jō ika vidi'ārathī sī",
+        "ਜੋ ਇਕ ਵਿਦਿਆਰਥੀ ਸੀ",
+        "Who was being a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "be",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "Who was having a business",
+        "jisadā vapāra sī",
+        "ਜਿਸਦਾ ਵਪਾਰ ਸੀ",
+        "Who was having a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "Who was having a day",
+        "jisadā dina sī",
+        "ਜਿਸਦਾ ਦਿਨ ਸੀ",
+        "Who was having a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "Who was having a lot",
+        "jisa kōla bahuta kujha sī",
+        "ਜਿਸ ਕੋਲ ਬਹੁਤ ਕੁਝ ਸੀ",
+        "Who was having a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "lot"
+        }
+    ],
+    [
+        "Who was having whose mother",
+        "jisadī māṁ sī",
+        "ਜਿਸਦੀ ਮਾਂ ਸੀ",
+        "Who was having whose mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who was having a problem",
+        "jisanū kō'ī samasi'ā hō rahī sī",
+        "ਜਿਸਨੂੰ ਕੋਈ ਸਮੱਸਿਆ ਹੋ ਰਹੀ ਸੀ",
+        "Who was having a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "Who was having a question",
+        "kauṇa ika praśana kara rihā sī",
+        "ਕੌਣ ਇੱਕ ਪ੍ਰਸ਼ਨ ਕਰ ਰਿਹਾ ਸੀ",
+        "Who was having a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "Who was having a story",
+        "jisadī kahāṇī hō rahī sī",
+        "ਜਿਸਦੀ ਕਹਾਣੀ ਹੋ ਰਹੀ ਸੀ",
+        "Who was having a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "Who was having a week",
+        "jihaṛā ika haphatā rihā sī",
+        "ਜਿਹੜਾ ਇੱਕ ਹਫਤਾ ਰਿਹਾ ਸੀ",
+        "Who was having a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "Who was having a year",
+        "jisadā ika sāla hō rihā sī",
+        "ਜਿਸਦਾ ਇੱਕ ਸਾਲ ਹੋ ਰਿਹਾ ਸੀ",
+        "Who was having a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "Who was doing a business",
+        "jō ika kārōbāra kara rihā sī",
+        "ਜੋ ਇੱਕ ਕਾਰੋਬਾਰ ਕਰ ਰਿਹਾ ਸੀ",
+        "Who was doing a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "Who was doing a lot",
+        "jō bahuta kujha kara rihā sī",
+        "ਜੋ ਬਹੁਤ ਕੁਝ ਕਰ ਰਿਹਾ ਸੀ",
+        "Who was doing a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "lot"
+        }
+    ],
+    [
+        "Who was telling about life",
+        "jō zidagī bārē dasa rihā sī",
+        "ਜੋ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਸੀ",
+        "Who was telling about life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "life"
+        }
+    ],
+    [
+        "Who was telling a man",
+        "jō ika ādamī nū kahi rihā sī",
+        "ਜੋ ਇਕ ਆਦਮੀ ਨੂੰ ਕਹਿ ਰਿਹਾ ਸੀ",
+        "Who was telling a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "Who was telling whose mother",
+        "kauṇa dasa rihā sī kisadī māṁ",
+        "ਕੌਣ ਦੱਸ ਰਿਹਾ ਸੀ ਕਿਸਦੀ ਮਾਂ",
+        "Who was telling whose mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who was telling about a problem",
+        "jō kisē samasi'ā bārē dasa rihā sī",
+        "ਜੋ ਕਿਸੇ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਸੀ",
+        "Who was telling about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "Who was telling a story",
+        "jō kahāṇī suṇā rihā sī",
+        "ਜੋ ਕਹਾਣੀ ਸੁਣਾ ਰਿਹਾ ਸੀ",
+        "Who was telling a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "Who was telling about a study",
+        "jō ika adhi'aina bārē dasa rihā sī",
+        "ਜੋ ਇਕ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਸੀ",
+        "Who was telling about a study",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a"
+        }
+    ],
+    [
+        "Who was telling a woman",
+        "jō ika tellingrata nū dasa rihā sī",
+        "ਜੋ ਇਕ tellingਰਤ ਨੂੰ ਦੱਸ ਰਿਹਾ ਸੀ",
+        "Who was telling a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "Who was asking a man",
+        "jō ika ādamī nū pucha rihā sī",
+        "ਜੋ ਇਕ ਆਦਮੀ ਨੂੰ ਪੁੱਛ ਰਿਹਾ ਸੀ",
+        "Who was asking a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "Who was asking whose mother",
+        "kauṇa pucha rihā sī kisadī māṁ",
+        "ਕੌਣ ਪੁੱਛ ਰਿਹਾ ਸੀ ਕਿਸਦੀ ਮਾਂ",
+        "Who was asking whose mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who was asking a question",
+        "jō ika savāla pucha rihā sī",
+        "ਜੋ ਇੱਕ ਸਵਾਲ ਪੁੱਛ ਰਿਹਾ ਸੀ",
+        "Who was asking a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "Who was asking a student",
+        "jō ika vidi'ārathī nū pucha rihā sī",
+        "ਜੋ ਇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛ ਰਿਹਾ ਸੀ",
+        "Who was asking a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "Who was asking a woman",
+        "jō ika askingrata nū pucha rihā sī",
+        "ਜੋ ਇਕ askingਰਤ ਨੂੰ ਪੁੱਛ ਰਿਹਾ ਸੀ",
+        "Who was asking a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "Who was trying for a day",
+        "jō ika dina dī kōśiśa kara rihā sī",
+        "ਜੋ ਇਕ ਦਿਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਸੀ",
+        "Who was trying for a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "try",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "Who was trying for a month",
+        "jō ika mahīnē tōṁ kōśiśa kara rihā sī",
+        "ਜੋ ਇਕ ਮਹੀਨੇ ਤੋਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਸੀ",
+        "Who was trying for a month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "try",
+            "noun": "month",
+            "det": "a"
+        }
+    ],
+    [
+        "Who was trying for a week",
+        "jō ika haphatē tōṁ kōśiśa kara rihā sī",
+        "ਜੋ ਇੱਕ ਹਫਤੇ ਤੋਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਸੀ",
+        "Who was trying for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "try",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "Who was trying for a year",
+        "jō ika sāla tōṁ kōśiśa kara rihā sī",
+        "ਜੋ ਇਕ ਸਾਲ ਤੋਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਸੀ",
+        "Who was trying for a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "try",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "Who was leaving a business",
+        "jihaṛā kārōbāra chaḍa rihā sī",
+        "ਜਿਹੜਾ ਕਾਰੋਬਾਰ ਛੱਡ ਰਿਹਾ ਸੀ",
+        "Who was leaving a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "Who was calling whose mother",
+        "kauṇa bulā rihā sī kisadī māṁ nū",
+        "ਕੌਣ ਬੁਲਾ ਰਿਹਾ ਸੀ ਕਿਸਦੀ ਮਾਂ ਨੂੰ",
+        "Who was calling whose mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "call",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ]
+]

@@ -1,0 +1,4711 @@
+[
+    [
+        "I am thinking about the first child",
+        "maiṁ pahilē bacē bārē sōca rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਬੱਚੇ ਬਾਰੇ ਸੋਚ ਰਿਹਾ ਹਾਂ",
+        "I am thinking about the first child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "business",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am thinking about my many children",
+        "maiṁ āpaṇē bahuta sārē baci'āṁ bārē sōca rihā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚਿਆਂ ਬਾਰੇ ਸੋਚ ਰਿਹਾ ਹਾਂ",
+        "I am thinking about my many children",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "business",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am thinking about the first family",
+        "maiṁ pahilē parivāra bārē sōca rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਪਰਿਵਾਰ ਬਾਰੇ ਸੋਚ ਰਿਹਾ ਹਾਂ",
+        "I am thinking about the first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am thinking about my many families",
+        "maiṁ āpaṇē bahuta sārē parivārāṁ bārē sōca rihā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਬਾਰੇ ਸੋਚ ਰਿਹਾ ਹਾਂ",
+        "I am thinking about my many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "day",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am thinking about each family",
+        "maiṁ harēka parivāra bārē sōca rihā hāṁ",
+        "ਮੈਂ ਹਰੇਕ ਪਰਿਵਾਰ ਬਾਰੇ ਸੋਚ ਰਿਹਾ ਹਾਂ",
+        "I am thinking about each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am thinking about the first group",
+        "maiṁ pahilē samūha bārē sōca rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਸਮੂਹ ਬਾਰੇ ਸੋਚ ਰਿਹਾ ਹਾਂ",
+        "I am thinking about the first group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "day",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am thinking about the first job",
+        "maiṁ pahilī naukarī bārē sōca rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਨੌਕਰੀ ਬਾਰੇ ਸੋਚ ਰਿਹਾ ਹਾਂ",
+        "I am thinking about the first job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "group",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am thinking about a many jobs",
+        "maiṁ bahuta sārī'āṁ naukarī'āṁ bārē sōca rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਬਾਰੇ ਸੋਚ ਰਿਹਾ ਹਾਂ",
+        "I am thinking about a many jobs",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "group",
+            "det": "the",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am thinking about each job",
+        "maiṁ hara kama bārē sōca rihā hāṁ",
+        "ਮੈਂ ਹਰ ਕੰਮ ਬਾਰੇ ਸੋਚ ਰਿਹਾ ਹਾਂ",
+        "I am thinking about each job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "group",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am thinking about the first mother",
+        "maiṁ pahilī māṁ bārē sōca rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਮਾਂ ਬਾਰੇ ਸੋਚ ਰਿਹਾ ਹਾਂ",
+        "I am thinking about the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "job",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am thinking about my many mothers",
+        "maiṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ bārē sōca rihā hāṁ",
+        "ਮੈਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਬਾਰੇ ਸੋਚ ਰਿਹਾ ਹਾਂ",
+        "I am thinking about my many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "job",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am thinking about each mother",
+        "maiṁ hara māṁ bārē sōca rihā hāṁ",
+        "ਮੈਂ ਹਰ ਮਾਂ ਬਾਰੇ ਸੋਚ ਰਿਹਾ ਹਾਂ",
+        "I am thinking about each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "job",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am thinking about the first question",
+        "maiṁ pahilē praśana bārē sōca rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਪ੍ਰਸ਼ਨ ਬਾਰੇ ਸੋਚ ਰਿਹਾ ਹਾਂ",
+        "I am thinking about the first question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "place",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am thinking about a many questions",
+        "maiṁ bahuta sārē praśanāṁ bārē sōca rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਪ੍ਰਸ਼ਨਾਂ ਬਾਰੇ ਸੋਚ ਰਿਹਾ ਹਾਂ",
+        "I am thinking about a many questions",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "place",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am thinking about each question",
+        "maiṁ hara praśana bārē sōca rihā hāṁ",
+        "ਮੈਂ ਹਰ ਪ੍ਰਸ਼ਨ ਬਾਰੇ ਸੋਚ ਰਿਹਾ ਹਾਂ",
+        "I am thinking about each question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "place",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am thinking the first right",
+        "maiṁ pahilā sahī sōca rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਸਹੀ ਸੋਚ ਰਿਹਾ ਹਾਂ",
+        "I am thinking the first right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "point",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am thinking many right",
+        "maiṁ bahuta sārē sahī sōca rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਸਹੀ ਸੋਚ ਰਿਹਾ ਹਾਂ",
+        "I am thinking many right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "point",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am thinking each right",
+        "maiṁ hara ika sahī sōca rihā hāṁ",
+        "ਮੈਂ ਹਰ ਇਕ ਸਹੀ ਸੋਚ ਰਿਹਾ ਹਾਂ",
+        "I am thinking each right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "point",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am thinking about the first school",
+        "maiṁ pahilē sakūla bārē sōca rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਸਕੂਲ ਬਾਰੇ ਸੋਚ ਰਿਹਾ ਹਾਂ",
+        "I am thinking about the first school",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "point",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am looking after my many families",
+        "maiṁ āpaṇē bahuta sārē parivārāṁ dī dēkhabhāla kara rihā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਦੀ ਦੇਖਭਾਲ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am looking after my many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "system",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am looking after each family",
+        "maiṁ hara parivāra dī dēkhabhāla kara rihā hāṁ",
+        "ਮੈਂ ਹਰ ਪਰਿਵਾਰ ਦੀ ਦੇਖਭਾਲ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am looking after each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "system",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am looking at a good man",
+        "maiṁ ika cagē ādamī vala vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗੇ ਆਦਮੀ ਵੱਲ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am looking at a good man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "system",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am looking at the first man",
+        "maiṁ pahilē ādamī vala vēkha rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਆਦਮੀ ਵੱਲ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am looking at the first man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "system",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am looking at a many men",
+        "maiṁ bahuta sārē badi'āṁ nū vēkha rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਬੰਦਿਆਂ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am looking at a many men",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am looking at each man",
+        "maiṁ hara ādamī nū vēkha rihā hāṁ",
+        "ਮੈਂ ਹਰ ਆਦਮੀ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am looking at each man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am looking after the first mother",
+        "maiṁ pahilī māṁ dī dēkhabhāla kara rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਮਾਂ ਦੀ ਦੇਖਭਾਲ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am looking after the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am looking after my many mothers",
+        "maiṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ dī dēkhabhāla kara rihā hāṁ",
+        "ਮੈਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਦੀ ਦੇਖਭਾਲ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am looking after my many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am looking after each mother",
+        "maiṁ hara māṁ dī dēkhabhāla kara rihā hāṁ",
+        "ਮੈਂ ਹਰ ਮਾਂ ਦੀ ਦੇਖਭਾਲ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am looking after each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "time",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am looking after the first people",
+        "maiṁ pahilē lōkāṁ dī dēkhabhāla kara rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਲੋਕਾਂ ਦੀ ਦੇਖਭਾਲ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am looking after the first people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "time",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am looking after many people",
+        "maiṁ bahuta sārē lōkāṁ dī dēkhabhāla kara rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਲੋਕਾਂ ਦੀ ਦੇਖਭਾਲ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am looking after many people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "time",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am looking at the first problem",
+        "maiṁ pahilī samasi'ā vēkha rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਸਮੱਸਿਆ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am looking at the first problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "time",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am looking at a many problems",
+        "maiṁ bahuta sārī'āṁ muśakalāṁ vala vēkha rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮੁਸ਼ਕਲਾਂ ਵੱਲ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am looking at a many problems",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "way",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am looking at each problem",
+        "maiṁ hara samasi'ā vala vēkha rihā hāṁ",
+        "ਮੈਂ ਹਰ ਸਮੱਸਿਆ ਵੱਲ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am looking at each problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "way",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am looking at the first woman",
+        "maiṁ pahilī atrata vala vēkha rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ atਰਤ ਵੱਲ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am looking at the first woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "way",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am looking for each work",
+        "maiṁ hara kama dī bhāla kara rihā hāṁ",
+        "ਮੈਂ ਹਰ ਕੰਮ ਦੀ ਭਾਲ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am looking for each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am looking at the first world",
+        "maiṁ pahilē sasāra nū vēkha rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਸੰਸਾਰ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am looking at the first world",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am looking at the many worlds",
+        "Maiṁ bahuta sārē sasārāṁ nū vēkha rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਸੰਸਾਰਾਂ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am looking at the many worlds",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am looking at each world",
+        "maiṁ hara ika sasāra nū vēkha rihā hāṁ",
+        "ਮੈਂ ਹਰ ਇਕ ਸੰਸਾਰ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am looking at each world",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "business",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am wanting a good book",
+        "maiṁ ika cagī kitāba cāhudā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗੀ ਕਿਤਾਬ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting a good book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "business",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am wanting each book",
+        "maiṁ hara kitāba cāhudā hāṁ",
+        "ਮੈਂ ਹਰ ਕਿਤਾਬ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting each book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "job",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am wanting a good day",
+        "maiṁ ika cagā dina cāhudā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗਾ ਦਿਨ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting a good day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "job",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am wanting the first day",
+        "maiṁ pahilā dina cāhudā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਦਿਨ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting the first day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "job",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am wanting my many families",
+        "maiṁ āpaṇē bahuta sārē parivārāṁ nū cāhudā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਨੂੰ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting my many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "part",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am wanting each family",
+        "maiṁ harēka parivāra nū cāhudā hāṁ",
+        "ਮੈਂ ਹਰੇਕ ਪਰਿਵਾਰ ਨੂੰ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "part",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am wanting the first group",
+        "maiṁ pahilā samūha cāhudā/ cāhudī hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਸਮੂਹ ਚਾਹੁੰਦਾ / ਚਾਹੁੰਦੀ ਹਾਂ",
+        "I am wanting the first group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "part",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am wanting the many groups",
+        "maiṁ bahuta sārē samūhāṁ nū cāhudā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਸਮੂਹਾਂ ਨੂੰ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting the many groups",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "part",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am wanting a home",
+        "maiṁ ika ghara cāhudā hāṁ",
+        "ਮੈਂ ਇੱਕ ਘਰ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am wanting the first job",
+        "maiṁ pahilī naukarī cāhudā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਨੌਕਰੀ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting the first job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am wanting a many jobs",
+        "maiṁ bahuta sārī'āṁ naukarī'āṁ cāhudā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting a many jobs",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am wanting each job",
+        "maiṁ hara naukarī cāhudā hāṁ",
+        "ਮੈਂ ਹਰ ਨੌਕਰੀ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting each job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am wanting the first place",
+        "maiṁ pahilā sathāna cāhudā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਸਥਾਨ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting the first place",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am wanting a many places",
+        "maiṁ bahuta sārī'āṁ thāvāṁ cāhudā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਥਾਵਾਂ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting a many places",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am wanting each place",
+        "maiṁ hara jag'hā cāhudā hāṁ",
+        "ਮੈਂ ਹਰ ਜਗ੍ਹਾ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting each place",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am wanting each room",
+        "maiṁ hara kamarā cāhudā hāṁ",
+        "ਮੈਂ ਹਰ ਕਮਰਾ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "say",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am wanting a good story",
+        "maiṁ ika cagī kahāṇī cāhudā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗੀ ਕਹਾਣੀ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting a good story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "say",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am wanting the first story",
+        "maiṁ pahilī kahāṇī cāhudā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਕਹਾਣੀ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting the first story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "say",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am wanting a many stories",
+        "maiṁ bahuta sārī'āṁ kahāṇī'āṁ cāhudā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਕਹਾਣੀਆਂ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting a many stories",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "say",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am wanting the first thing",
+        "maiṁ pahilī cīza cāhudā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਚੀਜ਼ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "day",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am wanting a many things",
+        "maiṁ bahuta sārī'āṁ cīzāṁ cāhudā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting a many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "day",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am wanting each thing",
+        "maiṁ hara cīza cāhudā hāṁ",
+        "ਮੈਂ ਹਰ ਚੀਜ਼ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "day",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am wanting good time",
+        "maiṁ cagā samāṁ cāhudā hāṁ",
+        "ਮੈਂ ਚੰਗਾ ਸਮਾਂ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting good time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "day",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am wanting the first time",
+        "maiṁ pahilī vāra cāhudā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਵਾਰ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting the first time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "group",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am wanting many times",
+        "maiṁ ka'ī vāra cāha rihā hāṁ",
+        "ਮੈਂ ਕਈ ਵਾਰ ਚਾਹ ਰਿਹਾ ਹਾਂ",
+        "I am wanting many times",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "group",
+            "det": "the",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am wanting each time",
+        "maiṁ hara vāra cāhudā hāṁ",
+        "ਮੈਂ ਹਰ ਵਾਰ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting each time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "group",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am wanting a good week",
+        "maiṁ ika cagā haphatā cāhudā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗਾ ਹਫਤਾ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "job",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am wanting the first week",
+        "maiṁ pahilē haphatē cāhudā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਹਫਤੇ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "job",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am wanting a many a week",
+        "maiṁ haphatē vica bahuta sārē cāhudē hāṁ",
+        "ਮੈਂ ਹਫਤੇ ਵਿੱਚ ਬਹੁਤ ਸਾਰੇ ਚਾਹੁੰਦੇ ਹਾਂ",
+        "I am wanting a many a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "job",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am wanting the first work",
+        "maiṁ pahilā kama cāhudā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਕੰਮ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting the first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "part",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am wanting each work",
+        "maiṁ hara kama cāhudā hāṁ",
+        "ਮੈਂ ਹਰ ਕੰਮ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "part",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am giving them a good book",
+        "maiṁ unhāṁ nū cagī kitāba dē rihā hāṁ",
+        "ਮੈਂ ਉਨ੍ਹਾਂ ਨੂੰ ਚੰਗੀ ਕਿਤਾਬ ਦੇ ਰਿਹਾ ਹਾਂ",
+        "I am giving them a good book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "part",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am giving them each book",
+        "maiṁ unhāṁ nū hara kitāba dē rihā hāṁ",
+        "ਮੈਂ ਉਨ੍ਹਾਂ ਨੂੰ ਹਰ ਕਿਤਾਬ ਦੇ ਰਿਹਾ ਹਾਂ",
+        "I am giving them each book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "part",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am giving to the first child",
+        "maiṁ pahilē bacē nū dē rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਬੱਚੇ ਨੂੰ ਦੇ ਰਿਹਾ ਹਾਂ",
+        "I am giving to the first child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "place",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am giving to my many children",
+        "maiṁ āpaṇē bahuta sārē baci'āṁ nū dē rihā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚਿਆਂ ਨੂੰ ਦੇ ਰਿਹਾ ਹਾਂ",
+        "I am giving to my many children",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "place",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am giving to each child",
+        "maiṁ hara bacē nū dē rihā hāṁ",
+        "ਮੈਂ ਹਰ ਬੱਚੇ ਨੂੰ ਦੇ ਰਿਹਾ ਹਾਂ",
+        "I am giving to each child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "place",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am giving to the many countries",
+        "maiṁ bahuta sārē dēśāṁ nū dē rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਨੂੰ ਦੇ ਰਿਹਾ ਹਾਂ",
+        "I am giving to the many countries",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "point",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am giving to each country",
+        "maiṁ hara dēśa nū dē rihā hāṁ",
+        "ਮੈਂ ਹਰ ਦੇਸ਼ ਨੂੰ ਦੇ ਰਿਹਾ ਹਾਂ",
+        "I am giving to each country",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "point",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am giving a good thing",
+        "Maiṁ ika cagī cīza dē rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗੀ ਚੀਜ਼ ਦੇ ਰਿਹਾ ਹਾਂ",
+        "I am giving a good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "point",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am giving the first thing",
+        "maiṁ pahilī cīza dē rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਚੀਜ਼ ਦੇ ਰਿਹਾ ਹਾਂ",
+        "I am giving the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "point",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am using a good book",
+        "maiṁ ika cagī kitāba dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗੀ ਕਿਤਾਬ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am using a good book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am using each book",
+        "maiṁ hara kitāba dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਹਰ ਕਿਤਾਬ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am using each book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am using a many hands",
+        "maiṁ bahuta sārē hatha isatēmāla kara rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਹੱਥ ਇਸਤੇਮਾਲ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am using a many hands",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am using each hand",
+        "maiṁ hara ika hatha dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਹਰ ਇੱਕ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am using each hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am using the first month",
+        "maiṁ pahilē mahīnē dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਮਹੀਨੇ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am using the first month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "time",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am using a many months",
+        "maiṁ bahuta sārē mahīni'āṁ dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਮਹੀਨਿਆਂ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am using a many months",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "time",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am using each month",
+        "maiṁ hara mahīnē varata rihā hāṁ",
+        "ਮੈਂ ਹਰ ਮਹੀਨੇ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using each month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "time",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am using the first place",
+        "maiṁ pahilē sathāna dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਸਥਾਨ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am using the first place",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "time",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am using a many programs",
+        "maiṁ bahuta sārē prōgarāmāṁ dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਪ੍ਰੋਗਰਾਮਾਂ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am using a many programs",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am using each program",
+        "maiṁ hara prōgarāma dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਹਰ ਪ੍ਰੋਗਰਾਮ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am using each program",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am using the first room",
+        "maiṁ pahilē kamarē dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਕਮਰੇ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am using the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "get",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am using a good system",
+        "maiṁ ika cagā sisaṭama varata rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗਾ ਸਿਸਟਮ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a good system",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "make",
+            "noun": "point",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am using the first system",
+        "maiṁ pahilā sisaṭama varata rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਸਿਸਟਮ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using the first system",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "make",
+            "noun": "point",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am using a many systems",
+        "maiṁ bahuta sārī'āṁ praṇālī'āṁ dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਪ੍ਰਣਾਲੀਆਂ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am using a many systems",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "make",
+            "noun": "point",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am using each system",
+        "maiṁ harēka praṇālī dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਹਰੇਕ ਪ੍ਰਣਾਲੀ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am using each system",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "make",
+            "noun": "point",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am using each week",
+        "maiṁ hara haphatē varata rihā hāṁ",
+        "ਮੈਂ ਹਰ ਹਫਤੇ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "make",
+            "noun": "system",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am using a good word",
+        "maiṁ ika cagā śabada varata rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗਾ ਸ਼ਬਦ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a good word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "make",
+            "noun": "system",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am using the first word",
+        "maiṁ pahilā śabada varata rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਸ਼ਬਦ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using the first word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "make",
+            "noun": "system",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am using a many words",
+        "maiṁ bahuta sārē śabada varata rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਸ਼ਬਦ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a many words",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "make",
+            "noun": "system",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am using each word",
+        "maiṁ hara śabada dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਹਰ ਸ਼ਬਦ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am using each word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "make",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am finding a good book",
+        "mainū ika cagī kitāba mila rahī hai",
+        "ਮੈਨੂੰ ਇੱਕ ਚੰਗੀ ਕਿਤਾਬ ਮਿਲ ਰਹੀ ਹੈ",
+        "I am finding a good book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "make",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am finding each book",
+        "maiṁ hara kitāba labha rihā hāṁ",
+        "ਮੈਂ ਹਰ ਕਿਤਾਬ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding each book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "make",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am finding the first group",
+        "maiṁ pahilā samūha labha rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਸਮੂਹ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding the first group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "make",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am finding the many groups",
+        "maiṁ bahuta sārē samūha labha rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਸਮੂਹ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding the many groups",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "make",
+            "noun": "time",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am finding each group",
+        "maiṁ hara samūha nū labha rihā hāṁ",
+        "ਮੈਂ ਹਰ ਸਮੂਹ ਨੂੰ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding each group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "make",
+            "noun": "time",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am finding a first home",
+        "maiṁ pahilā ghara labha rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਘਰ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding a first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "make",
+            "noun": "time",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am finding a many home",
+        "mainū bahuta sārā ghara mila rihā hai",
+        "ਮੈਨੂੰ ਬਹੁਤ ਸਾਰਾ ਘਰ ਮਿਲ ਰਿਹਾ ਹੈ",
+        "I am finding a many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "make",
+            "noun": "time",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am finding a home",
+        "Maiṁ ika ghara labha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਘਰ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "make",
+            "noun": "way",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am finding the first job",
+        "maiṁ pahilī naukarī labha rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਨੌਕਰੀ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding the first job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "make",
+            "noun": "way",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am finding a many jobs",
+        "mainū bahuta sārī'āṁ naukarī'āṁ mila rahī'āṁ hana",
+        "ਮੈਨੂੰ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਮਿਲ ਰਹੀਆਂ ਹਨ",
+        "I am finding a many jobs",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "make",
+            "noun": "way",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am finding each job",
+        "maiṁ hara naukarī labha rihā hāṁ",
+        "ਮੈਂ ਹਰ ਨੌਕਰੀ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding each job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "business",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am finding the first place",
+        "maiṁ pahilī jag'hā labha rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਜਗ੍ਹਾ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding the first place",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "business",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am finding the first room",
+        "maiṁ pahilā kamarā labha rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਕਮਰਾ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "group",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am finding a many rooms",
+        "mainū bahuta sārē kamarē mila rahē hana",
+        "ਮੈਨੂੰ ਬਹੁਤ ਸਾਰੇ ਕਮਰੇ ਮਿਲ ਰਹੇ ਹਨ",
+        "I am finding a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "group",
+            "det": "the",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am finding each room",
+        "maiṁ hara kamarā labha rihā hāṁ",
+        "ਮੈਂ ਹਰ ਕਮਰਾ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "group",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am finding each thing",
+        "maiṁ hara cīza labha rihā hāṁ",
+        "ਮੈਂ ਹਰ ਚੀਜ਼ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "job",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am finding good time",
+        "mainū cagā samāṁ mila rihā hai",
+        "ਮੈਨੂੰ ਚੰਗਾ ਸਮਾਂ ਮਿਲ ਰਿਹਾ ਹੈ",
+        "I am finding good time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "job",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am finding the first time",
+        "maiṁ pahilī vāra labha rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਵਾਰ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding the first time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "job",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am finding a many women",
+        "mainū bahuta sārī'āṁ findingratāṁ mila rahī'āṁ hana",
+        "ਮੈਨੂੰ ਬਹੁਤ ਸਾਰੀਆਂ findingਰਤਾਂ ਮਿਲ ਰਹੀਆਂ ਹਨ",
+        "I am finding a many women",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "place",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am finding each woman",
+        "maiṁ hara findingrata nū labha rihā hāṁ",
+        "ਮੈਂ ਹਰ findingਰਤ ਨੂੰ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding each woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "place",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am finding a good word",
+        "mainū ika cagā śabada mila rihā hai",
+        "ਮੈਨੂੰ ਇੱਕ ਚੰਗਾ ਸ਼ਬਦ ਮਿਲ ਰਿਹਾ ਹੈ",
+        "I am finding a good word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "place",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am telling about many home",
+        "maiṁ bahuta sārē ghara bārē dasa rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਘਰ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਹਾਂ",
+        "I am telling about many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am telling about each home",
+        "maiṁ hara ghara bārē dasa rihā hāṁ",
+        "ਮੈਂ ਹਰ ਘਰ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਹਾਂ",
+        "I am telling about each home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am telling about the first job",
+        "maiṁ pahilī naukarī bārē dasa rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਨੌਕਰੀ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਹਾਂ",
+        "I am telling about the first job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am telling about a many jobs",
+        "maiṁ bahuta sārī'āṁ naukarī'āṁ bārē dasa rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਹਾਂ",
+        "I am telling about a many jobs",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "business",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am telling about each job",
+        "maiṁ hara kama bārē dasa rihā hāṁ",
+        "ਮੈਂ ਹਰ ਕੰਮ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਹਾਂ",
+        "I am telling about each job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "business",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am telling about many people",
+        "maiṁ bahuta sārē lōkāṁ bārē dasa rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਲੋਕਾਂ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਹਾਂ",
+        "I am telling about many people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "group",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am telling about the first problem",
+        "maiṁ pahilī samasi'ā bārē dasa rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਹਾਂ",
+        "I am telling about the first problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "group",
+            "det": "the",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am telling about a many problems",
+        "maiṁ bahuta sārī'āṁ muśakalāṁ bārē dasa rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮੁਸ਼ਕਲਾਂ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਹਾਂ",
+        "I am telling about a many problems",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "group",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am telling about each problem",
+        "maiṁ hara samasi'ā bārē dasa rihā hāṁ",
+        "ਮੈਂ ਹਰ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਹਾਂ",
+        "I am telling about each problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "job",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am telling about the first school",
+        "maiṁ pahilē sakūla bārē dasa rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਸਕੂਲ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਹਾਂ",
+        "I am telling about the first school",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "job",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am telling about many schools",
+        "maiṁ bahuta sārē sakūlāṁ bārē dasa rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਸਕੂਲਾਂ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਹਾਂ",
+        "I am telling about many schools",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "job",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am telling about the first thing",
+        "maiṁ pahilī cīza bārē dasa rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਚੀਜ਼ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਹਾਂ",
+        "I am telling about the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "part",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am telling about a many things",
+        "maiṁ bahuta sārī'āṁ cīzāṁ bārē dasa rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਹਾਂ",
+        "I am telling about a many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "part",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am telling about each thing",
+        "maiṁ hara cīza bārē dasa rihā hāṁ",
+        "ਮੈਂ ਹਰ ਚੀਜ਼ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਹਾਂ",
+        "I am telling about each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "part",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am telling good time",
+        "maiṁ cagā samāṁ dasa rihā hāṁ",
+        "ਮੈਂ ਚੰਗਾ ਸਮਾਂ ਦੱਸ ਰਿਹਾ ਹਾਂ",
+        "I am telling good time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "part",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am telling the first time",
+        "maiṁ pahilī vāra dasa rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਵਾਰ ਦੱਸ ਰਿਹਾ ਹਾਂ",
+        "I am telling the first time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "place",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am telling many times",
+        "maiṁ ka'ī vāra dasa rihā hāṁ",
+        "ਮੈਂ ਕਈ ਵਾਰ ਦੱਸ ਰਿਹਾ ਹਾਂ",
+        "I am telling many times",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "place",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am telling each time",
+        "maiṁ hara vāra dasa rihā hāṁ",
+        "ਮੈਂ ਹਰ ਵਾਰ ਦੱਸ ਰਿਹਾ ਹਾਂ",
+        "I am telling each time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "place",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am getting a many rooms",
+        "mainū bahuta sārē kamarē mila rahē hana",
+        "ਮੈਨੂੰ ਬਹੁਤ ਸਾਰੇ ਕਮਰੇ ਮਿਲ ਰਹੇ ਹਨ",
+        "I am getting a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "system",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am getting each room",
+        "mainū hara kamarā mila rihā hai",
+        "ਮੈਨੂੰ ਹਰ ਕਮਰਾ ਮਿਲ ਰਿਹਾ ਹੈ",
+        "I am getting each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "system",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am getting a good thing",
+        "mainū ika cagī cīza mila rahī hai",
+        "ਮੈਨੂੰ ਇੱਕ ਚੰਗੀ ਚੀਜ਼ ਮਿਲ ਰਹੀ ਹੈ",
+        "I am getting a good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "system",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am getting the first thing",
+        "mainū pahilī cīza mila rahī hai",
+        "ਮੈਨੂੰ ਪਹਿਲੀ ਚੀਜ਼ ਮਿਲ ਰਹੀ ਹੈ",
+        "I am getting the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "system",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am getting a many things",
+        "mainū bahuta sārī'āṁ cīzāṁ mila rahī'āṁ hana",
+        "ਮੈਨੂੰ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਮਿਲ ਰਹੀਆਂ ਹਨ",
+        "I am getting a many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am getting each thing",
+        "maiṁ hara cīza prāpata kara rihā hāṁ",
+        "ਮੈਂ ਹਰ ਚੀਜ਼ ਪ੍ਰਾਪਤ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am getting each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am getting good time",
+        "mainū cagā samāṁ mila rihā hai",
+        "ਮੈਨੂੰ ਚੰਗਾ ਸਮਾਂ ਮਿਲ ਰਿਹਾ ਹੈ",
+        "I am getting good time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am getting the first time",
+        "mainū pahilī vāra mila rihā hai",
+        "ਮੈਨੂੰ ਪਹਿਲੀ ਵਾਰ ਮਿਲ ਰਿਹਾ ਹੈ",
+        "I am getting the first time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am getting many times",
+        "mainū bahuta vāra mila rihā hai",
+        "ਮੈਨੂੰ ਬਹੁਤ ਵਾਰ ਮਿਲ ਰਿਹਾ ਹੈ",
+        "I am getting many times",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "time",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am getting each time",
+        "maiṁ hara vāra prāpata kara rihā hāṁ",
+        "ਮੈਂ ਹਰ ਵਾਰ ਪ੍ਰਾਪਤ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am getting each time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "time",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am getting a good week",
+        "maiṁ ika cagā haphatā prāpata kara rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗਾ ਹਫਤਾ ਪ੍ਰਾਪਤ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am getting a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "time",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am getting the first week",
+        "maiṁ pahilā hafatā prāpata kara rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਹਫ਼ਤਾ ਪ੍ਰਾਪਤ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am getting the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "time",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am getting a many a week",
+        "maiṁ haphatē vica bahuta kujha lai rihā hāṁ",
+        "ਮੈਂ ਹਫਤੇ ਵਿਚ ਬਹੁਤ ਕੁਝ ਲੈ ਰਿਹਾ ਹਾਂ",
+        "I am getting a many a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "way",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am getting each week",
+        "maiṁ hara haphatē ā rihā hāṁ",
+        "ਮੈਂ ਹਰ ਹਫਤੇ ਆ ਰਿਹਾ ਹਾਂ",
+        "I am getting each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "way",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am getting to good work",
+        "maiṁ cagā kama karana jā rihā hāṁ",
+        "ਮੈਂ ਚੰਗਾ ਕੰਮ ਕਰਨ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am getting to good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "way",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am getting to the first work",
+        "maiṁ pahilē kama tē jā rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਕੰਮ ਤੇ ਜਾ ਰਿਹਾ ਹਾਂ",
+        "I am getting to the first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am getting to each work",
+        "maiṁ hara kama nū prāpata kara rihā hāṁ",
+        "ਮੈਂ ਹਰ ਕੰਮ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am getting to each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am making a first home",
+        "maiṁ pahilā ghara baṇā rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਘਰ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am making a first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am making a lot",
+        "maiṁ bahuta kujha kara rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਕੁਝ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am making a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am making a good point",
+        "maiṁ ika cagā bidū baṇā rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗਾ ਬਿੰਦੂ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am making a good point",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am making the first point",
+        "maiṁ pahilā bidū baṇā rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਬਿੰਦੂ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am making the first point",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am making a good program",
+        "maiṁ ika cagā prōgarāma baṇā rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗਾ ਪ੍ਰੋਗਰਾਮ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am making a good program",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "take",
+            "noun": "day",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am making the first program",
+        "maiṁ pahilā prōgarāma baṇā rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਪ੍ਰੋਗਰਾਮ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am making the first program",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "take",
+            "noun": "day",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am making a many programs",
+        "maiṁ bahuta sārē prōgarāma kara rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਪ੍ਰੋਗਰਾਮ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am making a many programs",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "take",
+            "noun": "day",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am making each program",
+        "maiṁ hara prōgarāma baṇā rihā hāṁ",
+        "ਮੈਂ ਹਰ ਪ੍ਰੋਗਰਾਮ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am making each program",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "take",
+            "noun": "day",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am making a good story",
+        "maiṁ ika cagī kahāṇī baṇā rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗੀ ਕਹਾਣੀ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am making a good story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "take",
+            "noun": "job",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am making the first story",
+        "maiṁ pahilī kahāṇī baṇā rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਕਹਾਣੀ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am making the first story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "take",
+            "noun": "job",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am making a many stories",
+        "maiṁ bahuta sārī'āṁ kahāṇī'āṁ baṇā rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਕਹਾਣੀਆਂ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am making a many stories",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "take",
+            "noun": "job",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am making each story",
+        "maiṁ hara ika kahāṇī baṇā rihā hāṁ",
+        "ਮੈਂ ਹਰ ਇਕ ਕਹਾਣੀ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am making each story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "take",
+            "noun": "point",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am making a good system",
+        "maiṁ ika cagā sisaṭama baṇā rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗਾ ਸਿਸਟਮ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am making a good system",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "take",
+            "noun": "point",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am making the first system",
+        "maiṁ pahilā sisaṭama baṇā rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਸਿਸਟਮ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am making the first system",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "take",
+            "noun": "point",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am making a many systems",
+        "maiṁ bahuta sārī'āṁ praṇālī'āṁ baṇā rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਪ੍ਰਣਾਲੀਆਂ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am making a many systems",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "take",
+            "noun": "point",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am making each system",
+        "maiṁ hara sisaṭama baṇā rihā hāṁ",
+        "ਮੈਂ ਹਰ ਸਿਸਟਮ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am making each system",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "take",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am making a good thing",
+        "maiṁ ika cagī cīza baṇā rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗੀ ਚੀਜ਼ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am making a good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "take",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am making the first thing",
+        "maiṁ pahilī cīza baṇā rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਚੀਜ਼ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am making the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "take",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am making a many things",
+        "maiṁ bahuta sārī'āṁ cīzāṁ baṇā rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am making a many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "take",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am making each thing",
+        "maiṁ hara cīza baṇā rihā hāṁ",
+        "ਮੈਂ ਹਰ ਚੀਜ਼ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am making each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "take",
+            "noun": "time",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am making good time",
+        "maiṁ cagā samāṁ baṇā rihā hāṁ",
+        "ਮੈਂ ਚੰਗਾ ਸਮਾਂ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am making good time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "take",
+            "noun": "time",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am making the first time",
+        "maiṁ pahilī vāra baṇā rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਵਾਰ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am making the first time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "take",
+            "noun": "time",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am making many times",
+        "maiṁ ka'ī vāra baṇā rihā hāṁ",
+        "ਮੈਂ ਕਈ ਵਾਰ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am making many times",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "take",
+            "noun": "time",
+            "adj": "each"
+        }
+    ]
+]

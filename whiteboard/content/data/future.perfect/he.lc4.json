@@ -1,0 +1,805 @@
+[
+    [
+        "He will have come to a job",
+        "uha kisē naukarī tē ā gi'ā hōvēgā",
+        "ਉਹ ਕਿਸੇ ਨੌਕਰੀ ਤੇ ਆ ਗਿਆ ਹੋਵੇਗਾ",
+        "He will have come to a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "be",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "He will have to come to a room",
+        "usanū ika kamarē vica ā'uṇā pa'ēgā",
+        "ਉਸਨੂੰ ਇੱਕ ਕਮਰੇ ਵਿੱਚ ਆਉਣਾ ਪਏਗਾ",
+        "He will have to come to a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "be",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "He will have come on time",
+        "uha samēṁ sira ā'i'ā hōvēgā",
+        "ਉਹ ਸਮੇਂ ਸਿਰ ਆਇਆ ਹੋਵੇਗਾ",
+        "He will have come on time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "He will have come to work",
+        "uha kama tē ā gi'ā hōvēgā",
+        "ਉਹ ਕੰਮ ਤੇ ਆ ਗਿਆ ਹੋਵੇਗਾ",
+        "He will have come to work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "He will have thought about the group",
+        "usanē samūha bārē sōci'ā hōvēgā",
+        "ਉਸਨੇ ਸਮੂਹ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "He will have thought about the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "lot"
+        }
+    ],
+    [
+        "He will have thought about a job",
+        "usanē kisē naukarī bārē sōci'ā hōvēgā",
+        "ਉਸਨੇ ਕਿਸੇ ਨੌਕਰੀ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "He will have thought about a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "mother",
+            "det": "his"
+        }
+    ],
+    [
+        "He will have thought about money",
+        "usanē paisē bārē sōci'ā hōvēgā",
+        "ਉਸਨੇ ਪੈਸੇ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "He will have thought about money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "He will have thought about his mother",
+        "usanē āpaṇī māṁ bārē sōci'ā hōvēgā",
+        "ਉਸਨੇ ਆਪਣੀ ਮਾਂ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "He will have thought about his mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "He will have thought right",
+        "usanē sahī sōci'ā hōvēgā",
+        "ਉਸਨੇ ਸਹੀ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "He will have thought right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "He will have looked after a business",
+        "usa nē ika kārōbāra dī dēkhabhāla kītī hōvēgī",
+        "ਉਸ ਨੇ ਇੱਕ ਕਾਰੋਬਾਰ ਦੀ ਦੇਖਭਾਲ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "He will have looked after a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "He will have looked after his family",
+        "usanē āpaṇē parivāra dī dēkhabhāla kītī hōvēgī",
+        "ਉਸਨੇ ਆਪਣੇ ਪਰਿਵਾਰ ਦੀ ਦੇਖਭਾਲ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "He will have looked after his family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "He will have looked at a man",
+        "usanē ika ādamī vala vēkhi'ā hōvēgā",
+        "ਉਸਨੇ ਇੱਕ ਆਦਮੀ ਵੱਲ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "He will have looked at a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "He will have looked after his mother",
+        "usanē āpaṇī māṁ dī dēkhabhāla kītī hōvēgī",
+        "ਉਸਨੇ ਆਪਣੀ ਮਾਂ ਦੀ ਦੇਖਭਾਲ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "He will have looked after his mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "do",
+            "noun": "lot"
+        }
+    ],
+    [
+        "He will have known a student",
+        "uha ika vidi'ārathī nū jāṇadā hōvēgā",
+        "ਉਹ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦਾ ਹੋਵੇਗਾ",
+        "He will have known a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "tell",
+            "noun": "life"
+        }
+    ],
+    [
+        "He will have known a system",
+        "uha ika sisaṭama jāṇadā hōvēgā",
+        "ਉਹ ਇੱਕ ਸਿਸਟਮ ਜਾਣਦਾ ਹੋਵੇਗਾ",
+        "He will have known a system",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "He will have known his thing",
+        "uha āpaṇī cīza jāṇadā hōvēgā",
+        "ਉਹ ਆਪਣੀ ਚੀਜ਼ ਜਾਣਦਾ ਹੋਵੇਗਾ",
+        "He will have known his thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "his"
+        }
+    ],
+    [
+        "He will have known his way",
+        "usanū āpaṇā rāha patā laga jāvēgā",
+        "ਉਸਨੂੰ ਆਪਣਾ ਰਾਹ ਪਤਾ ਲੱਗ ਜਾਵੇਗਾ",
+        "He will have known his way",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "He will have known a word",
+        "usanū ika śabada patā laga jāvēgā",
+        "ਉਸਨੂੰ ਇੱਕ ਸ਼ਬਦ ਪਤਾ ਲੱਗ ਜਾਵੇਗਾ",
+        "He will have known a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "He will have known his work",
+        "usanū āpaṇā kama patā laga jāvēgā",
+        "ਉਸਨੂੰ ਆਪਣਾ ਕੰਮ ਪਤਾ ਲੱਗ ਜਾਵੇਗਾ",
+        "He will have known his work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a"
+        }
+    ],
+    [
+        "He will have taken a job",
+        "usa nē naukarī lai la'ī hōvēgī",
+        "ਉਸ ਨੇ ਨੌਕਰੀ ਲੈ ਲਈ ਹੋਵੇਗੀ",
+        "He will have taken a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "He will have seen his child",
+        "usanē āpaṇē bacē nū vēkha li'ā hōvēgā",
+        "ਉਸਨੇ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੇਖ ਲਿਆ ਹੋਵੇਗਾ",
+        "He will have seen his child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "He will have seen his family",
+        "usanē āpaṇē parivāra nū vēkhi'ā hōvēgā",
+        "ਉਸਨੇ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "He will have seen his family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "his"
+        }
+    ],
+    [
+        "He will have seen a hand",
+        "usanē ika hatha vēkhi'ā hōvēgā",
+        "ਉਸਨੇ ਇੱਕ ਹੱਥ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "He will have seen a hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "He will have seen a home",
+        "usanē ika ghara vēkhi'ā hōvēgā",
+        "ਉਸਨੇ ਇੱਕ ਘਰ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "He will have seen a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "He will have seen his mother",
+        "usanē āpaṇī māṁ nū vēkha li'ā hōvēgā",
+        "ਉਸਨੇ ਆਪਣੀ ਮਾਂ ਨੂੰ ਵੇਖ ਲਿਆ ਹੋਵੇਗਾ",
+        "He will have seen his mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "He will have tried for a day",
+        "usanē ika dina kōśiśa kītī hōvēgī",
+        "ਉਸਨੇ ਇੱਕ ਦਿਨ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "He will have tried for a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "try",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "He will have tried for a month",
+        "usanē ika mahīnē la'ī kōśiśa kītī hōvēgī",
+        "ਉਸਨੇ ਇੱਕ ਮਹੀਨੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "He will have tried for a month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "try",
+            "noun": "month",
+            "det": "a"
+        }
+    ],
+    [
+        "He will have tried for a week",
+        "usa nē ika hafatē la'ī kōśiśa kītī hōvēgī",
+        "ਉਸ ਨੇ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "He will have tried for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "try",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "He will have tried for a year",
+        "usanē ika sāla kōśiśa kītī hōvēgī",
+        "ਉਸਨੇ ਇੱਕ ਸਾਲ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "He will have tried for a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "try",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "He will have left a business",
+        "uha ika kārōbāra chaḍa dēvēgā",
+        "ਉਹ ਇੱਕ ਕਾਰੋਬਾਰ ਛੱਡ ਦੇਵੇਗਾ",
+        "He will have left a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "He will have called his mother",
+        "usanē āpaṇī māṁ nū bulā'i'ā hōvēgā",
+        "ਉਸਨੇ ਆਪਣੀ ਮਾਂ ਨੂੰ ਬੁਲਾਇਆ ਹੋਵੇਗਾ",
+        "He will have called his mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "call",
+            "noun": "mother",
+            "det": "his"
+        }
+    ]
+]

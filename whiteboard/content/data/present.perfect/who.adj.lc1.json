@@ -1,0 +1,5115 @@
+[
+    [
+        "Who has come for each week?",
+        "Hara hafatē kauṇa ā'i'ā hai?",
+        "ਹਰ ਹਫ਼ਤੇ ਕੌਣ ਆਇਆ ਹੈ?",
+        "Who has come for each week?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "be",
+            "noun": "child",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has come to good work?",
+        "Kauṇa cagā kama karana ā'i'ā hai?",
+        "ਕੌਣ ਚੰਗਾ ਕੰਮ ਕਰਨ ਆਇਆ ਹੈ?",
+        "Who has come to good work?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "be",
+            "noun": "child",
+            "det": "whose",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has come to the first work?",
+        "Pahilē kama tē kauṇa ā'i'ā hai?",
+        "ਪਹਿਲੇ ਕੰਮ ਤੇ ਕੌਣ ਆਇਆ ਹੈ?",
+        "Who has come to the first work?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "be",
+            "noun": "child",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has come to the many worlds?",
+        "Kauṇa bahuta sārē sasāra vica ā'i'ā hai?",
+        "ਕੌਣ ਬਹੁਤ ਸਾਰੇ ਸੰਸਾਰ ਵਿਚ ਆਇਆ ਹੈ?",
+        "Who has come to the many worlds?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has come to each world?",
+        "Harēka sasāra vica kauṇa ā'i'ā hai?",
+        "ਹਰੇਕ ਸੰਸਾਰ ਵਿਚ ਕੌਣ ਆਇਆ ਹੈ?",
+        "Who has come to each world?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "be",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has thought about a good book?",
+        "Kisa nē cagī kitāba bārē sōci'ā hai?",
+        "ਕਿਸ ਨੇ ਚੰਗੀ ਕਿਤਾਬ ਬਾਰੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about a good book?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has thought about each book?",
+        "Harēka kitāba bārē kisanē sōci'ā hai?",
+        "ਹਰੇਕ ਕਿਤਾਬ ਬਾਰੇ ਕਿਸਨੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about each book?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "be",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has thought about a good business?",
+        "Kisanē cagē kārōbāra bārē sōci'ā hai?",
+        "ਕਿਸਨੇ ਚੰਗੇ ਕਾਰੋਬਾਰ ਬਾਰੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about a good business?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "book",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has thought about each business?",
+        "Harēka kārōbāra bārē kisanē sōci'ā hai?",
+        "ਹਰੇਕ ਕਾਰੋਬਾਰ ਬਾਰੇ ਕਿਸਨੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about each business?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "book",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has thought about each child?",
+        "Harēka bacē bārē kisanē sōci'ā hai?",
+        "ਹਰੇਕ ਬੱਚੇ ਬਾਰੇ ਕਿਸਨੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about each child?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "child",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has thought about the many countries?",
+        "Kisanē bahuta sārē dēśāṁ bārē sōci'ā hai?",
+        "ਕਿਸਨੇ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਬਾਰੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about the many countries?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "child",
+            "det": "whose",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has thought about each country?",
+        "Harēka dēśa bārē kisanē sōci'ā hai?",
+        "ਹਰੇਕ ਦੇਸ਼ ਬਾਰੇ ਕਿਸਨੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about each country?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "child",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has thought about the first home?",
+        "Pahilē ghara bārē kisanē sōci'ā hai?",
+        "ਪਹਿਲੇ ਘਰ ਬਾਰੇ ਕਿਸਨੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about the first home?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has thought about many homes?",
+        "Kisanē bahuta sārē gharāṁ bārē sōci'ā hai?",
+        "ਕਿਸਨੇ ਬਹੁਤ ਸਾਰੇ ਘਰਾਂ ਬਾਰੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about many homes?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "family",
+            "det": "whose",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has thought about each home?",
+        "Harēka ghara bārē kisanē sōci'ā hai?",
+        "ਹਰੇਕ ਘਰ ਬਾਰੇ ਕਿਸਨੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about each home?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has thought about much life?",
+        "Kisa nē bahuta jidagī bārē sōci'ā hai?",
+        "ਕਿਸ ਨੇ ਬਹੁਤ ਜਿੰਦਗੀ ਬਾਰੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about much life?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "hand",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has thought about each life?",
+        "Harēka zidagī bārē kisanē sōci'ā hai?",
+        "ਹਰੇਕ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਕਿਸਨੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about each life?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "hand",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has taught a first lot?",
+        "Kisa nē pahilāṁ bahuta kujha sikhā'i'ā hai?",
+        "ਕਿਸ ਨੇ ਪਹਿਲਾਂ ਬਹੁਤ ਕੁਝ ਸਿਖਾਇਆ ਹੈ?",
+        "Who has taught a first lot?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has taught a many lots?",
+        "Kisanē bahuta sikhā'i'ā?",
+        "ਕਿਸਨੇ ਬਹੁਤ ਸਿਖਾਇਆ?",
+        "Who has taught a many lots?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has taught a lot?",
+        "Kisanē bahuta sikhā'i'ā?",
+        "ਕਿਸਨੇ ਬਹੁਤ ਸਿਖਾਇਆ?",
+        "Who has taught a lot?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has thought about a many problems?",
+        "Kisanē bahuta sārī'āṁ muśakalāṁ bārē sōci'ā hai?",
+        "ਕਿਸਨੇ ਬਹੁਤ ਸਾਰੀਆਂ ਮੁਸ਼ਕਲਾਂ ਬਾਰੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about a many problems?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has thought about each problem?",
+        "Harēka samasi'ā bārē kisanē sōci'ā hai?",
+        "ਹਰੇਕ ਸਮੱਸਿਆ ਬਾਰੇ ਕਿਸਨੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about each problem?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "mother",
+            "det": "whose",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has thought about a good question?",
+        "Kisē cagē praśana bārē kisanē sōci'ā hai?",
+        "ਕਿਸੇ ਚੰਗੇ ਪ੍ਰਸ਼ਨ ਬਾਰੇ ਕਿਸਨੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about a good question?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has thought about the many worlds?",
+        "Kauṇa bahuta sārē sasāra bārē sōci'ā hai?",
+        "ਕੌਣ ਬਹੁਤ ਸਾਰੇ ਸੰਸਾਰ ਬਾਰੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about the many worlds?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has thought about each world?",
+        "Harēka sasāra bārē kisanē sōci'ā hai?",
+        "ਹਰੇਕ ਸੰਸਾਰ ਬਾਰੇ ਕਿਸਨੇ ਸੋਚਿਆ ਹੈ?",
+        "Who has thought about each world?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has looked at a good book?",
+        "Kisa nē cagī kitāba vala vēkhi'ā hai?",
+        "ਕਿਸ ਨੇ ਚੰਗੀ ਕਿਤਾਬ ਵੱਲ ਵੇਖਿਆ ਹੈ?",
+        "Who has looked at a good book?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has looked at a many men?",
+        "Kisanē bahuta sārē badi'āṁ vala vēkhi'ā hai?",
+        "ਕਿਸਨੇ ਬਹੁਤ ਸਾਰੇ ਬੰਦਿਆਂ ਵੱਲ ਵੇਖਿਆ ਹੈ?",
+        "Who has looked at a many men?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has looked at each man?",
+        "Kisanē harēka ādamī vala vēkhi'ā hai?",
+        "ਕਿਸਨੇ ਹਰੇਕ ਆਦਮੀ ਵੱਲ ਵੇਖਿਆ ਹੈ?",
+        "Who has looked at each man?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has looked after the first mother?",
+        "Pahilī māṁ dī dēkhabhāla kisanē kītī?",
+        "ਪਹਿਲੀ ਮਾਂ ਦੀ ਦੇਖਭਾਲ ਕਿਸਨੇ ਕੀਤੀ?",
+        "Who has looked after the first mother?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has looked after whose many mothers?",
+        "Kisa dī'āṁ bahuta sārī'āṁ māvāṁ dā dhi'āna rakhi'ā hai?",
+        "ਕਿਸ ਦੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਦਾ ਧਿਆਨ ਰੱਖਿਆ ਹੈ?",
+        "Who has looked after whose many mothers?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has looked at a many women?",
+        "Kisanē bahuta sārī'āṁ atratāṁ vala vēkhi'ā hai?",
+        "ਕਿਸਨੇ ਬਹੁਤ ਸਾਰੀਆਂ atਰਤਾਂ ਵੱਲ ਵੇਖਿਆ ਹੈ?",
+        "Who has looked at a many women?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has looked at each woman?",
+        "Kisanē harēka atrata vala vēkhi'ā hai?",
+        "ਕਿਸਨੇ ਹਰੇਕ atਰਤ ਵੱਲ ਵੇਖਿਆ ਹੈ?",
+        "Who has looked at each woman?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has looked for good work?",
+        "Kisanē cagē kama dī bhāla kītī?",
+        "ਕਿਸਨੇ ਚੰਗੇ ਕੰਮ ਦੀ ਭਾਲ ਕੀਤੀ?",
+        "Who has looked for good work?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has looked for the first work?",
+        "Pahilē kama dī bhāla kisanē kītī?",
+        "ਪਹਿਲੇ ਕੰਮ ਦੀ ਭਾਲ ਕਿਸਨੇ ਕੀਤੀ?",
+        "Who has looked for the first work?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has looked for each work?",
+        "Kisanē hara kama dī bhāla kītī?",
+        "ਕਿਸਨੇ ਹਰ ਕੰਮ ਦੀ ਭਾਲ ਕੀਤੀ?",
+        "Who has looked for each work?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has looked at the first world?",
+        "Kisanē pahilē sasāra nū vēkhi'ā hai?",
+        "ਕਿਸਨੇ ਪਹਿਲੇ ਸੰਸਾਰ ਨੂੰ ਵੇਖਿਆ ਹੈ?",
+        "Who has looked at the first world?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has looked at the many worlds?",
+        "Kauṇa bahuta sārē sasāra nū vēkhi'ā hai?",
+        "ਕੌਣ ਬਹੁਤ ਸਾਰੇ ਸੰਸਾਰ ਨੂੰ ਵੇਖਿਆ ਹੈ?",
+        "Who has looked at the many worlds?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has wanted a home?",
+        "Ghara kauṇa cāhudā hai?",
+        "ਘਰ ਕੌਣ ਚਾਹੁੰਦਾ ਹੈ?",
+        "Who has wanted a home?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has wanted the first job?",
+        "Pahilī naukarī kauṇa cāhudā sī?",
+        "ਪਹਿਲੀ ਨੌਕਰੀ ਕੌਣ ਚਾਹੁੰਦਾ ਸੀ?",
+        "Who has wanted the first job?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has wanted a many jobs?",
+        "Kauṇa bahuta sārī'āṁ naukarī'āṁ cāhudā hai?",
+        "ਕੌਣ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਚਾਹੁੰਦਾ ਹੈ?",
+        "Who has wanted a many jobs?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has wanted each job?",
+        "Harēka naukarī kisanū cāhīdī hai?",
+        "ਹਰੇਕ ਨੌਕਰੀ ਕਿਸਨੂੰ ਚਾਹੀਦੀ ਹੈ?",
+        "Who has wanted each job?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has wanted the first place?",
+        "Pahilā sathāna kauṇa cāhudā hai?",
+        "ਪਹਿਲਾ ਸਥਾਨ ਕੌਣ ਚਾਹੁੰਦਾ ਹੈ?",
+        "Who has wanted the first place?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has wanted a many places?",
+        "Kauṇa bahuta sārī'āṁ thāvāṁ cāhudā hai?",
+        "ਕੌਣ ਬਹੁਤ ਸਾਰੀਆਂ ਥਾਵਾਂ ਚਾਹੁੰਦਾ ਹੈ?",
+        "Who has wanted a many places?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has wanted each place?",
+        "Kauṇa hara jag'hā cāhudā sī?",
+        "ਕੌਣ ਹਰ ਜਗ੍ਹਾ ਚਾਹੁੰਦਾ ਸੀ?",
+        "Who has wanted each place?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has gone to the first family?",
+        "Pahilē parivāra kōla kauṇa gi'ā hai?",
+        "ਪਹਿਲੇ ਪਰਿਵਾਰ ਕੋਲ ਕੌਣ ਗਿਆ ਹੈ?",
+        "Who has gone to the first family?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has gone to whose many families?",
+        "Kauṇa gi'ā hai jisa dē bahuta sārē parivāra?",
+        "ਕੌਣ ਗਿਆ ਹੈ ਜਿਸ ਦੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰ?",
+        "Who has gone to whose many families?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "family",
+            "det": "whose",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has gone to each family?",
+        "Harēka parivāra vica kauṇa gi'ā hai?",
+        "ਹਰੇਕ ਪਰਿਵਾਰ ਵਿੱਚ ਕੌਣ ਗਿਆ ਹੈ?",
+        "Who has gone to each family?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has gone the first home?",
+        "Pahilā ghara kauṇa gi'ā hai?",
+        "ਪਹਿਲਾ ਘਰ ਕੌਣ ਗਿਆ ਹੈ?",
+        "Who has gone the first home?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has gone many homes?",
+        "Kauṇa bahuta sārē gharāṁ nū gi'ā hai?",
+        "ਕੌਣ ਬਹੁਤ ਸਾਰੇ ਘਰਾਂ ਨੂੰ ਗਿਆ ਹੈ?",
+        "Who has gone many homes?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has gone each home?",
+        "Hara ghara kauṇa gi'ā hai?",
+        "ਹਰ ਘਰ ਕੌਣ ਗਿਆ ਹੈ?",
+        "Who has gone each home?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has gone to the first mother?",
+        "Pahilī māṁ kōla kauṇa gi'ā hai?",
+        "ਪਹਿਲੀ ਮਾਂ ਕੋਲ ਕੌਣ ਗਿਆ ਹੈ?",
+        "Who has gone to the first mother?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has gone to whose many mothers?",
+        "Kauṇa gi'ā hai jisa dī'āṁ bahuta sārī'āṁ māvāṁ?",
+        "ਕੌਣ ਗਿਆ ਹੈ ਜਿਸ ਦੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ?",
+        "Who has gone to whose many mothers?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "mother",
+            "det": "whose",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has gone to each mother?",
+        "Hara māṁ kōla kauṇa gi'ā hai?",
+        "ਹਰ ਮਾਂ ਕੋਲ ਕੌਣ ਗਿਆ ਹੈ?",
+        "Who has gone to each mother?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has gone to the first room?",
+        "Pahilē kamarē vica kauṇa gi'ā hai?",
+        "ਪਹਿਲੇ ਕਮਰੇ ਵਿਚ ਕੌਣ ਗਿਆ ਹੈ?",
+        "Who has gone to the first room?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has gone to a many rooms?",
+        "Kauṇa bahuta sārē kamari'āṁ vica gi'ā hai?",
+        "ਕੌਣ ਬਹੁਤ ਸਾਰੇ ਕਮਰਿਆਂ ਵਿੱਚ ਗਿਆ ਹੈ?",
+        "Who has gone to a many rooms?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has gone to each room?",
+        "Hara kamarē vica kauṇa gi'ā hai?",
+        "ਹਰ ਕਮਰੇ ਵਿੱਚ ਕੌਣ ਗਿਆ ਹੈ?",
+        "Who has gone to each room?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has gone to a good student?",
+        "Ika cagē vidi'ārathī kōla kauṇa gi'ā hai?",
+        "ਇੱਕ ਚੰਗੇ ਵਿਦਿਆਰਥੀ ਕੋਲ ਕੌਣ ਗਿਆ ਹੈ?",
+        "Who has gone to a good student?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has gone to the first student?",
+        "Pahilē vidi'ārathī kōla kauṇa gi'ā hai?",
+        "ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਕੋਲ ਕੌਣ ਗਿਆ ਹੈ?",
+        "Who has gone to the first student?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has gone to a many students?",
+        "Bahuta sārē vidi'ārathī'āṁ kōla kauṇa gi'ā hai?",
+        "ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਕੋਲ ਕੌਣ ਗਿਆ ਹੈ?",
+        "Who has gone to a many students?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has gone to each student?",
+        "Harēka vidi'ārathī kōla kauṇa gi'ā hai?",
+        "ਹਰੇਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਕੌਣ ਗਿਆ ਹੈ?",
+        "Who has gone to each student?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has gone for a good week?",
+        "Cagē haphatē la'ī kauṇa gi'ā hai?",
+        "ਚੰਗੇ ਹਫਤੇ ਲਈ ਕੌਣ ਗਿਆ ਹੈ?",
+        "Who has gone for a good week?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has gone for the first week?",
+        "Pahilē hafatē kauṇa gi'ā hai?",
+        "ਪਹਿਲੇ ਹਫ਼ਤੇ ਕੌਣ ਗਿਆ ਹੈ?",
+        "Who has gone for the first week?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has gone for a many a week?",
+        "Hafatē vica kauṇa gi'ā hai?",
+        "ਹਫ਼ਤੇ ਵਿਚ ਕੌਣ ਗਿਆ ਹੈ?",
+        "Who has gone for a many a week?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has gone for each week?",
+        "Hara hafatē kauṇa gi'ā hai?",
+        "ਹਰ ਹਫ਼ਤੇ ਕੌਣ ਗਿਆ ਹੈ?",
+        "Who has gone for each week?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has gone to good work?",
+        "Cagē kama tē kauṇa gi'ā hai?",
+        "ਚੰਗੇ ਕੰਮ ਤੇ ਕੌਣ ਗਿਆ ਹੈ?",
+        "Who has gone to good work?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has gone to the first work?",
+        "Pahilē kama tē kauṇa gi'ā?",
+        "ਪਹਿਲੇ ਕੰਮ ਤੇ ਕੌਣ ਗਿਆ?",
+        "Who has gone to the first work?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has gone to each work?",
+        "Hara kama tē kauṇa gi'ā hai?",
+        "ਹਰ ਕੰਮ ਤੇ ਕੌਣ ਗਿਆ ਹੈ?",
+        "Who has gone to each work?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has known the first child?",
+        "Pahilē bacē nū kisanē jāṇi'ā?",
+        "ਪਹਿਲੇ ਬੱਚੇ ਨੂੰ ਕਿਸਨੇ ਜਾਣਿਆ?",
+        "Who has known the first child?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "child",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has known whose many children?",
+        "Kauṇa jāṇadā hai ki kisa dē bahuta sārē bacē hana?",
+        "ਕੌਣ ਜਾਣਦਾ ਹੈ ਕਿ ਕਿਸ ਦੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚੇ ਹਨ?",
+        "Who has known whose many children?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "child",
+            "det": "whose",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has known each child?",
+        "Harēka bacē nū kauṇa jāṇadā hai?",
+        "ਹਰੇਕ ਬੱਚੇ ਨੂੰ ਕੌਣ ਜਾਣਦਾ ਹੈ?",
+        "Who has known each child?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "child",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has known whose first family?",
+        "Kauṇa jāṇadā hai kisa dē pahilē parivāra nū?",
+        "ਕੌਣ ਜਾਣਦਾ ਹੈ ਕਿਸ ਦੇ ਪਹਿਲੇ ਪਰਿਵਾਰ ਨੂੰ?",
+        "Who has known whose first family?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has known whose many families?",
+        "Kauṇa jāṇadā hai kisa dē bahuta sārē parivāra?",
+        "ਕੌਣ ਜਾਣਦਾ ਹੈ ਕਿਸ ਦੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰ?",
+        "Who has known whose many families?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "family",
+            "det": "whose",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has known who's each family?",
+        "Kauṇa jāṇadā hai ki harēka parivāra kauṇa hai?",
+        "ਕੌਣ ਜਾਣਦਾ ਹੈ ਕਿ ਹਰੇਕ ਪਰਿਵਾਰ ਕੌਣ ਹੈ?",
+        "Who has known who's each family?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has known a good man?",
+        "Ika cagē ādamī nū kauṇa jāṇadā hai?",
+        "ਇੱਕ ਚੰਗੇ ਆਦਮੀ ਨੂੰ ਕੌਣ ਜਾਣਦਾ ਹੈ?",
+        "Who has known a good man?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has known the first man?",
+        "Pahilē ādamī nū kisanē jāṇi'ā?",
+        "ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਕਿਸਨੇ ਜਾਣਿਆ?",
+        "Who has known the first man?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "man",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has known a many men?",
+        "Kauṇa bahuta sārē ādamī jāṇadā hai?",
+        "ਕੌਣ ਬਹੁਤ ਸਾਰੇ ਆਦਮੀ ਜਾਣਦਾ ਹੈ?",
+        "Who has known a many men?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has known each man?",
+        "Harēka ādamī nū kauṇa jāṇadā hai?",
+        "ਹਰੇਕ ਆਦਮੀ ਨੂੰ ਕੌਣ ਜਾਣਦਾ ਹੈ?",
+        "Who has known each man?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "man",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has known the first mother?",
+        "Pahilī māṁ kauṇa jāṇadā hai?",
+        "ਪਹਿਲੀ ਮਾਂ ਕੌਣ ਜਾਣਦਾ ਹੈ?",
+        "Who has known the first mother?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has known whose many mothers?",
+        "Kauṇa jāṇadā hai kisa dī'āṁ bahuta sārī'āṁ māvāṁ?",
+        "ਕੌਣ ਜਾਣਦਾ ਹੈ ਕਿਸ ਦੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ?",
+        "Who has known whose many mothers?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "mother",
+            "det": "whose",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has known each mother?",
+        "Harēka māṁ nū kauṇa jāṇadā hai?",
+        "ਹਰੇਕ ਮਾਂ ਨੂੰ ਕੌਣ ਜਾਣਦਾ ਹੈ?",
+        "Who has known each mother?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has known a good student?",
+        "Ika cagē vidi'ārathī nū kauṇa jāṇadā hai?",
+        "ਇੱਕ ਚੰਗੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਕੌਣ ਜਾਣਦਾ ਹੈ?",
+        "Who has known a good student?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has known the first student?",
+        "Pahilē vidi'ārathī nū kauṇa jāṇadā hai?",
+        "ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਕੌਣ ਜਾਣਦਾ ਹੈ?",
+        "Who has known the first student?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has known a many students?",
+        "Bahuta sārē vidi'ārathī'āṁ nū kauṇa jāṇadā hai?",
+        "ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਕੌਣ ਜਾਣਦਾ ਹੈ?",
+        "Who has known a many students?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has known each student?",
+        "Harēka vidi'ārathī nū kauṇa jāṇadā hai?",
+        "ਹਰੇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਕੌਣ ਜਾਣਦਾ ਹੈ?",
+        "Who has known each student?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has known whose good thing?",
+        "Kauṇa jāṇadā hai kisadī cagī cīza?",
+        "ਕੌਣ ਜਾਣਦਾ ਹੈ ਕਿਸਦੀ ਚੰਗੀ ਚੀਜ਼?",
+        "Who has known whose good thing?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has known whose first thing?",
+        "Kauṇa jāṇadā hai kisadī pahilī cīza?",
+        "ਕੌਣ ਜਾਣਦਾ ਹੈ ਕਿਸਦੀ ਪਹਿਲੀ ਚੀਜ਼?",
+        "Who has known whose first thing?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has known whose many things?",
+        "Kauṇa jāṇadā hai kisa dī'āṁ bahuta sārī'āṁ cīzāṁ?",
+        "ਕੌਣ ਜਾਣਦਾ ਹੈ ਕਿਸ ਦੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ?",
+        "Who has known whose many things?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has known who's each thing?",
+        "Kauṇa jāṇadā hai ki hara cīza kauṇa hai?",
+        "ਕੌਣ ਜਾਣਦਾ ਹੈ ਕਿ ਹਰ ਚੀਜ਼ ਕੌਣ ਹੈ?",
+        "Who has known who's each thing?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has known the first woman?",
+        "Pahilī Whorata nū kisanē jāṇi'ā?",
+        "ਪਹਿਲੀ Whoਰਤ ਨੂੰ ਕਿਸਨੇ ਜਾਣਿਆ?",
+        "Who has known the first woman?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has known a many women?",
+        "Kauṇa bahuta sārī'āṁ knownratāṁ nū jāṇadā hai?",
+        "ਕੌਣ ਬਹੁਤ ਸਾਰੀਆਂ knownਰਤਾਂ ਨੂੰ ਜਾਣਦਾ ਹੈ?",
+        "Who has known a many women?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has known each woman?",
+        "Harēka womanrata nū kisanē jāṇi'ā?",
+        "ਹਰੇਕ womanਰਤ ਨੂੰ ਕਿਸਨੇ ਜਾਣਿਆ?",
+        "Who has known each woman?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has known a good word?",
+        "Ika cagā śabada kisanē jāṇi'ā?",
+        "ਇੱਕ ਚੰਗਾ ਸ਼ਬਦ ਕਿਸਨੇ ਜਾਣਿਆ?",
+        "Who has known a good word?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has known the first word?",
+        "Pahilā śabada kisanē jāṇi'ā?",
+        "ਪਹਿਲਾ ਸ਼ਬਦ ਕਿਸਨੇ ਜਾਣਿਆ?",
+        "Who has known the first word?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "word",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has known a many words?",
+        "Kauṇa bahuta sārē śabada jāṇadā hai?",
+        "ਕੌਣ ਬਹੁਤ ਸਾਰੇ ਸ਼ਬਦ ਜਾਣਦਾ ਹੈ?",
+        "Who has known a many words?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has known each word?",
+        "Harēka śabada nū kisanē jāṇi'ā?",
+        "ਹਰੇਕ ਸ਼ਬਦ ਨੂੰ ਕਿਸਨੇ ਜਾਣਿਆ?",
+        "Who has known each word?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "word",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has known whose good work?",
+        "Kauṇa jāṇadā hai kisadā cagā kama?",
+        "ਕੌਣ ਜਾਣਦਾ ਹੈ ਕਿਸਦਾ ਚੰਗਾ ਕੰਮ?",
+        "Who has known whose good work?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has known whose first work?",
+        "Kisanū patā hai kisadā pahilā kama?",
+        "ਕਿਸਨੂੰ ਪਤਾ ਹੈ ਕਿਸਦਾ ਪਹਿਲਾ ਕੰਮ?",
+        "Who has known whose first work?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has known who's each work?",
+        "Kauṇa jāṇadā hai ki hara kama kauṇa hai?",
+        "ਕੌਣ ਜਾਣਦਾ ਹੈ ਕਿ ਹਰ ਕੰਮ ਕੌਣ ਹੈ?",
+        "Who has known who's each work?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has seen a good book?",
+        "Kisa nē cagī kitāba vēkhī hai?",
+        "ਕਿਸ ਨੇ ਚੰਗੀ ਕਿਤਾਬ ਵੇਖੀ ਹੈ?",
+        "Who has seen a good book?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has seen each book?",
+        "Harēka kitāba kisanē vēkhī hai?",
+        "ਹਰੇਕ ਕਿਤਾਬ ਕਿਸਨੇ ਵੇਖੀ ਹੈ?",
+        "Who has seen each book?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "book",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has seen the first child?",
+        "Pahilē bacē nū kisanē dēkhi'ā hai?",
+        "ਪਹਿਲੇ ਬੱਚੇ ਨੂੰ ਕਿਸਨੇ ਦੇਖਿਆ ਹੈ?",
+        "Who has seen the first child?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "child",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has seen whose many children?",
+        "Kisanē vēkhi'ā kisa dē bahuta sārē bacē?",
+        "ਕਿਸਨੇ ਵੇਖਿਆ ਕਿਸ ਦੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚੇ?",
+        "Who has seen whose many children?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "child",
+            "det": "whose",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has seen each child?",
+        "Harēka bacē nū kisanē vēkhi'ā hai?",
+        "ਹਰੇਕ ਬੱਚੇ ਨੂੰ ਕਿਸਨੇ ਵੇਖਿਆ ਹੈ?",
+        "Who has seen each child?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "child",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has seen the first family?",
+        "Pahilē parivāra nū kisanē vēkhi'ā hai?",
+        "ਪਹਿਲੇ ਪਰਿਵਾਰ ਨੂੰ ਕਿਸਨੇ ਵੇਖਿਆ ਹੈ?",
+        "Who has seen the first family?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has seen whose many families?",
+        "Kisanē vēkhi'ā kisa dē bahuta sārē parivāra?",
+        "ਕਿਸਨੇ ਵੇਖਿਆ ਕਿਸ ਦੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰ?",
+        "Who has seen whose many families?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "family",
+            "det": "whose",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has seen each family?",
+        "Harēka parivāra nū kisanē vēkhi'ā hai?",
+        "ਹਰੇਕ ਪਰਿਵਾਰ ਨੂੰ ਕਿਸਨੇ ਵੇਖਿਆ ਹੈ?",
+        "Who has seen each family?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has seen a many hands?",
+        "Kisanē bahuta sārē hatha vēkhē hana?",
+        "ਕਿਸਨੇ ਬਹੁਤ ਸਾਰੇ ਹੱਥ ਵੇਖੇ ਹਨ?",
+        "Who has seen a many hands?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has seen each hand?",
+        "Kisanē vēkhi'ā hara hatha?",
+        "ਕਿਸਨੇ ਵੇਖਿਆ ਹਰ ਹੱਥ?",
+        "Who has seen each hand?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "hand",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has seen a first home?",
+        "Pahilā ghara kisanē vēkhi'ā hai?",
+        "ਪਹਿਲਾ ਘਰ ਕਿਸਨੇ ਵੇਖਿਆ ਹੈ?",
+        "Who has seen a first home?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has seen a many homes?",
+        "Kisanē bahuta sārē ghara vēkhē hana?",
+        "ਕਿਸਨੇ ਬਹੁਤ ਸਾਰੇ ਘਰ ਵੇਖੇ ਹਨ?",
+        "Who has seen a many homes?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has seen a home?",
+        "Ghara kisanē vēkhi'ā?",
+        "ਘਰ ਕਿਸਨੇ ਵੇਖਿਆ?",
+        "Who has seen a home?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has seen a good man?",
+        "Cagē ādamī nū kisanē vēkhi'ā hai?",
+        "ਚੰਗੇ ਆਦਮੀ ਨੂੰ ਕਿਸਨੇ ਵੇਖਿਆ ਹੈ?",
+        "Who has seen a good man?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has seen the first man?",
+        "Pahilē ādamī nū kisanē vēkhi'ā?",
+        "ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਕਿਸਨੇ ਵੇਖਿਆ?",
+        "Who has seen the first man?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "man",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has seen a many men?",
+        "Kisanē bahuta sārē ādamī vēkhē hana?",
+        "ਕਿਸਨੇ ਬਹੁਤ ਸਾਰੇ ਆਦਮੀ ਵੇਖੇ ਹਨ?",
+        "Who has seen a many men?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has seen each man?",
+        "Harēka ādamī nū kisanē vēkhi'ā?",
+        "ਹਰੇਕ ਆਦਮੀ ਨੂੰ ਕਿਸਨੇ ਵੇਖਿਆ?",
+        "Who has seen each man?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "man",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has seen the first mother?",
+        "Pahilī māṁ kisa nē vēkhī?",
+        "ਪਹਿਲੀ ਮਾਂ ਕਿਸ ਨੇ ਵੇਖੀ?",
+        "Who has seen the first mother?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has seen whose many mothers?",
+        "Kisanē vēkhī'āṁ kisa dī'āṁ māvāṁ?",
+        "ਕਿਸਨੇ ਵੇਖੀਆਂ ਕਿਸ ਦੀਆਂ ਮਾਵਾਂ?",
+        "Who has seen whose many mothers?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "mother",
+            "det": "whose",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has seen each mother?",
+        "Harēka māṁ nū kisanē vēkhi'ā?",
+        "ਹਰੇਕ ਮਾਂ ਨੂੰ ਕਿਸਨੇ ਵੇਖਿਆ?",
+        "Who has seen each mother?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has seen the first room?",
+        "Pahilā kamarā kisanē vēkhi'ā?",
+        "ਪਹਿਲਾ ਕਮਰਾ ਕਿਸਨੇ ਵੇਖਿਆ?",
+        "Who has seen the first room?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has seen a many rooms?",
+        "Kisanē bahuta sārē kamarē vēkhē hana?",
+        "ਕਿਸਨੇ ਬਹੁਤ ਸਾਰੇ ਕਮਰੇ ਵੇਖੇ ਹਨ?",
+        "Who has seen a many rooms?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has seen each room?",
+        "Harēka kamarā kisanē vēkhi'ā hai?",
+        "ਹਰੇਕ ਕਮਰਾ ਕਿਸਨੇ ਵੇਖਿਆ ਹੈ?",
+        "Who has seen each room?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has seen a good student?",
+        "Ika cagā vidi'ārathī kisanē vēkhi'ā hai?",
+        "ਇੱਕ ਚੰਗਾ ਵਿਦਿਆਰਥੀ ਕਿਸਨੇ ਵੇਖਿਆ ਹੈ?",
+        "Who has seen a good student?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has seen the first student?",
+        "Pahilē vidi'ārathī nū kisa nē vēkhi'ā?",
+        "ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਕਿਸ ਨੇ ਵੇਖਿਆ?",
+        "Who has seen the first student?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has seen a many students?",
+        "Kisanē bahuta sārē vidi'ārathī'āṁ nū vēkhi'ā hai?",
+        "ਕਿਸਨੇ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਵੇਖਿਆ ਹੈ?",
+        "Who has seen a many students?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has seen each student?",
+        "Harēka vidi'ārathī nū kisanē vēkhi'ā hai?",
+        "ਹਰੇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਕਿਸਨੇ ਵੇਖਿਆ ਹੈ?",
+        "Who has seen each student?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has seen a good thing?",
+        "Kisa nē cagī cīza vēkhī hai?",
+        "ਕਿਸ ਨੇ ਚੰਗੀ ਚੀਜ਼ ਵੇਖੀ ਹੈ?",
+        "Who has seen a good thing?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has seen the first thing?",
+        "Kisanē pahilī cīza vēkhī hai?",
+        "ਕਿਸਨੇ ਪਹਿਲੀ ਚੀਜ਼ ਵੇਖੀ ਹੈ?",
+        "Who has seen the first thing?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has seen a many things?",
+        "Kisanē bahuta sārī'āṁ cīzāṁ vēkhī'āṁ hana?",
+        "ਕਿਸਨੇ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਵੇਖੀਆਂ ਹਨ?",
+        "Who has seen a many things?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has seen each thing?",
+        "Hara cīja kisanē vēkhī?",
+        "ਹਰ ਚੀਜ ਕਿਸਨੇ ਵੇਖੀ?",
+        "Who has seen each thing?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has seen the first woman?",
+        "Pahilī Whorata kisanē vēkhī hai?",
+        "ਪਹਿਲੀ Whoਰਤ ਕਿਸਨੇ ਵੇਖੀ ਹੈ?",
+        "Who has seen the first woman?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has seen a many women?",
+        "Kisanē bahuta sārī'āṁ?Ratāṁ vēkhī'āṁ hana?",
+        "ਕਿਸਨੇ ਬਹੁਤ ਸਾਰੀਆਂ ?ਰਤਾਂ ਵੇਖੀਆਂ ਹਨ?",
+        "Who has seen a many women?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has seen each woman?",
+        "Harēka eachrata nū kisanē vēkhi'ā hai?",
+        "ਹਰੇਕ eachਰਤ ਨੂੰ ਕਿਸਨੇ ਵੇਖਿਆ ਹੈ?",
+        "Who has seen each woman?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has come to the first family?",
+        "Pahilē parivāra vica kauṇa ā'i'ā hai?",
+        "ਪਹਿਲੇ ਪਰਿਵਾਰ ਵਿਚ ਕੌਣ ਆਇਆ ਹੈ?",
+        "Who has come to the first family?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "come",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has come to whose many families?",
+        "Kauṇa ā'i'ā hai jisa dē bahuta sārē parivāra?",
+        "ਕੌਣ ਆਇਆ ਹੈ ਜਿਸ ਦੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰ?",
+        "Who has come to whose many families?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "come",
+            "noun": "family",
+            "det": "whose",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has come to each family?",
+        "Harēka parivāra vica kauṇa ā'i'ā hai?",
+        "ਹਰੇਕ ਪਰਿਵਾਰ ਵਿੱਚ ਕੌਣ ਆਇਆ ਹੈ?",
+        "Who has come to each family?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "come",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has come the first home?",
+        "Pahilā ghara kauṇa ā'i'ā hai?",
+        "ਪਹਿਲਾ ਘਰ ਕੌਣ ਆਇਆ ਹੈ?",
+        "Who has come the first home?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "come",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has come many homes?",
+        "Bahuta sārē ghara kauṇa ā'i'ā hai?",
+        "ਬਹੁਤ ਸਾਰੇ ਘਰ ਕੌਣ ਆਇਆ ਹੈ?",
+        "Who has come many homes?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "come",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has come each home?",
+        "Hara ghara kauṇa ā'i'ā hai?",
+        "ਹਰ ਘਰ ਕੌਣ ਆਇਆ ਹੈ?",
+        "Who has come each home?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "come",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has come to the first mother?",
+        "Pahilī māṁ kōla kauṇa ā'i'ā hai?",
+        "ਪਹਿਲੀ ਮਾਂ ਕੋਲ ਕੌਣ ਆਇਆ ਹੈ?",
+        "Who has come to the first mother?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "come",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has come to whose many mothers?",
+        "Kauṇa ā'i'ā hai jisa dī'āṁ bahuta sārī'āṁ māvāṁ?",
+        "ਕੌਣ ਆਇਆ ਹੈ ਜਿਸ ਦੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ?",
+        "Who has come to whose many mothers?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "come",
+            "noun": "mother",
+            "det": "whose",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has come to each mother?",
+        "Hara māṁ kōla kauṇa ā'i'ā hai?",
+        "ਹਰ ਮਾਂ ਕੋਲ ਕੌਣ ਆਇਆ ਹੈ?",
+        "Who has come to each mother?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "come",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has come to the first room?",
+        "Pahilē kamarē vica kauṇa ā'i'ā hai?",
+        "ਪਹਿਲੇ ਕਮਰੇ ਵਿਚ ਕੌਣ ਆਇਆ ਹੈ?",
+        "Who has come to the first room?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "come",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has come to a many rooms?",
+        "Bahuta sārē kamari'āṁ vica kauṇa ā'i'ā hai?",
+        "ਬਹੁਤ ਸਾਰੇ ਕਮਰਿਆਂ ਵਿਚ ਕੌਣ ਆਇਆ ਹੈ?",
+        "Who has come to a many rooms?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has come to each room?",
+        "Hara kamarē vica kauṇa ā'i'ā hai?",
+        "ਹਰ ਕਮਰੇ ਵਿਚ ਕੌਣ ਆਇਆ ਹੈ?",
+        "Who has come to each room?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "come",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has come for a good week?",
+        "Cagē haphatē la'ī kauṇa ā'i'ā hai?",
+        "ਚੰਗੇ ਹਫਤੇ ਲਈ ਕੌਣ ਆਇਆ ਹੈ?",
+        "Who has come for a good week?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has come for the first week?",
+        "Pahilē haphatē kauṇa ā'i'ā hai?",
+        "ਪਹਿਲੇ ਹਫਤੇ ਕੌਣ ਆਇਆ ਹੈ?",
+        "Who has come for the first week?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "come",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has come for a many weeks?",
+        "Kauṇa bahuta sārē hafati'āṁ la'ī ā'i'ā hai?",
+        "ਕੌਣ ਬਹੁਤ ਸਾਰੇ ਹਫ਼ਤਿਆਂ ਲਈ ਆਇਆ ਹੈ?",
+        "Who has come for a many weeks?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has given a good thing?",
+        "Kisa nē cagī cīza ditī hai?",
+        "ਕਿਸ ਨੇ ਚੰਗੀ ਚੀਜ਼ ਦਿੱਤੀ ਹੈ?",
+        "Who has given a good thing?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "come",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has given the first thing?",
+        "Pahilī cīza kisanē ditī hai?",
+        "ਪਹਿਲੀ ਚੀਜ਼ ਕਿਸਨੇ ਦਿੱਤੀ ਹੈ?",
+        "Who has given the first thing?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "come",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has given a many things?",
+        "Kisanē bahuta sārī'āṁ cīzāṁ ditī'āṁ?",
+        "ਕਿਸਨੇ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਦਿੱਤੀਆਂ?",
+        "Who has given a many things?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "come",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has given each thing?",
+        "Hara cīza kisanē ditī hai?",
+        "ਹਰ ਚੀਜ਼ ਕਿਸਨੇ ਦਿੱਤੀ ਹੈ?",
+        "Who has given each thing?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "come",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has asked the first child?",
+        "Pahilē bacē nū kisanē puchi'ā?",
+        "ਪਹਿਲੇ ਬੱਚੇ ਨੂੰ ਕਿਸਨੇ ਪੁੱਛਿਆ?",
+        "Who has asked the first child?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has asked whose many children?",
+        "Kisanē puchi'ā ki kisa dē bahuta sārē bacē hana?",
+        "ਕਿਸਨੇ ਪੁੱਛਿਆ ਕਿ ਕਿਸ ਦੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚੇ ਹਨ?",
+        "Who has asked whose many children?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "book",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has asked each child?",
+        "Harēka bacē nū kisanē puchi'ā hai?",
+        "ਹਰੇਕ ਬੱਚੇ ਨੂੰ ਕਿਸਨੇ ਪੁੱਛਿਆ ਹੈ?",
+        "Who has asked each child?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has asked the first family?",
+        "Pahilē parivāra nū kisa nē puchi'ā?",
+        "ਪਹਿਲੇ ਪਰਿਵਾਰ ਨੂੰ ਕਿਸ ਨੇ ਪੁੱਛਿਆ?",
+        "Who has asked the first family?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "hand",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has asked a many men?",
+        "Kisanē bahuta sārē badi'āṁ nū puchi'ā?",
+        "ਕਿਸਨੇ ਬਹੁਤ ਸਾਰੇ ਬੰਦਿਆਂ ਨੂੰ ਪੁੱਛਿਆ?",
+        "Who has asked a many men?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has asked each man?",
+        "Harēka ādamī nū kisanē puchi'ā hai?",
+        "ਹਰੇਕ ਆਦਮੀ ਨੂੰ ਕਿਸਨੇ ਪੁੱਛਿਆ ਹੈ?",
+        "Who has asked each man?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has asked the first mother?",
+        "Pahilī māṁ nū kisanē puchi'ā?",
+        "ਪਹਿਲੀ ਮਾਂ ਨੂੰ ਕਿਸਨੇ ਪੁੱਛਿਆ?",
+        "Who has asked the first mother?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has asked a good student?",
+        "Ika cagē vidi'ārathī nū kisanē puchi'ā?",
+        "ਇੱਕ ਚੰਗੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਕਿਸਨੇ ਪੁੱਛਿਆ?",
+        "Who has asked a good student?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has asked the first student?",
+        "Pahilē vidi'ārathī nū kisa nē puchi'ā?",
+        "ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਕਿਸ ਨੇ ਪੁੱਛਿਆ?",
+        "Who has asked the first student?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has asked a many students?",
+        "Bahuta sārē vidi'ārathī'āṁ nū kisanē puchi'ā hai?",
+        "ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਕਿਸਨੇ ਪੁੱਛਿਆ ਹੈ?",
+        "Who has asked a many students?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has asked each student?",
+        "Harēka vidi'ārathī nū kisa nē puchi'ā hai?",
+        "ਹਰੇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਕਿਸ ਨੇ ਪੁੱਛਿਆ ਹੈ?",
+        "Who has asked each student?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has asked the first woman?",
+        "Pahilī womanrata nū kisanē puchi'ā?",
+        "ਪਹਿਲੀ womanਰਤ ਨੂੰ ਕਿਸਨੇ ਪੁੱਛਿਆ?",
+        "Who has asked the first woman?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has asked a many women?",
+        "Bahuta sārī'āṁ?Ratāṁ nū kisanē puchi'ā hai?",
+        "ਬਹੁਤ ਸਾਰੀਆਂ ?ਰਤਾਂ ਨੂੰ ਕਿਸਨੇ ਪੁੱਛਿਆ ਹੈ?",
+        "Who has asked a many women?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has asked each woman?",
+        "Harēka eachrata nū kisanē puchi'ā hai?",
+        "ਹਰੇਕ eachਰਤ ਨੂੰ ਕਿਸਨੇ ਪੁੱਛਿਆ ਹੈ?",
+        "Who has asked each woman?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has asked at good work?",
+        "Cagē kama tē kisanē puchi'ā?",
+        "ਚੰਗੇ ਕੰਮ ਤੇ ਕਿਸਨੇ ਪੁੱਛਿਆ?",
+        "Who has asked at good work?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has asked at the first work?",
+        "Pahilē kama tē kisanē puchi'ā?",
+        "ਪਹਿਲੇ ਕੰਮ ਤੇ ਕਿਸਨੇ ਪੁੱਛਿਆ?",
+        "Who has asked at the first work?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has asked at each work?",
+        "Hara kama tē kisanē puchi'ā?",
+        "ਹਰ ਕੰਮ ਤੇ ਕਿਸਨੇ ਪੁੱਛਿਆ?",
+        "Who has asked at each work?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "word",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has worked for the many countries?",
+        "Kisanē bahuta sārē dēśāṁ la'ī kama kītā hai?",
+        "ਕਿਸਨੇ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਲਈ ਕੰਮ ਕੀਤਾ ਹੈ?",
+        "Who has worked for the many countries?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has worked for each country?",
+        "Kisanē harēka dēśa la'ī kama kītā hai?",
+        "ਕਿਸਨੇ ਹਰੇਕ ਦੇਸ਼ ਲਈ ਕੰਮ ਕੀਤਾ ਹੈ?",
+        "Who has worked for each country?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "word",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has worked for a good day?",
+        "Kisanē cagē dina la'ī kama kītā hai?",
+        "ਕਿਸਨੇ ਚੰਗੇ ਦਿਨ ਲਈ ਕੰਮ ਕੀਤਾ ਹੈ?",
+        "Who has worked for a good day?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has worked for the first day?",
+        "Pahilē dina kisanē kama kītā?",
+        "ਪਹਿਲੇ ਦਿਨ ਕਿਸਨੇ ਕੰਮ ਕੀਤਾ?",
+        "Who has worked for the first day?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "book",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has worked for whose many families?",
+        "Kisa dē bahuta sārē parivārāṁ la'ī kama kītā hai?",
+        "ਕਿਸ ਦੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਲਈ ਕੰਮ ਕੀਤਾ ਹੈ?",
+        "Who has worked for whose many families?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has worked for each family?",
+        "Harēka parivāra la'ī kisanē kama kītā hai?",
+        "ਹਰੇਕ ਪਰਿਵਾਰ ਲਈ ਕਿਸਨੇ ਕੰਮ ਕੀਤਾ ਹੈ?",
+        "Who has worked for each family?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has worked with the first group?",
+        "Pahilē samūha nāla kisanē kama kītā?",
+        "ਪਹਿਲੇ ਸਮੂਹ ਨਾਲ ਕਿਸਨੇ ਕੰਮ ਕੀਤਾ?",
+        "Who has worked with the first group?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has worked at many nights?",
+        "Bahuta sārī'āṁ rāta kisanē kama kītā?",
+        "ਬਹੁਤ ਸਾਰੀਆਂ ਰਾਤ ਕਿਸਨੇ ਕੰਮ ਕੀਤਾ?",
+        "Who has worked at many nights?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has worked at each night?",
+        "Hara rāta kisanē kama kītā?",
+        "ਹਰ ਰਾਤ ਕਿਸਨੇ ਕੰਮ ਕੀਤਾ?",
+        "Who has worked at each night?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has worked with the first people?",
+        "Pahilē lōkāṁ nāla kisanē kama kītā?",
+        "ਪਹਿਲੇ ਲੋਕਾਂ ਨਾਲ ਕਿਸਨੇ ਕੰਮ ਕੀਤਾ?",
+        "Who has worked with the first people?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has worked with many people?",
+        "Kisanē bahuta sārē lōkāṁ nāla kama kītā hai?",
+        "ਕਿਸਨੇ ਬਹੁਤ ਸਾਰੇ ਲੋਕਾਂ ਨਾਲ ਕੰਮ ਕੀਤਾ ਹੈ?",
+        "Who has worked with many people?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has worked on the first problem?",
+        "Pahilī samasi'ā tē kisanē kama kītā hai?",
+        "ਪਹਿਲੀ ਸਮੱਸਿਆ ਤੇ ਕਿਸਨੇ ਕੰਮ ਕੀਤਾ ਹੈ?",
+        "Who has worked on the first problem?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has worked on a many problems?",
+        "Kisanē bahuta sārī'āṁ muśakalāṁ tē kama kītā hai?",
+        "ਕਿਸਨੇ ਬਹੁਤ ਸਾਰੀਆਂ ਮੁਸ਼ਕਲਾਂ ਤੇ ਕੰਮ ਕੀਤਾ ਹੈ?",
+        "Who has worked on a many problems?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has worked on each problem?",
+        "Kisa nē harēka samasi'ā tē kama kītā hai?",
+        "ਕਿਸ ਨੇ ਹਰੇਕ ਸਮੱਸਿਆ ਤੇ ਕੰਮ ਕੀਤਾ ਹੈ?",
+        "Who has worked on each problem?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has tried for a good day?",
+        "Kisanē cagē dina dī kōśiśa kītī?",
+        "ਕਿਸਨੇ ਚੰਗੇ ਦਿਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ?",
+        "Who has tried for a good day?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has tried for the first day?",
+        "Pahilē dina kisanē kōśiśa kītī?",
+        "ਪਹਿਲੇ ਦਿਨ ਕਿਸਨੇ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ?",
+        "Who has tried for the first day?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has tried for a many days?",
+        "Bahuta dināṁ tōṁ kisanē kōśiśa kītī?",
+        "ਬਹੁਤ ਦਿਨਾਂ ਤੋਂ ਕਿਸਨੇ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ?",
+        "Who has tried for a many days?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has tried for each day?",
+        "Kisanē hara dina la'ī kōśiśa kītī hai?",
+        "ਕਿਸਨੇ ਹਰ ਦਿਨ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਹੈ?",
+        "Who has tried for each day?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has tried at the first home?",
+        "Pahilē ghara vica kisa nē kōśiśa kītī?",
+        "ਪਹਿਲੇ ਘਰ ਵਿਚ ਕਿਸ ਨੇ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ?",
+        "Who has tried at the first home?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "word",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has tried at many homes?",
+        "Kisanē ka'ī gharāṁ tē kōśiśa kītī?",
+        "ਕਿਸਨੇ ਕਈ ਘਰਾਂ ਤੇ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ?",
+        "Who has tried at many homes?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "Who has tried at each home?",
+        "Harēka ghara vica kisanē kōśiśa kītī?",
+        "ਹਰੇਕ ਘਰ ਵਿੱਚ ਕਿਸਨੇ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ?",
+        "Who has tried at each home?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "word",
+            "adj": "each"
+        }
+    ],
+    [
+        "Who has tried for the first job?",
+        "Pahilī naukarī la'ī kisanē kōśiśa kītī?",
+        "ਪਹਿਲੀ ਨੌਕਰੀ ਲਈ ਕਿਸਨੇ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ?",
+        "Who has tried for the first job?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "Who has tried for a many jobs?",
+        "Kisanē bahuta sārī'āṁ naukarī'āṁ la'ī kōśiśa kītī?",
+        "ਕਿਸਨੇ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ?",
+        "Who has tried for a many jobs?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "Who has tried for each job?",
+        "Harēka naukarī la'ī kisanē kōśiśa kītī?",
+        "ਹਰੇਕ ਨੌਕਰੀ ਲਈ ਕਿਸਨੇ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ?",
+        "Who has tried for each job?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "work",
+            "adj": "each"
+        }
+    ]
+]

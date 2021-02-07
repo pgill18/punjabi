@@ -1,0 +1,5115 @@
+[
+    [
+        "You will be being the first child",
+        "Tusīṁ pahilē bacē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਬੱਚੇ ਹੋਵੋਗੇ",
+        "You will be being the first child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "child",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be being your many children",
+        "tusīṁ āpaṇē bahuta sārē bacē hōvōgē",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚੇ ਹੋਵੋਗੇ",
+        "You will be being your many children",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "child",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be being each child",
+        "tusīṁ hara bacē hōvōgē",
+        "ਤੁਸੀਂ ਹਰ ਬੱਚੇ ਹੋਵੋਗੇ",
+        "You will be being each child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "child",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be being a good student",
+        "tusīṁ ika cagē vidi'ārathī hōvōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਚੰਗੇ ਵਿਦਿਆਰਥੀ ਹੋਵੋਗੇ",
+        "You will be being a good student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be being the first student",
+        "tusīṁ pahilē vidi'ārathī hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਹੋਵੋਗੇ",
+        "You will be being the first student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be being a many students",
+        "tusīṁ bahuta sārē vidi'ārathī hōvōgē",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀ ਹੋਵੋਗੇ",
+        "You will be being a many students",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be being each student",
+        "tusīṁ hara vidi'ārathī hōvōgē",
+        "ਤੁਸੀਂ ਹਰ ਵਿਦਿਆਰਥੀ ਹੋਵੋਗੇ",
+        "You will be being each student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be having a good book",
+        "tuhāḍē kōla ika cagī kitāba hōvēgī",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਚੰਗੀ ਕਿਤਾਬ ਹੋਵੇਗੀ",
+        "You will be having a good book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "book",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be having each book",
+        "tuhāḍē kōla hara kitāba hōvēgī",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹਰ ਕਿਤਾਬ ਹੋਵੇਗੀ",
+        "You will be having each book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "book",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be having the first child",
+        "tuhāḍā pahilā bacā hōvēgā",
+        "ਤੁਹਾਡਾ ਪਹਿਲਾ ਬੱਚਾ ਹੋਵੇਗਾ",
+        "You will be having the first child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "child",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be having your many children",
+        "tuhāḍē bahuta sārē bacē hōṇagē",
+        "ਤੁਹਾਡੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚੇ ਹੋਣਗੇ",
+        "You will be having your many children",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "child",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be having each child",
+        "tuhāḍā hara bacā hōvēgā",
+        "ਤੁਹਾਡਾ ਹਰ ਬੱਚਾ ਹੋਵੇਗਾ",
+        "You will be having each child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "child",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be having the first family",
+        "tuhāḍā pahilā parivāra hōvēgā",
+        "ਤੁਹਾਡਾ ਪਹਿਲਾ ਪਰਿਵਾਰ ਹੋਵੇਗਾ",
+        "You will be having the first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be having your many families",
+        "tuhāḍē bahuta sārē parivāra hōṇagē",
+        "ਤੁਹਾਡੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰ ਹੋਣਗੇ",
+        "You will be having your many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "family",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be having each family",
+        "tuhāḍā hara ika parivāra hōvēgā",
+        "ਤੁਹਾਡਾ ਹਰ ਇੱਕ ਪਰਿਵਾਰ ਹੋਵੇਗਾ",
+        "You will be having each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be having a many hands",
+        "tuhāḍē bahuta sārē hatha hōṇagē",
+        "ਤੁਹਾਡੇ ਬਹੁਤ ਸਾਰੇ ਹੱਥ ਹੋਣਗੇ",
+        "You will be having a many hands",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "hand",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be having each hand",
+        "tuhāḍā hara ika hatha hōvēgā",
+        "ਤੁਹਾਡਾ ਹਰ ਇਕ ਹੱਥ ਹੋਵੇਗਾ",
+        "You will be having each hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "hand",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be having a first home",
+        "Tuhāḍā pahilā ghara hōvēgā",
+        "ਤੁਹਾਡਾ ਪਹਿਲਾ ਘਰ ਹੋਵੇਗਾ",
+        "You will be having a first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be having a many home",
+        "tuhāḍā bahuta sārā ghara hōvēgā",
+        "ਤੁਹਾਡਾ ਬਹੁਤ ਸਾਰਾ ਘਰ ਹੋਵੇਗਾ",
+        "You will be having a many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be having a home",
+        "tuhāḍē kōla ika ghara hōvēgā",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਘਰ ਹੋਵੇਗਾ",
+        "You will be having a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be having the first mother",
+        "tuhāḍī pahilī māṁ hōvēgī",
+        "ਤੁਹਾਡੀ ਪਹਿਲੀ ਮਾਂ ਹੋਵੇਗੀ",
+        "You will be having the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be having your many mothers",
+        "tusīṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ nū prāpata karōgē",
+        "ਤੁਸੀਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰੋਗੇ",
+        "You will be having your many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be having each mother",
+        "tuhāḍī hara māṁ hōvēgī",
+        "ਤੁਹਾਡੀ ਹਰ ਮਾਂ ਹੋਵੇਗੀ",
+        "You will be having each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be having the first room",
+        "tuhāḍē kōla pahilā kamarā hōvēgā",
+        "ਤੁਹਾਡੇ ਕੋਲ ਪਹਿਲਾ ਕਮਰਾ ਹੋਵੇਗਾ",
+        "You will be having the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be having a many rooms",
+        "Tuhāḍē kōla bahuta sārē kamarē hōṇagē",
+        "ਤੁਹਾਡੇ ਕੋਲ ਬਹੁਤ ਸਾਰੇ ਕਮਰੇ ਹੋਣਗੇ",
+        "You will be having a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be having each room",
+        "tuhāḍē kōla hara kamarā hōvēgā",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹਰ ਕਮਰਾ ਹੋਵੇਗਾ",
+        "You will be having each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be having a good thing",
+        "tuhāḍē kōla cagī cīza rahēgī",
+        "ਤੁਹਾਡੇ ਕੋਲ ਚੰਗੀ ਚੀਜ਼ ਰਹੇਗੀ",
+        "You will be having a good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be having the first thing",
+        "tuhāḍē kōla pahilī cīza hōvēgī",
+        "ਤੁਹਾਡੇ ਕੋਲ ਪਹਿਲੀ ਚੀਜ਼ ਹੋਵੇਗੀ",
+        "You will be having the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be having a many things",
+        "tuhāḍē kōla bahuta sārī'āṁ cīzāṁ hōṇagī'āṁ",
+        "ਤੁਹਾਡੇ ਕੋਲ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਹੋਣਗੀਆਂ",
+        "You will be having a many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be having each thing",
+        "tuhāḍē kōla hara cīza hōvēgī",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹਰ ਚੀਜ਼ ਹੋਵੇਗੀ",
+        "You will be having each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be having a good week",
+        "tuhāḍā hafatā cagā rahēgā",
+        "ਤੁਹਾਡਾ ਹਫ਼ਤਾ ਚੰਗਾ ਰਹੇਗਾ",
+        "You will be having a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be having the first week",
+        "tuhāḍā pahilā haphatā rahēgā",
+        "ਤੁਹਾਡਾ ਪਹਿਲਾ ਹਫਤਾ ਰਹੇਗਾ",
+        "You will be having the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be having a many weeks",
+        "tuhāḍē kōla bahuta sārē hafatē hōṇagē",
+        "ਤੁਹਾਡੇ ਕੋਲ ਬਹੁਤ ਸਾਰੇ ਹਫ਼ਤੇ ਹੋਣਗੇ",
+        "You will be having a many weeks",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be having each week",
+        "tusīṁ hara haphatē ā'ōgē",
+        "ਤੁਸੀਂ ਹਰ ਹਫਤੇ ਆਓਗੇ",
+        "You will be having each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be having your good work",
+        "tusīṁ āpaṇā cagā kama karōgē",
+        "ਤੁਸੀਂ ਆਪਣਾ ਚੰਗਾ ਕੰਮ ਕਰੋਗੇ",
+        "You will be having your good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be having your first work",
+        "tusīṁ āpaṇā pahilā kama karōgē",
+        "ਤੁਸੀਂ ਆਪਣਾ ਪਹਿਲਾ ਕੰਮ ਕਰੋਗੇ",
+        "You will be having your first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be having your each work",
+        "Tusīṁ āpaṇā hara kama karavā'ōgē",
+        "ਤੁਸੀਂ ਆਪਣਾ ਹਰ ਕੰਮ ਕਰਵਾਓਗੇ",
+        "You will be having your each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be doing a good thing",
+        "tusīṁ ika cagī cīza kara rahē hōvōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਚੰਗੀ ਚੀਜ਼ ਕਰ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be doing a good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be doing the first thing",
+        "tusīṁ pahilī cīza kara rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਚੀਜ਼ ਕਰ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be doing the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be doing a many things",
+        "tusīṁ bahuta sārī'āṁ cīzāṁ kara rahē hōvōgē",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਕਰ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be doing a many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be doing each thing",
+        "tusīṁ hara kama kara rahē hōvōgē",
+        "ਤੁਸੀਂ ਹਰ ਕੰਮ ਕਰ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be doing each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be doing good work",
+        "tusīṁ cagā kama karōgē",
+        "ਤੁਸੀਂ ਚੰਗਾ ਕੰਮ ਕਰੋਗੇ",
+        "You will be doing good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be doing the first work",
+        "tusīṁ pahilā kama kara rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲਾ ਕੰਮ ਕਰ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be doing the first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be doing each work",
+        "tusīṁ hara kama kara rahē hōvōgē",
+        "ਤੁਸੀਂ ਹਰ ਕੰਮ ਕਰ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be doing each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be going to the first family",
+        "tusīṁ pahilē parivāra jā rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਪਰਿਵਾਰ ਜਾ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be going to the first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be going to your many families",
+        "tusīṁ āpaṇē bahuta sārē parivārāṁ nū jā rahē hōvōgē",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਨੂੰ ਜਾ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be going to your many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "family",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be going to each family",
+        "tusīṁ hara parivāra jā rahē hōvōgē",
+        "ਤੁਸੀਂ ਹਰ ਪਰਿਵਾਰ ਜਾ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be going to each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be going the first home",
+        "tusīṁ pahilē ghara jā rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਘਰ ਜਾ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be going the first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be going many home",
+        "tusīṁ bahuta sārē ghara jā rahē hōvōgē",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਘਰ ਜਾ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be going many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be going each home",
+        "tusīṁ hara ghara jā rahē hōvōgē",
+        "ਤੁਸੀਂ ਹਰ ਘਰ ਜਾ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be going each home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be going to the first mother",
+        "tusīṁ pahilī māṁ kōla jā rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਮਾਂ ਕੋਲ ਜਾ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be going to the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be going to your many mothers",
+        "tusīṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ kōla jā rahē hōvōgē",
+        "ਤੁਸੀਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਕੋਲ ਜਾ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be going to your many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be going to each mother",
+        "tusīṁ hara māṁ kōla jā rahē hōvōgē",
+        "ਤੁਸੀਂ ਹਰ ਮਾਂ ਕੋਲ ਜਾ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be going to each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be going to the first room",
+        "tusīṁ pahilē kamarē vica jā rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਕਮਰੇ ਵਿਚ ਜਾ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be going to the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be going to a many rooms",
+        "tusīṁ bahuta sārē kamari'āṁ vica jā rahē hōvōgē",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਕਮਰਿਆਂ ਵਿੱਚ ਜਾ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be going to a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be going to each room",
+        "Tusīṁ hara kamarē vica jā rahē hōvōgē",
+        "ਤੁਸੀਂ ਹਰ ਕਮਰੇ ਵਿਚ ਜਾ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be going to each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be going to a good student",
+        "tusīṁ ika cagē vidi'ārathī kōla jā rahē hōvōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਚੰਗੇ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be going to a good student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be going to the first student",
+        "tusīṁ pahilē vidi'ārathī kōla jā rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be going to the first student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be going to a many students",
+        "tusīṁ bahuta sārē vidi'ārathī'āṁ kōla jā rahē hōvōgē",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਕੋਲ ਜਾ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be going to a many students",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be going to each student",
+        "tusīṁ harēka vidi'ārathī kōla jā rahē hōvōgē",
+        "ਤੁਸੀਂ ਹਰੇਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be going to each student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be going for a good week",
+        "tusīṁ cagē haphatē la'ī jā rahē hōvōgē",
+        "ਤੁਸੀਂ ਚੰਗੇ ਹਫਤੇ ਲਈ ਜਾ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be going for a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be going for the first week",
+        "tusīṁ pahilē haphatē jā rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਹਫਤੇ ਜਾ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be going for the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be going for a many a week",
+        "tusīṁ haphatē vica bahuta sārē la'ī jā rahē hōvōgē",
+        "ਤੁਸੀਂ ਹਫਤੇ ਵਿਚ ਬਹੁਤ ਸਾਰੇ ਲਈ ਜਾ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be going for a many a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be going for each week",
+        "tusīṁ hara haphatē jā rahē hōvōgē",
+        "ਤੁਸੀਂ ਹਰ ਹਫਤੇ ਜਾ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be going for each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be going to good work",
+        "tusīṁ cagē kama vala jā rahē hōvōgē",
+        "ਤੁਸੀਂ ਚੰਗੇ ਕੰਮ ਵੱਲ ਜਾ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be going to good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be going to the first work",
+        "tusīṁ pahilē kama tē jā rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਕੰਮ ਤੇ ਜਾ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be going to the first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be going to each work",
+        "tusīṁ hara kama tē jā rahē hōvōgē",
+        "ਤੁਸੀਂ ਹਰ ਕੰਮ ਤੇ ਜਾ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be going to each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be knowing the first child",
+        "tusīṁ pahilē bacē nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਬੱਚੇ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing the first child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "child",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be knowing your many children",
+        "tusīṁ āpaṇē bahuta sārē baci'āṁ nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚਿਆਂ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing your many children",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "child",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be knowing each child",
+        "tusīṁ harēka bacē nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਹਰੇਕ ਬੱਚੇ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing each child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "child",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be knowing your first family",
+        "Tusīṁ āpaṇē pahilē parivāra nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਆਪਣੇ ਪਹਿਲੇ ਪਰਿਵਾਰ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing your first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be knowing your many families",
+        "tusīṁ āpaṇē bahuta sārē parivārāṁ nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing your many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "family",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be knowing your each family",
+        "tusīṁ āpaṇē harēka parivāra nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਆਪਣੇ ਹਰੇਕ ਪਰਿਵਾਰ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing your each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be knowing a good man",
+        "tusīṁ ika cagē ādamī nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਚੰਗੇ ਆਦਮੀ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing a good man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be knowing the first man",
+        "tusīṁ pahilē ādamī nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing the first man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be knowing a many men",
+        "tusīṁ bahuta sārē ādamī'āṁ nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਆਦਮੀਆਂ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing a many men",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be knowing each man",
+        "tusīṁ harēka ādamī nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਹਰੇਕ ਆਦਮੀ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing each man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be knowing the first mother",
+        "tusīṁ pahilī māṁ nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਮਾਂ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be knowing your many mothers",
+        "tusīṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing your many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be knowing each mother",
+        "tusīṁ hara māṁ nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਹਰ ਮਾਂ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be knowing a good student",
+        "tusīṁ ika cagē vidi'ārathī nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਚੰਗੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing a good student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be knowing the first student",
+        "tusīṁ pahilē vidi'ārathī nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing the first student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be knowing a many students",
+        "tusīṁ bahuta sārē vidi'ārathī'āṁ nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing a many students",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be knowing each student",
+        "tusīṁ harēka vidi'ārathī nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਹਰੇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing each student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be knowing your good thing",
+        "tusīṁ āpaṇī cagī cīza nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਆਪਣੀ ਚੰਗੀ ਚੀਜ਼ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing your good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be knowing your first thing",
+        "tusīṁ āpaṇī pahilī gala jāṇōgē",
+        "ਤੁਸੀਂ ਆਪਣੀ ਪਹਿਲੀ ਗੱਲ ਜਾਣੋਗੇ",
+        "You will be knowing your first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be knowing your many things",
+        "tusīṁ āpaṇī'āṁ bahuta sārī'āṁ cīzāṁ nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing your many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be knowing your each thing",
+        "tusīṁ āpaṇī hara cīja nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਆਪਣੀ ਹਰ ਚੀਜ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing your each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be knowing the first woman",
+        "tusīṁ pahilī knowingrata nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੀ knowingਰਤ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing the first woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be knowing a many women",
+        "tusīṁ bahuta sārī'āṁ.Ratāṁ nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ .ਰਤਾਂ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing a many women",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be knowing each woman",
+        "tusīṁ harēka knowingrata nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਹਰੇਕ knowingਰਤ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing each woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be knowing a good word",
+        "tusīṁ ika cagā śabada jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਚੰਗਾ ਸ਼ਬਦ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing a good word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be knowing the first word",
+        "tusīṁ pahilē śabada nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਸ਼ਬਦ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing the first word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "word",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be knowing a many words",
+        "Tusīṁ bahuta sārē śabada jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਸ਼ਬਦ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing a many words",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be knowing each word",
+        "tusīṁ harēka śabada nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਹਰੇਕ ਸ਼ਬਦ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing each word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "word",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be knowing your good work",
+        "tusīṁ āpaṇē cagē kama nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਆਪਣੇ ਚੰਗੇ ਕੰਮ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing your good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be knowing your first work",
+        "tusīṁ āpaṇē pahilē kama nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਆਪਣੇ ਪਹਿਲੇ ਕੰਮ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing your first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be knowing your each work",
+        "tusīṁ āpaṇē harēka kama nū jāṇadē hōvōgē",
+        "ਤੁਸੀਂ ਆਪਣੇ ਹਰੇਕ ਕੰਮ ਨੂੰ ਜਾਣਦੇ ਹੋਵੋਗੇ",
+        "You will be knowing your each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be seeing a good book",
+        "tusīṁ ika cagī kitāba vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਚੰਗੀ ਕਿਤਾਬ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing a good book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be seeing each book",
+        "tusīṁ hara kitāba nū vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਹਰ ਕਿਤਾਬ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing each book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "book",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be seeing the first child",
+        "tusīṁ pahilē bacē nū vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਬੱਚੇ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing the first child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "child",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be seeing your many children",
+        "tusīṁ āpaṇē bahuta sārē baci'āṁ nū vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚਿਆਂ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing your many children",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "child",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be seeing each child",
+        "tusīṁ hara bacē nū vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਹਰ ਬੱਚੇ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing each child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "child",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be seeing the first family",
+        "tusīṁ pahilē parivāra nū vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਪਰਿਵਾਰ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing the first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be seeing your many families",
+        "tusīṁ āpaṇē bahuta sārē parivāra dēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰ ਦੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing your many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "family",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be seeing each family",
+        "tusīṁ hara ika parivāra nū vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਹਰ ਇੱਕ ਪਰਿਵਾਰ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be seeing a many hands",
+        "tusīṁ bahuta sārē hatha vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਹੱਥ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing a many hands",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be seeing each hand",
+        "tusīṁ hara ika nū vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਹਰ ਇਕ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing each hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "hand",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be seeing a first home",
+        "tusīṁ pahilāṁ ghara vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲਾਂ ਘਰ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing a first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be seeing a many home",
+        "tusīṁ bahuta sārē ghara nū vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਘਰ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing a many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be seeing a home",
+        "tusīṁ ika ghara vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਘਰ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be seeing a good man",
+        "tusīṁ ika cagē ādamī nū vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਇਕ ਚੰਗੇ ਆਦਮੀ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing a good man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be seeing the first man",
+        "tusīṁ pahilē ādamī nū vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing the first man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "man",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be seeing a many men",
+        "tusīṁ bahuta sārē ādamī vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਆਦਮੀ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing a many men",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be seeing each man",
+        "tusīṁ hara ādamī nū vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਹਰ ਆਦਮੀ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing each man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "man",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be seeing the first mother",
+        "tusīṁ pahilī māṁ nū vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਮਾਂ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be seeing your many mothers",
+        "tusīṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ nū vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing your many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be seeing each mother",
+        "tusīṁ hara māṁ nū vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਹਰ ਮਾਂ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be seeing the first room",
+        "tusīṁ pahilē kamarē nū vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਕਮਰੇ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be seeing a many rooms",
+        "tusīṁ bahuta sārē kamarē dēkhadē hōvōgē",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਕਮਰੇ ਦੇਖਦੇ ਹੋਵੋਗੇ",
+        "You will be seeing a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be seeing each room",
+        "tusīṁ hara kamarē nū vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਹਰ ਕਮਰੇ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be seeing a good student",
+        "tusīṁ ika cagā vidi'ārathī dēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਇਕ ਚੰਗਾ ਵਿਦਿਆਰਥੀ ਦੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing a good student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be seeing the first student",
+        "tusīṁ pahilē vidi'ārathī nū vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing the first student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be seeing a many students",
+        "tusīṁ bahuta sārē vidi'ārathī'āṁ nū vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing a many students",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be seeing each student",
+        "tusīṁ hara vidi'ārathī nū vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਹਰ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing each student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be seeing a good thing",
+        "tusīṁ ika cagī cīza dēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਇਕ ਚੰਗੀ ਚੀਜ਼ ਦੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing a good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be seeing the first thing",
+        "tusīṁ pahilī cīza vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਚੀਜ਼ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be seeing a many things",
+        "tusīṁ bahuta sārī'āṁ cīzāṁ vēkhadē hōvōgē",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਵੇਖਦੇ ਹੋਵੋਗੇ",
+        "You will be seeing a many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be seeing each thing",
+        "tusīṁ hara cīza nū vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਹਰ ਚੀਜ਼ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be seeing the first woman",
+        "tusīṁ pahilī seeingrata nū vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੀ seeingਰਤ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing the first woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be seeing a many women",
+        "tusīṁ bahuta sārī'āṁ.Ratāṁ nū vēkhadē hōvōgē",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ .ਰਤਾਂ ਨੂੰ ਵੇਖਦੇ ਹੋਵੋਗੇ",
+        "You will be seeing a many women",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be seeing each woman",
+        "tusīṁ hara seeingrata nū vēkha rahē hōvōgē",
+        "ਤੁਸੀਂ ਹਰ seeingਰਤ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be seeing each woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be coming to the first family",
+        "tusīṁ pahilē parivāra kōla ā rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਪਰਿਵਾਰ ਕੋਲ ਆ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be coming to the first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be coming to your many families",
+        "Tusīṁ āpaṇē bahuta sārē parivārāṁ kōla ā rahē hōvōgē",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਕੋਲ ਆ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be coming to your many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "family",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be coming to each family",
+        "tusīṁ harēka parivāra vica ā rahē hōvōgē",
+        "ਤੁਸੀਂ ਹਰੇਕ ਪਰਿਵਾਰ ਵਿੱਚ ਆ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be coming to each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be coming the first home",
+        "tusīṁ pahilē ghara ā rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਘਰ ਆ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be coming the first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be coming many home",
+        "tusīṁ bahuta sārē ghara ā rahē hōvōgē",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਘਰ ਆ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be coming many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be coming each home",
+        "tusīṁ hara ghara ā rahē hōvōgē",
+        "ਤੁਸੀਂ ਹਰ ਘਰ ਆ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be coming each home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be coming to the first mother",
+        "tusīṁ pahilī māṁ kōla ā rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਮਾਂ ਕੋਲ ਆ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be coming to the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be coming to your many mothers",
+        "tusīṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ kōla ā rahē hōvōgē",
+        "ਤੁਸੀਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਕੋਲ ਆ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be coming to your many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be coming to each mother",
+        "tusīṁ hara māṁ kōla ā'undē hōvōgē",
+        "ਤੁਸੀਂ ਹਰ ਮਾਂ ਕੋਲ ਆਉਂਦੇ ਹੋਵੋਗੇ",
+        "You will be coming to each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be coming to the first room",
+        "tusīṁ pahilē kamarē vica ā rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਕਮਰੇ ਵਿਚ ਆ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be coming to the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be coming to a many rooms",
+        "tusīṁ bahuta sārē kamari'āṁ vica ā rahē hōvōgē",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਕਮਰਿਆਂ ਵਿਚ ਆ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be coming to a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be coming to each room",
+        "tusīṁ hara kamarē vica ā'ōgē",
+        "ਤੁਸੀਂ ਹਰ ਕਮਰੇ ਵਿਚ ਆਓਗੇ",
+        "You will be coming to each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be coming for a good week",
+        "tusīṁ ika cagē haphatē la'ī ā'uṇagē",
+        "ਤੁਸੀਂ ਇੱਕ ਚੰਗੇ ਹਫਤੇ ਲਈ ਆਉਣਗੇ",
+        "You will be coming for a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be coming for the first week",
+        "tusīṁ pahilē haphatē ā rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਹਫਤੇ ਆ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be coming for the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be coming for a many weeks",
+        "tusīṁ ka'ī hafati'āṁ la'ī ā rahē hōvōgē",
+        "ਤੁਸੀਂ ਕਈ ਹਫ਼ਤਿਆਂ ਲਈ ਆ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be coming for a many weeks",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be coming for each week",
+        "Tusīṁ hara haphatē ā'ōgē",
+        "ਤੁਸੀਂ ਹਰ ਹਫਤੇ ਆਓਗੇ",
+        "You will be coming for each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be coming to good work",
+        "tusīṁ cagē kama vala ā'ōgē",
+        "ਤੁਸੀਂ ਚੰਗੇ ਕੰਮ ਵੱਲ ਆਓਗੇ",
+        "You will be coming to good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be coming to the first work",
+        "tusīṁ pahilē kama tē ā rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਕੰਮ ਤੇ ਆ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be coming to the first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be coming to each work",
+        "tusīṁ hara kama vica ā'ōgē",
+        "ਤੁਸੀਂ ਹਰ ਕੰਮ ਵਿਚ ਆਓਗੇ",
+        "You will be coming to each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be using a good book",
+        "tusīṁ ika cagī kitāba dī varatōṁ karōgē",
+        "ਤੁਸੀਂ ਇਕ ਚੰਗੀ ਕਿਤਾਬ ਦੀ ਵਰਤੋਂ ਕਰੋਗੇ",
+        "You will be using a good book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be using each book",
+        "tusīṁ hara kitāba dī varatōṁ karōgē",
+        "ਤੁਸੀਂ ਹਰ ਕਿਤਾਬ ਦੀ ਵਰਤੋਂ ਕਰੋਗੇ",
+        "You will be using each book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "book",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be using a many hands",
+        "tusīṁ bahuta sārē hathāṁ dī varatōṁ karōgē",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਹੱਥਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋਗੇ",
+        "You will be using a many hands",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be using each hand",
+        "tusīṁ hara ika hatha dī varatōṁ karōgē",
+        "ਤੁਸੀਂ ਹਰ ਇੱਕ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰੋਗੇ",
+        "You will be using each hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "hand",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be using the first room",
+        "tusīṁ pahilē kamarē dī varatōṁ karōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਕਮਰੇ ਦੀ ਵਰਤੋਂ ਕਰੋਗੇ",
+        "You will be using the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be using a many rooms",
+        "tusīṁ bahuta sārē kamari'āṁ dī varatōṁ karōgē",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਕਮਰਿਆਂ ਦੀ ਵਰਤੋਂ ਕਰੋਗੇ",
+        "You will be using a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be using each room",
+        "tusīṁ harēka kamarē dī varatōṁ karōgē",
+        "ਤੁਸੀਂ ਹਰੇਕ ਕਮਰੇ ਦੀ ਵਰਤੋਂ ਕਰੋਗੇ",
+        "You will be using each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be using a good thing",
+        "tusīṁ ika cagī cīza dī varatōṁ karōgē",
+        "ਤੁਸੀਂ ਇਕ ਚੰਗੀ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰੋਗੇ",
+        "You will be using a good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be using the first thing",
+        "tusīṁ pahilī cīza dī varatōṁ karōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰੋਗੇ",
+        "You will be using the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be using a many things",
+        "tusīṁ bahuta sārī'āṁ cīzāṁ dī varatōṁ karōgē",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋਗੇ",
+        "You will be using a many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be using each thing",
+        "tusīṁ hara cīza dī varatōṁ karōgē",
+        "ਤੁਸੀਂ ਹਰ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰੋਗੇ",
+        "You will be using each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be using a good week",
+        "tusīṁ ika cagā haphatā varata rahē hōvōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਚੰਗਾ ਹਫਤਾ ਵਰਤ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be using a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be using the first week",
+        "tusīṁ pahilē haphatē varata rahē hōvōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਹਫਤੇ ਵਰਤ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be using the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be using a many a week",
+        "tusīṁ haphatē vica bahuta sārī'āṁ cīzāṁ dī varatōṁ karōgē",
+        "ਤੁਸੀਂ ਹਫਤੇ ਵਿਚ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋਗੇ",
+        "You will be using a many a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be using each week",
+        "tusīṁ hara haphatē varata rahē hōvōgē",
+        "ਤੁਸੀਂ ਹਰ ਹਫਤੇ ਵਰਤ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be using each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be using a good word",
+        "tusīṁ ika cagā śabada varata rahē hōvōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਚੰਗਾ ਸ਼ਬਦ ਵਰਤ ਰਹੇ ਹੋਵੋਗੇ",
+        "You will be using a good word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be using the first word",
+        "tusīṁ pahilē śabada dī varatōṁ karōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਸ਼ਬਦ ਦੀ ਵਰਤੋਂ ਕਰੋਗੇ",
+        "You will be using the first word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "word",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be using a many words",
+        "tusīṁ bahuta sārē śabadāṁ dī varatōṁ karōgē",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਸ਼ਬਦਾਂ ਦੀ ਵਰਤੋਂ ਕਰੋਗੇ",
+        "You will be using a many words",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be using each word",
+        "tusīṁ harēka śabada dī varatōṁ karōgē",
+        "ਤੁਸੀਂ ਹਰੇਕ ਸ਼ਬਦ ਦੀ ਵਰਤੋਂ ਕਰੋਗੇ",
+        "You will be using each word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "word",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be finding a good book",
+        "tuhānū ika cagī kitāba milēgī",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਚੰਗੀ ਕਿਤਾਬ ਮਿਲੇਗੀ",
+        "You will be finding a good book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be finding each book",
+        "tusīṁ hara kitāba labhōgē",
+        "ਤੁਸੀਂ ਹਰ ਕਿਤਾਬ ਲੱਭੋਗੇ",
+        "You will be finding each book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "book",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be finding a first home",
+        "tuhānū ika pahilā ghara milēgā",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਪਹਿਲਾ ਘਰ ਮਿਲੇਗਾ",
+        "You will be finding a first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be finding a many home",
+        "tuhānū bahuta sārā ghara mila jāvēgā",
+        "ਤੁਹਾਨੂੰ ਬਹੁਤ ਸਾਰਾ ਘਰ ਮਿਲ ਜਾਵੇਗਾ",
+        "You will be finding a many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be finding a home",
+        "Tusīṁ ika ghara labhōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਘਰ ਲੱਭੋਗੇ",
+        "You will be finding a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be finding the first room",
+        "tuhānū pahilā kamarā milēgā",
+        "ਤੁਹਾਨੂੰ ਪਹਿਲਾ ਕਮਰਾ ਮਿਲੇਗਾ",
+        "You will be finding the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be finding a many rooms",
+        "tuhānū bahuta sārē kamarē milaṇagē",
+        "ਤੁਹਾਨੂੰ ਬਹੁਤ ਸਾਰੇ ਕਮਰੇ ਮਿਲਣਗੇ",
+        "You will be finding a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be finding each room",
+        "tusīṁ hara kamarā labhōgē",
+        "ਤੁਸੀਂ ਹਰ ਕਮਰਾ ਲੱਭੋਗੇ",
+        "You will be finding each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be finding a good thing",
+        "tuhānū ika cagī cīza milēgī",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਚੰਗੀ ਚੀਜ਼ ਮਿਲੇਗੀ",
+        "You will be finding a good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be finding the first thing",
+        "tusīṁ pahilī cīza labhōgē",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਚੀਜ਼ ਲੱਭੋਗੇ",
+        "You will be finding the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be finding a many things",
+        "tuhānū bahuta sārī'āṁ cīzāṁ mila jāṇagī'āṁ",
+        "ਤੁਹਾਨੂੰ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਮਿਲ ਜਾਣਗੀਆਂ",
+        "You will be finding a many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be finding each thing",
+        "tusīṁ hara cīja nū labha la'ōgē",
+        "ਤੁਸੀਂ ਹਰ ਚੀਜ ਨੂੰ ਲੱਭ ਲਓਗੇ",
+        "You will be finding each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be finding the first woman",
+        "tuhānū pahilī findingrata milēgī",
+        "ਤੁਹਾਨੂੰ ਪਹਿਲੀ findingਰਤ ਮਿਲੇਗੀ",
+        "You will be finding the first woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be finding a many women",
+        "tuhānū bahuta sārī'āṁ findingratāṁ milī'āṁ hōṇagī'āṁ",
+        "ਤੁਹਾਨੂੰ ਬਹੁਤ ਸਾਰੀਆਂ findingਰਤਾਂ ਮਿਲੀਆਂ ਹੋਣਗੀਆਂ",
+        "You will be finding a many women",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be finding each woman",
+        "tusīṁ hara findingrata nū labha la'ōgē",
+        "ਤੁਸੀਂ ਹਰ findingਰਤ ਨੂੰ ਲੱਭ ਲਓਗੇ",
+        "You will be finding each woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be finding a good word",
+        "tuhānū ika cagā śabada milēgā",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਚੰਗਾ ਸ਼ਬਦ ਮਿਲੇਗਾ",
+        "You will be finding a good word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be finding the first word",
+        "tuhānū pahilā śabada milēgā",
+        "ਤੁਹਾਨੂੰ ਪਹਿਲਾ ਸ਼ਬਦ ਮਿਲੇਗਾ",
+        "You will be finding the first word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "word",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be finding a many words",
+        "tuhānū bahuta sārē śabada mila jāṇagē",
+        "ਤੁਹਾਨੂੰ ਬਹੁਤ ਸਾਰੇ ਸ਼ਬਦ ਮਿਲ ਜਾਣਗੇ",
+        "You will be finding a many words",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You will be finding each word",
+        "Tusīṁ harēka śabada nū labhōgē",
+        "ਤੁਸੀਂ ਹਰੇਕ ਸ਼ਬਦ ਨੂੰ ਲੱਭੋਗੇ",
+        "You will be finding each word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "word",
+            "adj": "each"
+        }
+    ],
+    [
+        "You will be finding good work",
+        "tuhānū cagā kama milēgā",
+        "ਤੁਹਾਨੂੰ ਚੰਗਾ ਕੰਮ ਮਿਲੇਗਾ",
+        "You will be finding good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "You will be finding the first work",
+        "tuhānū pahilā kama milēgā",
+        "ਤੁਹਾਨੂੰ ਪਹਿਲਾ ਕੰਮ ਮਿਲੇਗਾ",
+        "You will be finding the first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You will be finding each work",
+        "tusīṁ hara kama labha la'ōgē",
+        "ਤੁਸੀਂ ਹਰ ਕੰਮ ਲੱਭ ਲਓਗੇ",
+        "You will be finding each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "work",
+            "adj": "each"
+        }
+    ]
+]

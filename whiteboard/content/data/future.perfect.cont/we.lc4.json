@@ -1,0 +1,779 @@
+[
+    [
+        "We will have been being a student",
+        "asīṁ ika vidi'ārathī hō'ē hōvāṅgē",
+        "ਅਸੀਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਹੋਏ ਹੋਵਾਂਗੇ",
+        "We will have been being a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "be",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "We will have been having a business",
+        "sāḍā kārōbāra rihā hōvēgā",
+        "ਸਾਡਾ ਕਾਰੋਬਾਰ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "We will have been having a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "We will have been having a day",
+        "sāḍē kōla ika dina rihā hōvēgā",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਦਿਨ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "We will have been having a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "We will have been having a lot",
+        "sāḍē kōla bahuta kujha hō'ēgā",
+        "ਸਾਡੇ ਕੋਲ ਬਹੁਤ ਕੁਝ ਹੋਏਗਾ",
+        "We will have been having a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "lot"
+        }
+    ],
+    [
+        "We will have been having our mother",
+        "sāḍī māṁ hudī rahēgī",
+        "ਸਾਡੀ ਮਾਂ ਹੁੰਦੀ ਰਹੇਗੀ",
+        "We will have been having our mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "mother",
+            "det": "our"
+        }
+    ],
+    [
+        "We will have been having a problem",
+        "sānū kō'ī samasi'ā āvēgī",
+        "ਸਾਨੂੰ ਕੋਈ ਸਮੱਸਿਆ ਆਵੇਗੀ",
+        "We will have been having a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "We will have been having a question",
+        "sāḍē kōla ika praśana rihā hōvēgā",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਪ੍ਰਸ਼ਨ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "We will have been having a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "We will have been having a story",
+        "sāḍē kōla ika kahāṇī rahī hōvēgī",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਕਹਾਣੀ ਰਹੀ ਹੋਵੇਗੀ",
+        "We will have been having a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "We will have been having a week",
+        "sāḍē kōla ika hafatā rihā hōvēgā",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਹਫ਼ਤਾ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "We will have been having a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "We will have been having a year",
+        "sāḍē kōla ika sāla rihā hōvēgā",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਸਾਲ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "We will have been having a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "We will have been doing a business",
+        "asīṁ ika kārōbāra kara rahē hāṁ",
+        "ਅਸੀਂ ਇਕ ਕਾਰੋਬਾਰ ਕਰ ਰਹੇ ਹਾਂ",
+        "We will have been doing a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "We will have been doing a lot",
+        "asīṁ bahuta kujha kara rahē hāṁ",
+        "ਅਸੀਂ ਬਹੁਤ ਕੁਝ ਕਰ ਰਹੇ ਹਾਂ",
+        "We will have been doing a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "lot"
+        }
+    ],
+    [
+        "We will have been telling about life",
+        "asīṁ zidagī bārē dasadē rahē hāṁ",
+        "ਅਸੀਂ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਦੱਸਦੇ ਰਹੇ ਹਾਂ",
+        "We will have been telling about life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "life"
+        }
+    ],
+    [
+        "We will have been telling a man",
+        "asīṁ ika ādamī nū dasa rahē hāṁ",
+        "ਅਸੀਂ ਇਕ ਆਦਮੀ ਨੂੰ ਦੱਸ ਰਹੇ ਹਾਂ",
+        "We will have been telling a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "We will have been telling our mother",
+        "asīṁ āpaṇī māṁ nū dasadē rahē hāṁ",
+        "ਅਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਦੱਸਦੇ ਰਹੇ ਹਾਂ",
+        "We will have been telling our mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "our"
+        }
+    ],
+    [
+        "We will have been telling about a problem",
+        "asīṁ kisē samasi'ā bārē dasadē rahē hāṁ",
+        "ਅਸੀਂ ਕਿਸੇ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸਦੇ ਰਹੇ ਹਾਂ",
+        "We will have been telling about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "We will have been telling a story",
+        "asīṁ ika kahāṇī suṇā rahē hāṁ",
+        "ਅਸੀਂ ਇਕ ਕਹਾਣੀ ਸੁਣਾ ਰਹੇ ਹਾਂ",
+        "We will have been telling a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "We will have been telling about a study",
+        "asīṁ ika adhi'aina bārē dasadē rahē hāṁ",
+        "ਅਸੀਂ ਇਕ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸਦੇ ਰਹੇ ਹਾਂ",
+        "We will have been telling about a study",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a"
+        }
+    ],
+    [
+        "We will have been telling a woman",
+        "asīṁ ika tellingrata nū dasadē rahē hāṁ",
+        "ਅਸੀਂ ਇਕ tellingਰਤ ਨੂੰ ਦੱਸਦੇ ਰਹੇ ਹਾਂ",
+        "We will have been telling a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "We will have been asking a man",
+        "asīṁ ika ādamī nū pucha rahē hāṁ",
+        "ਅਸੀਂ ਇਕ ਆਦਮੀ ਨੂੰ ਪੁੱਛ ਰਹੇ ਹਾਂ",
+        "We will have been asking a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "We will have been asking our mother",
+        "asīṁ āpaṇī māṁ nū pucha rahē hāṁ",
+        "ਅਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਪੁੱਛ ਰਹੇ ਹਾਂ",
+        "We will have been asking our mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "our"
+        }
+    ],
+    [
+        "We will have been asking a question",
+        "asīṁ ika praśana puchadē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਪ੍ਰਸ਼ਨ ਪੁੱਛਦੇ ਹਾਂ",
+        "We will have been asking a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "We will have been asking a student",
+        "asīṁ kisē vidi'ārathī nū pucha rahē hāṁ",
+        "ਅਸੀਂ ਕਿਸੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛ ਰਹੇ ਹਾਂ",
+        "We will have been asking a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "We will have been asking a woman",
+        "asīṁ kisē askingrata nū pucha rahē hāṁ",
+        "ਅਸੀਂ ਕਿਸੇ askingਰਤ ਨੂੰ ਪੁੱਛ ਰਹੇ ਹਾਂ",
+        "We will have been asking a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "We will have been trying for a day",
+        "asīṁ ika dina la'ī kōśiśa kara rahē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਦਿਨ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹਾਂ",
+        "We will have been trying for a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "We will have been trying for a month",
+        "asīṁ ika mahīnē la'ī kōśiśa kara rahē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਮਹੀਨੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹਾਂ",
+        "We will have been trying for a month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "month",
+            "det": "a"
+        }
+    ],
+    [
+        "We will have been trying for a week",
+        "asīṁ ika haphatē la'ī kōśiśa kara rahē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਹਫਤੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹਾਂ",
+        "We will have been trying for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "We will have been trying for a year",
+        "asīṁ ika sāla la'ī kōśiśa kara rahē hāṁ",
+        "ਅਸੀਂ ਇਕ ਸਾਲ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹਾਂ",
+        "We will have been trying for a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "We will have been leaving a business",
+        "asīṁ ika kārōbāra chaḍa rahē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਕਾਰੋਬਾਰ ਛੱਡ ਰਹੇ ਹਾਂ",
+        "We will have been leaving a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "We will have been calling our mother",
+        "asīṁ āpaṇī māṁ nū bulā rahē hāṁ",
+        "ਅਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਬੁਲਾ ਰਹੇ ਹਾਂ",
+        "We will have been calling our mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": true,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "call",
+            "noun": "mother",
+            "det": "our"
+        }
+    ]
+]

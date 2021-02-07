@@ -1,0 +1,779 @@
+[
+    [
+        "I am a student",
+        "maiṁ ika vidi'ārathī hāṁ",
+        "ਮੈਂ ਇਕ ਵਿਦਿਆਰਥੀ ਹਾਂ",
+        "I am a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "I have a business",
+        "mērā ika kārōbāra hai",
+        "ਮੇਰਾ ਇੱਕ ਕਾਰੋਬਾਰ ਹੈ",
+        "I have a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "I have a day",
+        "mērē kōla ika dina hai",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਦਿਨ ਹੈ",
+        "I have a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "I have a lot",
+        "mērē kōla bahuta hai",
+        "ਮੇਰੇ ਕੋਲ ਬਹੁਤ ਹੈ",
+        "I have a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "lot"
+        }
+    ],
+    [
+        "I have my mother",
+        "mērī māṁ hai",
+        "ਮੇਰੀ ਮਾਂ ਹੈ",
+        "I have my mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "det": "my"
+        }
+    ],
+    [
+        "I have a problem",
+        "mainū ika samasi'ā hai",
+        "ਮੈਨੂੰ ਇੱਕ ਸਮੱਸਿਆ ਹੈ",
+        "I have a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "I have a question",
+        "mērē kōla ika savāla hai",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਸਵਾਲ ਹੈ",
+        "I have a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "I have a story",
+        "mērē kōla ika kahāṇī hai",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਕਹਾਣੀ ਹੈ",
+        "I have a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "I have a week",
+        "mērē kōla ika hafatā hai",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਹਫ਼ਤਾ ਹੈ",
+        "I have a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "I have a year",
+        "mērē kōla ika sāla hai",
+        "ਮੇਰੇ ਕੋਲ ਇਕ ਸਾਲ ਹੈ",
+        "I have a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "I do a business",
+        "maiṁ ika kārōbāra karadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਕਾਰੋਬਾਰ ਕਰਦਾ ਹਾਂ",
+        "I do a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "I do a lot",
+        "maiṁ bahuta kujha karadā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਕੁਝ ਕਰਦਾ ਹਾਂ",
+        "I do a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "lot"
+        }
+    ],
+    [
+        "I tell about life",
+        "maiṁ zidagī bārē dasadā hāṁ",
+        "ਮੈਂ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਦੱਸਦਾ ਹਾਂ",
+        "I tell about life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "life"
+        }
+    ],
+    [
+        "I tell a man",
+        "maiṁ ika ādamī nū kahidā hāṁ",
+        "ਮੈਂ ਇਕ ਆਦਮੀ ਨੂੰ ਕਹਿੰਦਾ ਹਾਂ",
+        "I tell a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "I tell my mother",
+        "maiṁ āpaṇī māṁ nū kahidā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਕਹਿੰਦਾ ਹਾਂ",
+        "I tell my mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "my"
+        }
+    ],
+    [
+        "I tell about a problem",
+        "maiṁ ika samasi'ā bārē dasadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸਦਾ ਹਾਂ",
+        "I tell about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "I tell a story",
+        "maiṁ ika kahāṇī suṇā'undā hāṁ",
+        "ਮੈਂ ਇਕ ਕਹਾਣੀ ਸੁਣਾਉਂਦਾ ਹਾਂ",
+        "I tell a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "I tell about a study",
+        "maiṁ ika adhi'aina bārē dasadā hāṁ",
+        "ਮੈਂ ਇਕ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸਦਾ ਹਾਂ",
+        "I tell about a study",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a"
+        }
+    ],
+    [
+        "I tell a woman",
+        "maiṁ ika tellrata nū kahidā hāṁ",
+        "ਮੈਂ ਇਕ tellਰਤ ਨੂੰ ਕਹਿੰਦਾ ਹਾਂ",
+        "I tell a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "I ask a man",
+        "maiṁ ika ādamī nū puchadā hāṁ",
+        "ਮੈਂ ਇਕ ਆਦਮੀ ਨੂੰ ਪੁੱਛਦਾ ਹਾਂ",
+        "I ask a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "I ask my mother",
+        "maiṁ āpaṇī māṁ nū puchadā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਪੁੱਛਦਾ ਹਾਂ",
+        "I ask my mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "my"
+        }
+    ],
+    [
+        "I ask a question",
+        "maiṁ ika praśana puchadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਪ੍ਰਸ਼ਨ ਪੁੱਛਦਾ ਹਾਂ",
+        "I ask a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "I ask a student",
+        "maiṁ ika vidi'ārathī nū puchadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛਦਾ ਹਾਂ",
+        "I ask a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "I ask a woman",
+        "maiṁ ika askrata nū puchadā hāṁ",
+        "ਮੈਂ ਇਕ askਰਤ ਨੂੰ ਪੁੱਛਦਾ ਹਾਂ",
+        "I ask a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "I try for a day",
+        "maiṁ ika dina dī kōśiśa karadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਦਿਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹਾਂ",
+        "I try for a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "try",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "I try for a month",
+        "maiṁ ika mahīnē la'ī kōśiśa karadā hāṁ",
+        "ਮੈਂ ਇਕ ਮਹੀਨੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹਾਂ",
+        "I try for a month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "try",
+            "noun": "month",
+            "det": "a"
+        }
+    ],
+    [
+        "I try for a week",
+        "maiṁ ika haphatē la'ī kōśiśa karadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਹਫਤੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹਾਂ",
+        "I try for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "try",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "I try for a year",
+        "maiṁ ika sāla kōśiśa karadā hāṁ",
+        "ਮੈਂ ਇਕ ਸਾਲ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹਾਂ",
+        "I try for a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "try",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "I leave a business",
+        "maiṁ ika kārōbāra chaḍadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਕਾਰੋਬਾਰ ਛੱਡਦਾ ਹਾਂ",
+        "I leave a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "I call my mother",
+        "maiṁ āpaṇī māṁ nū bulā'undā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਬੁਲਾਉਂਦਾ ਹਾਂ",
+        "I call my mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "call",
+            "noun": "mother",
+            "det": "my"
+        }
+    ]
+]

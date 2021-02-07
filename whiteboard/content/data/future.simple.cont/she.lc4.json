@@ -1,0 +1,831 @@
+[
+    [
+        "She will be coming to a job",
+        "uha kisē naukarī tē āvēgī",
+        "ਉਹ ਕਿਸੇ ਨੌਕਰੀ ਤੇ ਆਵੇਗੀ",
+        "She will be coming to a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "mother",
+            "det": "her"
+        }
+    ],
+    [
+        "She will be coming to a place",
+        "uha ika jag'hā ā rahī hōvēgī",
+        "ਉਹ ਇੱਕ ਜਗ੍ਹਾ ਆ ਰਹੀ ਹੋਵੇਗੀ",
+        "She will be coming to a place",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "She will be coming to a room",
+        "uha ika kamarē vica āvēgī",
+        "ਉਹ ਇੱਕ ਕਮਰੇ ਵਿੱਚ ਆਵੇਗੀ",
+        "She will be coming to a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "She will be coming on time",
+        "uha samēṁ sira āvēgī",
+        "ਉਹ ਸਮੇਂ ਸਿਰ ਆਵੇਗੀ",
+        "She will be coming on time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "She will be coming to work",
+        "uha kama tē āvēgī",
+        "ਉਹ ਕੰਮ ਤੇ ਆਵੇਗੀ",
+        "She will be coming to work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "She will be thinking about the group",
+        "uha samūha bārē sōcadī rahēgī",
+        "ਉਹ ਸਮੂਹ ਬਾਰੇ ਸੋਚਦੀ ਰਹੇਗੀ",
+        "She will be thinking about the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "lot"
+        }
+    ],
+    [
+        "She will be thinking about a job",
+        "uha kisē naukarī bārē sōca rahī hōvēgī",
+        "ਉਹ ਕਿਸੇ ਨੌਕਰੀ ਬਾਰੇ ਸੋਚ ਰਹੀ ਹੋਵੇਗੀ",
+        "She will be thinking about a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "mother",
+            "det": "her"
+        }
+    ],
+    [
+        "She will be thinking about money",
+        "uha paisē bārē sōcadī rahēgī",
+        "ਉਹ ਪੈਸੇ ਬਾਰੇ ਸੋਚਦੀ ਰਹੇਗੀ",
+        "She will be thinking about money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "She will be thinking about her mother",
+        "uha āpaṇī māṁ bārē sōca rahī hōvēgī",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਬਾਰੇ ਸੋਚ ਰਹੀ ਹੋਵੇਗੀ",
+        "She will be thinking about her mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "She will be thinking right",
+        "uha sahī sōca rahī hōvēgī",
+        "ਉਹ ਸਹੀ ਸੋਚ ਰਹੀ ਹੋਵੇਗੀ",
+        "She will be thinking right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "She will be looking after a business",
+        "uha ika kārōbāra dī dēkhabhāla karēgī",
+        "ਉਹ ਇੱਕ ਕਾਰੋਬਾਰ ਦੀ ਦੇਖਭਾਲ ਕਰੇਗੀ",
+        "She will be looking after a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "She will be looking after her family",
+        "uha āpaṇē parivāra dī dēkhabhāla karēgī",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਦੀ ਦੇਖਭਾਲ ਕਰੇਗੀ",
+        "She will be looking after her family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "She will be looking at a man",
+        "uha ika ādamī vala dēkha rahī hōvēgī",
+        "ਉਹ ਇਕ ਆਦਮੀ ਵੱਲ ਦੇਖ ਰਹੀ ਹੋਵੇਗੀ",
+        "She will be looking at a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "She will be looking after her mother",
+        "uha āpaṇī māṁ dī dēkhabhāla karēgī",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਦੀ ਦੇਖਭਾਲ ਕਰੇਗੀ",
+        "She will be looking after her mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "lot"
+        }
+    ],
+    [
+        "She will be knowing a student",
+        "uha ika vidi'ārathī nū jāṇadī hōvēgī",
+        "ਉਹ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦੀ ਹੋਵੇਗੀ",
+        "She will be knowing a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "life"
+        }
+    ],
+    [
+        "She will be knowing a system",
+        "uha ika sisaṭama nū jāṇadī hōvēgī",
+        "ਉਹ ਇੱਕ ਸਿਸਟਮ ਨੂੰ ਜਾਣਦੀ ਹੋਵੇਗੀ",
+        "She will be knowing a system",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "She will be knowing her thing",
+        "uha usadī gala jāṇadī hōvēgī",
+        "ਉਹ ਉਸਦੀ ਗੱਲ ਜਾਣਦੀ ਹੋਵੇਗੀ",
+        "She will be knowing her thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "her"
+        }
+    ],
+    [
+        "She will be knowing her way",
+        "uha usa dē tarīkē nū jāṇadī hōvēgī",
+        "ਉਹ ਉਸ ਦੇ ਤਰੀਕੇ ਨੂੰ ਜਾਣਦੀ ਹੋਵੇਗੀ",
+        "She will be knowing her way",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "She will be knowing a word",
+        "uha ika śabada jāṇadī hōvēgī",
+        "ਉਹ ਇੱਕ ਸ਼ਬਦ ਜਾਣਦੀ ਹੋਵੇਗੀ",
+        "She will be knowing a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "She will be knowing her work",
+        "uha āpaṇē kama nū jāṇadī hōvēgī",
+        "ਉਹ ਆਪਣੇ ਕੰਮ ਨੂੰ ਜਾਣਦੀ ਹੋਵੇਗੀ",
+        "She will be knowing her work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a"
+        }
+    ],
+    [
+        "She will be taking a job",
+        "uha naukarī lavēgī",
+        "ਉਹ ਨੌਕਰੀ ਲਵੇਗੀ",
+        "She will be taking a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "She will be seeing her child",
+        "uha āpaṇē bacē nū vēkhadī hō'ēgī",
+        "ਉਹ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੇਖਦੀ ਹੋਏਗੀ",
+        "She will be seeing her child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "She will be seeing her family",
+        "uha āpaṇē parivāra nū vēkhadī rahēgī",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਵੇਖਦੀ ਰਹੇਗੀ",
+        "She will be seeing her family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "her"
+        }
+    ],
+    [
+        "She will be seeing a hand",
+        "uha ika hatha vēkhēgī",
+        "ਉਹ ਇੱਕ ਹੱਥ ਵੇਖੇਗੀ",
+        "She will be seeing a hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "She will be seeing a home",
+        "uha ika ghara vēkha rahī hōvēgī",
+        "ਉਹ ਇੱਕ ਘਰ ਵੇਖ ਰਹੀ ਹੋਵੇਗੀ",
+        "She will be seeing a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "She will be seeing her mother",
+        "uha āpaṇī māṁ nū vēkhēgī",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਵੇਖੇਗੀ",
+        "She will be seeing her mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "She will be trying for a day",
+        "uha ika dina dī kōśiśa karēgī",
+        "ਉਹ ਇੱਕ ਦਿਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੇਗੀ",
+        "She will be trying for a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "She will be trying for a month",
+        "uha ika mahīnē la'ī kōśiśa karēgī",
+        "ਉਹ ਇਕ ਮਹੀਨੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰੇਗੀ",
+        "She will be trying for a month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "month",
+            "det": "a"
+        }
+    ],
+    [
+        "She will be trying for a week",
+        "uha ika hafatē la'ī kōśiśa karēgī",
+        "ਉਹ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰੇਗੀ",
+        "She will be trying for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "She will be trying for a year",
+        "uha ika sāla la'ī kōśiśa kara rahī hai",
+        "ਉਹ ਇੱਕ ਸਾਲ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੀ ਹੈ",
+        "She will be trying for a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "She will be leaving a business",
+        "uha ika kārōbāra chaḍa rahī hai",
+        "ਉਹ ਇੱਕ ਕਾਰੋਬਾਰ ਛੱਡ ਰਹੀ ਹੈ",
+        "She will be leaving a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "She will be calling her mother",
+        "uha āpaṇī māṁ nū bulā'ēgī",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਬੁਲਾਏਗੀ",
+        "She will be calling her mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "call",
+            "noun": "mother",
+            "det": "her"
+        }
+    ]
+]

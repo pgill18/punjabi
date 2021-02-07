@@ -1,0 +1,831 @@
+[
+    [
+        "She is her mother",
+        "uha usadī māṁ hai",
+        "ਉਹ ਉਸਦੀ ਮਾਂ ਹੈ",
+        "She is her mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "mother",
+            "det": "her"
+        }
+    ],
+    [
+        "She is a student",
+        "uha ika vidi'ārathī hai",
+        "ਉਹ ਇੱਕ ਵਿਦਿਆਰਥੀ ਹੈ",
+        "She is a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "She is a woman",
+        "uha ika israta hai",
+        "ਉਹ ਇੱਕ isਰਤ ਹੈ",
+        "She is a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "She has a business",
+        "usadā ika kārōbāra hai",
+        "ਉਸਦਾ ਇੱਕ ਕਾਰੋਬਾਰ ਹੈ",
+        "She has a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "She has a day",
+        "usa kōla ika dina hai",
+        "ਉਸ ਕੋਲ ਇੱਕ ਦਿਨ ਹੈ",
+        "She has a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "She has a lot",
+        "usa kōla bahuta kujha hai",
+        "ਉਸ ਕੋਲ ਬਹੁਤ ਕੁਝ ਹੈ",
+        "She has a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "lot"
+        }
+    ],
+    [
+        "She has her mother",
+        "usadī māṁ hai",
+        "ਉਸਦੀ ਮਾਂ ਹੈ",
+        "She has her mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "mother",
+            "det": "her"
+        }
+    ],
+    [
+        "She has a problem",
+        "usa nū ika samasi'ā hai",
+        "ਉਸ ਨੂੰ ਇੱਕ ਸਮੱਸਿਆ ਹੈ",
+        "She has a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "She has a question",
+        "usa kōla ika praśana hai",
+        "ਉਸ ਕੋਲ ਇੱਕ ਪ੍ਰਸ਼ਨ ਹੈ",
+        "She has a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "She has a story",
+        "usadī ika kahāṇī hai",
+        "ਉਸਦੀ ਇਕ ਕਹਾਣੀ ਹੈ",
+        "She has a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "She has a week",
+        "usa kōla ika hafatā hai",
+        "ਉਸ ਕੋਲ ਇੱਕ ਹਫ਼ਤਾ ਹੈ",
+        "She has a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "She has a year",
+        "usadā ika sāla hai",
+        "ਉਸਦਾ ਇਕ ਸਾਲ ਹੈ",
+        "She has a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "She does a business",
+        "uha ika kārōbāra karadī hai",
+        "ਉਹ ਇੱਕ ਕਾਰੋਬਾਰ ਕਰਦੀ ਹੈ",
+        "She does a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "She does a lot",
+        "uha bahuta karadī hai",
+        "ਉਹ ਬਹੁਤ ਕਰਦੀ ਹੈ",
+        "She does a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "lot"
+        }
+    ],
+    [
+        "She tells about life",
+        "uha zidagī bārē dasadī hai",
+        "ਉਹ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਦੱਸਦੀ ਹੈ",
+        "She tells about life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "life"
+        }
+    ],
+    [
+        "She tells a man",
+        "uha ika ādamī nū kahidī hai",
+        "ਉਹ ਇੱਕ ਆਦਮੀ ਨੂੰ ਕਹਿੰਦੀ ਹੈ",
+        "She tells a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "She tells her mother",
+        "uha āpaṇī māṁ nū kahidī hai",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਕਹਿੰਦੀ ਹੈ",
+        "She tells her mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "her"
+        }
+    ],
+    [
+        "She tells about a problem",
+        "uha ika samasi'ā bārē dasadī hai",
+        "ਉਹ ਇੱਕ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸਦੀ ਹੈ",
+        "She tells about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "She tells a story",
+        "uha ika kahāṇī suṇā'undī hai",
+        "ਉਹ ਇੱਕ ਕਹਾਣੀ ਸੁਣਾਉਂਦੀ ਹੈ",
+        "She tells a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "She tells about a study",
+        "uha ika adhi'aina bārē dasadī hai",
+        "ਉਹ ਇਕ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸਦੀ ਹੈ",
+        "She tells about a study",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a"
+        }
+    ],
+    [
+        "She tells a woman",
+        "uha ika tellsrata nū kahidī hai",
+        "ਉਹ ਇੱਕ tellsਰਤ ਨੂੰ ਕਹਿੰਦੀ ਹੈ",
+        "She tells a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "She asks a man",
+        "uha ika ādamī nū puchadī hai",
+        "ਉਹ ਇੱਕ ਆਦਮੀ ਨੂੰ ਪੁੱਛਦੀ ਹੈ",
+        "She asks a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "She asks her mother",
+        "uha āpaṇī māṁ nū puchadī hai",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਪੁੱਛਦੀ ਹੈ",
+        "She asks her mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "her"
+        }
+    ],
+    [
+        "She asks a question",
+        "uha ika praśana puchadī hai",
+        "ਉਹ ਇੱਕ ਪ੍ਰਸ਼ਨ ਪੁੱਛਦੀ ਹੈ",
+        "She asks a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "She asks a student",
+        "uha ika vidi'ārathī nū puchadī hai",
+        "ਉਹ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛਦੀ ਹੈ",
+        "She asks a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "She asks a woman",
+        "uha ika asksrata nū puchadī hai",
+        "ਉਹ ਇੱਕ asksਰਤ ਨੂੰ ਪੁੱਛਦੀ ਹੈ",
+        "She asks a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "She tries for a day",
+        "uha ika dina dī kōśiśa karadī hai",
+        "ਉਹ ਇੱਕ ਦਿਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦੀ ਹੈ",
+        "She tries for a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "She tries for a month",
+        "uha ika mahīnē la'ī kōśiśa karadī hai",
+        "ਉਹ ਇੱਕ ਮਹੀਨੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰਦੀ ਹੈ",
+        "She tries for a month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "month",
+            "det": "a"
+        }
+    ],
+    [
+        "She tries for a week",
+        "uha ika hafatā kōśiśa karadī hai",
+        "ਉਹ ਇੱਕ ਹਫ਼ਤਾ ਕੋਸ਼ਿਸ਼ ਕਰਦੀ ਹੈ",
+        "She tries for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "She tries for a year",
+        "uha ika sāla kōśiśa karadī hai",
+        "ਉਹ ਇਕ ਸਾਲ ਕੋਸ਼ਿਸ਼ ਕਰਦੀ ਹੈ",
+        "She tries for a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "try",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "She leaves a business",
+        "uha ika kārōbāra chaḍadī hai",
+        "ਉਹ ਇੱਕ ਕਾਰੋਬਾਰ ਛੱਡਦੀ ਹੈ",
+        "She leaves a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "She calls her mother",
+        "uha āpaṇī māṁ nū bulā'undī hai",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਬੁਲਾਉਂਦੀ ਹੈ",
+        "She calls her mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "call",
+            "noun": "mother",
+            "det": "her"
+        }
+    ]
+]

@@ -1,0 +1,753 @@
+[
+    [
+        "It will have come on time",
+        "iha samēṁ tē ā jāvēgā",
+        "ਇਹ ਸਮੇਂ ਤੇ ਆ ਜਾਵੇਗਾ",
+        "It will have come on time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "It will have come to work",
+        "iha kama'tē ā jāvēgā",
+        "ਇਹ ਕੰਮ 'ਤੇ ਆ ਜਾਵੇਗਾ",
+        "It will have come to work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "It will have thought about the group",
+        "iha samūha bārē sōci'ā hōvēgā",
+        "ਇਹ ਸਮੂਹ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "It will have thought about the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "lot"
+        }
+    ],
+    [
+        "It will have thought about a job",
+        "iha kisē naukarī bārē sōci'ā hōvēgā",
+        "ਇਹ ਕਿਸੇ ਨੌਕਰੀ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "It will have thought about a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "mother",
+            "det": "its"
+        }
+    ],
+    [
+        "It will have thought about money",
+        "iha paisē bārē sōci'ā hōvēgā",
+        "ਇਹ ਪੈਸੇ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "It will have thought about money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "It will have thought about its mother",
+        "iha āpaṇī māṁ bārē sōci'ā hōvēgā",
+        "ਇਹ ਆਪਣੀ ਮਾਂ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "It will have thought about its mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "It will have thought right",
+        "iha sahī sōci'ā hōvēgā",
+        "ਇਹ ਸਹੀ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "It will have thought right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "It will have looked after a business",
+        "iha kisē kārōbāra dī dēkhabhāla karēgī",
+        "ਇਹ ਕਿਸੇ ਕਾਰੋਬਾਰ ਦੀ ਦੇਖਭਾਲ ਕਰੇਗੀ",
+        "It will have looked after a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "It will have looked after its family",
+        "iha āpaṇē parivāra dī dēkhabhāla karēgī",
+        "ਇਹ ਆਪਣੇ ਪਰਿਵਾਰ ਦੀ ਦੇਖਭਾਲ ਕਰੇਗੀ",
+        "It will have looked after its family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "It will have looked at a man",
+        "iha ika ādamī vala vēkhi'ā hōvēgā",
+        "ਇਹ ਇੱਕ ਆਦਮੀ ਵੱਲ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "It will have looked at a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "It will have looked after its mother",
+        "iha āpaṇī māṁ dī dēkhabhāla karēgī",
+        "ਇਹ ਆਪਣੀ ਮਾਂ ਦੀ ਦੇਖਭਾਲ ਕਰੇਗੀ",
+        "It will have looked after its mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "do",
+            "noun": "lot"
+        }
+    ],
+    [
+        "It will have known a student",
+        "iha ika vidi'ārathī nū jāṇadā hōvēgā",
+        "ਇਹ ਇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦਾ ਹੋਵੇਗਾ",
+        "It will have known a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "tell",
+            "noun": "life"
+        }
+    ],
+    [
+        "It will have known a system",
+        "iha ika sisaṭama jāṇadā hōvēgā",
+        "ਇਹ ਇੱਕ ਸਿਸਟਮ ਜਾਣਦਾ ਹੋਵੇਗਾ",
+        "It will have known a system",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "It will have known its thing",
+        "iha isa dī cīza nū patā laga jāvēgā",
+        "ਇਹ ਇਸ ਦੀ ਚੀਜ਼ ਨੂੰ ਪਤਾ ਲੱਗ ਜਾਵੇਗਾ",
+        "It will have known its thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "its"
+        }
+    ],
+    [
+        "It will have known its way",
+        "iha isa dā tarīkā jāṇadā hōvēgā",
+        "ਇਹ ਇਸ ਦਾ ਤਰੀਕਾ ਜਾਣਦਾ ਹੋਵੇਗਾ",
+        "It will have known its way",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "It will have known a word",
+        "iha ika śabada jāṇadā hōvēgā",
+        "ਇਹ ਇੱਕ ਸ਼ਬਦ ਜਾਣਦਾ ਹੋਵੇਗਾ",
+        "It will have known a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "It will have known its work",
+        "iha isa dē kama nū jāṇadā hōvēgā",
+        "ਇਹ ਇਸ ਦੇ ਕੰਮ ਨੂੰ ਜਾਣਦਾ ਹੋਵੇਗਾ",
+        "It will have known its work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a"
+        }
+    ],
+    [
+        "It will have taken a job",
+        "iha ika naukarī lai la'ī hai jāvēgā",
+        "ਇਹ ਇੱਕ ਨੌਕਰੀ ਲੈ ਲਈ ਹੈ ਜਾਵੇਗਾ",
+        "It will have taken a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "It will have seen its child",
+        "iha āpaṇē bacē nū vēkhi'ā hōvēgā",
+        "ਇਹ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "It will have seen its child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "It will have seen its family",
+        "iha āpaṇē parivāra nū vēkhi'ā hōvēgā",
+        "ਇਹ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "It will have seen its family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "its"
+        }
+    ],
+    [
+        "It will have seen a hand",
+        "iha ika hatha vēkhi'ā hōvēgā",
+        "ਇਹ ਇੱਕ ਹੱਥ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "It will have seen a hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "It will have seen a home",
+        "iha ika ghara vēkhi'ā hōvēgā",
+        "ਇਹ ਇੱਕ ਘਰ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "It will have seen a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "It will have seen its mother",
+        "iha āpaṇī māṁ nū vēkhi'ā hōvēgā",
+        "ਇਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "It will have seen its mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "It will have come to a job",
+        "iha kisē naukarī tē ā gi'ā hōvēgā",
+        "ਇਹ ਕਿਸੇ ਨੌਕਰੀ ਤੇ ਆ ਗਿਆ ਹੋਵੇਗਾ",
+        "It will have come to a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "try",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "It will have come to a room",
+        "iha ika kamarē vica ā jāvēgā",
+        "ਇਹ ਇਕ ਕਮਰੇ ਵਿਚ ਆ ਜਾਵੇਗਾ",
+        "It will have come to a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "try",
+            "noun": "month",
+            "det": "a"
+        }
+    ],
+    [
+        "It will have tried for a week",
+        "iha ika hafatē la'ī kōśiśa kītī ga'ī hōvēgī",
+        "ਇਹ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਗਈ ਹੋਵੇਗੀ",
+        "It will have tried for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "try",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "It will have tried for a year",
+        "iha ika sāla la'ī kōśiśa kītī ga'ī hōvēgī",
+        "ਇਹ ਇੱਕ ਸਾਲ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਗਈ ਹੋਵੇਗੀ",
+        "It will have tried for a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "try",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "It will have left a business",
+        "iha ika kārōbāra chaḍa dēvēgā",
+        "ਇਹ ਇੱਕ ਕਾਰੋਬਾਰ ਛੱਡ ਦੇਵੇਗਾ",
+        "It will have left a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "It will have called its mother",
+        "isa nē āpaṇī māṁ nū bulā'i'ā hōvēgā",
+        "ਇਸ ਨੇ ਆਪਣੀ ਮਾਂ ਨੂੰ ਬੁਲਾਇਆ ਹੋਵੇਗਾ",
+        "It will have called its mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "call",
+            "noun": "mother",
+            "det": "its"
+        }
+    ]
+]

@@ -1,0 +1,1471 @@
+[
+    [
+        "You will have come on time",
+        "tusīṁ samēṁ tē ā'ē hōvōgē",
+        "ਤੁਸੀਂ ਸਮੇਂ ਤੇ ਆਏ ਹੋਵੋਗੇ",
+        "You will have come on time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have come to work",
+        "tusīṁ kama tē ā ga'ē hōvōgē",
+        "ਤੁਸੀਂ ਕੰਮ ਤੇ ਆ ਗਏ ਹੋਵੋਗੇ",
+        "You will have come to work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have thought about a business",
+        "tusīṁ kisē kārōbāra bārē sōci'ā hōvēgā",
+        "ਤੁਸੀਂ ਕਿਸੇ ਕਾਰੋਬਾਰ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "You will have thought about a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "You will have thought about your family",
+        "tusīṁ āpaṇē parivāra bārē sōci'ā hōvēgā",
+        "ਤੁਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "You will have thought about your family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have thought about life",
+        "tusīṁ zidagī bārē sōci'ā hōvēgā",
+        "ਤੁਸੀਂ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "You will have thought about life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "place",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have thought a lot",
+        "tusīṁ bahuta sōci'ā hōvēgā",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "You will have thought a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "point",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have thought about school",
+        "tusīṁ sakūla bārē sōci'ā hōvēgā",
+        "ਤੁਸੀਂ ਸਕੂਲ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "You will have thought about school",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "system",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have thought about a story",
+        "tusīṁ kisē kahāṇī bārē sōci'ā hōvēgā",
+        "ਤੁਸੀਂ ਕਿਸੇ ਕਹਾਣੀ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "You will have thought about a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have thought about work",
+        "tusīṁ kama bārē sōci'ā hōvēgā",
+        "ਤੁਸੀਂ ਕੰਮ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "You will have thought about work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "time"
+        }
+    ],
+    [
+        "You will have looked at a book",
+        "tusīṁ kisē kitāba nū vēkhi'ā hōvēgā",
+        "ਤੁਸੀਂ ਕਿਸੇ ਕਿਤਾਬ ਨੂੰ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "You will have looked at a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "way"
+        }
+    ],
+    [
+        "You will have looked after your child",
+        "Tusīṁ āpaṇē bacē dī dēkhabhāla karōgē",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬੱਚੇ ਦੀ ਦੇਖਭਾਲ ਕਰੋਗੇ",
+        "You will have looked after your child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "work"
+        }
+    ],
+    [
+        "You will have looked after your family",
+        "tusīṁ āpaṇē parivāra dī dēkhabhāla kītī hōvēgī",
+        "ਤੁਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਦੀ ਦੇਖਭਾਲ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "You will have looked after your family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have looked at a man",
+        "tusīṁ kisē ādamī vala vēkhi'ā hōvēgā",
+        "ਤੁਸੀਂ ਕਿਸੇ ਆਦਮੀ ਵੱਲ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "You will have looked at a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have looked at money",
+        "tusīṁ paisā vēkhi'ā hōvēgā",
+        "ਤੁਸੀਂ ਪੈਸਾ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "You will have looked at money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have looked after people",
+        "tusīṁ lōkāṁ dī dēkhabhāla kītī hōvēgī",
+        "ਤੁਸੀਂ ਲੋਕਾਂ ਦੀ ਦੇਖਭਾਲ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "You will have looked after people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "part",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have looked at a woman",
+        "tusīṁ kisē atrata vala vēkhi'ā hōvēgā",
+        "ਤੁਸੀਂ ਕਿਸੇ atਰਤ ਵੱਲ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "You will have looked at a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have looked for work",
+        "tusīṁ kama dī bhāla kītī hōvēgī",
+        "ਤੁਸੀਂ ਕੰਮ ਦੀ ਭਾਲ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "You will have looked for work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "work"
+        }
+    ],
+    [
+        "You will have wanted a book",
+        "tuhānū ika kitāba cāhīdā sī",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਕਿਤਾਬ ਚਾਹੀਦਾ ਸੀ",
+        "You will have wanted a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "say",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have wanted the group",
+        "tusīṁ samūha cāhudē hōvōgē",
+        "ਤੁਸੀਂ ਸਮੂਹ ਚਾਹੁੰਦੇ ਹੋਵੋਗੇ",
+        "You will have wanted the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have wanted a home",
+        "tusīṁ ika ghara cāhudē hōvōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਘਰ ਚਾਹੁੰਦੇ ਹੋਵੋਗੇ",
+        "You will have wanted a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "You will have wanted a job",
+        "tusīṁ naukarī cāhudē hōvōgē",
+        "ਤੁਸੀਂ ਨੌਕਰੀ ਚਾਹੁੰਦੇ ਹੋਵੋਗੇ",
+        "You will have wanted a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have wanted a story",
+        "tusīṁ ika kahāṇī cāhudē hōvōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਕਹਾਣੀ ਚਾਹੁੰਦੇ ਹੋਵੋਗੇ",
+        "You will have wanted a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "part",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have wanted a system",
+        "tusīṁ ika sisaṭama cāhudē hōvōgē",
+        "ਤੁਸੀਂ ਇੱਕ ਸਿਸਟਮ ਚਾਹੁੰਦੇ ਹੋਵੋਗੇ",
+        "You will have wanted a system",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "place",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have wanted a thing",
+        "tuhānū kujha cāhīdā sī",
+        "ਤੁਹਾਨੂੰ ਕੁਝ ਚਾਹੀਦਾ ਸੀ",
+        "You will have wanted a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "point",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have wanted a word",
+        "tuhānū ika śabada cāhīdā sī",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਸ਼ਬਦ ਚਾਹੀਦਾ ਸੀ",
+        "You will have wanted a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have wanted work",
+        "tusīṁ kama cāhudē hōvōgē",
+        "ਤੁਸੀਂ ਕੰਮ ਚਾਹੁੰਦੇ ਹੋਵੋਗੇ",
+        "You will have wanted work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "time"
+        }
+    ],
+    [
+        "You will have to give to your child",
+        "tuhānū āpaṇē bacē nū dēṇā pa'ēgā",
+        "ਤੁਹਾਨੂੰ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਦੇਣਾ ਪਏਗਾ",
+        "You will have to give to your child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "work"
+        }
+    ],
+    [
+        "You will have to give to the country",
+        "Tuhānū dēśa nū dēṇā pa'ēgā",
+        "ਤੁਹਾਨੂੰ ਦੇਸ਼ ਨੂੰ ਦੇਣਾ ਪਏਗਾ",
+        "You will have to give to the country",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have to give it water",
+        "tuhānū isa nū pāṇī dēṇā pa'ēgā",
+        "ਤੁਹਾਨੂੰ ਇਸ ਨੂੰ ਪਾਣੀ ਦੇਣਾ ਪਏਗਾ",
+        "You will have to give it water",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "make",
+            "noun": "point",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have used a hand",
+        "tusīṁ ika hatha varati'ā hōvēgā",
+        "ਤੁਸੀਂ ਇੱਕ ਹੱਥ ਵਰਤਿਆ ਹੋਵੇਗਾ",
+        "You will have used a hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "make",
+            "noun": "system",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have used money",
+        "tusīṁ paisē dī varatōṁ kītī hōvēgī",
+        "ਤੁਸੀਂ ਪੈਸੇ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "You will have used money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "make",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have used a month",
+        "tusīṁ ika mahīnā varati'ā hōvēgā",
+        "ਤੁਸੀਂ ਇੱਕ ਮਹੀਨਾ ਵਰਤਿਆ ਹੋਵੇਗਾ",
+        "You will have used a month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "make",
+            "noun": "time"
+        }
+    ],
+    [
+        "You will have used a place",
+        "tusīṁ jag'hā dī varatōṁ kītī hōvēgī",
+        "ਤੁਸੀਂ ਜਗ੍ਹਾ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "You will have used a place",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "make",
+            "noun": "way"
+        }
+    ],
+    [
+        "You will have used a program",
+        "tusīṁ ika prōgarāma dī varatōṁ kītī hōvēgī",
+        "ਤੁਸੀਂ ਇੱਕ ਪ੍ਰੋਗਰਾਮ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "You will have used a program",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have used a system",
+        "tusīṁ ika sisaṭama dī varatōṁ kītī hōvēgī",
+        "ਤੁਸੀਂ ਇੱਕ ਸਿਸਟਮ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "You will have used a system",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "government",
+            "det": "the"
+        }
+    ],
+    [
+        "You will have used a thing",
+        "tusīṁ ika cīza dī varatōṁ kītī hōvēgī",
+        "ਤੁਸੀਂ ਇੱਕ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "You will have used a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "You will have used water",
+        "tusīṁ pāṇī dī varatōṁ kītī hōvēgī",
+        "ਤੁਸੀਂ ਪਾਣੀ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "You will have used water",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have used a year",
+        "tusīṁ ika sāla varati'ā hōvēgā",
+        "ਤੁਸੀਂ ਇੱਕ ਸਾਲ ਵਰਤਿਆ ਹੋਵੇਗਾ",
+        "You will have used a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "place",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have found a problem",
+        "tuhānū ika samasi'ā milī hōvēgī",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਸਮੱਸਿਆ ਮਿਲੀ ਹੋਵੇਗੀ",
+        "You will have found a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work"
+        }
+    ],
+    [
+        "You will have found a room",
+        "tuhānū ika kamarā milēgā",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਕਮਰਾ ਮਿਲੇਗਾ",
+        "You will have found a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have found a thing",
+        "Tuhānū ika cīza mila ga'ī hōvēgī",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਚੀਜ਼ ਮਿਲ ਗਈ ਹੋਵੇਗੀ",
+        "You will have found a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have found a word",
+        "tuhānū ika śabada mili'ā hōvēgā",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਸ਼ਬਦ ਮਿਲਿਆ ਹੋਵੇਗਾ",
+        "You will have found a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "You will have found work",
+        "tuhānū kama mila jāvēgā",
+        "ਤੁਹਾਨੂੰ ਕੰਮ ਮਿਲ ਜਾਵੇਗਾ",
+        "You will have found work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have told about the government",
+        "tusīṁ sarakāra bārē dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਸਰਕਾਰ ਬਾਰੇ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told about the government",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "part",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have told about the group",
+        "tusīṁ samūha bārē dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਸਮੂਹ ਬਾਰੇ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told about the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "place",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have told a man",
+        "tusīṁ ika ādamī nū dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਇੱਕ ਆਦਮੀ ਨੂੰ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "system",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have told your mother",
+        "tusīṁ āpaṇī māṁ nū dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told your mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have told about people",
+        "tusīṁ lōkāṁ bārē dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਲੋਕਾਂ ਬਾਰੇ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told about people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "time"
+        }
+    ],
+    [
+        "You will have told about a problem",
+        "tusīṁ kisē samasi'ā bārē dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਕਿਸੇ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "way"
+        }
+    ],
+    [
+        "You will have told about school",
+        "tusīṁ sakūla bārē dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਸਕੂਲ ਬਾਰੇ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told about school",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have told about a study",
+        "tusīṁ ika adhi'aina bārē dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਇਕ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told about a study",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "work"
+        }
+    ],
+    [
+        "You will have told about a thing",
+        "tusīṁ kisē cīza bārē dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਕਿਸੇ ਚੀਜ਼ ਬਾਰੇ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told about a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have told a woman",
+        "tusīṁ ika toldrata nū dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਇੱਕ toldਰਤ ਨੂੰ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have told about work",
+        "tusīṁ kama bārē dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਕੰਮ ਬਾਰੇ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told about work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "point",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have told the world",
+        "tusīṁ dunī'āṁ nū dasi'ā hōvēgā",
+        "ਤੁਸੀਂ ਦੁਨੀਆਂ ਨੂੰ ਦੱਸਿਆ ਹੋਵੇਗਾ",
+        "You will have told the world",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "You will have asked your child",
+        "Tusīṁ āpaṇē bacē nū puchi'ā hōvēgā",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਪੁੱਛਿਆ ਹੋਵੇਗਾ",
+        "You will have asked your child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "time"
+        }
+    ],
+    [
+        "You will have asked the group",
+        "tusīṁ samūha nū puchi'ā hōvēgā",
+        "ਤੁਸੀਂ ਸਮੂਹ ਨੂੰ ਪੁੱਛਿਆ ਹੋਵੇਗਾ",
+        "You will have asked the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "year",
+            "det": "a"
+        }
+    ]
+]

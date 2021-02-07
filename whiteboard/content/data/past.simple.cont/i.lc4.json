@@ -1,0 +1,779 @@
+[
+    [
+        "I was being a student",
+        "maiṁ ika vidi'ārathī sī",
+        "ਮੈਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਸੀ",
+        "I was being a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "I was having a business",
+        "mērā vapāra sī",
+        "ਮੇਰਾ ਵਪਾਰ ਸੀ",
+        "I was having a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "I was having a day",
+        "maiṁ ika dina kara rihā sī",
+        "ਮੈਂ ਇੱਕ ਦਿਨ ਕਰ ਰਿਹਾ ਸੀ",
+        "I was having a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "I was having a lot",
+        "mērē kōla bahuta sī",
+        "ਮੇਰੇ ਕੋਲ ਬਹੁਤ ਸੀ",
+        "I was having a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "lot"
+        }
+    ],
+    [
+        "I was having my mother",
+        "mērī māṁ sī",
+        "ਮੇਰੀ ਮਾਂ ਸੀ",
+        "I was having my mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "det": "my"
+        }
+    ],
+    [
+        "I was having a problem",
+        "mainū ika samasi'ā sī",
+        "ਮੈਨੂੰ ਇੱਕ ਸਮੱਸਿਆ ਸੀ",
+        "I was having a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "I was having a question",
+        "mainū ika savāla sī",
+        "ਮੈਨੂੰ ਇੱਕ ਸਵਾਲ ਸੀ",
+        "I was having a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "I was having a story",
+        "mainū ika kahāṇī ā rahī sī",
+        "ਮੈਨੂੰ ਇੱਕ ਕਹਾਣੀ ਆ ਰਹੀ ਸੀ",
+        "I was having a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "I was having a week",
+        "mērē kōla ika hafatā sī",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਹਫ਼ਤਾ ਸੀ",
+        "I was having a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "I was having a year",
+        "mērā ika sāla hō rihā sī",
+        "ਮੇਰਾ ਇਕ ਸਾਲ ਹੋ ਰਿਹਾ ਸੀ",
+        "I was having a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "I was doing a business",
+        "maiṁ ika kārōbāra kara rihā sī",
+        "ਮੈਂ ਇੱਕ ਕਾਰੋਬਾਰ ਕਰ ਰਿਹਾ ਸੀ",
+        "I was doing a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "I was doing a lot",
+        "maiṁ bahuta kujha kara rihā sī",
+        "ਮੈਂ ਬਹੁਤ ਕੁਝ ਕਰ ਰਿਹਾ ਸੀ",
+        "I was doing a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "lot"
+        }
+    ],
+    [
+        "I was telling about life",
+        "maiṁ zidagī bārē dasa rihā sī",
+        "ਮੈਂ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਸੀ",
+        "I was telling about life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "life"
+        }
+    ],
+    [
+        "I was telling a man",
+        "maiṁ ika ādamī nū kahi rihā sī",
+        "ਮੈਂ ਇਕ ਆਦਮੀ ਨੂੰ ਕਹਿ ਰਿਹਾ ਸੀ",
+        "I was telling a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "I was telling my mother",
+        "maiṁ āpaṇī māṁ nū kahi rihā sī",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਕਹਿ ਰਿਹਾ ਸੀ",
+        "I was telling my mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "my"
+        }
+    ],
+    [
+        "I was telling about a problem",
+        "maiṁ ika samasi'ā bārē dasa rihā sī",
+        "ਮੈਂ ਇੱਕ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਸੀ",
+        "I was telling about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "I was telling a story",
+        "maiṁ ika kahāṇī suṇā rihā sī",
+        "ਮੈਂ ਇੱਕ ਕਹਾਣੀ ਸੁਣਾ ਰਿਹਾ ਸੀ",
+        "I was telling a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "I was telling about a study",
+        "maiṁ ika adhi'aina bārē dasa rihā sī",
+        "ਮੈਂ ਇਕ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਸੀ",
+        "I was telling about a study",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a"
+        }
+    ],
+    [
+        "I was telling a woman",
+        "maiṁ ika tellingrata nū kahi rihā sī",
+        "ਮੈਂ ਇਕ tellingਰਤ ਨੂੰ ਕਹਿ ਰਿਹਾ ਸੀ",
+        "I was telling a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "I was asking a man",
+        "maiṁ ika ādamī nū pucha rihā sī",
+        "ਮੈਂ ਇਕ ਆਦਮੀ ਨੂੰ ਪੁੱਛ ਰਿਹਾ ਸੀ",
+        "I was asking a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "I was asking my mother",
+        "maiṁ āpaṇī māṁ nū pucha rihā sī",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਪੁੱਛ ਰਿਹਾ ਸੀ",
+        "I was asking my mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "my"
+        }
+    ],
+    [
+        "I was asking a question",
+        "maiṁ ika praśana pucha rihā sī",
+        "ਮੈਂ ਇੱਕ ਪ੍ਰਸ਼ਨ ਪੁੱਛ ਰਿਹਾ ਸੀ",
+        "I was asking a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "I was asking a student",
+        "maiṁ ika vidi'ārathī nū pucha rihā sī",
+        "ਮੈਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛ ਰਿਹਾ ਸੀ",
+        "I was asking a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "I was asking a woman",
+        "maiṁ ika askingrata nū pucha rihā sī",
+        "ਮੈਂ ਇਕ askingਰਤ ਨੂੰ ਪੁੱਛ ਰਿਹਾ ਸੀ",
+        "I was asking a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "I was trying for a day",
+        "maiṁ ika dina dī kōśiśa kara rihā sī",
+        "ਮੈਂ ਇੱਕ ਦਿਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਸੀ",
+        "I was trying for a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "try",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "I was trying for a month",
+        "maiṁ ika mahīnē la'ī kōśiśa kara rihā sī",
+        "ਮੈਂ ਇੱਕ ਮਹੀਨੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਸੀ",
+        "I was trying for a month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "try",
+            "noun": "month",
+            "det": "a"
+        }
+    ],
+    [
+        "I was trying for a week",
+        "maiṁ ika hafatē la'ī kōśiśa kara rihā sī",
+        "ਮੈਂ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਸੀ",
+        "I was trying for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "try",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "I was trying for a year",
+        "maiṁ ika sāla tōṁ kōśiśa kara rihā sī",
+        "ਮੈਂ ਇਕ ਸਾਲ ਤੋਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਸੀ",
+        "I was trying for a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "try",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "I was leaving a business",
+        "maiṁ ika kārōbāra chaḍa rihā sī",
+        "ਮੈਂ ਇੱਕ ਕਾਰੋਬਾਰ ਛੱਡ ਰਿਹਾ ਸੀ",
+        "I was leaving a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "I was calling my mother",
+        "maiṁ āpaṇī māṁ nū bulā rihā sī",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਬੁਲਾ ਰਿਹਾ ਸੀ",
+        "I was calling my mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "call",
+            "noun": "mother",
+            "det": "my"
+        }
+    ]
+]

@@ -1,0 +1,3946 @@
+[
+    [
+        "I am seeing my mother now",
+        "maiṁ huṇa āpaṇī māṁ nū vēkha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਆਪਣੀ ਮਾਂ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing my mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "people",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am seeing my mother well",
+        "maiṁ āpaṇī māṁ nū cagī tar'hāṁ vēkha rihā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing my mother well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "people",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am seeing people too",
+        "maiṁ lōkāṁ nū vī vēkha rihā hāṁ",
+        "ਮੈਂ ਲੋਕਾਂ ਨੂੰ ਵੀ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing people too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "business",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am seeing a place here",
+        "maiṁ ithē ika jag'hā vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਇੱਕ ਜਗ੍ਹਾ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing a place here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "business",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am seeing a place too",
+        "maiṁ vī ika jag'hā vēkha rihā hāṁ",
+        "ਮੈਂ ਵੀ ਇੱਕ ਜਗ੍ਹਾ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing a place too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am seeing a point here",
+        "maiṁ ithē ika bidū vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਇੱਕ ਬਿੰਦੂ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing a point here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am seeing a point too",
+        "maiṁ ika bidū vī vēkha rihā hāṁ",
+        "ਮੈਂ ਇਕ ਬਿੰਦੂ ਵੀ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing a point too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "family",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am seeing a problem here",
+        "maiṁ ithē ika samasi'ā vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਇੱਕ ਸਮੱਸਿਆ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing a problem here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "family",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am seeing a problem now",
+        "maiṁ huṇa ika samasi'ā vēkha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਸਮੱਸਿਆ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing a problem now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "group",
+            "det": "the",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am seeing a problem well",
+        "maiṁ ika samasi'ā cagī tar'hāṁ vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਸਮੱਸਿਆ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing a problem well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "group",
+            "det": "the",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am seeing a room too",
+        "maiṁ ika kamarā vī vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਕਮਰਾ ਵੀ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "job",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am seeing a student here",
+        "maiṁ ithē ika vidi'ārathī nū vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing a student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "job",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am seeing a student too",
+        "maiṁ vī ika vidi'ārathī nū vēkha rihā hāṁ",
+        "ਮੈਂ ਵੀ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing a student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "money",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am seeing a thing here",
+        "maiṁ ithē ika cīza vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਇਕ ਚੀਜ਼ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing a thing here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "money",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am seeing a thing now",
+        "Maiṁ huṇa ika cīza dēkha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇਕ ਚੀਜ਼ ਦੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am seeing a thing well",
+        "maiṁ ika cīza cagī tar'hāṁ vēkha rihā hāṁ",
+        "ਮੈਂ ਇਕ ਚੀਜ਼ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am seeing a woman too",
+        "maiṁ ika womanrata vī vēkha rihā hāṁ",
+        "ਮੈਂ ਇਕ womanਰਤ ਵੀ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing a woman too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "right",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am seeing the world here",
+        "maiṁ ithē sasāra vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਸੰਸਾਰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing the world here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "right",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am seeing the world now",
+        "maiṁ huṇa dunī'ā vēkha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਦੁਨੀਆ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing the world now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am seeing the world well",
+        "maiṁ dunī'āṁ nū cagī tar'hāṁ vēkha rihā hāṁ",
+        "ਮੈਂ ਦੁਨੀਆਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing the world well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am coming to the country now",
+        "maiṁ huṇa dēśa ā rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਦੇਸ਼ ਆ ਰਿਹਾ ਹਾਂ",
+        "I am coming to the country now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "story",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am coming to the country well",
+        "maiṁ cagī tar'hāṁ dēśa ā rihā hāṁ",
+        "ਮੈਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਦੇਸ਼ ਆ ਰਿਹਾ ਹਾਂ",
+        "I am coming to the country well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "story",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am coming to my family now",
+        "maiṁ huṇa āpaṇē parivāra kōla ā rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਆ ਰਿਹਾ ਹਾਂ",
+        "I am coming to my family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am coming to my family well",
+        "maiṁ āpaṇē parivāra nāla cagī tar'hāṁ ā rihā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨਾਲ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆ ਰਿਹਾ ਹਾਂ",
+        "I am coming to my family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am coming from the group too",
+        "Maiṁ vī garupa vicōṁ ā rihā hāṁ",
+        "ਮੈਂ ਵੀ ਗਰੁੱਪ ਵਿਚੋਂ ਆ ਰਿਹਾ ਹਾਂ",
+        "I am coming from the group too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am coming home here",
+        "maiṁ ithē ghara ā rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਘਰ ਆ ਰਿਹਾ ਹਾਂ",
+        "I am coming home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am coming home too",
+        "maiṁ vī ghara ā rihā hāṁ",
+        "ਮੈਂ ਵੀ ਘਰ ਆ ਰਿਹਾ ਹਾਂ",
+        "I am coming home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "business",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am coming to a job here",
+        "maiṁ ithē ika naukarī tē ā rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਇੱਕ ਨੌਕਰੀ ਤੇ ਆ ਰਿਹਾ ਹਾਂ",
+        "I am coming to a job here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "business",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am coming to a job now",
+        "maiṁ huṇa ika naukarī tē ā rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਨੌਕਰੀ ਤੇ ਆ ਰਿਹਾ ਹਾਂ",
+        "I am coming to a job now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "job",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am coming to a job well",
+        "maiṁ cagī naukarī tē ā rihā hāṁ",
+        "ਮੈਂ ਚੰਗੀ ਨੌਕਰੀ ਤੇ ਆ ਰਿਹਾ ਹਾਂ",
+        "I am coming to a job well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "job",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am coming to my mother too",
+        "maiṁ āpaṇī māṁ kōla vī ā rihā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਮਾਂ ਕੋਲ ਵੀ ਆ ਰਿਹਾ ਹਾਂ",
+        "I am coming to my mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "right",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am coming to a place here",
+        "maiṁ ithē ika jag'hā ā rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਇੱਕ ਜਗ੍ਹਾ ਆ ਰਿਹਾ ਹਾਂ",
+        "I am coming to a place here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "right",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am coming to a place now",
+        "maiṁ huṇa ika jag'hā tē ā rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਜਗ੍ਹਾ ਤੇ ਆ ਰਿਹਾ ਹਾਂ",
+        "I am coming to a place now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am coming to a place well",
+        "maiṁ ika jag'hā cagī tar'hāṁ ā rihā hāṁ",
+        "ਮੈਂ ਇਕ ਜਗ੍ਹਾ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆ ਰਿਹਾ ਹਾਂ",
+        "I am coming to a place well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am coming to a place too",
+        "maiṁ vī ika jag'hā ā rihā hāṁ",
+        "ਮੈਂ ਵੀ ਇੱਕ ਜਗ੍ਹਾ ਆ ਰਿਹਾ ਹਾਂ",
+        "I am coming to a place too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am coming to a room here",
+        "maiṁ ithē ika kamarē vica ā rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਕਮਰੇ ਵਿਚ ਆ ਰਿਹਾ ਹਾਂ",
+        "I am coming to a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am taking water well",
+        "maiṁ pāṇī cagī tar'hāṁ lai rihā hāṁ",
+        "ਮੈਂ ਪਾਣੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲੈ ਰਿਹਾ ਹਾਂ",
+        "I am taking water well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "business",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am taking water too",
+        "maiṁ vī pāṇī lai rihā hāṁ",
+        "ਮੈਂ ਵੀ ਪਾਣੀ ਲੈ ਰਿਹਾ ਹਾਂ",
+        "I am taking water too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "business",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am taking a week here",
+        "maiṁ ithē ika hafatā lai rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਇੱਕ ਹਫ਼ਤਾ ਲੈ ਰਿਹਾ ਹਾਂ",
+        "I am taking a week here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "business",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am taking a week now",
+        "maiṁ huṇa ika haphatā lai rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਹਫਤਾ ਲੈ ਰਿਹਾ ਹਾਂ",
+        "I am taking a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "business",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am seeing a book well",
+        "maiṁ ika kitāba cagī tar'hāṁ vēkha rihā hāṁ",
+        "ਮੈਂ ਇਕ ਕਿਤਾਬ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing a book well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "family",
+            "det": "my",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am seeing a book too",
+        "maiṁ ika kitāba vī vēkha rihā hāṁ",
+        "ਮੈਂ ਇਕ ਕਿਤਾਬ ਵੀ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing a book too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "family",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am seeing my child here",
+        "maiṁ āpaṇē bacē nū ithē vēkha rihā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਇੱਥੇ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing my child here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "family",
+            "det": "my",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am seeing my child now",
+        "Maiṁ huṇa āpaṇē bacē nū vēkha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing my child now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "family",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am seeing my child well",
+        "maiṁ āpaṇē bacē nū cagī tar'hāṁ vēkha rihā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing my child well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "group",
+            "det": "the",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am seeing my child too",
+        "maiṁ āpaṇē bacē nū vī vēkha rihā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੀ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing my child too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "group",
+            "det": "the",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am seeing the country here",
+        "maiṁ ithē dēśa vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਦੇਸ਼ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing the country here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "group",
+            "det": "the",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am seeing the country now",
+        "maiṁ huṇa dēśa nū vēkha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਦੇਸ਼ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing the country now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "group",
+            "det": "the",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am seeing my family well",
+        "maiṁ āpaṇē parivāra nū cagī tar'hāṁ vēkha rihā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing my family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "job",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am seeing my family too",
+        "maiṁ āpaṇē parivāra nū vī vēkha rihā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਵੀ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing my family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "job",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am seeing the group here",
+        "maiṁ ithē samūha vēkha rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਸਮੂਹ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing the group here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "job",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am seeing the group now",
+        "maiṁ huṇa samūha vēkha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਸਮੂਹ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing the group now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "job",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am seeing a home well",
+        "maiṁ ika ghara khūha vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਘਰ ਖੂਹ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing a home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "money",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am seeing a home too",
+        "maiṁ ika ghara vī vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਘਰ ਵੀ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing a home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "money",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am seeing a man here",
+        "maiṁ ithē ika ādamī nū vēkha rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਆਦਮੀ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing a man here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "money",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am seeing a man now",
+        "maiṁ huṇa ika ādamī nū vēkha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇਕ ਆਦਮੀ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing a man now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "money",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am seeing a man well",
+        "maiṁ ika ādamī nū cagī tar'hāṁ vēkha rihā hāṁ",
+        "ਮੈਂ ਇਕ ਆਦਮੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing a man well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "mother",
+            "det": "my",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am seeing a man too",
+        "maiṁ ika ādamī nū vī vēkha rihā hāṁ",
+        "ਮੈਂ ਇਕ ਆਦਮੀ ਨੂੰ ਵੀ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing a man too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "mother",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am seeing money here",
+        "maiṁ ithē paisē vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਪੈਸੇ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing money here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "mother",
+            "det": "my",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am seeing money now",
+        "maiṁ huṇa paisē dēkha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਪੈਸੇ ਦੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing money now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "mother",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am seeing money well",
+        "maiṁ paisē nū cagī tar'hāṁ vēkha rihā hāṁ",
+        "ਮੈਂ ਪੈਸੇ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I am seeing money well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "people",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am wanting a year too",
+        "Maiṁ ika sāla vī cāhudā hāṁ",
+        "ਮੈਂ ਇੱਕ ਸਾਲ ਵੀ ਚਾਹੁੰਦਾ ਹਾਂ",
+        "I am wanting a year too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "people",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am giving them a book here",
+        "maiṁ unhāṁ nū ithē ika kitāba dē rihā hāṁ",
+        "ਮੈਂ ਉਨ੍ਹਾਂ ਨੂੰ ਇਥੇ ਇਕ ਕਿਤਾਬ ਦੇ ਰਿਹਾ ਹਾਂ",
+        "I am giving them a book here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "people",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am giving them a book now",
+        "maiṁ unhāṁ nū huṇa ika kitāba dē rihā hāṁ",
+        "ਮੈਂ ਉਨ੍ਹਾਂ ਨੂੰ ਹੁਣ ਇਕ ਕਿਤਾਬ ਦੇ ਰਿਹਾ ਹਾਂ",
+        "I am giving them a book now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "people",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am giving to the country well",
+        "maiṁ dēśa nū cagī tar'hāṁ dē rihā hāṁ",
+        "ਮੈਂ ਦੇਸ਼ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਦੇ ਰਿਹਾ ਹਾਂ",
+        "I am giving to the country well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "right",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am giving to the country too",
+        "maiṁ dēśa nū vī dē rihā hāṁ",
+        "ਮੈਂ ਦੇਸ਼ ਨੂੰ ਵੀ ਦੇ ਰਿਹਾ ਹਾਂ",
+        "I am giving to the country too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "right",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am giving money here",
+        "maiṁ ithē paisē dē rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਪੈਸੇ ਦੇ ਰਿਹਾ ਹਾਂ",
+        "I am giving money here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "right",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am giving money now",
+        "maiṁ huṇa paisē dē rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਪੈਸੇ ਦੇ ਰਿਹਾ ਹਾਂ",
+        "I am giving money now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "right",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am giving a thing well",
+        "maiṁ ika cīza cagī tar'hāṁ dē rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੀਜ਼ ਚੰਗੀ ਤਰ੍ਹਾਂ ਦੇ ਰਿਹਾ ਹਾਂ",
+        "I am giving a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "story",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am giving a thing too",
+        "maiṁ ika cīza vī dē rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੀਜ਼ ਵੀ ਦੇ ਰਿਹਾ ਹਾਂ",
+        "I am giving a thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "story",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am giving it time here",
+        "maiṁ isa nū ithē samāṁ dē rihā hāṁ",
+        "ਮੈਂ ਇਸ ਨੂੰ ਇਥੇ ਸਮਾਂ ਦੇ ਰਿਹਾ ਹਾਂ",
+        "I am giving it time here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "story",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am giving it time now",
+        "maiṁ isa nū huṇa samāṁ dē rihā hāṁ",
+        "ਮੈਂ ਇਸ ਨੂੰ ਹੁਣ ਸਮਾਂ ਦੇ ਰਿਹਾ ਹਾਂ",
+        "I am giving it time now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "story",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am giving it time well",
+        "maiṁ isa nū cagī tar'hāṁ samāṁ dē rihā hāṁ",
+        "ਮੈਂ ਇਸ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਸਮਾਂ ਦੇ ਰਿਹਾ ਹਾਂ",
+        "I am giving it time well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am giving it time too",
+        "maiṁ isa nū vī samāṁ dē rihā hāṁ",
+        "ਮੈਂ ਇਸ ਨੂੰ ਵੀ ਸਮਾਂ ਦੇ ਰਿਹਾ ਹਾਂ",
+        "I am giving it time too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am giving it water here",
+        "maiṁ isanū ithē pāṇī dē rihā hāṁ",
+        "ਮੈਂ ਇਸਨੂੰ ਇੱਥੇ ਪਾਣੀ ਦੇ ਰਿਹਾ ਹਾਂ",
+        "I am giving it water here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am giving it water now",
+        "maiṁ huṇa isa nū pāṇī dē rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇਸ ਨੂੰ ਪਾਣੀ ਦੇ ਰਿਹਾ ਹਾਂ",
+        "I am giving it water now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "think",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am giving it a year well",
+        "maiṁ isa nū ika sāla dē rihā hāṁ",
+        "ਮੈਂ ਇਸ ਨੂੰ ਇੱਕ ਸਾਲ ਦੇ ਰਿਹਾ ਹਾਂ",
+        "I am giving it a year well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "business",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am giving it a year too",
+        "maiṁ isa nū ika sāla vī dē rihā hāṁ",
+        "ਮੈਂ ਇਸ ਨੂੰ ਇਕ ਸਾਲ ਵੀ ਦੇ ਰਿਹਾ ਹਾਂ",
+        "I am giving it a year too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "business",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am using a book here",
+        "maiṁ ithē ika kitāba dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਕਿਤਾਬ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am using a book here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "business",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am using a book now",
+        "maiṁ huṇa ika kitāba varata rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਕਿਤਾਬ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a book now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "business",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am using a hand well",
+        "maiṁ ika hatha cagī tar'hāṁ varata rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਹੱਥ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a hand well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "family",
+            "det": "my",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am using a hand too",
+        "maiṁ ika hatha vī varata rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਹੱਥ ਵੀ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a hand too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "family",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am using money here",
+        "maiṁ ithē paisē dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਪੈਸੇ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am using money here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "family",
+            "det": "my",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am using money now",
+        "maiṁ huṇa paisē dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਪੈਸੇ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am using money now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "family",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am using a month well",
+        "maiṁ ika mahīnā cagī tar'hāṁ varata rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਮਹੀਨਾ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a month well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "money",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am using a month too",
+        "maiṁ ika mahīnā vī varata rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਮਹੀਨਾ ਵੀ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a month too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "money",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am using a place here",
+        "maiṁ ithē ika jag'hā dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇੱਕ ਜਗ੍ਹਾ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am using a place here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "money",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am using a place now",
+        "maiṁ huṇa ika jag'hā varata rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਜਗ੍ਹਾ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a place now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "money",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am using a place well",
+        "maiṁ jag'hā cagī tar'hāṁ varata rihā hāṁ",
+        "ਮੈਂ ਜਗ੍ਹਾ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a place well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "mother",
+            "det": "my",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am using a place too",
+        "maiṁ ika jag'hā vī varata rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਜਗ੍ਹਾ ਵੀ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a place too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "mother",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am using a program here",
+        "maiṁ ithē ika prōgarāma dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਇੱਕ ਪ੍ਰੋਗਰਾਮ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am using a program here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "mother",
+            "det": "my",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am using a program now",
+        "maiṁ huṇa ika prōgarāma varata rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਪ੍ਰੋਗਰਾਮ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a program now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "mother",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am using a program well",
+        "maiṁ ika prōgarāma cagī tar'hāṁ varata rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਪ੍ਰੋਗਰਾਮ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a program well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "people",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am using a program too",
+        "Maiṁ ika prōgarāma vī varata rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਪ੍ਰੋਗਰਾਮ ਵੀ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a program too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "people",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am using a room here",
+        "maiṁ ithē ika kamarā varata rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇੱਕ ਕਮਰਾ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "people",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am using a room now",
+        "maiṁ huṇa ika kamarā varata rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਕਮਰਾ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "people",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am using a story well",
+        "maiṁ ika kahāṇī cagī tar'hāṁ varata rihā hāṁ",
+        "ਮੈਂ ਇਕ ਕਹਾਣੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a story well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "woman",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am using a story too",
+        "maiṁ ika kahāṇī vī varata rihā hāṁ",
+        "ਮੈਂ ਇਕ ਕਹਾਣੀ ਵੀ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a story too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "woman",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am using a system here",
+        "maiṁ ithē ika sisaṭama dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਇੱਕ ਸਿਸਟਮ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am using a system here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "woman",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am using a system now",
+        "maiṁ huṇa ika sisaṭama varata rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਸਿਸਟਮ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a system now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "woman",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am using a system well",
+        "maiṁ ika sisaṭama dī cagī tar'hāṁ varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਸਿਸਟਮ ਦੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am using a system well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am using a system too",
+        "maiṁ ika sisaṭama vī varata rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਸਿਸਟਮ ਵੀ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a system too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am using a thing here",
+        "maiṁ ithē ika cīza dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇਕ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am using a thing here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am using a thing now",
+        "maiṁ huṇa ika cīza varata rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਚੀਜ਼ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "look",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am using water well",
+        "maiṁ pāṇī dī cagī tar'hāṁ varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਪਾਣੀ ਦੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am using water well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "day",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am using water too",
+        "maiṁ vī pāṇī dī varatōṁ kara rihā hāṁ",
+        "ਮੈਂ ਵੀ ਪਾਣੀ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹਾਂ",
+        "I am using water too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "day",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am using a week here",
+        "maiṁ ithē ika hafatā varata rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇੱਕ ਹਫ਼ਤਾ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a week here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "day",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am using a week now",
+        "maiṁ huṇa ika hafatā varata rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਹਫ਼ਤਾ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "day",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am using a week well",
+        "maiṁ ika haphatā cagī tar'hāṁ varata rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਹਫਤਾ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a week well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "family",
+            "det": "my",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am using a week too",
+        "maiṁ ika haphatā vī varata rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਹਫਤਾ ਵੀ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "family",
+            "det": "my",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am using a word here",
+        "maiṁ ithē ika śabada varata rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇੱਕ ਸ਼ਬਦ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a word here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "family",
+            "det": "my",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am using a word now",
+        "Maiṁ huṇa ika śabada varata rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਸ਼ਬਦ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a word now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "family",
+            "det": "my",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am using a word well",
+        "maiṁ ika śabada cagī tar'hāṁ varata rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਸ਼ਬਦ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a word well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "group",
+            "det": "the",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am using a word too",
+        "maiṁ ika śabada vī varata rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਸ਼ਬਦ ਵੀ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a word too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "group",
+            "det": "the",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am using a year here",
+        "maiṁ ithē ika sāla varata rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇੱਕ ਸਾਲ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a year here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "group",
+            "det": "the",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am using a year now",
+        "maiṁ huṇa ika sāla varata rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇਕ ਸਾਲ ਵਰਤ ਰਿਹਾ ਹਾਂ",
+        "I am using a year now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "group",
+            "det": "the",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am finding a book well",
+        "maiṁ ika kitāba cagī tar'hāṁ labha rihā hāṁ",
+        "ਮੈਂ ਇਕ ਕਿਤਾਬ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding a book well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "job",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am finding a book too",
+        "mainū ika kitāba vī mila rahī hai",
+        "ਮੈਨੂੰ ਇੱਕ ਕਿਤਾਬ ਵੀ ਮਿਲ ਰਹੀ ਹੈ",
+        "I am finding a book too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "job",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am finding the group here",
+        "maiṁ ithē samūha labha rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਸਮੂਹ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding the group here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "job",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am finding the group now",
+        "maiṁ huṇa samūha labha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਸਮੂਹ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding the group now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "job",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am finding the group well",
+        "maiṁ samūha nū cagī tar'hāṁ labha rihā hāṁ",
+        "ਮੈਂ ਸਮੂਹ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding the group well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "money",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am finding the group too",
+        "maiṁ samūha vī labha rihā hāṁ",
+        "ਮੈਂ ਸਮੂਹ ਵੀ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding the group too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "money",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am finding a home here",
+        "maiṁ ithē ika ghara labha rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਇੱਕ ਘਰ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding a home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "money",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am finding a home now",
+        "maiṁ huṇa ika ghara labha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਘਰ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding a home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "money",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am finding a job well",
+        "mainū naukarī cagī tar'hāṁ mila rahī hai",
+        "ਮੈਨੂੰ ਨੌਕਰੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਮਿਲ ਰਹੀ ਹੈ",
+        "I am finding a job well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am finding a job too",
+        "mainū vī naukarī mila rahī hai",
+        "ਮੈਨੂੰ ਵੀ ਨੌਕਰੀ ਮਿਲ ਰਹੀ ਹੈ",
+        "I am finding a job too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am finding money here",
+        "maiṁ ithē paisē labha rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਪੈਸੇ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding money here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am finding money now",
+        "mainū huṇa paisē mila rahē hana",
+        "ਮੈਨੂੰ ਹੁਣ ਪੈਸੇ ਮਿਲ ਰਹੇ ਹਨ",
+        "I am finding money now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am finding money well",
+        "mainū paisē cagī tar'hāṁ mila rahē hana",
+        "ਮੈਨੂੰ ਪੈਸੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਮਿਲ ਰਹੇ ਹਨ",
+        "I am finding money well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "story",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am finding money too",
+        "mainū vī paisē mila rahē hana",
+        "ਮੈਨੂੰ ਵੀ ਪੈਸੇ ਮਿਲ ਰਹੇ ਹਨ",
+        "I am finding money too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "story",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am finding a place here",
+        "maiṁ ithē ika jag'hā labha rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇੱਕ ਜਗ੍ਹਾ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding a place here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "story",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am finding a place now",
+        "maiṁ huṇa ika jag'hā labha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ ਜਗ੍ਹਾ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding a place now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "story",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am finding a problem well",
+        "mainū ika samasi'ā cagī tar'hāṁ mila rahī hai",
+        "ਮੈਨੂੰ ਇੱਕ ਸਮੱਸਿਆ ਚੰਗੀ ਤਰ੍ਹਾਂ ਮਿਲ ਰਹੀ ਹੈ",
+        "I am finding a problem well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am finding a problem too",
+        "mainū vī ika samasi'ā hō rahī hai",
+        "ਮੈਨੂੰ ਵੀ ਇੱਕ ਸਮੱਸਿਆ ਹੋ ਰਹੀ ਹੈ",
+        "I am finding a problem too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am finding a room here",
+        "maiṁ ithē ika kamarā labha rihā hāṁ",
+        "ਮੈਂ ਇਥੇ ਇੱਕ ਕਮਰਾ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am finding a room now",
+        "mainū huṇa ika kamarā mila rihā hai",
+        "ਮੈਨੂੰ ਹੁਣ ਇੱਕ ਕਮਰਾ ਮਿਲ ਰਿਹਾ ਹੈ",
+        "I am finding a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am finding a way well",
+        "maiṁ ika rasatā cagī tar'hāṁ labha rihā hāṁ",
+        "ਮੈਂ ਇਕ ਰਸਤਾ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding a way well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am finding a way too",
+        "maiṁ vī ika rasatā labha rihā hāṁ",
+        "ਮੈਂ ਵੀ ਇੱਕ ਰਸਤਾ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding a way too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am finding a woman here",
+        "maiṁ ithē ika findingrata labha rihā hāṁ",
+        "ਮੈਂ ਇੱਥੇ ਇੱਕ findingਰਤ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding a woman here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am finding a woman now",
+        "maiṁ huṇa ika findingrata labha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇੱਕ findingਰਤ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+        "I am finding a woman now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "want",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am having a day too",
+        "mērē kōla ika dina vī hai",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਦਿਨ ਵੀ ਹੈ",
+        "I am having a day too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "give",
+            "noun": "money",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am having an eye now",
+        "maiṁ huṇa ika akha lai rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਇਕ ਅੱਖ ਲੈ ਰਿਹਾ ਹਾਂ",
+        "I am having an eye now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "give",
+            "noun": "money",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am having an eye too",
+        "mērī vī akha laga rahī hai",
+        "ਮੇਰੀ ਵੀ ਅੱਖ ਲੱਗ ਰਹੀ ਹੈ",
+        "I am having an eye too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "give",
+            "noun": "money",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am having my family now",
+        "maiṁ huṇa āpaṇā parivāra rakha rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਆਪਣਾ ਪਰਿਵਾਰ ਰੱਖ ਰਿਹਾ ਹਾਂ",
+        "I am having my family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "give",
+            "noun": "money",
+            "adv": "too"
+        }
+    ],
+    [
+        "I am having my family too",
+        "maiṁ āpaṇā parivāra vī rakha rihā hāṁ",
+        "ਮੈਂ ਆਪਣਾ ਪਰਿਵਾਰ ਵੀ ਰੱਖ ਰਿਹਾ ਹਾਂ",
+        "I am having my family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "give",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "I am having the group now",
+        "maiṁ huṇa samūha baṇā rihā hāṁ",
+        "ਮੈਂ ਹੁਣ ਸਮੂਹ ਬਣਾ ਰਿਹਾ ਹਾਂ",
+        "I am having the group now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "give",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "I am having the group too",
+        "maiṁ samūha vī karavā rihā hāṁ",
+        "ਮੈਂ ਸਮੂਹ ਵੀ ਕਰਵਾ ਰਿਹਾ ਹਾਂ",
+        "I am having the group too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "give",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "I am having a hand now",
+        "mērā huṇa ika hatha hai",
+        "ਮੇਰਾ ਹੁਣ ਇੱਕ ਹੱਥ ਹੈ",
+        "I am having a hand now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "give",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ]
+]

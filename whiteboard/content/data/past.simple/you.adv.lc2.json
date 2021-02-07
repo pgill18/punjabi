@@ -1,0 +1,5169 @@
+[
+    [
+        "You thought about a question now",
+        "tusīṁ huṇa ika praśana bārē sōci'ā hai",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਪ੍ਰਸ਼ਨ ਬਾਰੇ ਸੋਚਿਆ ਹੈ",
+        "You thought about a question now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "business",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You thought about a question well",
+        "tusīṁ ika praśana bārē cagī tar'hāṁ sōci'ā",
+        "ਤੁਸੀਂ ਇਕ ਪ੍ਰਸ਼ਨ ਬਾਰੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਸੋਚਿਆ",
+        "You thought about a question well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "business",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You thought right now",
+        "tusīṁ huṇē sōci'ā",
+        "ਤੁਸੀਂ ਹੁਣੇ ਸੋਚਿਆ",
+        "You thought right now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You thought right well",
+        "tusīṁ ṭhīka sōci'ā",
+        "ਤੁਸੀਂ ਠੀਕ ਸੋਚਿਆ",
+        "You thought right well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You thought about school too",
+        "tusīṁ sakūla bārē vī sōci'ā",
+        "ਤੁਸੀਂ ਸਕੂਲ ਬਾਰੇ ਵੀ ਸੋਚਿਆ",
+        "You thought about school too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "group",
+            "det": "the",
+            "adv": "now"
+        }
+    ],
+    [
+        "You thought about a story here",
+        "tusīṁ ithē ika kahāṇī bārē sōci'ā",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇੱਕ ਕਹਾਣੀ ਬਾਰੇ ਸੋਚਿਆ",
+        "You thought about a story here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "group",
+            "det": "the",
+            "adv": "too"
+        }
+    ],
+    [
+        "You thought about work now",
+        "tusīṁ huṇa kama bārē sōci'ā",
+        "ਤੁਸੀਂ ਹੁਣ ਕੰਮ ਬਾਰੇ ਸੋਚਿਆ",
+        "You thought about work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "job",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You thought about work well",
+        "tusīṁ kama bārē vadhī'ā sōci'ā",
+        "ਤੁਸੀਂ ਕੰਮ ਬਾਰੇ ਵਧੀਆ ਸੋਚਿਆ",
+        "You thought about work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "job",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You looked at a book now",
+        "tusīṁ huṇa ika kitāba vala vēkhi'ā",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਕਿਤਾਬ ਵੱਲ ਵੇਖਿਆ",
+        "You looked at a book now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "place",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You looked at a book well",
+        "tusīṁ ika kitāba nū cagī tar'hāṁ vēkhi'ā",
+        "ਤੁਸੀਂ ਇਕ ਕਿਤਾਬ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਿਆ",
+        "You looked at a book well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "place",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You looked at a book too",
+        "tusīṁ ika kitāba vala vī vēkhi'ā",
+        "ਤੁਸੀਂ ਇੱਕ ਕਿਤਾਬ ਵੱਲ ਵੀ ਵੇਖਿਆ",
+        "You looked at a book too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "point",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You looked after a business here",
+        "tusīṁ ithē ika kārōbāra dī dēkhabhāla kītī",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇੱਕ ਕਾਰੋਬਾਰ ਦੀ ਦੇਖਭਾਲ ਕੀਤੀ",
+        "You looked after a business here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "point",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You looked at a man now",
+        "tusīṁ huṇa ika ādamī vala dēkhi'ā",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਆਦਮੀ ਵੱਲ ਦੇਖਿਆ",
+        "You looked at a man now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "system",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You looked at a man well",
+        "tusīṁ ika ādamī vala cagī tar'hāṁ vēkhi'ā",
+        "ਤੁਸੀਂ ਇਕ ਆਦਮੀ ਵੱਲ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਿਆ",
+        "You looked at a man well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "system",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You looked at a man too",
+        "tusīṁ vī ika ādamī vala vēkhi'ā",
+        "ਤੁਸੀਂ ਵੀ ਇੱਕ ਆਦਮੀ ਵੱਲ ਵੇਖਿਆ",
+        "You looked at a man too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You looked at money here",
+        "tusīṁ paisē nū ithē vēkhi'ā",
+        "ਤੁਸੀਂ ਪੈਸੇ ਨੂੰ ਇੱਥੇ ਵੇਖਿਆ",
+        "You looked at money here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You looked at money now",
+        "tusīṁ huṇa paisē vala vēkhi'ā",
+        "ਤੁਸੀਂ ਹੁਣ ਪੈਸੇ ਵੱਲ ਵੇਖਿਆ",
+        "You looked at money now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "time",
+            "adv": "now"
+        }
+    ],
+    [
+        "You looked at money well",
+        "tusīṁ paisē nū cagī tar'hāṁ vēkhi'ā",
+        "ਤੁਸੀਂ ਪੈਸੇ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਿਆ",
+        "You looked at money well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "time",
+            "adv": "too"
+        }
+    ],
+    [
+        "You looked after your mother now",
+        "tusīṁ huṇa āpaṇī māṁ dī dēkhabhāla kītī",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੀ ਮਾਂ ਦੀ ਦੇਖਭਾਲ ਕੀਤੀ",
+        "You looked after your mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "way",
+            "adv": "now"
+        }
+    ],
+    [
+        "You looked after your mother well",
+        "tusīṁ āpaṇī māṁ dī cagī tar'hāṁ dēkha-bhāla kītī",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਦੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਦੇਖ-ਭਾਲ ਕੀਤੀ",
+        "You looked after your mother well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "way",
+            "adv": "too"
+        }
+    ],
+    [
+        "You looked after people now",
+        "Tusīṁ huṇa lōkāṁ dī dēkhabhāla kītī",
+        "ਤੁਸੀਂ ਹੁਣ ਲੋਕਾਂ ਦੀ ਦੇਖਭਾਲ ਕੀਤੀ",
+        "You looked after people now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "You looked after people well",
+        "tusīṁ lōkāṁ dī cagī tar'hāṁ dēkhabhāla kītī",
+        "ਤੁਸੀਂ ਲੋਕਾਂ ਦੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਦੇਖਭਾਲ ਕੀਤੀ",
+        "You looked after people well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "You looked after people too",
+        "tusīṁ lōkāṁ dī vī dēkhabhāla kītī",
+        "ਤੁਸੀਂ ਲੋਕਾਂ ਦੀ ਵੀ ਦੇਖਭਾਲ ਕੀਤੀ",
+        "You looked after people too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "year",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You looked at a problem here",
+        "tusīṁ ithē ika samasi'ā vēkhī",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇੱਕ ਸਮੱਸਿਆ ਵੇਖੀ",
+        "You looked at a problem here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "year",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You looked at a problem now",
+        "tusīṁ huṇa ika samasi'ā vala dēkhi'ā",
+        "ਤੁਸੀਂ ਹੁਣ ਇੱਕ ਸਮੱਸਿਆ ਵੱਲ ਦੇਖਿਆ",
+        "You looked at a problem now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "business",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You looked at a problem well",
+        "tusīṁ ika samasi'ā nū cagī tar'hāṁ vēkhi'ā",
+        "ਤੁਸੀਂ ਇੱਕ ਸਮੱਸਿਆ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਿਆ",
+        "You looked at a problem well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "business",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You looked at a problem too",
+        "tusīṁ ika samasi'ā vala vī vēkhi'ā",
+        "ਤੁਸੀਂ ਇੱਕ ਸਮੱਸਿਆ ਵੱਲ ਵੀ ਵੇਖਿਆ",
+        "You looked at a problem too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "job",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You looked at a woman here",
+        "tusīṁ ithē ika atrata vala vēkhi'ā",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇਕ atਰਤ ਵੱਲ ਵੇਖਿਆ",
+        "You looked at a woman here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "job",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You looked at a woman too",
+        "tusīṁ ika womanrata vala vī vēkhi'ā",
+        "ਤੁਸੀਂ ਇੱਕ womanਰਤ ਵੱਲ ਵੀ ਵੇਖਿਆ",
+        "You looked at a woman too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "part",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You looked for work here",
+        "tusīṁ ithē kama dī bhāla kītī",
+        "ਤੁਸੀਂ ਇੱਥੇ ਕੰਮ ਦੀ ਭਾਲ ਕੀਤੀ",
+        "You looked for work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "part",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You looked for work too",
+        "tusīṁ kama dī bhāla vī kītī",
+        "ਤੁਸੀਂ ਕੰਮ ਦੀ ਭਾਲ ਵੀ ਕੀਤੀ",
+        "You looked for work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You looked at the world here",
+        "tusīṁ ithē sasāra nū vēkhi'ā",
+        "ਤੁਸੀਂ ਇੱਥੇ ਸੰਸਾਰ ਨੂੰ ਵੇਖਿਆ",
+        "You looked at the world here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You looked at the world now",
+        "tusīṁ huṇa dunī'ā vala vēkhi'ā",
+        "ਤੁਸੀਂ ਹੁਣ ਦੁਨੀਆ ਵੱਲ ਵੇਖਿਆ",
+        "You looked at the world now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "You looked at the world well",
+        "tusīṁ dunī'āṁ nū cagī tarāṁ vēkhi'ā",
+        "ਤੁਸੀਂ ਦੁਨੀਆਂ ਨੂੰ ਚੰਗੀ ਤਰਾਂ ਵੇਖਿਆ",
+        "You looked at the world well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "You wanted a book well",
+        "tuhānū ika kitāba cagī cāhīdī sī",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਕਿਤਾਬ ਚੰਗੀ ਚਾਹੀਦੀ ਸੀ",
+        "You wanted a book well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "say",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You wanted a book too",
+        "tusīṁ ika kitāba vī cāhudē sī",
+        "ਤੁਸੀਂ ਇੱਕ ਕਿਤਾਬ ਵੀ ਚਾਹੁੰਦੇ ਸੀ",
+        "You wanted a book too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "say",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You wanted a day here",
+        "tusīṁ ithē ika dina cāhudē sī",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇੱਕ ਦਿਨ ਚਾਹੁੰਦੇ ਸੀ",
+        "You wanted a day here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "say",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You wanted the group here",
+        "tusīṁ samūha ithē cāhudē sī",
+        "ਤੁਸੀਂ ਸਮੂਹ ਇੱਥੇ ਚਾਹੁੰਦੇ ਸੀ",
+        "You wanted the group here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "day",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You wanted the group now",
+        "tusīṁ huṇa samūha cāhudē sī",
+        "ਤੁਸੀਂ ਹੁਣ ਸਮੂਹ ਚਾਹੁੰਦੇ ਸੀ",
+        "You wanted the group now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "day",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You wanted the group well",
+        "tusīṁ samūha nū cagī tar'hāṁ cāhudē sī",
+        "ਤੁਸੀਂ ਸਮੂਹ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਚਾਹੁੰਦੇ ਸੀ",
+        "You wanted the group well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "day",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You wanted the group too",
+        "tusīṁ samūha vī cāhudē sī",
+        "ਤੁਸੀਂ ਸਮੂਹ ਵੀ ਚਾਹੁੰਦੇ ਸੀ",
+        "You wanted the group too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "day",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You wanted a home here",
+        "tusīṁ ithē ika ghara cāhudē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇੱਕ ਘਰ ਚਾਹੁੰਦੇ ਹੋ",
+        "You wanted a home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "group",
+            "det": "the",
+            "adv": "here"
+        }
+    ],
+    [
+        "You wanted a home now",
+        "tuhānū huṇa ika ghara cāhīdā sī",
+        "ਤੁਹਾਨੂੰ ਹੁਣ ਇੱਕ ਘਰ ਚਾਹੀਦਾ ਸੀ",
+        "You wanted a home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "group",
+            "det": "the",
+            "adv": "now"
+        }
+    ],
+    [
+        "You wanted a home well",
+        "tusīṁ ika ghara cagī tar'hāṁ cāhudē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਘਰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਚਾਹੁੰਦੇ ਹੋ",
+        "You wanted a home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "group",
+            "det": "the",
+            "adv": "well"
+        }
+    ],
+    [
+        "You wanted a home too",
+        "tuhānū vī ika ghara cāhīdā sī",
+        "ਤੁਹਾਨੂੰ ਵੀ ਇੱਕ ਘਰ ਚਾਹੀਦਾ ਸੀ",
+        "You wanted a home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "group",
+            "det": "the",
+            "adv": "too"
+        }
+    ],
+    [
+        "You wanted a job here",
+        "tuhānū ithē naukarī cāhīdī sī",
+        "ਤੁਹਾਨੂੰ ਇੱਥੇ ਨੌਕਰੀ ਚਾਹੀਦੀ ਸੀ",
+        "You wanted a job here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "job",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You wanted a job now",
+        "tuhānū huṇa naukarī cāhīdī sī",
+        "ਤੁਹਾਨੂੰ ਹੁਣ ਨੌਕਰੀ ਚਾਹੀਦੀ ਸੀ",
+        "You wanted a job now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "job",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You wanted a job well",
+        "tuhānū cagī naukarī cāhīdī sī",
+        "ਤੁਹਾਨੂੰ ਚੰਗੀ ਨੌਕਰੀ ਚਾਹੀਦੀ ਸੀ",
+        "You wanted a job well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "job",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You wanted a job too",
+        "tusīṁ vī ika naukarī cāhudē sī",
+        "ਤੁਸੀਂ ਵੀ ਇੱਕ ਨੌਕਰੀ ਚਾਹੁੰਦੇ ਸੀ",
+        "You wanted a job too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "job",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You wanted a story here",
+        "tusīṁ ithē ika kahāṇī cāhudē sī",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇੱਕ ਕਹਾਣੀ ਚਾਹੁੰਦੇ ਸੀ",
+        "You wanted a story here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "part",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You wanted a story now",
+        "tusīṁ huṇa ika kahāṇī cāhudē sī",
+        "ਤੁਸੀਂ ਹੁਣ ਇੱਕ ਕਹਾਣੀ ਚਾਹੁੰਦੇ ਸੀ",
+        "You wanted a story now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "part",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You wanted a story well",
+        "tusīṁ cagī tar'hāṁ kahāṇī cāhudē hō",
+        "ਤੁਸੀਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਹਾਣੀ ਚਾਹੁੰਦੇ ਹੋ",
+        "You wanted a story well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "part",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You wanted a story too",
+        "tusīṁ ika kahāṇī vī cāhudē sī",
+        "ਤੁਸੀਂ ਇੱਕ ਕਹਾਣੀ ਵੀ ਚਾਹੁੰਦੇ ਸੀ",
+        "You wanted a story too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "part",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You wanted a system here",
+        "tusīṁ ithē ika sisaṭama cāhudē sī",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇੱਕ ਸਿਸਟਮ ਚਾਹੁੰਦੇ ਸੀ",
+        "You wanted a system here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "place",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You wanted a system now",
+        "Tusīṁ huṇa sisaṭama cāhudē sī",
+        "ਤੁਸੀਂ ਹੁਣ ਸਿਸਟਮ ਚਾਹੁੰਦੇ ਸੀ",
+        "You wanted a system now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "place",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You wanted a system well",
+        "tusīṁ ika sisaṭama cagī tar'hāṁ cāhudē sī",
+        "ਤੁਸੀਂ ਇੱਕ ਸਿਸਟਮ ਚੰਗੀ ਤਰ੍ਹਾਂ ਚਾਹੁੰਦੇ ਸੀ",
+        "You wanted a system well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "place",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You wanted a system too",
+        "tusīṁ vī ika sisaṭama cāhudē sī",
+        "ਤੁਸੀਂ ਵੀ ਇੱਕ ਸਿਸਟਮ ਚਾਹੁੰਦੇ ਸੀ",
+        "You wanted a system too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "place",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You wanted a thing here",
+        "tusīṁ ithē kujha cāhudē sī",
+        "ਤੁਸੀਂ ਇੱਥੇ ਕੁਝ ਚਾਹੁੰਦੇ ਸੀ",
+        "You wanted a thing here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "point",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You wanted a thing now",
+        "tuhānū huṇa kujha cāhīdā sī",
+        "ਤੁਹਾਨੂੰ ਹੁਣ ਕੁਝ ਚਾਹੀਦਾ ਸੀ",
+        "You wanted a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "point",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You wanted a thing well",
+        "tusīṁ cagī cīza cāhudē sī",
+        "ਤੁਸੀਂ ਚੰਗੀ ਚੀਜ਼ ਚਾਹੁੰਦੇ ਸੀ",
+        "You wanted a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "point",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You wanted a thing too",
+        "tusīṁ vī ika cīza cāhudē sī",
+        "ਤੁਸੀਂ ਵੀ ਇੱਕ ਚੀਜ਼ ਚਾਹੁੰਦੇ ਸੀ",
+        "You wanted a thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "point",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You wanted a word here",
+        "tusīṁ ithē ika śabada cāhudē sī",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇੱਕ ਸ਼ਬਦ ਚਾਹੁੰਦੇ ਸੀ",
+        "You wanted a word here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You wanted a word now",
+        "tuhānū huṇa ika śabada cāhīdā sī",
+        "ਤੁਹਾਨੂੰ ਹੁਣ ਇੱਕ ਸ਼ਬਦ ਚਾਹੀਦਾ ਸੀ",
+        "You wanted a word now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You wanted a word well",
+        "tusīṁ ika śabada cagī tar'hāṁ cāhudē sī",
+        "ਤੁਸੀਂ ਇੱਕ ਸ਼ਬਦ ਚੰਗੀ ਤਰ੍ਹਾਂ ਚਾਹੁੰਦੇ ਸੀ",
+        "You wanted a word well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You wanted a word too",
+        "tuhānū vī ika śabada cāhīdā sī",
+        "ਤੁਹਾਨੂੰ ਵੀ ਇੱਕ ਸ਼ਬਦ ਚਾਹੀਦਾ ਸੀ",
+        "You wanted a word too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You wanted work here",
+        "tusīṁ ithē kama cāhudē sī",
+        "ਤੁਸੀਂ ਇਥੇ ਕੰਮ ਚਾਹੁੰਦੇ ਸੀ",
+        "You wanted work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "time",
+            "adv": "here"
+        }
+    ],
+    [
+        "You wanted work now",
+        "tusīṁ huṇa kama cāhudē sī",
+        "ਤੁਸੀਂ ਹੁਣ ਕੰਮ ਚਾਹੁੰਦੇ ਸੀ",
+        "You wanted work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "time",
+            "adv": "now"
+        }
+    ],
+    [
+        "You wanted work well",
+        "tusīṁ kama karanā cāhudē sī",
+        "ਤੁਸੀਂ ਕੰਮ ਕਰਨਾ ਚਾਹੁੰਦੇ ਸੀ",
+        "You wanted work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "time",
+            "adv": "well"
+        }
+    ],
+    [
+        "You wanted work too",
+        "tusīṁ kama vī cāhudē sī",
+        "ਤੁਸੀਂ ਕੰਮ ਵੀ ਚਾਹੁੰਦੇ ਸੀ",
+        "You wanted work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "time",
+            "adv": "too"
+        }
+    ],
+    [
+        "You gave to your child here",
+        "tusīṁ āpaṇē bacē nū ithē ditā",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਇਥੇ ਦਿੱਤਾ",
+        "You gave to your child here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "You gave to your child now",
+        "tusīṁ huṇa āpaṇē bacē nū dē ditā",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਦੇ ਦਿੱਤਾ",
+        "You gave to your child now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "You gave to your child well",
+        "tusīṁ āpaṇē bacē nū cagī tar'hāṁ ditā",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਦਿੱਤਾ",
+        "You gave to your child well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "You gave to your child too",
+        "tusīṁ āpaṇē bacē nū vī dē ditā",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੀ ਦੇ ਦਿੱਤਾ",
+        "You gave to your child too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "You gave to the country here",
+        "tusīṁ dēśa nū ithē dē ditā",
+        "ਤੁਸੀਂ ਦੇਸ਼ ਨੂੰ ਇਥੇ ਦੇ ਦਿੱਤਾ",
+        "You gave to the country here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "year",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You gave to the country now",
+        "tusīṁ huṇa dēśa nū dē ditā",
+        "ਤੁਸੀਂ ਹੁਣ ਦੇਸ਼ ਨੂੰ ਦੇ ਦਿੱਤਾ",
+        "You gave to the country now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "year",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You gave to the country well",
+        "tusīṁ dēśa nū cagī tar'hāṁ ditā",
+        "ਤੁਸੀਂ ਦੇਸ਼ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਦਿੱਤਾ",
+        "You gave to the country well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "year",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You gave to the country too",
+        "tusīṁ dēśa nū vī ditā sī",
+        "ਤੁਸੀਂ ਦੇਸ਼ ਨੂੰ ਵੀ ਦਿੱਤਾ ਸੀ",
+        "You gave to the country too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "get",
+            "noun": "year",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You gave it water here",
+        "tusīṁ isa nū ithē pāṇī ditā",
+        "ਤੁਸੀਂ ਇਸ ਨੂੰ ਇਥੇ ਪਾਣੀ ਦਿੱਤਾ",
+        "You gave it water here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "make",
+            "noun": "point",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You gave it water now",
+        "tusīṁ huṇa isa nū pāṇī ditā",
+        "ਤੁਸੀਂ ਹੁਣ ਇਸ ਨੂੰ ਪਾਣੀ ਦਿੱਤਾ",
+        "You gave it water now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "make",
+            "noun": "point",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You gave it water well",
+        "tusīṁ isa nū cagī tar'hāṁ pāṇī ditā",
+        "ਤੁਸੀਂ ਇਸ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਪਾਣੀ ਦਿੱਤਾ",
+        "You gave it water well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "make",
+            "noun": "point",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You gave it water too",
+        "tusīṁ isa nū pāṇī vī ditā",
+        "ਤੁਸੀਂ ਇਸ ਨੂੰ ਪਾਣੀ ਵੀ ਦਿੱਤਾ",
+        "You gave it water too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "make",
+            "noun": "point",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You used a hand here",
+        "tusīṁ ithē ika hatha varati'ā",
+        "ਤੁਸੀਂ ਇਥੇ ਇਕ ਹੱਥ ਵਰਤਿਆ",
+        "You used a hand here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "make",
+            "noun": "system",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You used a hand now",
+        "tusīṁ huṇa ika hatha varati'ā",
+        "ਤੁਸੀਂ ਹੁਣ ਇੱਕ ਹੱਥ ਵਰਤਿਆ",
+        "You used a hand now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "make",
+            "noun": "system",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You used a hand well",
+        "tusīṁ ika hatha dī cagī varatōṁ kītī",
+        "ਤੁਸੀਂ ਇਕ ਹੱਥ ਦੀ ਚੰਗੀ ਵਰਤੋਂ ਕੀਤੀ",
+        "You used a hand well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "make",
+            "noun": "system",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You used a hand too",
+        "tusīṁ ika hatha vī varati'ā",
+        "ਤੁਸੀਂ ਇੱਕ ਹੱਥ ਵੀ ਵਰਤਿਆ",
+        "You used a hand too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "make",
+            "noun": "system",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You used money here",
+        "tusīṁ ithē paisē dī varatōṁ kītī",
+        "ਤੁਸੀਂ ਇੱਥੇ ਪੈਸੇ ਦੀ ਵਰਤੋਂ ਕੀਤੀ",
+        "You used money here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "make",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You used money now",
+        "tusīṁ huṇa paisē dī varatōṁ kītī",
+        "ਤੁਸੀਂ ਹੁਣ ਪੈਸੇ ਦੀ ਵਰਤੋਂ ਕੀਤੀ",
+        "You used money now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "make",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You used money well",
+        "tusīṁ paisē dī cagī varatōṁ kītī",
+        "ਤੁਸੀਂ ਪੈਸੇ ਦੀ ਚੰਗੀ ਵਰਤੋਂ ਕੀਤੀ",
+        "You used money well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "make",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You used money too",
+        "tusīṁ paisē dī varatōṁ vī kītī",
+        "ਤੁਸੀਂ ਪੈਸੇ ਦੀ ਵਰਤੋਂ ਵੀ ਕੀਤੀ",
+        "You used money too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "make",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You used a month here",
+        "tusīṁ ithē ika mahīnā varati'ā",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇੱਕ ਮਹੀਨਾ ਵਰਤਿਆ",
+        "You used a month here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "make",
+            "noun": "time",
+            "adv": "here"
+        }
+    ],
+    [
+        "You took time now",
+        "tusīṁ huṇa samāṁ ka.̔I'ā",
+        "ਤੁਸੀਂ ਹੁਣ ਸਮਾਂ ਕੱ .ਿਆ",
+        "You took time now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "make",
+            "noun": "time",
+            "adv": "now"
+        }
+    ],
+    [
+        "You took time well",
+        "tusīṁ samāṁ cagī tar'hāṁ li'ā",
+        "ਤੁਸੀਂ ਸਮਾਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲਿਆ",
+        "You took time well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "make",
+            "noun": "time",
+            "adv": "well"
+        }
+    ],
+    [
+        "You took time too",
+        "tusīṁ vī samāṁ ka.̔I'ā",
+        "ਤੁਸੀਂ ਵੀ ਸਮਾਂ ਕੱ .ਿਆ",
+        "You took time too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "make",
+            "noun": "time",
+            "adv": "too"
+        }
+    ],
+    [
+        "You took water here",
+        "tusīṁ ithē pāṇī li'ā",
+        "ਤੁਸੀਂ ਇੱਥੇ ਪਾਣੀ ਲਿਆ",
+        "You took water here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "make",
+            "noun": "way",
+            "adv": "here"
+        }
+    ],
+    [
+        "You took water now",
+        "tusīṁ huṇa pāṇī li'ā",
+        "ਤੁਸੀਂ ਹੁਣ ਪਾਣੀ ਲਿਆ",
+        "You took water now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "make",
+            "noun": "way",
+            "adv": "now"
+        }
+    ],
+    [
+        "You took water well",
+        "tusīṁ pāṇī cagī tar'hāṁ lai li'ā",
+        "ਤੁਸੀਂ ਪਾਣੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲੈ ਲਿਆ",
+        "You took water well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "make",
+            "noun": "way",
+            "adv": "well"
+        }
+    ],
+    [
+        "You took water too",
+        "tusīṁ pāṇī vī li'ā",
+        "ਤੁਸੀਂ ਪਾਣੀ ਵੀ ਲਿਆ",
+        "You took water too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "make",
+            "noun": "way",
+            "adv": "too"
+        }
+    ],
+    [
+        "You took a week here",
+        "tusīṁ ithē ika hafatā li'ā sī",
+        "ਤੁਸੀਂ ਇਥੇ ਇਕ ਹਫ਼ਤਾ ਲਿਆ ਸੀ",
+        "You took a week here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "business",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You took a week now",
+        "tusīṁ huṇa ika hafatā lai li'ā hai",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਹਫ਼ਤਾ ਲੈ ਲਿਆ ਹੈ",
+        "You took a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "business",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You took a week well",
+        "tusīṁ ika hafatā vadhī'ā tarīkē nāla li'ā",
+        "ਤੁਸੀਂ ਇਕ ਹਫ਼ਤਾ ਵਧੀਆ ਤਰੀਕੇ ਨਾਲ ਲਿਆ",
+        "You took a week well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "business",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You took a week too",
+        "Tusīṁ ika hafatā vī lai li'ā",
+        "ਤੁਸੀਂ ਇੱਕ ਹਫ਼ਤਾ ਵੀ ਲੈ ਲਿਆ",
+        "You took a week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "business",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You saw your child here",
+        "tusīṁ āpaṇē bacē nū ithē vēkhi'ā",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਇੱਥੇ ਵੇਖਿਆ",
+        "You saw your child here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "government",
+            "det": "the",
+            "adv": "here"
+        }
+    ],
+    [
+        "You saw your child now",
+        "tusīṁ huṇa āpaṇē bacē nū dēkhi'ā",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਦੇਖਿਆ",
+        "You saw your child now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "government",
+            "det": "the",
+            "adv": "now"
+        }
+    ],
+    [
+        "You saw your child well",
+        "tusīṁ āpaṇē bacē nū cagī tar'hāṁ vēkhi'ā",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਿਆ",
+        "You saw your child well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "government",
+            "det": "the",
+            "adv": "well"
+        }
+    ],
+    [
+        "You saw your child too",
+        "tusīṁ āpaṇē bacē nū vī vēkhi'ā",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੀ ਵੇਖਿਆ",
+        "You saw your child too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "government",
+            "det": "the",
+            "adv": "too"
+        }
+    ],
+    [
+        "You saw the country here",
+        "tusīṁ dēśa nū ithē vēkhi'ā",
+        "ਤੁਸੀਂ ਦੇਸ਼ ਨੂੰ ਇੱਥੇ ਵੇਖਿਆ",
+        "You saw the country here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "group",
+            "det": "the",
+            "adv": "here"
+        }
+    ],
+    [
+        "You saw the country now",
+        "tusīṁ huṇa dēśa nū vēkha li'ā hai",
+        "ਤੁਸੀਂ ਹੁਣ ਦੇਸ਼ ਨੂੰ ਵੇਖ ਲਿਆ ਹੈ",
+        "You saw the country now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "group",
+            "det": "the",
+            "adv": "now"
+        }
+    ],
+    [
+        "You saw the country well",
+        "tusīṁ dēśa nū cagī tar'hāṁ vēkhi'ā hai",
+        "ਤੁਸੀਂ ਦੇਸ਼ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਿਆ ਹੈ",
+        "You saw the country well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "group",
+            "det": "the",
+            "adv": "well"
+        }
+    ],
+    [
+        "You saw the country too",
+        "tusīṁ dēśa vī vēkhi'ā",
+        "ਤੁਸੀਂ ਦੇਸ਼ ਵੀ ਵੇਖਿਆ",
+        "You saw the country too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "group",
+            "det": "the",
+            "adv": "too"
+        }
+    ],
+    [
+        "You saw the group here",
+        "tusīṁ samūha ithē vēkhi'ā",
+        "ਤੁਸੀਂ ਸਮੂਹ ਇੱਥੇ ਵੇਖਿਆ",
+        "You saw the group here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "job",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You saw the group now",
+        "tusīṁ huṇa samūha vēkhi'ā",
+        "ਤੁਸੀਂ ਹੁਣ ਸਮੂਹ ਵੇਖਿਆ",
+        "You saw the group now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "job",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You saw the group well",
+        "tusīṁ samūha nū cagī tar'hāṁ vēkhi'ā",
+        "ਤੁਸੀਂ ਸਮੂਹ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਿਆ",
+        "You saw the group well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "job",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You saw the group too",
+        "tusīṁ samūha vī vēkhi'ā",
+        "ਤੁਸੀਂ ਸਮੂਹ ਵੀ ਵੇਖਿਆ",
+        "You saw the group too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "job",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You saw a man here",
+        "tusīṁ ithē ika ādamī nū dēkhi'ā",
+        "ਤੁਸੀਂ ਇਥੇ ਇਕ ਆਦਮੀ ਨੂੰ ਦੇਖਿਆ",
+        "You saw a man here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "place",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You saw a man now",
+        "tusīṁ huṇa ika ādamī nū dēkhi'ā",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਆਦਮੀ ਨੂੰ ਦੇਖਿਆ",
+        "You saw a man now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "place",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You saw a man well",
+        "tusīṁ ika ādamī nū cagī tar'hāṁ vēkhi'ā",
+        "ਤੁਸੀਂ ਇਕ ਆਦਮੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਿਆ",
+        "You saw a man well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "place",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You saw a man too",
+        "tusīṁ ika ādamī nū vī dēkhi'ā",
+        "ਤੁਸੀਂ ਇਕ ਆਦਮੀ ਨੂੰ ਵੀ ਦੇਖਿਆ",
+        "You saw a man too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "place",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You saw a room here",
+        "tusīṁ ithē ika kamarā vēkhi'ā",
+        "ਤੁਸੀਂ ਇਥੇ ਇਕ ਕਮਰਾ ਵੇਖਿਆ",
+        "You saw a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "You saw a room now",
+        "tusīṁ huṇa ika kamarā vēkhi'ā hai",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਕਮਰਾ ਵੇਖਿਆ ਹੈ",
+        "You saw a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "You saw a room well",
+        "tusīṁ ika kamarā cagī tar'hāṁ vēkhi'ā hai",
+        "ਤੁਸੀਂ ਇਕ ਕਮਰਾ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਿਆ ਹੈ",
+        "You saw a room well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "You saw a room too",
+        "tusīṁ ika kamarā vī dēkhi'ā sī",
+        "ਤੁਸੀਂ ਇਕ ਕਮਰਾ ਵੀ ਦੇਖਿਆ ਸੀ",
+        "You saw a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "You saw a student here",
+        "tusīṁ ithē ika vidi'ārathī nū vēkhi'ā",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖਿਆ",
+        "You saw a student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "year",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You saw a student now",
+        "tusīṁ huṇa ika vidi'ārathī nū vēkhi'ā",
+        "ਤੁਸੀਂ ਹੁਣ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖਿਆ",
+        "You saw a student now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "year",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You saw a student well",
+        "tusīṁ ika vidi'ārathī nū cagī tarāṁ vēkhi'ā",
+        "ਤੁਸੀਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਚੰਗੀ ਤਰਾਂ ਵੇਖਿਆ",
+        "You saw a student well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "year",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You saw a student too",
+        "tusīṁ vī ika vidi'ārathī nū vēkhi'ā",
+        "ਤੁਸੀਂ ਵੀ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖਿਆ",
+        "You saw a student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "year",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You saw a thing here",
+        "tusīṁ ithē ika cīza vēkhī",
+        "ਤੁਸੀਂ ਇਥੇ ਇਕ ਚੀਜ਼ ਵੇਖੀ",
+        "You saw a thing here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "business",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You saw a thing now",
+        "tusīṁ huṇa ika cīza vēkhī hai",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਚੀਜ਼ ਵੇਖੀ ਹੈ",
+        "You saw a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "business",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You saw a thing well",
+        "tusīṁ ika cīza cagī tar'hāṁ vēkhī hai",
+        "ਤੁਸੀਂ ਇੱਕ ਚੀਜ਼ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖੀ ਹੈ",
+        "You saw a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "business",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You saw a thing too",
+        "tusīṁ ika cīja vī vēkhī",
+        "ਤੁਸੀਂ ਇੱਕ ਚੀਜ ਵੀ ਵੇਖੀ",
+        "You saw a thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "business",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You came to your family here",
+        "tusīṁ ithē āpaṇē parivāra kōla ā'ē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਆਏ ਹੋ",
+        "You came to your family here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "group",
+            "det": "the",
+            "adv": "here"
+        }
+    ],
+    [
+        "You came to your family now",
+        "Tusīṁ huṇa āpaṇē parivāra kōla ā'ē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਆਏ ਹੋ",
+        "You came to your family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "group",
+            "det": "the",
+            "adv": "now"
+        }
+    ],
+    [
+        "You came to your family well",
+        "tusīṁ āpaṇē parivāra kōla cagī tar'hāṁ ā'ē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਏ ਹੋ",
+        "You came to your family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "group",
+            "det": "the",
+            "adv": "well"
+        }
+    ],
+    [
+        "You came to your family too",
+        "tusīṁ āpaṇē parivāra kōla vī ā'ē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਵੀ ਆਏ ਹੋ",
+        "You came to your family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "group",
+            "det": "the",
+            "adv": "too"
+        }
+    ],
+    [
+        "You came from the government here",
+        "tusīṁ ithē sarakāra tōṁ ā'ē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਸਰਕਾਰ ਤੋਂ ਆਏ ਹੋ",
+        "You came from the government here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "job",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You came from the government now",
+        "tusīṁ huṇa sarakāra tōṁ ā'ē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਸਰਕਾਰ ਤੋਂ ਆਏ ਹੋ",
+        "You came from the government now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "job",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You came from the government well",
+        "tusīṁ sarakāra tōṁ cagē ā'ē hō",
+        "ਤੁਸੀਂ ਸਰਕਾਰ ਤੋਂ ਚੰਗੇ ਆਏ ਹੋ",
+        "You came from the government well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "job",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You came from the government too",
+        "tusīṁ vī sarakāra tōṁ ā'ē hō",
+        "ਤੁਸੀਂ ਵੀ ਸਰਕਾਰ ਤੋਂ ਆਏ ਹੋ",
+        "You came from the government too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "job",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You came to a place here",
+        "tusīṁ ithē ika jag'hā'tē ā'ē hō",
+        "ਤੁਸੀਂ ਇਥੇ ਇਕ ਜਗ੍ਹਾ 'ਤੇ ਆਏ ਹੋ",
+        "You came to a place here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "part",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You came to a place now",
+        "tusīṁ huṇa ika jag'hā'tē ā'ē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਇੱਕ ਜਗ੍ਹਾ 'ਤੇ ਆਏ ਹੋ",
+        "You came to a place now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "part",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You came to a place well",
+        "tusīṁ ika jag'hā cagī tar'hāṁ ā'ē hō",
+        "ਤੁਸੀਂ ਇਕ ਜਗ੍ਹਾ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਏ ਹੋ",
+        "You came to a place well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "part",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You came to a place too",
+        "tusīṁ vī ika jag'hā'tē ā'ē hō",
+        "ਤੁਸੀਂ ਵੀ ਇਕ ਜਗ੍ਹਾ 'ਤੇ ਆਏ ਹੋ",
+        "You came to a place too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "part",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You came to a room here",
+        "tusīṁ ithē ika kamarē vica ā'ē hō",
+        "ਤੁਸੀਂ ਇਥੇ ਇਕ ਕਮਰੇ ਵਿਚ ਆਏ ਹੋ",
+        "You came to a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "place",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You came to a room now",
+        "tusīṁ huṇa ika kamarē vica ā'ē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਇੱਕ ਕਮਰੇ ਵਿੱਚ ਆਏ ਹੋ",
+        "You came to a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "place",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You came to a room well",
+        "tusīṁ ika kamarē vica cagē ā'ē hō",
+        "ਤੁਸੀਂ ਇਕ ਕਮਰੇ ਵਿਚ ਚੰਗੇ ਆਏ ਹੋ",
+        "You came to a room well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "place",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You came to a room too",
+        "Tusīṁ ika kamarē vica vī ā'ē sī",
+        "ਤੁਸੀਂ ਇੱਕ ਕਮਰੇ ਵਿੱਚ ਵੀ ਆਏ ਸੀ",
+        "You came to a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "place",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You came to work here",
+        "tusīṁ ithē kama karana ā'ē hō",
+        "ਤੁਸੀਂ ਇਥੇ ਕੰਮ ਕਰਨ ਆਏ ਹੋ",
+        "You came to work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "system",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You came to work now",
+        "tusīṁ huṇa kama tē ā'ē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਕੰਮ ਤੇ ਆਏ ਹੋ",
+        "You came to work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "system",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You came to work well",
+        "tusīṁ cagē kama karana ā'ē hō",
+        "ਤੁਸੀਂ ਚੰਗੇ ਕੰਮ ਕਰਨ ਆਏ ਹੋ",
+        "You came to work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "system",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You came to work too",
+        "tusīṁ vī kama'tē ā'ē hō",
+        "ਤੁਸੀਂ ਵੀ ਕੰਮ 'ਤੇ ਆਏ ਹੋ",
+        "You came to work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "system",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You came to the world here",
+        "tusīṁ ithē dunī'ā vica ā'ē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਦੁਨੀਆ ਵਿਚ ਆਏ ਹੋ",
+        "You came to the world here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You came to the world now",
+        "tusīṁ huṇa dunī'āṁ tē ā'ē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਦੁਨੀਆਂ ਤੇ ਆਏ ਹੋ",
+        "You came to the world now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You came to the world well",
+        "tusīṁ dunī'āṁ vica cagī tar'hāṁ ā'ē hō",
+        "ਤੁਸੀਂ ਦੁਨੀਆਂ ਵਿਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਏ ਹੋ",
+        "You came to the world well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You came to the world too",
+        "tusīṁ vī dunī'āṁ vica ā'ē hō",
+        "ਤੁਸੀਂ ਵੀ ਦੁਨੀਆਂ ਵਿਚ ਆਏ ਹੋ",
+        "You came to the world too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You thought about a book here",
+        "tusīṁ ithē ika kitāba bārē sōci'ā",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇੱਕ ਕਿਤਾਬ ਬਾਰੇ ਸੋਚਿਆ",
+        "You thought about a book here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "time",
+            "adv": "here"
+        }
+    ],
+    [
+        "You thought about a book now",
+        "tusīṁ huṇa ika kitāba bārē sōci'ā hai",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਕਿਤਾਬ ਬਾਰੇ ਸੋਚਿਆ ਹੈ",
+        "You thought about a book now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "time",
+            "adv": "now"
+        }
+    ],
+    [
+        "You thought about a book well",
+        "tusīṁ ika kitāba bārē cagī tar'hāṁ sōci'ā",
+        "ਤੁਸੀਂ ਇਕ ਕਿਤਾਬ ਬਾਰੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਸੋਚਿਆ",
+        "You thought about a book well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "time",
+            "adv": "well"
+        }
+    ],
+    [
+        "You thought about a book too",
+        "tusīṁ ika kitāba bārē vī sōci'ā sī",
+        "ਤੁਸੀਂ ਇਕ ਕਿਤਾਬ ਬਾਰੇ ਵੀ ਸੋਚਿਆ ਸੀ",
+        "You thought about a book too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "time",
+            "adv": "too"
+        }
+    ],
+    [
+        "You thought about a business here",
+        "tusīṁ ithē ika kārōbāra bārē sōci'ā hai",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇੱਕ ਕਾਰੋਬਾਰ ਬਾਰੇ ਸੋਚਿਆ ਹੈ",
+        "You thought about a business here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "way",
+            "adv": "here"
+        }
+    ],
+    [
+        "You thought about a business now",
+        "tusīṁ huṇa ika kārōbāra bārē sōci'ā hai",
+        "ਤੁਸੀਂ ਹੁਣ ਇੱਕ ਕਾਰੋਬਾਰ ਬਾਰੇ ਸੋਚਿਆ ਹੈ",
+        "You thought about a business now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "way",
+            "adv": "now"
+        }
+    ],
+    [
+        "You thought about a business well",
+        "tusīṁ ika kārōbāra bārē sōci'ā",
+        "ਤੁਸੀਂ ਇਕ ਕਾਰੋਬਾਰ ਬਾਰੇ ਸੋਚਿਆ",
+        "You thought about a business well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "way",
+            "adv": "well"
+        }
+    ],
+    [
+        "You thought about a business too",
+        "tusīṁ ika kārōbāra bārē vī sōci'ā",
+        "ਤੁਸੀਂ ਇਕ ਕਾਰੋਬਾਰ ਬਾਰੇ ਵੀ ਸੋਚਿਆ",
+        "You thought about a business too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "way",
+            "adv": "too"
+        }
+    ],
+    [
+        "You thought about your child here",
+        "tusīṁ ithē āpaṇē bacē bārē sōci'ā",
+        "ਤੁਸੀਂ ਇੱਥੇ ਆਪਣੇ ਬੱਚੇ ਬਾਰੇ ਸੋਚਿਆ",
+        "You thought about your child here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You thought about your child now",
+        "Tusīṁ huṇa āpaṇē bacē bārē sōci'ā hai",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੇ ਬੱਚੇ ਬਾਰੇ ਸੋਚਿਆ ਹੈ",
+        "You thought about your child now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You thought about your child well",
+        "tusīṁ āpaṇē bacē bārē cagī tar'hāṁ sōci'ā",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬੱਚੇ ਬਾਰੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਸੋਚਿਆ",
+        "You thought about your child well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You thought about your child too",
+        "tusīṁ āpaṇē bacē bārē vī sōci'ā",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬੱਚੇ ਬਾਰੇ ਵੀ ਸੋਚਿਆ",
+        "You thought about your child too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You thought about your family here",
+        "tusīṁ ithē āpaṇē parivāra bārē sōci'ā",
+        "ਤੁਸੀਂ ਇੱਥੇ ਆਪਣੇ ਪਰਿਵਾਰ ਬਾਰੇ ਸੋਚਿਆ",
+        "You thought about your family here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "You thought about your family now",
+        "tusīṁ huṇa āpaṇē parivāra bārē sōci'ā",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੇ ਪਰਿਵਾਰ ਬਾਰੇ ਸੋਚਿਆ",
+        "You thought about your family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "You thought about your family well",
+        "tusīṁ āpaṇē parivāra bārē cagī tar'hāṁ sōci'ā",
+        "ਤੁਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਬਾਰੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਸੋਚਿਆ",
+        "You thought about your family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "You thought about your family too",
+        "tusīṁ āpaṇē parivāra bārē vī sōci'ā",
+        "ਤੁਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਬਾਰੇ ਵੀ ਸੋਚਿਆ",
+        "You thought about your family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "You thought about home here",
+        "tusīṁ ithē ghara bārē sōci'ā",
+        "ਤੁਸੀਂ ਇੱਥੇ ਘਰ ਬਾਰੇ ਸੋਚਿਆ",
+        "You thought about home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "day",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You thought about home now",
+        "tusīṁ huṇa ghara bārē sōci'ā",
+        "ਤੁਸੀਂ ਹੁਣ ਘਰ ਬਾਰੇ ਸੋਚਿਆ",
+        "You thought about home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "day",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You thought about home well",
+        "tusīṁ ghara bārē cagī tar'hāṁ sōci'ā sī",
+        "ਤੁਸੀਂ ਘਰ ਬਾਰੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਸੋਚਿਆ ਸੀ",
+        "You thought about home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "day",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You thought about home too",
+        "tusīṁ ghara bārē vī sōci'ā",
+        "ਤੁਸੀਂ ਘਰ ਬਾਰੇ ਵੀ ਸੋਚਿਆ",
+        "You thought about home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "day",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You thought about life here",
+        "tusīṁ ithē zidagī bārē sōci'ā",
+        "ਤੁਸੀਂ ਇੱਥੇ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਸੋਚਿਆ",
+        "You thought about life here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "job",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You thought about life now",
+        "tusīṁ huṇa zidagī bārē sōci'ā",
+        "ਤੁਸੀਂ ਹੁਣ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਸੋਚਿਆ",
+        "You thought about life now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "job",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You thought about life well",
+        "tusīṁ zidagī bārē cagī tar'hāṁ sōci'ā",
+        "ਤੁਸੀਂ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਸੋਚਿਆ",
+        "You thought about life well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "job",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You thought about life too",
+        "tusīṁ zidagī bārē vī sōci'ā",
+        "ਤੁਸੀਂ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਵੀ ਸੋਚਿਆ",
+        "You thought about life too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "job",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You thought about money here",
+        "tusīṁ ithē paisē bārē sōci'ā",
+        "ਤੁਸੀਂ ਇੱਥੇ ਪੈਸੇ ਬਾਰੇ ਸੋਚਿਆ",
+        "You thought about money here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "point",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You thought about money now",
+        "tusīṁ huṇa paisē bārē sōci'ā",
+        "ਤੁਸੀਂ ਹੁਣ ਪੈਸੇ ਬਾਰੇ ਸੋਚਿਆ",
+        "You thought about money now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "point",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You thought about money well",
+        "tusīṁ paisi'āṁ bārē cagī tar'hāṁ sōci'ā",
+        "ਤੁਸੀਂ ਪੈਸਿਆਂ ਬਾਰੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਸੋਚਿਆ",
+        "You thought about money well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "point",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You thought about money too",
+        "tusīṁ paisē bārē vī sōci'ā",
+        "ਤੁਸੀਂ ਪੈਸੇ ਬਾਰੇ ਵੀ ਸੋਚਿਆ",
+        "You thought about money too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "point",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You thought about your mother here",
+        "tusīṁ ithē āpaṇī māṁ bārē sōci'ā",
+        "ਤੁਸੀਂ ਇੱਥੇ ਆਪਣੀ ਮਾਂ ਬਾਰੇ ਸੋਚਿਆ",
+        "You thought about your mother here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You thought about your mother now",
+        "tusīṁ huṇa āpaṇī māṁ bārē sōci'ā",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੀ ਮਾਂ ਬਾਰੇ ਸੋਚਿਆ",
+        "You thought about your mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You thought about your mother well",
+        "tusīṁ āpaṇī māṁ bārē cagī tar'hāṁ sōci'ā",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਬਾਰੇ ਚੰਗੀ ਤਰ੍ਹਾਂ ਸੋਚਿਆ",
+        "You thought about your mother well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You thought about your mother too",
+        "tusīṁ āpaṇī māṁ bārē vī sōci'ā",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਬਾਰੇ ਵੀ ਸੋਚਿਆ",
+        "You thought about your mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You thought about people here",
+        "tusīṁ ithōṁ dē lōkāṁ bārē sōci'ā",
+        "ਤੁਸੀਂ ਇਥੋਂ ਦੇ ਲੋਕਾਂ ਬਾਰੇ ਸੋਚਿਆ",
+        "You thought about people here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "time",
+            "adv": "here"
+        }
+    ],
+    [
+        "You made time now",
+        "tusīṁ huṇa samāṁ baṇā'i'ā hai",
+        "ਤੁਸੀਂ ਹੁਣ ਸਮਾਂ ਬਣਾਇਆ ਹੈ",
+        "You made time now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "time",
+            "adv": "now"
+        }
+    ],
+    [
+        "You made time well",
+        "tusīṁ samāṁ vadhī'ā baṇā'i'ā",
+        "ਤੁਸੀਂ ਸਮਾਂ ਵਧੀਆ ਬਣਾਇਆ",
+        "You made time well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "time",
+            "adv": "well"
+        }
+    ],
+    [
+        "You made time too",
+        "tusīṁ samāṁ vī baṇā'i'ā",
+        "ਤੁਸੀਂ ਸਮਾਂ ਵੀ ਬਣਾਇਆ",
+        "You made time too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "time",
+            "adv": "too"
+        }
+    ],
+    [
+        "You went to the country here",
+        "tusīṁ ithē dēśa ga'ē sī",
+        "ਤੁਸੀਂ ਇਥੇ ਦੇਸ਼ ਗਏ ਸੀ",
+        "You went to the country here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "year",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You went to the country now",
+        "tusīṁ huṇa dēśa calā gi'ā",
+        "ਤੁਸੀਂ ਹੁਣ ਦੇਸ਼ ਚਲਾ ਗਿਆ",
+        "You went to the country now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "year",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You went to the country well",
+        "tusīṁ cagē dēśa calē ga'ē",
+        "ਤੁਸੀਂ ਚੰਗੇ ਦੇਸ਼ ਚਲੇ ਗਏ",
+        "You went to the country well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "year",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You went to the country too",
+        "tusīṁ dēśa vī ga'ē sī",
+        "ਤੁਸੀਂ ਦੇਸ਼ ਵੀ ਗਏ ਸੀ",
+        "You went to the country too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "take",
+            "noun": "year",
+            "det": "a",
+            "adv": "too"
+        }
+    ]
+]

@@ -1,0 +1,1336 @@
+[
+    [
+        "They are people",
+        "uha lōka hana",
+        "ਉਹ ਲੋਕ ਹਨ",
+        "They are people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "be",
+            "noun": "people"
+        }
+    ],
+    [
+        "They have a business",
+        "unhāṁ dā ika kārōbāra hai",
+        "ਉਨ੍ਹਾਂ ਦਾ ਇੱਕ ਕਾਰੋਬਾਰ ਹੈ",
+        "They have a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "They have a day",
+        "unhāṁ kōla ika dina hai",
+        "ਉਨ੍ਹਾਂ ਕੋਲ ਇਕ ਦਿਨ ਹੈ",
+        "They have a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "They have their family",
+        "unhāṁ dā āpaṇā parivāra hai",
+        "ਉਨ੍ਹਾਂ ਦਾ ਆਪਣਾ ਪਰਿਵਾਰ ਹੈ",
+        "They have their family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "family",
+            "det": "thier"
+        }
+    ],
+    [
+        "They have the group",
+        "unhāṁ dā samūha hai",
+        "ਉਨ੍ਹਾਂ ਦਾ ਸਮੂਹ ਹੈ",
+        "They have the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "They have a job",
+        "unhāṁ kōla naukarī hai",
+        "ਉਨ੍ਹਾਂ ਕੋਲ ਨੌਕਰੀ ਹੈ",
+        "They have a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "They have money",
+        "unhāṁ kōla paisā hai",
+        "ਉਨ੍ਹਾਂ ਕੋਲ ਪੈਸਾ ਹੈ",
+        "They have money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "money"
+        }
+    ],
+    [
+        "They have their mother",
+        "unhāṁ dī māṁ hai",
+        "ਉਨ੍ਹਾਂ ਦੀ ਮਾਂ ਹੈ",
+        "They have their mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "mother",
+            "det": "thier"
+        }
+    ],
+    [
+        "They have the right",
+        "unhāṁ dā haka hai",
+        "ਉਨ੍ਹਾਂ ਦਾ ਹੱਕ ਹੈ",
+        "They have the right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "right"
+        }
+    ],
+    [
+        "They have a room",
+        "unhāṁ kōla ika kamarā hai",
+        "ਉਨ੍ਹਾਂ ਕੋਲ ਇਕ ਕਮਰਾ ਹੈ",
+        "They have a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "They have a story",
+        "unhāṁ kōla ika kahāṇī hai",
+        "ਉਨ੍ਹਾਂ ਕੋਲ ਇਕ ਕਹਾਣੀ ਹੈ",
+        "They have a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "They have a thing",
+        "unhāṁ kōla ika cīza hai",
+        "ਉਨ੍ਹਾਂ ਕੋਲ ਇਕ ਚੀਜ਼ ਹੈ",
+        "They have a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "They have their work",
+        "Unhāṁ dā kama hai",
+        "ਉਨ੍ਹਾਂ ਦਾ ਕੰਮ ਹੈ",
+        "They have their work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "work"
+        }
+    ],
+    [
+        "They do a business",
+        "uha ika kārōbāra karadē hana",
+        "ਉਹ ਇੱਕ ਕਾਰੋਬਾਰ ਕਰਦੇ ਹਨ",
+        "They do a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "They do a job",
+        "uha ika kama karadē hana",
+        "ਉਹ ਇੱਕ ਕੰਮ ਕਰਦੇ ਹਨ",
+        "They do a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "do",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "They do it right",
+        "uha isa nū sahī karadē hana",
+        "ਉਹ ਇਸ ਨੂੰ ਸਹੀ ਕਰਦੇ ਹਨ",
+        "They do it right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "do",
+            "noun": "right"
+        }
+    ],
+    [
+        "They do a thing",
+        "uha ika kama karadē hana",
+        "ਉਹ ਇੱਕ ਕੰਮ ਕਰਦੇ ਹਨ",
+        "They do a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "They do work",
+        "uha kama karadē hana",
+        "ਉਹ ਕੰਮ ਕਰਦੇ ਹਨ",
+        "They do work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "do",
+            "noun": "work"
+        }
+    ],
+    [
+        "They think about a business",
+        "uha ika kārōbāra bārē sōcadē hana",
+        "ਉਹ ਇੱਕ ਕਾਰੋਬਾਰ ਬਾਰੇ ਸੋਚਦੇ ਹਨ",
+        "They think about a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "think",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "They think about their family",
+        "uha āpaṇē parivāra bārē sōcadē hana",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਬਾਰੇ ਸੋਚਦੇ ਹਨ",
+        "They think about their family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "think",
+            "noun": "family",
+            "det": "thier"
+        }
+    ],
+    [
+        "They think about the group",
+        "uha samūha bārē sōcadē hana",
+        "ਉਹ ਸਮੂਹ ਬਾਰੇ ਸੋਚਦੇ ਹਨ",
+        "They think about the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "think",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "They think about a job",
+        "uha ika naukarī bārē sōcadē hana",
+        "ਉਹ ਇੱਕ ਨੌਕਰੀ ਬਾਰੇ ਸੋਚਦੇ ਹਨ",
+        "They think about a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "think",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "They think about money",
+        "uha paisē bārē sōcadē hana",
+        "ਉਹ ਪੈਸੇ ਬਾਰੇ ਸੋਚਦੇ ਹਨ",
+        "They think about money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "think",
+            "noun": "money"
+        }
+    ],
+    [
+        "They think about their mother",
+        "uha āpaṇī māṁ bārē sōcadē hana",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਬਾਰੇ ਸੋਚਦੇ ਹਨ",
+        "They think about their mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "think",
+            "noun": "mother",
+            "det": "thier"
+        }
+    ],
+    [
+        "They think about people",
+        "uha lōkāṁ bārē sōcadē hana",
+        "ਉਹ ਲੋਕਾਂ ਬਾਰੇ ਸੋਚਦੇ ਹਨ",
+        "They think about people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "think",
+            "noun": "people"
+        }
+    ],
+    [
+        "They think right",
+        "uha sahī sōcadē hana",
+        "ਉਹ ਸਹੀ ਸੋਚਦੇ ਹਨ",
+        "They think right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "think",
+            "noun": "right"
+        }
+    ],
+    [
+        "They think about a story",
+        "uha ika kahāṇī bārē sōcadē hana",
+        "ਉਹ ਇਕ ਕਹਾਣੀ ਬਾਰੇ ਸੋਚਦੇ ਹਨ",
+        "They think about a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "think",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "They think about work",
+        "uha kama bārē sōcadē hana",
+        "ਉਹ ਕੰਮ ਬਾਰੇ ਸੋਚਦੇ ਹਨ",
+        "They think about work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "think",
+            "noun": "work"
+        }
+    ],
+    [
+        "They look after a business",
+        "uha ika kārōbāra dī dēkhabhāla karadē hana",
+        "ਉਹ ਇੱਕ ਕਾਰੋਬਾਰ ਦੀ ਦੇਖਭਾਲ ਕਰਦੇ ਹਨ",
+        "They look after a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "look",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "They look after their family",
+        "uha āpaṇē parivāra dī dēkhabhāla karadē hana",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਦੀ ਦੇਖਭਾਲ ਕਰਦੇ ਹਨ",
+        "They look after their family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "look",
+            "noun": "family",
+            "det": "thier"
+        }
+    ],
+    [
+        "They look at money",
+        "uha paisē nū vēkhadē hana",
+        "ਉਹ ਪੈਸੇ ਨੂੰ ਵੇਖਦੇ ਹਨ",
+        "They look at money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "look",
+            "noun": "money"
+        }
+    ],
+    [
+        "They look after their mother",
+        "uha āpaṇī māṁ dī dēkhabhāla karadē hana",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਦੀ ਦੇਖਭਾਲ ਕਰਦੇ ਹਨ",
+        "They look after their mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "look",
+            "noun": "mother",
+            "det": "thier"
+        }
+    ],
+    [
+        "They look after people",
+        "uha lōkāṁ dī dēkhabhāla karadē hana",
+        "ਉਹ ਲੋਕਾਂ ਦੀ ਦੇਖਭਾਲ ਕਰਦੇ ਹਨ",
+        "They look after people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "look",
+            "noun": "people"
+        }
+    ],
+    [
+        "They look at a woman",
+        "uha ika atrata vala vēkhadē hana",
+        "ਉਹ ਇਕ atਰਤ ਵੱਲ ਵੇਖਦੇ ਹਨ",
+        "They look at a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "look",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "They look for work",
+        "uha kama dī bhāla karadē hana",
+        "ਉਹ ਕੰਮ ਦੀ ਭਾਲ ਕਰਦੇ ਹਨ",
+        "They look for work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "look",
+            "noun": "work"
+        }
+    ],
+    [
+        "They want a day",
+        "uha ika dina cāhudē hana",
+        "ਉਹ ਇੱਕ ਦਿਨ ਚਾਹੁੰਦੇ ਹਨ",
+        "They want a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "want",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "They want their family",
+        "uha āpaṇā parivāra cāhudē hana",
+        "ਉਹ ਆਪਣਾ ਪਰਿਵਾਰ ਚਾਹੁੰਦੇ ਹਨ",
+        "They want their family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "want",
+            "noun": "family",
+            "det": "thier"
+        }
+    ],
+    [
+        "They want the group",
+        "uha samūha cāhudē hana",
+        "ਉਹ ਸਮੂਹ ਚਾਹੁੰਦੇ ਹਨ",
+        "They want the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "want",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "They want a job",
+        "uha ika naukarī cāhudē hana",
+        "ਉਹ ਇੱਕ ਨੌਕਰੀ ਚਾਹੁੰਦੇ ਹਨ",
+        "They want a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "want",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "They want money",
+        "uha paisā cāhudē hana",
+        "ਉਹ ਪੈਸਾ ਚਾਹੁੰਦੇ ਹਨ",
+        "They want money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "want",
+            "noun": "money"
+        }
+    ],
+    [
+        "They want a room",
+        "uha ika kamarā cāhudē hana",
+        "ਉਹ ਇੱਕ ਕਮਰਾ ਚਾਹੁੰਦੇ ਹਨ",
+        "They want a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "want",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "They want a story",
+        "uha ika kahāṇī cāhudē hana",
+        "ਉਹ ਇੱਕ ਕਹਾਣੀ ਚਾਹੁੰਦੇ ਹਨ",
+        "They want a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "want",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "They want a thing",
+        "uha ika cīza cāhudē hana",
+        "ਉਹ ਇੱਕ ਚੀਜ਼ ਚਾਹੁੰਦੇ ਹਨ",
+        "They want a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "want",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "They want work",
+        "uha kama cāhudē hana",
+        "ਉਹ ਕੰਮ ਚਾਹੁੰਦੇ ਹਨ",
+        "They want work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "want",
+            "noun": "work"
+        }
+    ],
+    [
+        "They give money",
+        "uha paisē didē hana",
+        "ਉਹ ਪੈਸੇ ਦਿੰਦੇ ਹਨ",
+        "They give money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "give",
+            "noun": "money"
+        }
+    ],
+    [
+        "They give a thing",
+        "uha ika cīza didē hana",
+        "ਉਹ ਇੱਕ ਚੀਜ਼ ਦਿੰਦੇ ਹਨ",
+        "They give a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "give",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "They work for a day",
+        "uha ika dina la'ī kama karadē hana",
+        "ਉਹ ਇੱਕ ਦਿਨ ਲਈ ਕੰਮ ਕਰਦੇ ਹਨ",
+        "They work for a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "work",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "They work for their family",
+        "uha āpaṇē parivāra la'ī kama karadē hana",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਲਈ ਕੰਮ ਕਰਦੇ ਹਨ",
+        "They work for their family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "work",
+            "noun": "family",
+            "det": "thier"
+        }
+    ],
+    [
+        "They work for the government",
+        "uha sarakāra la'ī kama karadē hana",
+        "ਉਹ ਸਰਕਾਰ ਲਈ ਕੰਮ ਕਰਦੇ ਹਨ",
+        "They work for the government",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "work",
+            "noun": "government",
+            "det": "the"
+        }
+    ],
+    [
+        "They work with the group",
+        "uha samūha nāla kama karadē hana",
+        "ਉਹ ਸਮੂਹ ਨਾਲ ਕੰਮ ਕਰਦੇ ਹਨ",
+        "They work with the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "work",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "They work for money",
+        "uha paisē la'ī kama karadē hana",
+        "ਉਹ ਪੈਸੇ ਲਈ ਕੰਮ ਕਰਦੇ ਹਨ",
+        "They work for money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "work",
+            "noun": "money"
+        }
+    ],
+    [
+        "They work with people",
+        "uha lōkāṁ nāla kama karadē hana",
+        "ਉਹ ਲੋਕਾਂ ਨਾਲ ਕੰਮ ਕਰਦੇ ਹਨ",
+        "They work with people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "work",
+            "noun": "people"
+        }
+    ]
+]

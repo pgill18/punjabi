@@ -1,0 +1,753 @@
+[
+    [
+        "It is having a business",
+        "iha ika kārōbāra kara rihā hai",
+        "ਇਹ ਇੱਕ ਕਾਰੋਬਾਰ ਕਰ ਰਿਹਾ ਹੈ",
+        "It is having a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "It is having a day",
+        "iha ika dina hō rihā hai",
+        "ਇਹ ਇੱਕ ਦਿਨ ਹੋ ਰਿਹਾ ਹੈ",
+        "It is having a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "It is having a lot",
+        "iha bahuta kujha kara rihā hai",
+        "ਇਹ ਬਹੁਤ ਕੁਝ ਕਰ ਰਿਹਾ ਹੈ",
+        "It is having a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "lot"
+        }
+    ],
+    [
+        "It is having its mother",
+        "iha isadī māṁ hai",
+        "ਇਹ ਇਸਦੀ ਮਾਂ ਹੈ",
+        "It is having its mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "mother",
+            "det": "its"
+        }
+    ],
+    [
+        "It is having a problem",
+        "iha ika samasi'ā hai",
+        "ਇਹ ਇੱਕ ਸਮੱਸਿਆ ਹੈ",
+        "It is having a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "It is having a question",
+        "iha ika praśana hai",
+        "ਇਹ ਇੱਕ ਪ੍ਰਸ਼ਨ ਹੈ",
+        "It is having a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "It is having a story",
+        "iha ika kahāṇī hai",
+        "ਇਹ ਇੱਕ ਕਹਾਣੀ ਹੈ",
+        "It is having a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "It is having a week",
+        "iha ika hafatā hō rihā hai",
+        "ਇਹ ਇੱਕ ਹਫ਼ਤਾ ਹੋ ਰਿਹਾ ਹੈ",
+        "It is having a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "It is having a year",
+        "iha ika sāla hō rihā hai",
+        "ਇਹ ਇੱਕ ਸਾਲ ਹੋ ਰਿਹਾ ਹੈ",
+        "It is having a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "It is doing a business",
+        "iha ika kārōbāra kara rihā hai",
+        "ਇਹ ਇੱਕ ਕਾਰੋਬਾਰ ਕਰ ਰਿਹਾ ਹੈ",
+        "It is doing a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "It is doing a lot",
+        "iha bahuta kujha kara rihā hai",
+        "ਇਹ ਬਹੁਤ ਕੁਝ ਕਰ ਰਿਹਾ ਹੈ",
+        "It is doing a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "do",
+            "noun": "lot"
+        }
+    ],
+    [
+        "It is telling about life",
+        "iha zidagī bārē dasa rihā hai",
+        "ਇਹ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਹੈ",
+        "It is telling about life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "tell",
+            "noun": "life"
+        }
+    ],
+    [
+        "It is telling a man",
+        "iha ika ādamī nū dasa rihā hai",
+        "ਇਹ ਇਕ ਆਦਮੀ ਨੂੰ ਦੱਸ ਰਿਹਾ ਹੈ",
+        "It is telling a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "It is telling its mother",
+        "iha āpaṇī māṁ nū dasa rahī hai",
+        "ਇਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਦੱਸ ਰਹੀ ਹੈ",
+        "It is telling its mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "its"
+        }
+    ],
+    [
+        "It is telling about a problem",
+        "iha ika samasi'ā bārē dasa rihā hai",
+        "ਇਹ ਇੱਕ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਹੈ",
+        "It is telling about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "It is telling a story",
+        "iha ika kahāṇī suṇā rihā hai",
+        "ਇਹ ਇਕ ਕਹਾਣੀ ਸੁਣਾ ਰਿਹਾ ਹੈ",
+        "It is telling a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "It is telling about a study",
+        "iha ika adhi'aina bārē dasa rihā hai",
+        "ਇਹ ਇਕ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸ ਰਿਹਾ ਹੈ",
+        "It is telling about a study",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a"
+        }
+    ],
+    [
+        "It is telling a woman",
+        "iha ika tellingrata nū dasa rihā hai",
+        "ਇਹ ਇਕ tellingਰਤ ਨੂੰ ਦੱਸ ਰਿਹਾ ਹੈ",
+        "It is telling a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "It is asking a man",
+        "iha ika ādamī nū pucha rihā hai",
+        "ਇਹ ਇਕ ਆਦਮੀ ਨੂੰ ਪੁੱਛ ਰਿਹਾ ਹੈ",
+        "It is asking a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "It is asking its mother",
+        "iha āpaṇī māṁ nū pucha rihā hai",
+        "ਇਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਪੁੱਛ ਰਿਹਾ ਹੈ",
+        "It is asking its mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "its"
+        }
+    ],
+    [
+        "It is asking a question",
+        "iha ika praśana pucha rihā hai",
+        "ਇਹ ਇੱਕ ਪ੍ਰਸ਼ਨ ਪੁੱਛ ਰਿਹਾ ਹੈ",
+        "It is asking a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "It is asking a student",
+        "iha ika vidi'ārathī nū pucha rihā hai",
+        "ਇਹ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛ ਰਿਹਾ ਹੈ",
+        "It is asking a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "It is asking a woman",
+        "iha ika askingrata nū pucha rihā hai",
+        "ਇਹ ਇਕ askingਰਤ ਨੂੰ ਪੁੱਛ ਰਿਹਾ ਹੈ",
+        "It is asking a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "It is trying for a day",
+        "iha ika dina dī kōśiśa kara rihā hai",
+        "ਇਹ ਇਕ ਦਿਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ",
+        "It is trying for a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "try",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "It is trying for a month",
+        "iha ika mahīnē tōṁ kōśiśa kara rihā hai",
+        "ਇਹ ਇਕ ਮਹੀਨੇ ਤੋਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ",
+        "It is trying for a month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "try",
+            "noun": "month",
+            "det": "a"
+        }
+    ],
+    [
+        "It is trying for a week",
+        "iha ika haphatē la'ī kōśiśa kara rihā hai",
+        "ਇਹ ਇੱਕ ਹਫਤੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ",
+        "It is trying for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "try",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "It is trying for a year",
+        "iha ika sāla tōṁ kōśiśa kara rihā hai",
+        "ਇਹ ਇਕ ਸਾਲ ਤੋਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ",
+        "It is trying for a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "try",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "It is leaving a business",
+        "iha ika kārōbāra chaḍa rihā hai",
+        "ਇਹ ਇੱਕ ਕਾਰੋਬਾਰ ਛੱਡ ਰਿਹਾ ਹੈ",
+        "It is leaving a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "It is calling its mother",
+        "iha āpaṇī māṁ nū bulā rahī hai",
+        "ਇਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਬੁਲਾ ਰਹੀ ਹੈ",
+        "It is calling its mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "call",
+            "noun": "mother",
+            "det": "its"
+        }
+    ]
+]

@@ -1,0 +1,1311 @@
+[
+    [
+        "It will be coming on time",
+        "iha samēṁ sira āvēgā",
+        "ਇਹ ਸਮੇਂ ਸਿਰ ਆਵੇਗਾ",
+        "It will be coming on time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "It will be coming to work",
+        "iha kama'tē ā jāvēgā",
+        "ਇਹ ਕੰਮ 'ਤੇ ਆ ਜਾਵੇਗਾ",
+        "It will be coming to work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "It will be thinking about a book",
+        "iha ika kitāba bārē sōca rahē hōṇagē",
+        "ਇਹ ਇਕ ਕਿਤਾਬ ਬਾਰੇ ਸੋਚ ਰਹੇ ਹੋਣਗੇ",
+        "It will be thinking about a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "family",
+            "det": "its"
+        }
+    ],
+    [
+        "It will be thinking about a business",
+        "iha kisē kārōbāra bārē sōca rahē hōṇagē",
+        "ਇਹ ਕਿਸੇ ਕਾਰੋਬਾਰ ਬਾਰੇ ਸੋਚ ਰਹੇ ਹੋਣਗੇ",
+        "It will be thinking about a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "It will be thinking about its family",
+        "iha āpaṇē parivāra bārē sōca rahē hōṇagē",
+        "ਇਹ ਆਪਣੇ ਪਰਿਵਾਰ ਬਾਰੇ ਸੋਚ ਰਹੇ ਹੋਣਗੇ",
+        "It will be thinking about its family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "It will be thinking about home",
+        "iha ghara bārē sōca rihā hōvēgā",
+        "ਇਹ ਘਰ ਬਾਰੇ ਸੋਚ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "It will be thinking about home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "money"
+        }
+    ],
+    [
+        "It will be thinking about a job",
+        "iha kisē naukarī bārē sōca rahē hōṇagē",
+        "ਇਹ ਕਿਸੇ ਨੌਕਰੀ ਬਾਰੇ ਸੋਚ ਰਹੇ ਹੋਣਗੇ",
+        "It will be thinking about a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "mother",
+            "det": "its"
+        }
+    ],
+    [
+        "It will be thinking about people",
+        "iha lōkāṁ bārē sōca rahē hōṇagē",
+        "ਇਹ ਲੋਕਾਂ ਬਾਰੇ ਸੋਚ ਰਹੇ ਹੋਣਗੇ",
+        "It will be thinking about people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "right"
+        }
+    ],
+    [
+        "It will be thinking about a problem",
+        "iha kisē samasi'ā bārē sōca rihā hōvēgā",
+        "ਇਹ ਕਿਸੇ ਸਮੱਸਿਆ ਬਾਰੇ ਸੋਚ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "It will be thinking about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "It will be thinking right",
+        "iha sahī sōca rahē hōṇagē",
+        "ਇਹ ਸਹੀ ਸੋਚ ਰਹੇ ਹੋਣਗੇ",
+        "It will be thinking right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "It will be thinking about a story",
+        "iha ika kahāṇī bārē sōca rahē hōṇagē",
+        "ਇਹ ਇਕ ਕਹਾਣੀ ਬਾਰੇ ਸੋਚ ਰਹੇ ਹੋਣਗੇ",
+        "It will be thinking about a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "It will be looking after its child",
+        "iha āpaṇē bacē dī dēkhabhāla karēgī",
+        "ਇਹ ਆਪਣੇ ਬੱਚੇ ਦੀ ਦੇਖਭਾਲ ਕਰੇਗੀ",
+        "It will be looking after its child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "have",
+            "noun": "work"
+        }
+    ],
+    [
+        "It will be looking at a man",
+        "iha ika ādamī vala vēkha rihā hōvēgā",
+        "ਇਹ ਇਕ ਆਦਮੀ ਵੱਲ ਵੇਖ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "It will be looking at a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "It will be looking at money",
+        "Iha paisē vala vēkhi'ā jāvēgā",
+        "ਇਹ ਪੈਸੇ ਵੱਲ ਵੇਖਿਆ ਜਾਵੇਗਾ",
+        "It will be looking at money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "do",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "It will be looking at a problem",
+        "iha kisē samasi'ā vala dhi'āna dēvēgā",
+        "ਇਹ ਕਿਸੇ ਸਮੱਸਿਆ ਵੱਲ ਧਿਆਨ ਦੇਵੇਗਾ",
+        "It will be looking at a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "do",
+            "noun": "right"
+        }
+    ],
+    [
+        "It will be looking at a woman",
+        "iha ika atrata vala vēkhēgī",
+        "ਇਹ ਇਕ atਰਤ ਵੱਲ ਵੇਖੇਗੀ",
+        "It will be looking at a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "It will be looking for work",
+        "iha kama dī bhāla vica rahēgā",
+        "ਇਹ ਕੰਮ ਦੀ ਭਾਲ ਵਿਚ ਰਹੇਗਾ",
+        "It will be looking for work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "do",
+            "noun": "work"
+        }
+    ],
+    [
+        "It will be having the group",
+        "iha samūha hōvēgā",
+        "ਇਹ ਸਮੂਹ ਹੋਵੇਗਾ",
+        "It will be having the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "think",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "It will be having a job",
+        "isa vica naukarī hōvēgī",
+        "ਇਸ ਵਿਚ ਨੌਕਰੀ ਹੋਵੇਗੀ",
+        "It will be having a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "think",
+            "noun": "family",
+            "det": "its"
+        }
+    ],
+    [
+        "It will be having a lot",
+        "iha bahuta kujha hōvēgā",
+        "ਇਹ ਬਹੁਤ ਕੁਝ ਹੋਵੇਗਾ",
+        "It will be having a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "think",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "It will be having its mother",
+        "iha isadī māṁ hōvēgī",
+        "ਇਹ ਇਸਦੀ ਮਾਂ ਹੋਵੇਗੀ",
+        "It will be having its mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "think",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "It will be having a problem",
+        "isa vica kō'ī samasi'ā āvēgī",
+        "ਇਸ ਵਿਚ ਕੋਈ ਸਮੱਸਿਆ ਆਵੇਗੀ",
+        "It will be having a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "think",
+            "noun": "money"
+        }
+    ],
+    [
+        "It will be having a question",
+        "iha ika praśana hōvēgā",
+        "ਇਹ ਇੱਕ ਪ੍ਰਸ਼ਨ ਹੋਵੇਗਾ",
+        "It will be having a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "think",
+            "noun": "mother",
+            "det": "its"
+        }
+    ],
+    [
+        "It will be having the right",
+        "iha sahī hō jāvēgā",
+        "ਇਹ ਸਹੀ ਹੋ ਜਾਵੇਗਾ",
+        "It will be having the right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "think",
+            "noun": "people"
+        }
+    ],
+    [
+        "It will be having a story",
+        "iha ika kahāṇī hōvēgī",
+        "ਇਹ ਇਕ ਕਹਾਣੀ ਹੋਵੇਗੀ",
+        "It will be having a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "think",
+            "noun": "right"
+        }
+    ],
+    [
+        "It will be having a thing",
+        "iha ika cīza hōvēgī",
+        "ਇਹ ਇੱਕ ਚੀਜ਼ ਹੋਵੇਗੀ",
+        "It will be having a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "think",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "It will be having time",
+        "iha samāṁ hōvēgā",
+        "ਇਹ ਸਮਾਂ ਹੋਵੇਗਾ",
+        "It will be having time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "think",
+            "noun": "work"
+        }
+    ],
+    [
+        "It will be having a week",
+        "iha ika hafatā hōvēgā",
+        "ਇਹ ਇੱਕ ਹਫ਼ਤਾ ਹੋਵੇਗਾ",
+        "It will be having a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "look",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "It will be having a year",
+        "iha ika sāla hō jāvēgā",
+        "ਇਹ ਇੱਕ ਸਾਲ ਹੋ ਜਾਵੇਗਾ",
+        "It will be having a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "look",
+            "noun": "family",
+            "det": "its"
+        }
+    ],
+    [
+        "It will be doing a job",
+        "Iha kō'ī kama karēgā",
+        "ਇਹ ਕੋਈ ਕੰਮ ਕਰੇਗਾ",
+        "It will be doing a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "look",
+            "noun": "money"
+        }
+    ],
+    [
+        "It will be doing a lot",
+        "iha bahuta kujha karēgā",
+        "ਇਹ ਬਹੁਤ ਕੁਝ ਕਰੇਗਾ",
+        "It will be doing a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "look",
+            "noun": "mother",
+            "det": "its"
+        }
+    ],
+    [
+        "It will be doing a part",
+        "iha ika hisā kara rihā hōvēgā",
+        "ਇਹ ਇਕ ਹਿੱਸਾ ਕਰ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "It will be doing a part",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "look",
+            "noun": "people"
+        }
+    ],
+    [
+        "It will be doing a thing",
+        "iha kujha kara rihā hōvēgā",
+        "ਇਹ ਕੁਝ ਕਰ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "It will be doing a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "look",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "It will be doing work",
+        "iha kama karēgā",
+        "ਇਹ ਕੰਮ ਕਰੇਗਾ",
+        "It will be doing work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "look",
+            "noun": "work"
+        }
+    ],
+    [
+        "It will be saying a word",
+        "iha ika śabada kahi rihā hōvēgā",
+        "ਇਹ ਇੱਕ ਸ਼ਬਦ ਕਹਿ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "It will be saying a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "want",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "It will be getting a book",
+        "iha ika kitāba prāpata kītī jā'ēgī",
+        "ਇਹ ਇੱਕ ਕਿਤਾਬ ਪ੍ਰਾਪਤ ਕੀਤੀ ਜਾਏਗੀ",
+        "It will be getting a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "want",
+            "noun": "family",
+            "det": "its"
+        }
+    ],
+    [
+        "It will be getting a day",
+        "iha ika dina mila rihā hōvēgā",
+        "ਇਹ ਇੱਕ ਦਿਨ ਮਿਲ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "It will be getting a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "want",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "It will be getting a job",
+        "iha naukarī milēgī",
+        "ਇਹ ਨੌਕਰੀ ਮਿਲੇਗੀ",
+        "It will be getting a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "want",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "It will be getting money",
+        "iha paisā milēgā",
+        "ਇਹ ਪੈਸਾ ਮਿਲੇਗਾ",
+        "It will be getting money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "want",
+            "noun": "money"
+        }
+    ],
+    [
+        "It will be getting its mother",
+        "iha isa dī māṁ nū milēgī",
+        "ਇਹ ਇਸ ਦੀ ਮਾਂ ਨੂੰ ਮਿਲੇਗੀ",
+        "It will be getting its mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "want",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "It will be getting a part",
+        "iha ika hisā prāpata karēgā",
+        "ਇਹ ਇੱਕ ਹਿੱਸਾ ਪ੍ਰਾਪਤ ਕਰੇਗਾ",
+        "It will be getting a part",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "want",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "It will be getting a point",
+        "iha ika bidū prāpata karēgā",
+        "ਇਹ ਇਕ ਬਿੰਦੂ ਪ੍ਰਾਪਤ ਕਰੇਗਾ",
+        "It will be getting a point",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "want",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "It will be getting time",
+        "iha samāṁ āvēgā",
+        "ਇਹ ਸਮਾਂ ਆਵੇਗਾ",
+        "It will be getting time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "want",
+            "noun": "work"
+        }
+    ],
+    [
+        "It will be making a home",
+        "iha ika ghara baṇā'ēgā",
+        "ਇਹ ਇੱਕ ਘਰ ਬਣਾਏਗਾ",
+        "It will be making a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "give",
+            "noun": "money"
+        }
+    ],
+    [
+        "It will be making a lot",
+        "iha bahuta kujha baṇā'ēgā",
+        "ਇਹ ਬਹੁਤ ਕੁਝ ਬਣਾਏਗਾ",
+        "It will be making a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "give",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "It will be seeing a point",
+        "iha ika bidū vēkha rihā hōvēgā",
+        "ਇਹ ਇਕ ਬਿੰਦੂ ਵੇਖ ਰਿਹਾ ਹੋਵੇਗਾ",
+        "It will be seeing a point",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "work",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "It will be seeing a problem",
+        "iha ika samasi'ā nū vēkhaṇa jāvēgā",
+        "ਇਹ ਇੱਕ ਸਮੱਸਿਆ ਨੂੰ ਵੇਖਣ ਜਾਵੇਗਾ",
+        "It will be seeing a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "work",
+            "noun": "family",
+            "det": "its"
+        }
+    ],
+    [
+        "It will be seeing a room",
+        "iha ika kamarā dēkhaṇa nū milēgā",
+        "ਇਹ ਇਕ ਕਮਰਾ ਦੇਖਣ ਨੂੰ ਮਿਲੇਗਾ",
+        "It will be seeing a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "work",
+            "noun": "government",
+            "det": "the"
+        }
+    ],
+    [
+        "It will be seeing a student",
+        "iha ika vidi'ārathī nū vēkhaṇā hōvēgā",
+        "ਇਹ ਇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖਣਾ ਹੋਵੇਗਾ",
+        "It will be seeing a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "work",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "It will be seeing water",
+        "iha pāṇī dēkhadā rahēgā",
+        "ਇਹ ਪਾਣੀ ਦੇਖਦਾ ਰਹੇਗਾ",
+        "It will be seeing water",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "work",
+            "noun": "money"
+        }
+    ],
+    [
+        "It will be coming to the country",
+        "iha dēśa ā'uṇa vālā hai",
+        "ਇਹ ਦੇਸ਼ ਆਉਣ ਵਾਲਾ ਹੈ",
+        "It will be coming to the country",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": true,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "it",
+            "verb": "work",
+            "noun": "people"
+        }
+    ]
+]

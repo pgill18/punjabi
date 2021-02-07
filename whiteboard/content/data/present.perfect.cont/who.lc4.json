@@ -1,0 +1,779 @@
+[
+    [
+        "Who has been coming to a room?",
+        "Ika kamarē vica kauṇa ā rihā hai?",
+        "ਇੱਕ ਕਮਰੇ ਵਿੱਚ ਕੌਣ ਆ ਰਿਹਾ ਹੈ?",
+        "Who has been coming to a room?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "be",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has been coming on time?",
+        "Kauṇa samēṁ tē ā rihā hai?",
+        "ਕੌਣ ਸਮੇਂ ਤੇ ਆ ਰਿਹਾ ਹੈ?",
+        "Who has been coming on time?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has been coming to work?",
+        "Kama tē kauṇa ā rihā hai?",
+        "ਕੰਮ ਤੇ ਕੌਣ ਆ ਰਿਹਾ ਹੈ?",
+        "Who has been coming to work?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has been thinking about the group?",
+        "Garupa bārē kauṇa sōca rihā hai?",
+        "ਗਰੁੱਪ ਬਾਰੇ ਕੌਣ ਸੋਚ ਰਿਹਾ ਹੈ?",
+        "Who has been thinking about the group?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "lot"
+        }
+    ],
+    [
+        "Who has been thinking about a job?",
+        "Naukarī bārē kauṇa sōca rihā hai?",
+        "ਨੌਕਰੀ ਬਾਰੇ ਕੌਣ ਸੋਚ ਰਿਹਾ ਹੈ?",
+        "Who has been thinking about a job?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who has been thinking about money?",
+        "Paisē bārē kauṇa sōca rihā hai?",
+        "ਪੈਸੇ ਬਾਰੇ ਕੌਣ ਸੋਚ ਰਿਹਾ ਹੈ?",
+        "Who has been thinking about money?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has been thinking about whose mother?",
+        "Kauṇa kisadī māṁ bārē sōca rihā hai?",
+        "ਕੌਣ ਕਿਸਦੀ ਮਾਂ ਬਾਰੇ ਸੋਚ ਰਿਹਾ ਹੈ?",
+        "Who has been thinking about whose mother?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has been thinking right?",
+        "Kauṇa sahī sōca rihā hai?",
+        "ਕੌਣ ਸਹੀ ਸੋਚ ਰਿਹਾ ਹੈ?",
+        "Who has been thinking right?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has been looking after a business?",
+        "Kārōbāra dī dēkha-bhāla kauṇa kara rihā hai?",
+        "ਕਾਰੋਬਾਰ ਦੀ ਦੇਖ-ਭਾਲ ਕੌਣ ਕਰ ਰਿਹਾ ਹੈ?",
+        "Who has been looking after a business?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has been looking after whose family?",
+        "Kisa dē parivāra dī dēkhabhāla kītī jā rahī hai?",
+        "ਕਿਸ ਦੇ ਪਰਿਵਾਰ ਦੀ ਦੇਖਭਾਲ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ?",
+        "Who has been looking after whose family?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has been looking at a man?",
+        "Kauṇa ādamī vala vēkha rihā hai?",
+        "ਕੌਣ ਆਦਮੀ ਵੱਲ ਵੇਖ ਰਿਹਾ ਹੈ?",
+        "Who has been looking at a man?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has been looking after whose mother?",
+        "Kisadī māṁ dī dēkhabhāla kara rihā hai?",
+        "ਕਿਸਦੀ ਮਾਂ ਦੀ ਦੇਖਭਾਲ ਕਰ ਰਿਹਾ ਹੈ?",
+        "Who has been looking after whose mother?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "lot"
+        }
+    ],
+    [
+        "Who has known a student?",
+        "Kauṇa ika vidi'ārathī nū jāṇadā hai?",
+        "ਕੌਣ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦਾ ਹੈ?",
+        "Who has known a student?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "life"
+        }
+    ],
+    [
+        "Who has known a system?",
+        "Ika sisaṭama kisa nū jāṇadā hai?",
+        "ਇੱਕ ਸਿਸਟਮ ਕਿਸ ਨੂੰ ਜਾਣਦਾ ਹੈ?",
+        "Who has known a system?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has known whose thing?",
+        "Kauṇa jāṇadā hai kisadī cīza?",
+        "ਕੌਣ ਜਾਣਦਾ ਹੈ ਕਿਸਦੀ ਚੀਜ਼?",
+        "Who has known whose thing?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who has known whose way?",
+        "Kauṇa jāṇadā hai kisa dā rasatā?",
+        "ਕੌਣ ਜਾਣਦਾ ਹੈ ਕਿਸ ਦਾ ਰਸਤਾ?",
+        "Who has known whose way?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has known a word?",
+        "Kauṇa ika śabada jāṇadā hai?",
+        "ਕੌਣ ਇੱਕ ਸ਼ਬਦ ਜਾਣਦਾ ਹੈ?",
+        "Who has known a word?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has known whose work?",
+        "Kauṇa jāṇadā hai kisadā kama?",
+        "ਕੌਣ ਜਾਣਦਾ ਹੈ ਕਿਸਦਾ ਕੰਮ?",
+        "Who has known whose work?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has been taking a job?",
+        "Kauṇa naukarī kara rihā hai?",
+        "ਕੌਣ ਨੌਕਰੀ ਕਰ ਰਿਹਾ ਹੈ?",
+        "Who has been taking a job?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has been seeing whose child?",
+        "Kauṇa vēkha rihā hai kisa dē bacē nū?",
+        "ਕੌਣ ਵੇਖ ਰਿਹਾ ਹੈ ਕਿਸ ਦੇ ਬੱਚੇ ਨੂੰ?",
+        "Who has been seeing whose child?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has been seeing whose family?",
+        "Kauṇa vēkha rihā hai kisa dē parivāra nū?",
+        "ਕੌਣ ਵੇਖ ਰਿਹਾ ਹੈ ਕਿਸ ਦੇ ਪਰਿਵਾਰ ਨੂੰ?",
+        "Who has been seeing whose family?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who has been seeing a hand?",
+        "Kauṇa hatha vēkha rihā hai?",
+        "ਕੌਣ ਹੱਥ ਵੇਖ ਰਿਹਾ ਹੈ?",
+        "Who has been seeing a hand?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has been seeing a home?",
+        "Ghara kauṇa vēkha rihā hai?",
+        "ਘਰ ਕੌਣ ਵੇਖ ਰਿਹਾ ਹੈ?",
+        "Who has been seeing a home?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has been seeing whose mother?",
+        "Kauṇa vēkha rihā hai kisadī māṁ nū?",
+        "ਕੌਣ ਵੇਖ ਰਿਹਾ ਹੈ ਕਿਸਦੀ ਮਾਂ ਨੂੰ?",
+        "Who has been seeing whose mother?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has been coming to a job?",
+        "Naukarī tē kauṇa ā rihā hai?",
+        "ਨੌਕਰੀ ਤੇ ਕੌਣ ਆ ਰਿਹਾ ਹੈ?",
+        "Who has been coming to a job?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "try",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has been trying for a month?",
+        "Ika mahīnē tōṁ kauṇa kōśiśa kara rihā hai?",
+        "ਇੱਕ ਮਹੀਨੇ ਤੋਂ ਕੌਣ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ?",
+        "Who has been trying for a month?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "try",
+            "noun": "month",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has been trying for a week?",
+        "Ika hafatē tōṁ kauṇa kōśiśa kara rihā hai?",
+        "ਇੱਕ ਹਫ਼ਤੇ ਤੋਂ ਕੌਣ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ?",
+        "Who has been trying for a week?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "try",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has been trying for a year?",
+        "Ika sāla tōṁ kauṇa kōśiśa kara rihā hai?",
+        "ਇੱਕ ਸਾਲ ਤੋਂ ਕੌਣ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ?",
+        "Who has been trying for a year?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "try",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has been leaving a business?",
+        "Kauṇa kārōbāra chaḍa rihā hai?",
+        "ਕੌਣ ਕਾਰੋਬਾਰ ਛੱਡ ਰਿਹਾ ਹੈ?",
+        "Who has been leaving a business?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has been calling whose mother?",
+        "Kauṇa bulā rihā hai kisadī māṁ nū?",
+        "ਕੌਣ ਬੁਲਾ ਰਿਹਾ ਹੈ ਕਿਸਦੀ ਮਾਂ ਨੂੰ?",
+        "Who has been calling whose mother?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "call",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ]
+]

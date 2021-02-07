@@ -1,0 +1,6052 @@
+[
+    [
+        "You are your child here",
+        "Tusīṁ ithē āpaṇē bacē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਆਪਣੇ ਬੱਚੇ ਹੋ",
+        "You are your child here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "child",
+            "det": "your",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are your child too",
+        "tusīṁ vī āpaṇē bacē hō",
+        "ਤੁਸੀਂ ਵੀ ਆਪਣੇ ਬੱਚੇ ਹੋ",
+        "You are your child too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "child",
+            "det": "your",
+            "adv": "too"
+        }
+    ],
+    [
+        "You are a student here",
+        "tusīṁ ithē ika vidi'ārathī hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇੱਕ ਵਿਦਿਆਰਥੀ ਹੋ",
+        "You are a student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You are a student too",
+        "tusīṁ vī vidi'ārathī hō",
+        "ਤੁਸੀਂ ਵੀ ਵਿਦਿਆਰਥੀ ਹੋ",
+        "You are a student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You have a book now",
+        "tuhāḍē kōla huṇa ika kitāba hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹੁਣ ਇਕ ਕਿਤਾਬ ਹੈ",
+        "You have a book now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "book",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You have a book too",
+        "tuhāḍē kōla vī ika kitāba hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਵੀ ਇੱਕ ਕਿਤਾਬ ਹੈ",
+        "You have a book too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "book",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You have your child now",
+        "huṇa tuhāḍā bacā hai",
+        "ਹੁਣ ਤੁਹਾਡਾ ਬੱਚਾ ਹੈ",
+        "You have your child now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "child",
+            "det": "your",
+            "adv": "now"
+        }
+    ],
+    [
+        "You have your child too",
+        "tuhāḍā bacā vī hai",
+        "ਤੁਹਾਡਾ ਬੱਚਾ ਵੀ ਹੈ",
+        "You have your child too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "child",
+            "det": "your",
+            "adv": "too"
+        }
+    ],
+    [
+        "You have your family now",
+        "huṇa tuhāḍā parivāra hai",
+        "ਹੁਣ ਤੁਹਾਡਾ ਪਰਿਵਾਰ ਹੈ",
+        "You have your family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "family",
+            "det": "your",
+            "adv": "now"
+        }
+    ],
+    [
+        "You have your family too",
+        "tuhāḍā āpaṇā parivāra vī hai",
+        "ਤੁਹਾਡਾ ਆਪਣਾ ਪਰਿਵਾਰ ਵੀ ਹੈ",
+        "You have your family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "family",
+            "det": "your",
+            "adv": "too"
+        }
+    ],
+    [
+        "You have a hand now",
+        "tuhāḍā huṇa ika hatha hai",
+        "ਤੁਹਾਡਾ ਹੁਣ ਇਕ ਹੱਥ ਹੈ",
+        "You have a hand now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "hand",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You have a hand too",
+        "tuhāḍā vī ika hatha hai",
+        "ਤੁਹਾਡਾ ਵੀ ਇੱਕ ਹੱਥ ਹੈ",
+        "You have a hand too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "hand",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You have a home now",
+        "tuhāḍē kōla huṇa ika ghara hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹੁਣ ਇਕ ਘਰ ਹੈ",
+        "You have a home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "home",
+            "adv": "now"
+        }
+    ],
+    [
+        "You have a home too",
+        "tuhāḍē kōla vī ika ghara hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਵੀ ਇੱਕ ਘਰ ਹੈ",
+        "You have a home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "home",
+            "adv": "too"
+        }
+    ],
+    [
+        "You have your mother now",
+        "Huṇa tuhāḍī māṁ hai",
+        "ਹੁਣ ਤੁਹਾਡੀ ਮਾਂ ਹੈ",
+        "You have your mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "det": "your",
+            "adv": "now"
+        }
+    ],
+    [
+        "You have your mother too",
+        "tuhāḍī māṁ vī hai",
+        "ਤੁਹਾਡੀ ਮਾਂ ਵੀ ਹੈ",
+        "You have your mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "det": "your",
+            "adv": "too"
+        }
+    ],
+    [
+        "You have a room now",
+        "tuhāḍē kōla huṇa ika kamarā hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹੁਣ ਇੱਕ ਕਮਰਾ ਹੈ",
+        "You have a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You have a room too",
+        "tuhāḍē kōla ika kamarā vī hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਕਮਰਾ ਵੀ ਹੈ",
+        "You have a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You have a thing now",
+        "tuhāḍē kōla huṇa ika cīza hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹੁਣ ਇਕ ਚੀਜ਼ ਹੈ",
+        "You have a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You have a thing too",
+        "tuhāḍē kōla vī ika cīza hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਵੀ ਇਕ ਚੀਜ਼ ਹੈ",
+        "You have a thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You have water now",
+        "tuhāḍē kōla huṇa pāṇī hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹੁਣ ਪਾਣੀ ਹੈ",
+        "You have water now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "water",
+            "adv": "now"
+        }
+    ],
+    [
+        "You have water too",
+        "tuhāḍē kōla vī pāṇī hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਵੀ ਪਾਣੀ ਹੈ",
+        "You have water too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "water",
+            "adv": "too"
+        }
+    ],
+    [
+        "You have a week now",
+        "tuhāḍē kōla huṇa ika hafatā hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹੁਣ ਇਕ ਹਫ਼ਤਾ ਹੈ",
+        "You have a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You have a week too",
+        "tuhāḍē kōla ika hafatā vī hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇਕ ਹਫ਼ਤਾ ਵੀ ਹੈ",
+        "You have a week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You have your work now",
+        "Tuhāḍē kōla huṇa tuhāḍā kama hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹੁਣ ਤੁਹਾਡਾ ਕੰਮ ਹੈ",
+        "You have your work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "You have your work too",
+        "tuhāḍē kōla vī tuhāḍā kama hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਵੀ ਤੁਹਾਡਾ ਕੰਮ ਹੈ",
+        "You have your work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "You do a thing now",
+        "tusīṁ huṇa ika kama karō",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਕੰਮ ਕਰੋ",
+        "You do a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You do a thing well",
+        "tusīṁ ika kama cagī tar'hāṁ karadē hō",
+        "ਤੁਸੀਂ ਇਕ ਕੰਮ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਰਦੇ ਹੋ",
+        "You do a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You do work now",
+        "tusīṁ huṇa kama karadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਕੰਮ ਕਰਦੇ ਹੋ",
+        "You do work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "You do work well",
+        "tusīṁ vadhī'ā kama karadē hō",
+        "ਤੁਸੀਂ ਵਧੀਆ ਕੰਮ ਕਰਦੇ ਹੋ",
+        "You do work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "You go to your family here",
+        "tusīṁ ithē āpaṇē parivāra kōla jāndē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਜਾਂਦੇ ਹੋ",
+        "You go to your family here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "family",
+            "det": "your",
+            "adv": "here"
+        }
+    ],
+    [
+        "You go to your family now",
+        "tusīṁ huṇa āpaṇē parivāra kōla jā'ō",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਜਾਓ",
+        "You go to your family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "family",
+            "det": "your",
+            "adv": "now"
+        }
+    ],
+    [
+        "You go to your family well",
+        "tusīṁ cagī tar'hāṁ āpaṇē parivāra kōla jāndē hō",
+        "ਤੁਸੀਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਜਾਂਦੇ ਹੋ",
+        "You go to your family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "family",
+            "det": "your",
+            "adv": "well"
+        }
+    ],
+    [
+        "You go to your family too",
+        "tusīṁ āpaṇē parivāra kōla vī jā'ō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਵੀ ਜਾਓ",
+        "You go to your family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "family",
+            "det": "your",
+            "adv": "too"
+        }
+    ],
+    [
+        "You go home here",
+        "tusīṁ ithē ghara jā'ō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਘਰ ਜਾਓ",
+        "You go home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "home",
+            "adv": "here"
+        }
+    ],
+    [
+        "You go home now",
+        "tusīṁ huṇa ghara jā'ō",
+        "ਤੁਸੀਂ ਹੁਣ ਘਰ ਜਾਓ",
+        "You go home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "home",
+            "adv": "now"
+        }
+    ],
+    [
+        "You go home well",
+        "tusīṁ cagī tar'hāṁ ghara jā'ō",
+        "ਤੁਸੀਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਘਰ ਜਾਓ",
+        "You go home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "home",
+            "adv": "well"
+        }
+    ],
+    [
+        "You go home too",
+        "tusīṁ vī ghara calē jā'ō",
+        "ਤੁਸੀਂ ਵੀ ਘਰ ਚਲੇ ਜਾਓ",
+        "You go home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "home",
+            "adv": "too"
+        }
+    ],
+    [
+        "You go to your mother here",
+        "tusīṁ ithē āpaṇī māṁ kōla jā'ō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਆਪਣੀ ਮਾਂ ਕੋਲ ਜਾਓ",
+        "You go to your mother here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "mother",
+            "det": "your",
+            "adv": "here"
+        }
+    ],
+    [
+        "You go to your mother now",
+        "Tusīṁ huṇa āpaṇī māṁ kōla jā'ō",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੀ ਮਾਂ ਕੋਲ ਜਾਓ",
+        "You go to your mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "mother",
+            "det": "your",
+            "adv": "now"
+        }
+    ],
+    [
+        "You go to your mother well",
+        "tusīṁ cagī tar'hāṁ āpaṇī māṁ kōla jāndē hō",
+        "ਤੁਸੀਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਪਣੀ ਮਾਂ ਕੋਲ ਜਾਂਦੇ ਹੋ",
+        "You go to your mother well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "mother",
+            "det": "your",
+            "adv": "well"
+        }
+    ],
+    [
+        "You go to your mother too",
+        "tusīṁ āpaṇī māṁ kōla vī jā'ō",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਕੋਲ ਵੀ ਜਾਓ",
+        "You go to your mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "mother",
+            "det": "your",
+            "adv": "too"
+        }
+    ],
+    [
+        "You go to a room here",
+        "tusīṁ ithē ika kamarē vica jā'ō",
+        "ਤੁਸੀਂ ਇਥੇ ਇਕ ਕਮਰੇ ਵਿਚ ਜਾਓ",
+        "You go to a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You go to a room now",
+        "tusīṁ huṇa ika kamarē vica jā'ō",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਕਮਰੇ ਵਿਚ ਜਾਓ",
+        "You go to a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You go to a room well",
+        "tusīṁ ika kamarē vica cagī tar'hāṁ jāndē hō",
+        "ਤੁਸੀਂ ਇਕ ਕਮਰੇ ਵਿਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਂਦੇ ਹੋ",
+        "You go to a room well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You go to a room too",
+        "tusīṁ ika kamarē vica vī jā'ō",
+        "ਤੁਸੀਂ ਇਕ ਕਮਰੇ ਵਿਚ ਵੀ ਜਾਓ",
+        "You go to a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You go to a student here",
+        "tusīṁ ithē ika vidi'ārathī kōla jāndē hō",
+        "ਤੁਸੀਂ ਇਥੇ ਇਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾਂਦੇ ਹੋ",
+        "You go to a student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You go to a student now",
+        "tusīṁ huṇa ika vidi'ārathī kōla jā'ō",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾਓ",
+        "You go to a student now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You go to a student well",
+        "tusīṁ cagī tar'hāṁ ika vidi'ārathī kōla jāndē hō",
+        "ਤੁਸੀਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾਂਦੇ ਹੋ",
+        "You go to a student well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You go to a student too",
+        "tusīṁ vī ika vidi'ārathī kōla jāndē hō",
+        "ਤੁਸੀਂ ਵੀ ਇਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾਂਦੇ ਹੋ",
+        "You go to a student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You go for a week here",
+        "tusīṁ ithē ika hafatē la'ī jā'ō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇਕ ਹਫ਼ਤੇ ਲਈ ਜਾਓ",
+        "You go for a week here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You go for a week now",
+        "tusīṁ huṇa ika hafatē la'ī jā'ō",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਹਫ਼ਤੇ ਲਈ ਜਾਓ",
+        "You go for a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You go for a week well",
+        "tusīṁ ika haphatē la'ī cagī tar'hāṁ calō",
+        "ਤੁਸੀਂ ਇਕ ਹਫਤੇ ਲਈ ਚੰਗੀ ਤਰ੍ਹਾਂ ਚੱਲੋ",
+        "You go for a week well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You go for a week too",
+        "Tusīṁ vī ika hafatē la'ī jā'ō",
+        "ਤੁਸੀਂ ਵੀ ਇਕ ਹਫ਼ਤੇ ਲਈ ਜਾਓ",
+        "You go for a week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You go to work here",
+        "tusīṁ ithē kama tē jā'u",
+        "ਤੁਸੀਂ ਇਥੇ ਕੰਮ ਤੇ ਜਾਉ",
+        "You go to work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "You go to work now",
+        "tusīṁ huṇa kama tē jā'ō",
+        "ਤੁਸੀਂ ਹੁਣ ਕੰਮ ਤੇ ਜਾਓ",
+        "You go to work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "You go to work well",
+        "tusīṁ vadhī'ā kama karana la'ī jāndē hō",
+        "ਤੁਸੀਂ ਵਧੀਆ ਕੰਮ ਕਰਨ ਲਈ ਜਾਂਦੇ ਹੋ",
+        "You go to work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "You go to work too",
+        "tusīṁ kama'tē vī jāndē hō",
+        "ਤੁਸੀਂ ਕੰਮ 'ਤੇ ਵੀ ਜਾਂਦੇ ਹੋ",
+        "You go to work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know your child here",
+        "tusīṁ āpaṇē bacē nū ithē jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਇੱਥੇ ਜਾਣਦੇ ਹੋ",
+        "You know your child here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "child",
+            "det": "your",
+            "adv": "here"
+        }
+    ],
+    [
+        "You know your child now",
+        "tusīṁ huṇa āpaṇē bacē nū jāṇadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know your child now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "child",
+            "det": "your",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know your child well",
+        "tusīṁ āpaṇē bacē nū cagī tar'hāṁ jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹੋ",
+        "You know your child well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "child",
+            "det": "your",
+            "adv": "well"
+        }
+    ],
+    [
+        "You know your child too",
+        "tusīṁ āpaṇē bacē nū vī jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੀ ਜਾਣਦੇ ਹੋ",
+        "You know your child too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "child",
+            "det": "your",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know your family here",
+        "tusīṁ āpaṇē parivāra nū ithē jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਇੱਥੇ ਜਾਣਦੇ ਹੋ",
+        "You know your family here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "family",
+            "det": "your",
+            "adv": "here"
+        }
+    ],
+    [
+        "You know your family now",
+        "tusīṁ huṇa āpaṇē parivāra nū jāṇadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know your family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "family",
+            "det": "your",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know your family well",
+        "tusīṁ āpaṇē parivāra nū cagī tar'hāṁ jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹੋ",
+        "You know your family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "family",
+            "det": "your",
+            "adv": "well"
+        }
+    ],
+    [
+        "You know your family too",
+        "tusīṁ āpaṇē parivāra nū vī jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਵੀ ਜਾਣਦੇ ਹੋ",
+        "You know your family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "family",
+            "det": "your",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know a man here",
+        "tusīṁ ithē ika ādamī nū jāṇadē hō",
+        "ਤੁਸੀਂ ਇਥੇ ਇਕ ਆਦਮੀ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know a man here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You know a man now",
+        "tusīṁ huṇa ika ādamī nū jāṇadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਆਦਮੀ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know a man now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know a man well",
+        "tusīṁ ika ādamī nū cagī tar'hāṁ jāṇadē hō",
+        "ਤੁਸੀਂ ਇਕ ਆਦਮੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹੋ",
+        "You know a man well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You know a man too",
+        "tusīṁ ika ādamī nū vī jāṇadē hō",
+        "ਤੁਸੀਂ ਇਕ ਆਦਮੀ ਨੂੰ ਵੀ ਜਾਣਦੇ ਹੋ",
+        "You know a man too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know your mother here",
+        "tusīṁ āpaṇī māṁ nū ithē jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਇੱਥੇ ਜਾਣਦੇ ਹੋ",
+        "You know your mother here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "mother",
+            "det": "your",
+            "adv": "here"
+        }
+    ],
+    [
+        "You know your mother now",
+        "tusīṁ huṇa āpaṇī māṁ nū jāṇadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੀ ਮਾਂ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know your mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "mother",
+            "det": "your",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know your mother well",
+        "tusīṁ āpaṇī māṁ nū cagī tar'hāṁ jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹੋ",
+        "You know your mother well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "mother",
+            "det": "your",
+            "adv": "well"
+        }
+    ],
+    [
+        "You know your mother too",
+        "tusīṁ āpaṇī māṁ nū vī jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਵੀ ਜਾਣਦੇ ਹੋ",
+        "You know your mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "mother",
+            "det": "your",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know a student here",
+        "tusīṁ ithē ika vidi'ārathī nū jāṇadē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know a student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You know a student now",
+        "tusīṁ huṇa ika vidi'ārathī nū jāṇadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know a student now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know a student well",
+        "tusīṁ ika vidi'ārathī nū cagī tar'hāṁ jāṇadē hō",
+        "ਤੁਸੀਂ ਇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹੋ",
+        "You know a student well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You know a student too",
+        "tusīṁ ika vidi'ārathī nū vī jāṇadē hō",
+        "ਤੁਸੀਂ ਇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੀ ਜਾਣਦੇ ਹੋ",
+        "You know a student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know your thing here",
+        "tusīṁ āpaṇī cīza nū ithē jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੀ ਚੀਜ਼ ਨੂੰ ਇੱਥੇ ਜਾਣਦੇ ਹੋ",
+        "You know your thing here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You know your thing now",
+        "tusīṁ huṇa āpaṇī cīza nū jāṇadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੀ ਚੀਜ਼ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know your thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know your thing well",
+        "tusīṁ āpaṇī cīza nū cagī tar'hāṁ jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੀ ਚੀਜ਼ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹੋ",
+        "You know your thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You know your thing too",
+        "tusīṁ āpaṇī gala vī jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੀ ਗੱਲ ਵੀ ਜਾਣਦੇ ਹੋ",
+        "You know your thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know a woman here",
+        "tusīṁ ithē ika knowrata nū jāṇadē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇੱਕ knowਰਤ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know a woman here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You know a woman now",
+        "Tusīṁ huṇa ika knowrata nū jāṇadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ knowਰਤ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know a woman now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know a woman well",
+        "tusīṁ ika womanrata nū cagī tar'hāṁ jāṇadē hō",
+        "ਤੁਸੀਂ ਇਕ womanਰਤ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹੋ",
+        "You know a woman well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You know a woman too",
+        "tusīṁ ika womanrata nū vī jāṇadē hō",
+        "ਤੁਸੀਂ ਇਕ womanਰਤ ਨੂੰ ਵੀ ਜਾਣਦੇ ਹੋ",
+        "You know a woman too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know a word here",
+        "tusīṁ ithē ika śabada jāṇadē hō",
+        "ਤੁਸੀਂ ਇਥੇ ਇਕ ਸ਼ਬਦ ਜਾਣਦੇ ਹੋ",
+        "You know a word here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You know a word now",
+        "tusīṁ huṇa ika śabada jāṇadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਸ਼ਬਦ ਜਾਣਦੇ ਹੋ",
+        "You know a word now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know a word well",
+        "tusīṁ ika śabada cagī tar'hāṁ jāṇadē hō",
+        "ਤੁਸੀਂ ਇਕ ਸ਼ਬਦ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹੋ",
+        "You know a word well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You know a word too",
+        "tusīṁ ika śabada vī jāṇadē hō",
+        "ਤੁਸੀਂ ਇਕ ਸ਼ਬਦ ਵੀ ਜਾਣਦੇ ਹੋ",
+        "You know a word too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You know your work here",
+        "tusīṁ āpaṇē kama nū ithē jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਕੰਮ ਨੂੰ ਇੱਥੇ ਜਾਣਦੇ ਹੋ",
+        "You know your work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "You know your work now",
+        "tusīṁ huṇa āpaṇē kama nū jāṇadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੇ ਕੰਮ ਨੂੰ ਜਾਣਦੇ ਹੋ",
+        "You know your work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "You know your work well",
+        "tusīṁ āpaṇē kama nū cagī tar'hāṁ jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਕੰਮ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੇ ਹੋ",
+        "You know your work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "You know your work too",
+        "tusīṁ āpaṇē kama nū vī jāṇadē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਕੰਮ ਨੂੰ ਵੀ ਜਾਣਦੇ ਹੋ",
+        "You know your work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "You see a book here",
+        "tusīṁ ithē ika kitāba vēkha sakadē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇਕ ਕਿਤਾਬ ਵੇਖ ਸਕਦੇ ਹੋ",
+        "You see a book here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You see a book now",
+        "tusīṁ huṇa ika kitāba vēkhōgē",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਕਿਤਾਬ ਵੇਖੋਗੇ",
+        "You see a book now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You see a book well",
+        "tusīṁ ika kitāba cagī tar'hāṁ vēkha sakadē hō",
+        "ਤੁਸੀਂ ਇਕ ਕਿਤਾਬ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਸਕਦੇ ਹੋ",
+        "You see a book well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You see a book too",
+        "tusīṁ ika kitāba vī vēkhō",
+        "ਤੁਸੀਂ ਇਕ ਕਿਤਾਬ ਵੀ ਵੇਖੋ",
+        "You see a book too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You see your child here",
+        "tusīṁ āpaṇē bacē nū ithē dēkhō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਇੱਥੇ ਦੇਖੋ",
+        "You see your child here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "child",
+            "det": "your",
+            "adv": "here"
+        }
+    ],
+    [
+        "You see your child now",
+        "Tusīṁ huṇa āpaṇē bacē nū vēkhō",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੇਖੋ",
+        "You see your child now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "child",
+            "det": "your",
+            "adv": "now"
+        }
+    ],
+    [
+        "You see your child well",
+        "tusīṁ āpaṇē bacē nū cagī tar'hāṁ vēkhadē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਦੇ ਹੋ",
+        "You see your child well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "child",
+            "det": "your",
+            "adv": "well"
+        }
+    ],
+    [
+        "You see your child too",
+        "tusīṁ āpaṇē bacē nū vī dēkhō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੀ ਦੇਖੋ",
+        "You see your child too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "child",
+            "det": "your",
+            "adv": "too"
+        }
+    ],
+    [
+        "You see your family here",
+        "tusīṁ āpaṇē parivāra nū ithē dēkhō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਇੱਥੇ ਦੇਖੋ",
+        "You see your family here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "family",
+            "det": "your",
+            "adv": "here"
+        }
+    ],
+    [
+        "You see your family now",
+        "tusīṁ huṇa āpaṇē parivāra nū vēkhō",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਵੇਖੋ",
+        "You see your family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "family",
+            "det": "your",
+            "adv": "now"
+        }
+    ],
+    [
+        "You see your family well",
+        "tusīṁ āpaṇē parivāra nū cagī tarāṁ vēkhadē hō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਚੰਗੀ ਤਰਾਂ ਵੇਖਦੇ ਹੋ",
+        "You see your family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "family",
+            "det": "your",
+            "adv": "well"
+        }
+    ],
+    [
+        "You see your family too",
+        "tusīṁ āpaṇē parivāra nū vī dēkhō",
+        "ਤੁਸੀਂ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਵੀ ਦੇਖੋ",
+        "You see your family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "family",
+            "det": "your",
+            "adv": "too"
+        }
+    ],
+    [
+        "You see a hand here",
+        "tusīṁ ithē ika hatha vēkha sakadē hō",
+        "ਤੁਸੀਂ ਇਥੇ ਇਕ ਹੱਥ ਵੇਖ ਸਕਦੇ ਹੋ",
+        "You see a hand here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You see a hand now",
+        "tusīṁ huṇa ika hatha vēkha sakadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਹੱਥ ਵੇਖ ਸਕਦੇ ਹੋ",
+        "You see a hand now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You see a hand well",
+        "tusīṁ ika hatha cagī tar'hāṁ vēkhadē hō",
+        "ਤੁਸੀਂ ਇਕ ਹੱਥ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਦੇ ਹੋ",
+        "You see a hand well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You see a hand too",
+        "tusīṁ ika hatha vī dēkhō",
+        "ਤੁਸੀਂ ਇਕ ਹੱਥ ਵੀ ਦੇਖੋ",
+        "You see a hand too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You see a home here",
+        "tusīṁ ithē ika ghara vēkha sakadē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇਕ ਘਰ ਵੇਖ ਸਕਦੇ ਹੋ",
+        "You see a home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "home",
+            "adv": "here"
+        }
+    ],
+    [
+        "You see a home now",
+        "tusīṁ huṇa ika ghara vēkha sakadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਘਰ ਵੇਖ ਸਕਦੇ ਹੋ",
+        "You see a home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "home",
+            "adv": "now"
+        }
+    ],
+    [
+        "You see a home well",
+        "tusīṁ ika ghara cagī tar'hāṁ vēkhadē hō",
+        "ਤੁਸੀਂ ਇਕ ਘਰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਦੇ ਹੋ",
+        "You see a home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "home",
+            "adv": "well"
+        }
+    ],
+    [
+        "You see a home too",
+        "tusīṁ ika ghara vī dēkhō",
+        "ਤੁਸੀਂ ਇਕ ਘਰ ਵੀ ਦੇਖੋ",
+        "You see a home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "home",
+            "adv": "too"
+        }
+    ],
+    [
+        "You see a man here",
+        "tusīṁ ithē ika ādamī nū vēkhadē hō",
+        "ਤੁਸੀਂ ਇਥੇ ਇਕ ਆਦਮੀ ਨੂੰ ਵੇਖਦੇ ਹੋ",
+        "You see a man here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You see a man now",
+        "tusīṁ huṇa ika ādamī nū vēkhadē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਆਦਮੀ ਨੂੰ ਵੇਖਦੇ ਹੋ",
+        "You see a man now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You see a man well",
+        "tusīṁ ika ādamī nū cagī tar'hāṁ vēkhadē hō",
+        "ਤੁਸੀਂ ਇਕ ਆਦਮੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਦੇ ਹੋ",
+        "You see a man well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You see a man too",
+        "tusīṁ ika ādamī nū vī dēkhō",
+        "ਤੁਸੀਂ ਇਕ ਆਦਮੀ ਨੂੰ ਵੀ ਦੇਖੋ",
+        "You see a man too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You see your mother here",
+        "tusīṁ āpaṇī māṁ nū ithē dēkhō",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਇਥੇ ਦੇਖੋ",
+        "You see your mother here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "mother",
+            "det": "your",
+            "adv": "here"
+        }
+    ],
+    [
+        "You see your mother now",
+        "tusīṁ huṇa āpaṇī māṁ nū vēkhō",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੀ ਮਾਂ ਨੂੰ ਵੇਖੋ",
+        "You see your mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "mother",
+            "det": "your",
+            "adv": "now"
+        }
+    ],
+    [
+        "You see your mother well",
+        "tusīṁ āpaṇī māṁ nū cagī tar'hāṁ vēkhadē hō",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਦੇ ਹੋ",
+        "You see your mother well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "mother",
+            "det": "your",
+            "adv": "well"
+        }
+    ],
+    [
+        "You see your mother too",
+        "tusīṁ āpaṇī māṁ nū vī dēkhō",
+        "ਤੁਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਵੀ ਦੇਖੋ",
+        "You see your mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "mother",
+            "det": "your",
+            "adv": "too"
+        }
+    ],
+    [
+        "You see a room here",
+        "tusīṁ ithē ika kamarā vēkha sakadē hō",
+        "ਤੁਸੀਂ ਇਥੇ ਇਕ ਕਮਰਾ ਵੇਖ ਸਕਦੇ ਹੋ",
+        "You see a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You see a room now",
+        "tusīṁ ika kamarā huṇa dēkhōgē",
+        "ਤੁਸੀਂ ਇਕ ਕਮਰਾ ਹੁਣ ਦੇਖੋਗੇ",
+        "You see a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You see a room well",
+        "tusīṁ ika kamarā cagī tar'hāṁ vēkhōgē",
+        "ਤੁਸੀਂ ਇਕ ਕਮਰਾ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖੋਗੇ",
+        "You see a room well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You see a room too",
+        "tusīṁ ika kamarā vī dēkhōgē",
+        "ਤੁਸੀਂ ਇਕ ਕਮਰਾ ਵੀ ਦੇਖੋਗੇ",
+        "You see a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You see a student here",
+        "tusīṁ ithē ika vidi'ārathī nū vēkhadē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖਦੇ ਹੋ",
+        "You see a student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You see a student now",
+        "tusīṁ huṇa ika vidi'ārathī nū vēkhō",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖੋ",
+        "You see a student now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You see a student well",
+        "tusīṁ ika vidi'ārathī nū cagī tar'hāṁ vēkhadē hō",
+        "ਤੁਸੀਂ ਇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਦੇ ਹੋ",
+        "You see a student well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You see a student too",
+        "tusīṁ vī ika vidi'ārathī nū vēkhadē hō",
+        "ਤੁਸੀਂ ਵੀ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖਦੇ ਹੋ",
+        "You see a student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You see a thing here",
+        "tusīṁ ithē ika cīza vēkha sakadē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇਕ ਚੀਜ਼ ਵੇਖ ਸਕਦੇ ਹੋ",
+        "You see a thing here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You see a thing now",
+        "Tusīṁ huṇa ika cīza vēkhō",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਚੀਜ਼ ਵੇਖੋ",
+        "You see a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You see a thing well",
+        "tusīṁ ika cīza cagī tar'hāṁ dēkhadē hō",
+        "ਤੁਸੀਂ ਇਕ ਚੀਜ਼ ਚੰਗੀ ਤਰ੍ਹਾਂ ਦੇਖਦੇ ਹੋ",
+        "You see a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You see a thing too",
+        "tusīṁ ika cīza vī vēkhō",
+        "ਤੁਸੀਂ ਇਕ ਚੀਜ਼ ਵੀ ਵੇਖੋ",
+        "You see a thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You see water here",
+        "tusīṁ ithē pāṇī dēkha sakadē hō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਪਾਣੀ ਦੇਖ ਸਕਦੇ ਹੋ",
+        "You see water here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "water",
+            "adv": "here"
+        }
+    ],
+    [
+        "You see water now",
+        "tusīṁ huṇa pāṇī dēkhō",
+        "ਤੁਸੀਂ ਹੁਣ ਪਾਣੀ ਦੇਖੋ",
+        "You see water now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "water",
+            "adv": "now"
+        }
+    ],
+    [
+        "You see water well",
+        "tusīṁ pāṇī nū cagī tar'hāṁ dēkhadē hō",
+        "ਤੁਸੀਂ ਪਾਣੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਦੇਖਦੇ ਹੋ",
+        "You see water well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "water",
+            "adv": "well"
+        }
+    ],
+    [
+        "You see water too",
+        "tusīṁ pāṇī vī dēkhō",
+        "ਤੁਸੀਂ ਪਾਣੀ ਵੀ ਦੇਖੋ",
+        "You see water too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "water",
+            "adv": "too"
+        }
+    ],
+    [
+        "You see a woman here",
+        "tusīṁ ika seerata nū ithē dēkhō",
+        "ਤੁਸੀਂ ਇਕ seeਰਤ ਨੂੰ ਇੱਥੇ ਦੇਖੋ",
+        "You see a woman here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You see a woman now",
+        "tusīṁ huṇa ika seerata dēkhō",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ seeਰਤ ਦੇਖੋ",
+        "You see a woman now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You see a woman well",
+        "tusīṁ ika womanrata nū cagī tarāṁ vēkhadē hō",
+        "ਤੁਸੀਂ ਇਕ womanਰਤ ਨੂੰ ਚੰਗੀ ਤਰਾਂ ਵੇਖਦੇ ਹੋ",
+        "You see a woman well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You see a woman too",
+        "tusīṁ ika womanrata vī dēkhō",
+        "ਤੁਸੀਂ ਇਕ womanਰਤ ਵੀ ਦੇਖੋ",
+        "You see a woman too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You come to your family here",
+        "tusīṁ ithē āpaṇē parivāra kōla ā'ō",
+        "ਤੁਸੀਂ ਇਥੇ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਆਓ",
+        "You come to your family here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "family",
+            "det": "your",
+            "adv": "here"
+        }
+    ],
+    [
+        "You come to your family now",
+        "tusīṁ huṇa āpaṇē parivāra kōla ā'ō",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਆਓ",
+        "You come to your family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "family",
+            "det": "your",
+            "adv": "now"
+        }
+    ],
+    [
+        "You come to your family well",
+        "tusīṁ cagī tar'hāṁ āpaṇē parivāra kōla ā'undē hō",
+        "ਤੁਸੀਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਆਉਂਦੇ ਹੋ",
+        "You come to your family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "family",
+            "det": "your",
+            "adv": "well"
+        }
+    ],
+    [
+        "You come to your family too",
+        "tusīṁ vī āpaṇē parivāra kōla ā'ō",
+        "ਤੁਸੀਂ ਵੀ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਆਓ",
+        "You come to your family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "family",
+            "det": "your",
+            "adv": "too"
+        }
+    ],
+    [
+        "You come home here",
+        "tusīṁ ithē ghara ā'ō",
+        "ਤੁਸੀਂ ਇਥੇ ਘਰ ਆਓ",
+        "You come home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "home",
+            "adv": "here"
+        }
+    ],
+    [
+        "You come home now",
+        "tusīṁ huṇa ghara ā'ō",
+        "ਤੁਸੀਂ ਹੁਣ ਘਰ ਆਓ",
+        "You come home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "home",
+            "adv": "now"
+        }
+    ],
+    [
+        "You come home well",
+        "tusīṁ cagē ghara ā'ō",
+        "ਤੁਸੀਂ ਚੰਗੇ ਘਰ ਆਓ",
+        "You come home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "home",
+            "adv": "well"
+        }
+    ],
+    [
+        "You come home too",
+        "tusīṁ vī ghara ā'ō",
+        "ਤੁਸੀਂ ਵੀ ਘਰ ਆਓ",
+        "You come home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "home",
+            "adv": "too"
+        }
+    ],
+    [
+        "You come to your mother here",
+        "tusīṁ ithē āpaṇī māṁ dē kōla ā'ō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਆਪਣੀ ਮਾਂ ਦੇ ਕੋਲ ਆਓ",
+        "You come to your mother here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "mother",
+            "det": "your",
+            "adv": "here"
+        }
+    ],
+    [
+        "You come to your mother now",
+        "tusīṁ huṇa āpaṇī māṁ kōla ā'ō",
+        "ਤੁਸੀਂ ਹੁਣ ਆਪਣੀ ਮਾਂ ਕੋਲ ਆਓ",
+        "You come to your mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "mother",
+            "det": "your",
+            "adv": "now"
+        }
+    ],
+    [
+        "You come to your mother well",
+        "tusīṁ cagī tar'hāṁ āpaṇī māṁ kōla ā'undē hō",
+        "ਤੁਸੀਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਪਣੀ ਮਾਂ ਕੋਲ ਆਉਂਦੇ ਹੋ",
+        "You come to your mother well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "mother",
+            "det": "your",
+            "adv": "well"
+        }
+    ],
+    [
+        "You come to your mother too",
+        "tusīṁ vī āpaṇī māṁ kōla ā'ō",
+        "ਤੁਸੀਂ ਵੀ ਆਪਣੀ ਮਾਂ ਕੋਲ ਆਓ",
+        "You come to your mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "mother",
+            "det": "your",
+            "adv": "too"
+        }
+    ],
+    [
+        "You come to a room here",
+        "tusīṁ ithē ika kamarē vica ā'ō",
+        "ਤੁਸੀਂ ਇਥੇ ਇਕ ਕਮਰੇ ਵਿਚ ਆਓ",
+        "You come to a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You come to a room now",
+        "tusīṁ huṇa ika kamarē vica ā'ō",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਕਮਰੇ ਵਿਚ ਆਓ",
+        "You come to a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You come to a room well",
+        "tusīṁ ika kamarē vica cagē ā'undē hō",
+        "ਤੁਸੀਂ ਇਕ ਕਮਰੇ ਵਿਚ ਚੰਗੇ ਆਉਂਦੇ ਹੋ",
+        "You come to a room well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You come to a room too",
+        "tusīṁ vī ika kamarē vica ā'ō",
+        "ਤੁਸੀਂ ਵੀ ਇਕ ਕਮਰੇ ਵਿਚ ਆਓ",
+        "You come to a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You come for a week here",
+        "tusīṁ ithē ika hafatē la'ī ā'ē hō",
+        "ਤੁਸੀਂ ਇਥੇ ਇਕ ਹਫ਼ਤੇ ਲਈ ਆਏ ਹੋ",
+        "You come for a week here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You come for a week now",
+        "Tusīṁ huṇa ika hafatē la'ī ā'ē hō",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਹਫ਼ਤੇ ਲਈ ਆਏ ਹੋ",
+        "You come for a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You come for a week well",
+        "tusīṁ ika haphatē la'ī cagī tar'hāṁ ā'undē hō",
+        "ਤੁਸੀਂ ਇਕ ਹਫਤੇ ਲਈ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਉਂਦੇ ਹੋ",
+        "You come for a week well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You come for a week too",
+        "tusīṁ vī ika hafatē la'ī ā'ō",
+        "ਤੁਸੀਂ ਵੀ ਇਕ ਹਫ਼ਤੇ ਲਈ ਆਓ",
+        "You come for a week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You come to work here",
+        "tusīṁ ithē kama karana ā'undē hō",
+        "ਤੁਸੀਂ ਇਥੇ ਕੰਮ ਕਰਨ ਆਉਂਦੇ ਹੋ",
+        "You come to work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "You come to work now",
+        "tusīṁ huṇa kama tē ā'ō",
+        "ਤੁਸੀਂ ਹੁਣ ਕੰਮ ਤੇ ਆਓ",
+        "You come to work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "You come to work well",
+        "tusīṁ cagē kama karana ā'undē hō",
+        "ਤੁਸੀਂ ਚੰਗੇ ਕੰਮ ਕਰਨ ਆਉਂਦੇ ਹੋ",
+        "You come to work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "You come to work too",
+        "tusīṁ vī kama tē ā'undē hō",
+        "ਤੁਸੀਂ ਵੀ ਕੰਮ ਤੇ ਆਉਂਦੇ ਹੋ",
+        "You come to work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "You use a book here",
+        "tusīṁ ithē ika kitāba dī varatōṁ karō",
+        "ਤੁਸੀਂ ਇਥੇ ਇਕ ਕਿਤਾਬ ਦੀ ਵਰਤੋਂ ਕਰੋ",
+        "You use a book here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You use a book now",
+        "tusīṁ huṇa ika kitāba dī varatōṁ karō",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਕਿਤਾਬ ਦੀ ਵਰਤੋਂ ਕਰੋ",
+        "You use a book now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You use a book well",
+        "tusīṁ ika kitāba cagī tar'hāṁ varatadē hō",
+        "ਤੁਸੀਂ ਇਕ ਕਿਤਾਬ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤਦੇ ਹੋ",
+        "You use a book well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You use a book too",
+        "tusīṁ ika kitāba vī varatadē hō",
+        "ਤੁਸੀਂ ਇਕ ਕਿਤਾਬ ਵੀ ਵਰਤਦੇ ਹੋ",
+        "You use a book too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You use a hand here",
+        "tusīṁ ithē ika hatha dī varatōṁ karō",
+        "ਤੁਸੀਂ ਇਥੇ ਇਕ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰੋ",
+        "You use a hand here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You use a hand now",
+        "tusīṁ huṇa ika hatha varatō",
+        "ਤੁਸੀਂ ਹੁਣ ਇੱਕ ਹੱਥ ਵਰਤੋ",
+        "You use a hand now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You use a hand well",
+        "tusīṁ ika hatha cagī tar'hāṁ varatadē hō",
+        "ਤੁਸੀਂ ਇਕ ਹੱਥ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤਦੇ ਹੋ",
+        "You use a hand well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You use a hand too",
+        "tusīṁ ika hatha vī varatadē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਹੱਥ ਵੀ ਵਰਤਦੇ ਹੋ",
+        "You use a hand too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You use a room here",
+        "tusīṁ ithē ika kamarā varatō",
+        "ਤੁਸੀਂ ਇਥੇ ਇਕ ਕਮਰਾ ਵਰਤੋ",
+        "You use a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You use a room now",
+        "tusīṁ huṇa ika kamarā varatō",
+        "ਤੁਸੀਂ ਹੁਣ ਇੱਕ ਕਮਰਾ ਵਰਤੋ",
+        "You use a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You use a room well",
+        "tusīṁ ika kamarā cagī tar'hāṁ varatadē hō",
+        "ਤੁਸੀਂ ਇਕ ਕਮਰਾ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤਦੇ ਹੋ",
+        "You use a room well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You use a room too",
+        "tusīṁ ika kamarā vī varatadē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਕਮਰਾ ਵੀ ਵਰਤਦੇ ਹੋ",
+        "You use a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You use a thing here",
+        "tusīṁ ithē ika cīza dī varatōṁ karō",
+        "ਤੁਸੀਂ ਇਥੇ ਇਕ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰੋ",
+        "You use a thing here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You use a thing now",
+        "tusīṁ huṇa ika cīza dī varatōṁ karō",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰੋ",
+        "You use a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You use a thing well",
+        "tusīṁ ika cīza dī cagī tar'hāṁ varatōṁ karadē hō",
+        "ਤੁਸੀਂ ਇਕ ਚੀਜ਼ ਦੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤੋਂ ਕਰਦੇ ਹੋ",
+        "You use a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You use a thing too",
+        "tusīṁ ika cīza dī varatōṁ vī karadē hō",
+        "ਤੁਸੀਂ ਇਕ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਵੀ ਕਰਦੇ ਹੋ",
+        "You use a thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You use water here",
+        "tusīṁ ithē pāṇī dī varatōṁ karō",
+        "ਤੁਸੀਂ ਇਥੇ ਪਾਣੀ ਦੀ ਵਰਤੋਂ ਕਰੋ",
+        "You use water here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "water",
+            "adv": "here"
+        }
+    ],
+    [
+        "You use water now",
+        "tusīṁ huṇa pāṇī dī varatōṁ karō",
+        "ਤੁਸੀਂ ਹੁਣ ਪਾਣੀ ਦੀ ਵਰਤੋਂ ਕਰੋ",
+        "You use water now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "water",
+            "adv": "now"
+        }
+    ],
+    [
+        "You use water well",
+        "tusīṁ pāṇī dī cagī varatōṁ karadē hō",
+        "ਤੁਸੀਂ ਪਾਣੀ ਦੀ ਚੰਗੀ ਵਰਤੋਂ ਕਰਦੇ ਹੋ",
+        "You use water well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "water",
+            "adv": "well"
+        }
+    ],
+    [
+        "You use water too",
+        "tusīṁ pāṇī vī varatadē hō",
+        "ਤੁਸੀਂ ਪਾਣੀ ਵੀ ਵਰਤਦੇ ਹੋ",
+        "You use water too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "water",
+            "adv": "too"
+        }
+    ],
+    [
+        "You use a week here",
+        "tusīṁ ithē ika hafatē dī varatōṁ karō",
+        "ਤੁਸੀਂ ਇਥੇ ਇਕ ਹਫ਼ਤੇ ਦੀ ਵਰਤੋਂ ਕਰੋ",
+        "You use a week here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You use a week now",
+        "tusīṁ huṇa ika hafatā varatō",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਹਫ਼ਤਾ ਵਰਤੋ",
+        "You use a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You use a week well",
+        "tusīṁ ika haphatā cagī tar'hāṁ varatadē hō",
+        "ਤੁਸੀਂ ਇਕ ਹਫਤਾ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤਦੇ ਹੋ",
+        "You use a week well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You use a week too",
+        "tusīṁ ika haphatā vī varatadē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਹਫਤਾ ਵੀ ਵਰਤਦੇ ਹੋ",
+        "You use a week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You use a word here",
+        "tusīṁ ithē ika śabada varatadē hō",
+        "ਤੁਸੀਂ ਇਥੇ ਇਕ ਸ਼ਬਦ ਵਰਤਦੇ ਹੋ",
+        "You use a word here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You use a word now",
+        "Tusīṁ huṇa ika śabada varatō",
+        "ਤੁਸੀਂ ਹੁਣ ਇੱਕ ਸ਼ਬਦ ਵਰਤੋ",
+        "You use a word now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You use a word well",
+        "tusīṁ ika śabada cagī tar'hāṁ varatadē hō",
+        "ਤੁਸੀਂ ਇਕ ਸ਼ਬਦ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤਦੇ ਹੋ",
+        "You use a word well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You use a word too",
+        "tusīṁ ika śabada vī varatadē hō",
+        "ਤੁਸੀਂ ਇਕ ਸ਼ਬਦ ਵੀ ਵਰਤਦੇ ਹੋ",
+        "You use a word too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You find a book here",
+        "tusīṁ ithē ika kitāba labhō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇਕ ਕਿਤਾਬ ਲੱਭੋ",
+        "You find a book here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You find a book now",
+        "tuhānū huṇa ika kitāba mila ga'ī",
+        "ਤੁਹਾਨੂੰ ਹੁਣ ਇਕ ਕਿਤਾਬ ਮਿਲ ਗਈ",
+        "You find a book now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You find a book well",
+        "tusīṁ ika kitāba cagī tar'hāṁ pā'undē hō",
+        "ਤੁਸੀਂ ਇਕ ਕਿਤਾਬ ਚੰਗੀ ਤਰ੍ਹਾਂ ਪਾਉਂਦੇ ਹੋ",
+        "You find a book well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You find a book too",
+        "tuhānū ika kitāba vī miladī hai",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਕਿਤਾਬ ਵੀ ਮਿਲਦੀ ਹੈ",
+        "You find a book too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You find a home here",
+        "tuhānū ithē ika ghara mila gi'ā",
+        "ਤੁਹਾਨੂੰ ਇੱਥੇ ਇਕ ਘਰ ਮਿਲ ਗਿਆ",
+        "You find a home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "home",
+            "adv": "here"
+        }
+    ],
+    [
+        "You find a home now",
+        "tuhānū huṇa ika ghara mila gi'ā",
+        "ਤੁਹਾਨੂੰ ਹੁਣ ਇਕ ਘਰ ਮਿਲ ਗਿਆ",
+        "You find a home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "home",
+            "adv": "now"
+        }
+    ],
+    [
+        "You find a home well",
+        "tusīṁ ika ghara cagī tar'hāṁ labhadē hō",
+        "ਤੁਸੀਂ ਇਕ ਘਰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲੱਭਦੇ ਹੋ",
+        "You find a home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "home",
+            "adv": "well"
+        }
+    ],
+    [
+        "You find a home too",
+        "tusīṁ ika ghara vī labha la'ō",
+        "ਤੁਸੀਂ ਇੱਕ ਘਰ ਵੀ ਲੱਭ ਲਓ",
+        "You find a home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "home",
+            "adv": "too"
+        }
+    ],
+    [
+        "You find a room here",
+        "tusīṁ ithē ika kamarā labhō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇੱਕ ਕਮਰਾ ਲੱਭੋ",
+        "You find a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You find a room now",
+        "tuhānū huṇa ika kamarā mila gi'ā",
+        "ਤੁਹਾਨੂੰ ਹੁਣ ਇਕ ਕਮਰਾ ਮਿਲ ਗਿਆ",
+        "You find a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You find a room well",
+        "tuhānū ika kamarā vadhī'ā mili'ā hai",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਕਮਰਾ ਵਧੀਆ ਮਿਲਿਆ ਹੈ",
+        "You find a room well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You find a room too",
+        "tusīṁ ika kamarā vī labha la'ō",
+        "ਤੁਸੀਂ ਇਕ ਕਮਰਾ ਵੀ ਲੱਭ ਲਓ",
+        "You find a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You find a thing here",
+        "tusīṁ ithē ika cīza labhōgē",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇਕ ਚੀਜ਼ ਲੱਭੋਗੇ",
+        "You find a thing here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You find a thing now",
+        "tusīṁ huṇa ika cīza labhōgē",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ ਚੀਜ਼ ਲੱਭੋਗੇ",
+        "You find a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You find a thing well",
+        "tuhānū ika cīza cagī lagī",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਚੀਜ਼ ਚੰਗੀ ਲੱਗੀ",
+        "You find a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You find a thing too",
+        "tuhānū vī ika cīza mila ga'ī",
+        "ਤੁਹਾਨੂੰ ਵੀ ਇਕ ਚੀਜ਼ ਮਿਲ ਗਈ",
+        "You find a thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You find water here",
+        "tuhānū ithē pāṇī miladā hai",
+        "ਤੁਹਾਨੂੰ ਇੱਥੇ ਪਾਣੀ ਮਿਲਦਾ ਹੈ",
+        "You find water here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "water",
+            "adv": "here"
+        }
+    ],
+    [
+        "You find water now",
+        "tuhānū huṇa pāṇī mila gi'ā",
+        "ਤੁਹਾਨੂੰ ਹੁਣ ਪਾਣੀ ਮਿਲ ਗਿਆ",
+        "You find water now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "water",
+            "adv": "now"
+        }
+    ],
+    [
+        "You find water well",
+        "tusīṁ pāṇī cagī tar'hāṁ labhadē hō",
+        "ਤੁਸੀਂ ਪਾਣੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲੱਭਦੇ ਹੋ",
+        "You find water well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "water",
+            "adv": "well"
+        }
+    ],
+    [
+        "You find water too",
+        "tuhānū vī pāṇī miladā hai",
+        "ਤੁਹਾਨੂੰ ਵੀ ਪਾਣੀ ਮਿਲਦਾ ਹੈ",
+        "You find water too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "water",
+            "adv": "too"
+        }
+    ],
+    [
+        "You find a woman here",
+        "tusīṁ ithē ika findrata labhō",
+        "ਤੁਸੀਂ ਇੱਥੇ ਇਕ findਰਤ ਲੱਭੋ",
+        "You find a woman here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You find a woman now",
+        "tusīṁ huṇa ika findrata labhō",
+        "ਤੁਸੀਂ ਹੁਣ ਇਕ findਰਤ ਲੱਭੋ",
+        "You find a woman now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You find a woman well",
+        "tusīṁ ika.Rata nū cagī tar'hāṁ labhadē hō",
+        "ਤੁਸੀਂ ਇਕ .ਰਤ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲੱਭਦੇ ਹੋ",
+        "You find a woman well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You find a woman too",
+        "tusīṁ ika findrata vī pā'undē hō",
+        "ਤੁਸੀਂ ਇਕ findਰਤ ਵੀ ਪਾਉਂਦੇ ਹੋ",
+        "You find a woman too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You find a word here",
+        "tuhānū ithē ika śabada miladā hai",
+        "ਤੁਹਾਨੂੰ ਇੱਥੇ ਇਕ ਸ਼ਬਦ ਮਿਲਦਾ ਹੈ",
+        "You find a word here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "You find a word now",
+        "Tuhānū huṇa ika śabada mila gi'ā",
+        "ਤੁਹਾਨੂੰ ਹੁਣ ਇੱਕ ਸ਼ਬਦ ਮਿਲ ਗਿਆ",
+        "You find a word now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "You find a word well",
+        "tuhānū ika śabada cagā lagadā hai",
+        "ਤੁਹਾਨੂੰ ਇਕ ਸ਼ਬਦ ਚੰਗਾ ਲੱਗਦਾ ਹੈ",
+        "You find a word well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "You find a word too",
+        "tuhānū ika śabada vī miladā hai",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਸ਼ਬਦ ਵੀ ਮਿਲਦਾ ਹੈ",
+        "You find a word too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "You find work here",
+        "tuhānū ithē kama miladā hai",
+        "ਤੁਹਾਨੂੰ ਇੱਥੇ ਕੰਮ ਮਿਲਦਾ ਹੈ",
+        "You find work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "You find work now",
+        "tuhānū huṇa kama mila jāvēgā",
+        "ਤੁਹਾਨੂੰ ਹੁਣ ਕੰਮ ਮਿਲ ਜਾਵੇਗਾ",
+        "You find work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "You find work well",
+        "tuhānū kama vadhī'ā miladā hai",
+        "ਤੁਹਾਨੂੰ ਕੰਮ ਵਧੀਆ ਮਿਲਦਾ ਹੈ",
+        "You find work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "You find work too",
+        "tuhānū kama vī miladā hai",
+        "ਤੁਹਾਨੂੰ ਕੰਮ ਵੀ ਮਿਲਦਾ ਹੈ",
+        "You find work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "work",
+            "adv": "too"
+        }
+    ]
+]

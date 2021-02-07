@@ -1,0 +1,1336 @@
+[
+    [
+        "He has been coming to a place",
+        "uha ika jag'hā ā rihā hai",
+        "ਉਹ ਇਕ ਜਗ੍ਹਾ ਆ ਰਿਹਾ ਹੈ",
+        "He has been coming to a place",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "be",
+            "noun": "people"
+        }
+    ],
+    [
+        "He has been coming on time",
+        "uha samēṁ tē ā rihā hai",
+        "ਉਹ ਸਮੇਂ ਤੇ ਆ ਰਿਹਾ ਹੈ",
+        "He has been coming on time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "He has been coming to work",
+        "uha kama tē ā gi'ā hai",
+        "ਉਹ ਕੰਮ ਤੇ ਆ ਗਿਆ ਹੈ",
+        "He has been coming to work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "He has been thinking about a book",
+        "uha kisē kitāba bārē sōcadā rihā hai",
+        "ਉਹ ਕਿਸੇ ਕਿਤਾਬ ਬਾਰੇ ਸੋਚਦਾ ਰਿਹਾ ਹੈ",
+        "He has been thinking about a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "family",
+            "det": "his"
+        }
+    ],
+    [
+        "He has been thinking about a business",
+        "uha kisē kārōbāra bārē sōcadā rihā hai",
+        "ਉਹ ਕਿਸੇ ਕਾਰੋਬਾਰ ਬਾਰੇ ਸੋਚਦਾ ਰਿਹਾ ਹੈ",
+        "He has been thinking about a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "He has been thinking about his family",
+        "uha āpaṇē parivāra bārē sōcadā rihā hai",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਬਾਰੇ ਸੋਚਦਾ ਰਿਹਾ ਹੈ",
+        "He has been thinking about his family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "He has been thinking about home",
+        "uha ghara bārē sōcadā rihā hai",
+        "ਉਹ ਘਰ ਬਾਰੇ ਸੋਚਦਾ ਰਿਹਾ ਹੈ",
+        "He has been thinking about home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "money"
+        }
+    ],
+    [
+        "He has been thinking about a job",
+        "uha kisē naukarī bārē sōca rihā hai",
+        "ਉਹ ਕਿਸੇ ਨੌਕਰੀ ਬਾਰੇ ਸੋਚ ਰਿਹਾ ਹੈ",
+        "He has been thinking about a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "mother",
+            "det": "his"
+        }
+    ],
+    [
+        "He has been thinking about people",
+        "uha lōkāṁ bārē sōcadā rihā hai",
+        "ਉਹ ਲੋਕਾਂ ਬਾਰੇ ਸੋਚਦਾ ਰਿਹਾ ਹੈ",
+        "He has been thinking about people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "right"
+        }
+    ],
+    [
+        "He has been thinking about a problem",
+        "uha kisē samasi'ā bārē sōcadā rihā hai",
+        "ਉਹ ਕਿਸੇ ਸਮੱਸਿਆ ਬਾਰੇ ਸੋਚਦਾ ਰਿਹਾ ਹੈ",
+        "He has been thinking about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "He has been thinking right",
+        "uha sahī sōca rihā hai",
+        "ਉਹ ਸਹੀ ਸੋਚ ਰਿਹਾ ਹੈ",
+        "He has been thinking right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "He has been thinking about a story",
+        "uha ika kahāṇī bārē sōcadā rihā hai",
+        "ਉਹ ਇੱਕ ਕਹਾਣੀ ਬਾਰੇ ਸੋਚਦਾ ਰਿਹਾ ਹੈ",
+        "He has been thinking about a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "He has been looking after his child",
+        "uha āpaṇē bacē dī dēkhabhāla kara rihā hai",
+        "ਉਹ ਆਪਣੇ ਬੱਚੇ ਦੀ ਦੇਖਭਾਲ ਕਰ ਰਿਹਾ ਹੈ",
+        "He has been looking after his child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "have",
+            "noun": "work"
+        }
+    ],
+    [
+        "He has been looking at a man",
+        "uha ika ādamī vala vēkha rihā hai",
+        "ਉਹ ਇਕ ਆਦਮੀ ਵੱਲ ਵੇਖ ਰਿਹਾ ਹੈ",
+        "He has been looking at a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "He has been looking at money",
+        "uha paisi'āṁ vala vēkha rihā hai",
+        "ਉਹ ਪੈਸਿਆਂ ਵੱਲ ਵੇਖ ਰਿਹਾ ਹੈ",
+        "He has been looking at money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "do",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "He has been looking at a problem",
+        "uha ika samasi'ā vala vēkha rihā hai",
+        "ਉਹ ਇੱਕ ਸਮੱਸਿਆ ਵੱਲ ਵੇਖ ਰਿਹਾ ਹੈ",
+        "He has been looking at a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "do",
+            "noun": "right"
+        }
+    ],
+    [
+        "He has been looking at a woman",
+        "uha ika atrata vala vēkhadā rihā hai",
+        "ਉਹ ਇੱਕ atਰਤ ਵੱਲ ਵੇਖਦਾ ਰਿਹਾ ਹੈ",
+        "He has been looking at a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "He has been looking for work",
+        "uha kama dī bhāla vica hai",
+        "ਉਹ ਕੰਮ ਦੀ ਭਾਲ ਵਿਚ ਹੈ",
+        "He has been looking for work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "do",
+            "noun": "work"
+        }
+    ],
+    [
+        "He has been having the group",
+        "uha samūha karadā rihā hai",
+        "ਉਹ ਸਮੂਹ ਕਰਦਾ ਰਿਹਾ ਹੈ",
+        "He has been having the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "think",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "He has been having a job",
+        "uha naukarī kara rihā hai",
+        "ਉਹ ਨੌਕਰੀ ਕਰ ਰਿਹਾ ਹੈ",
+        "He has been having a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "think",
+            "noun": "family",
+            "det": "his"
+        }
+    ],
+    [
+        "He has been having a lot",
+        "uha bahuta rihā hai",
+        "ਉਹ ਬਹੁਤ ਰਿਹਾ ਹੈ",
+        "He has been having a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "think",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "He has been having his mother",
+        "uha āpaṇī māṁ nū rihā hai",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਰਿਹਾ ਹੈ",
+        "He has been having his mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "think",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "He has been having a problem",
+        "usanū ika samasi'ā hō rahī hai",
+        "ਉਸਨੂੰ ਇੱਕ ਸਮੱਸਿਆ ਹੋ ਰਹੀ ਹੈ",
+        "He has been having a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "think",
+            "noun": "money"
+        }
+    ],
+    [
+        "He has been having a question",
+        "uha ika praśana rihā hai",
+        "ਉਹ ਇੱਕ ਪ੍ਰਸ਼ਨ ਰਿਹਾ ਹੈ",
+        "He has been having a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "think",
+            "noun": "mother",
+            "det": "his"
+        }
+    ],
+    [
+        "He has been having the right",
+        "usadā haka rihā hai",
+        "ਉਸਦਾ ਹੱਕ ਰਿਹਾ ਹੈ",
+        "He has been having the right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "think",
+            "noun": "people"
+        }
+    ],
+    [
+        "He has been having a story",
+        "uha ika kahāṇī rihā hai",
+        "ਉਹ ਇੱਕ ਕਹਾਣੀ ਰਿਹਾ ਹੈ",
+        "He has been having a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "think",
+            "noun": "right"
+        }
+    ],
+    [
+        "He has been having a thing",
+        "uha ika cīza rihā hai",
+        "ਉਹ ਇੱਕ ਚੀਜ਼ ਰਿਹਾ ਹੈ",
+        "He has been having a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "think",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "He has been having time",
+        "usa kōla samāṁ rihā hai",
+        "ਉਸ ਕੋਲ ਸਮਾਂ ਰਿਹਾ ਹੈ",
+        "He has been having time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "think",
+            "noun": "work"
+        }
+    ],
+    [
+        "He has been having a week",
+        "usa nū ika hafatā hō gi'ā hai",
+        "ਉਸ ਨੂੰ ਇੱਕ ਹਫ਼ਤਾ ਹੋ ਗਿਆ ਹੈ",
+        "He has been having a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "look",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "He has been having a year",
+        "uha ika sāla hō gi'ā hai",
+        "ਉਹ ਇੱਕ ਸਾਲ ਹੋ ਗਿਆ ਹੈ",
+        "He has been having a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "look",
+            "noun": "family",
+            "det": "his"
+        }
+    ],
+    [
+        "He has been doing a job",
+        "uha ika naukarī kara rihā hai",
+        "ਉਹ ਇੱਕ ਨੌਕਰੀ ਕਰ ਰਿਹਾ ਹੈ",
+        "He has been doing a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "look",
+            "noun": "money"
+        }
+    ],
+    [
+        "He has been doing a lot",
+        "uha bahuta kujha kara rihā hai",
+        "ਉਹ ਬਹੁਤ ਕੁਝ ਕਰ ਰਿਹਾ ਹੈ",
+        "He has been doing a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "look",
+            "noun": "mother",
+            "det": "his"
+        }
+    ],
+    [
+        "He has been doing a part",
+        "uha ika hisā kara rihā hai",
+        "ਉਹ ਇਕ ਹਿੱਸਾ ਕਰ ਰਿਹਾ ਹੈ",
+        "He has been doing a part",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "look",
+            "noun": "people"
+        }
+    ],
+    [
+        "He has been doing a thing",
+        "uha kujha kara rihā hai",
+        "ਉਹ ਕੁਝ ਕਰ ਰਿਹਾ ਹੈ",
+        "He has been doing a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "look",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "He has been doing work",
+        "uha kama kara rihā hai",
+        "ਉਹ ਕੰਮ ਕਰ ਰਿਹਾ ਹੈ",
+        "He has been doing work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "look",
+            "noun": "work"
+        }
+    ],
+    [
+        "He has been saying a word",
+        "uha ika śabada kahi rihā hai",
+        "ਉਹ ਇਕ ਸ਼ਬਦ ਕਹਿ ਰਿਹਾ ਹੈ",
+        "He has been saying a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "want",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "He has been getting a book",
+        "usa nū ika kitāba mila rahī hai",
+        "ਉਸ ਨੂੰ ਇਕ ਕਿਤਾਬ ਮਿਲ ਰਹੀ ਹੈ",
+        "He has been getting a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "want",
+            "noun": "family",
+            "det": "his"
+        }
+    ],
+    [
+        "He has been getting a day",
+        "usa nū ika dina mila rihā hai",
+        "ਉਸ ਨੂੰ ਇੱਕ ਦਿਨ ਮਿਲ ਰਿਹਾ ਹੈ",
+        "He has been getting a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "want",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "He has been getting a job",
+        "usa nū naukarī mila rahī hai",
+        "ਉਸ ਨੂੰ ਨੌਕਰੀ ਮਿਲ ਰਹੀ ਹੈ",
+        "He has been getting a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "want",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "He has been getting money",
+        "usanū paisē mila rahē hana",
+        "ਉਸਨੂੰ ਪੈਸੇ ਮਿਲ ਰਹੇ ਹਨ",
+        "He has been getting money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "want",
+            "noun": "money"
+        }
+    ],
+    [
+        "He has been getting his mother",
+        "uha āpaṇī māṁ nū mila rihā hai",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਮਿਲ ਰਿਹਾ ਹੈ",
+        "He has been getting his mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "want",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "He has been getting a part",
+        "uha hisā laindā rihā hai",
+        "ਉਹ ਹਿੱਸਾ ਲੈਂਦਾ ਰਿਹਾ ਹੈ",
+        "He has been getting a part",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "want",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "He has been getting a point",
+        "uha ika bidū prāpata karadā rihā hai",
+        "ਉਹ ਇੱਕ ਬਿੰਦੂ ਪ੍ਰਾਪਤ ਕਰਦਾ ਰਿਹਾ ਹੈ",
+        "He has been getting a point",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "want",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "He has been getting time",
+        "usanū samāṁ miladā rihā hai",
+        "ਉਸਨੂੰ ਸਮਾਂ ਮਿਲਦਾ ਰਿਹਾ ਹੈ",
+        "He has been getting time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "want",
+            "noun": "work"
+        }
+    ],
+    [
+        "He has been making a home",
+        "uha ghara baṇā rihā hai",
+        "ਉਹ ਘਰ ਬਣਾ ਰਿਹਾ ਹੈ",
+        "He has been making a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "give",
+            "noun": "money"
+        }
+    ],
+    [
+        "He has been making a lot",
+        "uha bahuta baṇā rihā hai",
+        "ਉਹ ਬਹੁਤ ਬਣਾ ਰਿਹਾ ਹੈ",
+        "He has been making a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "give",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "He has been seeing a point",
+        "uha ika bidū vēkhadā rihā hai",
+        "ਉਹ ਇੱਕ ਬਿੰਦੂ ਵੇਖਦਾ ਰਿਹਾ ਹੈ",
+        "He has been seeing a point",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "work",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "He has been seeing a problem",
+        "uha ika samasi'ā vēkhadā rihā hai",
+        "ਉਹ ਇੱਕ ਸਮੱਸਿਆ ਵੇਖਦਾ ਰਿਹਾ ਹੈ",
+        "He has been seeing a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "work",
+            "noun": "family",
+            "det": "his"
+        }
+    ],
+    [
+        "He has been seeing a room",
+        "uha ika kamarā vēkhadā rihā hai",
+        "ਉਹ ਇੱਕ ਕਮਰਾ ਵੇਖਦਾ ਰਿਹਾ ਹੈ",
+        "He has been seeing a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "work",
+            "noun": "government",
+            "det": "the"
+        }
+    ],
+    [
+        "He has been seeing a student",
+        "uha ika vidi'ārathī nū vēkhadā rihā hai",
+        "ਉਹ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖਦਾ ਰਿਹਾ ਹੈ",
+        "He has been seeing a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "work",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "He has been seeing water",
+        "uha pāṇī dēkha rihā hai",
+        "ਉਹ ਪਾਣੀ ਦੇਖ ਰਿਹਾ ਹੈ",
+        "He has been seeing water",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "work",
+            "noun": "money"
+        }
+    ],
+    [
+        "He has been coming to the country",
+        "uha dēśa ā rihā hai",
+        "ਉਹ ਦੇਸ਼ ਆ ਰਿਹਾ ਹੈ",
+        "He has been coming to the country",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 0,
+            "mas": 1
+        },
+        {
+            "pron": "he",
+            "verb": "work",
+            "noun": "people"
+        }
+    ]
+]

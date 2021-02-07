@@ -1,0 +1,779 @@
+[
+    [
+        "Who is a student",
+        "jō ika vidi'ārathī hai",
+        "ਜੋ ਇਕ ਵਿਦਿਆਰਥੀ ਹੈ",
+        "Who is a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "be",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has a business?",
+        "Kisa dā kārōbāra hai?",
+        "ਕਿਸ ਦਾ ਕਾਰੋਬਾਰ ਹੈ?",
+        "Who has a business?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has a day?",
+        "Kisa kōla ika dina hai?",
+        "ਕਿਸ ਕੋਲ ਇੱਕ ਦਿਨ ਹੈ?",
+        "Who has a day?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has a lot?",
+        "Kisa kōla bahuta hai?",
+        "ਕਿਸ ਕੋਲ ਬਹੁਤ ਹੈ?",
+        "Who has a lot?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "lot"
+        }
+    ],
+    [
+        "Who has whose mother?",
+        "Kisadī māṁ hai?",
+        "ਕਿਸਦੀ ਮਾਂ ਹੈ?",
+        "Who has whose mother?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who has a problem?",
+        "Kisa nū kō'ī samasi'ā hai?",
+        "ਕਿਸ ਨੂੰ ਕੋਈ ਸਮੱਸਿਆ ਹੈ?",
+        "Who has a problem?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has a question?",
+        "Kauṇa ika praśana hai?",
+        "ਕੌਣ ਇੱਕ ਪ੍ਰਸ਼ਨ ਹੈ?",
+        "Who has a question?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has a story?",
+        "Kisadī kahāṇī hai?",
+        "ਕਿਸਦੀ ਕਹਾਣੀ ਹੈ?",
+        "Who has a story?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has a week?",
+        "Ika hafatā kisa kōla hai?",
+        "ਇੱਕ ਹਫ਼ਤਾ ਕਿਸ ਕੋਲ ਹੈ?",
+        "Who has a week?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has a year?",
+        "Kisa kōla ika sāla hai?",
+        "ਕਿਸ ਕੋਲ ਇੱਕ ਸਾਲ ਹੈ?",
+        "Who has a year?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "Who does a business?",
+        "Ika kārōbāra kauṇa karadā hai?",
+        "ਇੱਕ ਕਾਰੋਬਾਰ ਕੌਣ ਕਰਦਾ ਹੈ?",
+        "Who does a business?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "Who does a lot?",
+        "Kauṇa bahuta karadā hai?",
+        "ਕੌਣ ਬਹੁਤ ਕਰਦਾ ਹੈ?",
+        "Who does a lot?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "lot"
+        }
+    ],
+    [
+        "Who tells about life",
+        "jō zidagī bārē dasadā hai",
+        "ਜੋ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਦੱਸਦਾ ਹੈ",
+        "Who tells about life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "life"
+        }
+    ],
+    [
+        "Who tells a man",
+        "jō ika ādamī nū kahidā hai",
+        "ਜੋ ਇੱਕ ਆਦਮੀ ਨੂੰ ਕਹਿੰਦਾ ਹੈ",
+        "Who tells a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "Who tells whose mother",
+        "kauṇa dasadā hai kisadī māṁ",
+        "ਕੌਣ ਦੱਸਦਾ ਹੈ ਕਿਸਦੀ ਮਾਂ",
+        "Who tells whose mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who tells about a problem",
+        "jō kisē samasi'ā bārē dasadā hai",
+        "ਜੋ ਕਿਸੇ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸਦਾ ਹੈ",
+        "Who tells about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "Who tells a story",
+        "jō kahāṇī suṇā'undā hai",
+        "ਜੋ ਕਹਾਣੀ ਸੁਣਾਉਂਦਾ ਹੈ",
+        "Who tells a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "Who tells about a study",
+        "jō ika adhi'aina bārē dasadā hai",
+        "ਜੋ ਇੱਕ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸਦਾ ਹੈ",
+        "Who tells about a study",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a"
+        }
+    ],
+    [
+        "Who tells a woman",
+        "jō ika tellsrata nū kahidā hai",
+        "ਜੋ ਇਕ tellsਰਤ ਨੂੰ ਕਹਿੰਦਾ ਹੈ",
+        "Who tells a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "Who asks a man",
+        "jō ika ādamī nū puchadā hai",
+        "ਜੋ ਇੱਕ ਆਦਮੀ ਨੂੰ ਪੁੱਛਦਾ ਹੈ",
+        "Who asks a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "Who asks whose mother",
+        "kauṇa puchadā hai kisadī māṁ",
+        "ਕੌਣ ਪੁੱਛਦਾ ਹੈ ਕਿਸਦੀ ਮਾਂ",
+        "Who asks whose mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who asks a question",
+        "jō kō'ī praśana puchadā hai",
+        "ਜੋ ਕੋਈ ਪ੍ਰਸ਼ਨ ਪੁੱਛਦਾ ਹੈ",
+        "Who asks a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "Who asks a student",
+        "kauṇa ika vidi'ārathī nū puchadā hai",
+        "ਕੌਣ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛਦਾ ਹੈ",
+        "Who asks a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "Who asks a woman",
+        "kauṇa ika womanrata nū puchadā hai",
+        "ਕੌਣ ਇੱਕ womanਰਤ ਨੂੰ ਪੁੱਛਦਾ ਹੈ",
+        "Who asks a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "Who tries for a day",
+        "jō ika dina dī kōśiśa karadā hai",
+        "ਜੋ ਇਕ ਦਿਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੈ",
+        "Who tries for a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "try",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "Who tries for a month",
+        "jō ika mahīnē la'ī kōśiśa karadā hai",
+        "ਜੋ ਇਕ ਮਹੀਨੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੈ",
+        "Who tries for a month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "try",
+            "noun": "month",
+            "det": "a"
+        }
+    ],
+    [
+        "Who tries for a week",
+        "jō ika hafatē dī kōśiśa karadā hai",
+        "ਜੋ ਇੱਕ ਹਫ਼ਤੇ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੈ",
+        "Who tries for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "try",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "Who tries for a year",
+        "jō ika sāla kōśiśa karadā hai",
+        "ਜੋ ਇਕ ਸਾਲ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੈ",
+        "Who tries for a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "try",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "Who leaves a business",
+        "jihaṛā kārōbāra chaḍadā hai",
+        "ਜਿਹੜਾ ਕਾਰੋਬਾਰ ਛੱਡਦਾ ਹੈ",
+        "Who leaves a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "Who calls whose mother",
+        "kauṇa kisadī māṁ nū bulā'undā hai",
+        "ਕੌਣ ਕਿਸਦੀ ਮਾਂ ਨੂੰ ਬੁਲਾਉਂਦਾ ਹੈ",
+        "Who calls whose mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "call",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ]
+]

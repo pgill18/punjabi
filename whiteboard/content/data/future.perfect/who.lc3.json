@@ -1,0 +1,1336 @@
+[
+    [
+        "Who will have come to a place",
+        "kauṇa ika jag'hā tē ā'i'ā hōvēgā",
+        "ਕੌਣ ਇੱਕ ਜਗ੍ਹਾ ਤੇ ਆਇਆ ਹੋਵੇਗਾ",
+        "Who will have come to a place",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "be",
+            "noun": "people"
+        }
+    ],
+    [
+        "Who will have come on time",
+        "kauṇa samēṁ tē ā'i'ā hōvēgā",
+        "ਕੌਣ ਸਮੇਂ ਤੇ ਆਇਆ ਹੋਵੇਗਾ",
+        "Who will have come on time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "Who will have come to work",
+        "jō kama tē ā gi'ā hōvēgā",
+        "ਜੋ ਕੰਮ ਤੇ ਆ ਗਿਆ ਹੋਵੇਗਾ",
+        "Who will have come to work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "Who will have thought about a book",
+        "jisa nē kisē kitāba bārē sōci'ā hōvēgā",
+        "ਜਿਸ ਨੇ ਕਿਸੇ ਕਿਤਾਬ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "Who will have thought about a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "family",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who will have thought about a business",
+        "jisanē kisē kārōbāra bārē sōci'ā hōvēgā",
+        "ਜਿਸਨੇ ਕਿਸੇ ਕਾਰੋਬਾਰ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "Who will have thought about a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "Who will have thought about whose family",
+        "kisa dē parivāra bārē kisa nē sōci'ā hōvēgā",
+        "ਕਿਸ ਦੇ ਪਰਿਵਾਰ ਬਾਰੇ ਕਿਸ ਨੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "Who will have thought about whose family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "Who will have thought about home",
+        "ghara bārē kisa nē sōci'ā hōvēgā",
+        "ਘਰ ਬਾਰੇ ਕਿਸ ਨੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "Who will have thought about home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "money"
+        }
+    ],
+    [
+        "Who will have thought about a job",
+        "naukarī bārē kisanē sōci'ā hōvēgā",
+        "ਨੌਕਰੀ ਬਾਰੇ ਕਿਸਨੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "Who will have thought about a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who will have thought about people",
+        "jisa nē lōkāṁ bārē sōci'ā hōvēgā",
+        "ਜਿਸ ਨੇ ਲੋਕਾਂ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "Who will have thought about people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "right"
+        }
+    ],
+    [
+        "Who will have thought about a problem",
+        "kisa nē kisē samasi'ā bārē sōci'ā hōvēgā",
+        "ਕਿਸ ਨੇ ਕਿਸੇ ਸਮੱਸਿਆ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "Who will have thought about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "Who will have thought right",
+        "kisa nē sahī sōci'ā hōvēgā",
+        "ਕਿਸ ਨੇ ਸਹੀ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "Who will have thought right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "Who will have thought about a story",
+        "jisa nē kisē kahāṇī bārē sōci'ā hōvēgā",
+        "ਜਿਸ ਨੇ ਕਿਸੇ ਕਹਾਣੀ ਬਾਰੇ ਸੋਚਿਆ ਹੋਵੇਗਾ",
+        "Who will have thought about a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "Who will have looked after whose child",
+        "Kauṇa kisa dē bacē dī dēkhabhāla karēgā",
+        "ਕੌਣ ਕਿਸ ਦੇ ਬੱਚੇ ਦੀ ਦੇਖਭਾਲ ਕਰੇਗਾ",
+        "Who will have looked after whose child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "work"
+        }
+    ],
+    [
+        "Who will have looked at a man",
+        "jisanē kisē ādamī vala vēkhi'ā hōvēgā",
+        "ਜਿਸਨੇ ਕਿਸੇ ਆਦਮੀ ਵੱਲ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "Who will have looked at a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "Who will have looked at money",
+        "kisanē paisē vala vēkhi'ā hōvēgā",
+        "ਕਿਸਨੇ ਪੈਸੇ ਵੱਲ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "Who will have looked at money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "Who will have looked at a problem",
+        "kisa nē kisē samasi'ā vala vēkhi'ā hōvēgā",
+        "ਕਿਸ ਨੇ ਕਿਸੇ ਸਮੱਸਿਆ ਵੱਲ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "Who will have looked at a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "right"
+        }
+    ],
+    [
+        "Who will have looked at a woman",
+        "jisa nē kisē atrata vala vēkhi'ā hōvēgā",
+        "ਜਿਸ ਨੇ ਕਿਸੇ atਰਤ ਵੱਲ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "Who will have looked at a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "Who will have looked for work",
+        "jisanē kama dī bhāla kītī hōvēgī",
+        "ਜਿਸਨੇ ਕੰਮ ਦੀ ਭਾਲ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "Who will have looked for work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "work"
+        }
+    ],
+    [
+        "Who will have had the group",
+        "jisadā samūha hōvēgā",
+        "ਜਿਸਦਾ ਸਮੂਹ ਹੋਵੇਗਾ",
+        "Who will have had the group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "think",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "Who will have had a job",
+        "jisanū naukarī milī hōvēgī",
+        "ਜਿਸਨੂੰ ਨੌਕਰੀ ਮਿਲੀ ਹੋਵੇਗੀ",
+        "Who will have had a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "think",
+            "noun": "family",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who will have had a lot",
+        "jisa kōla bahuta kujha hōvēgā",
+        "ਜਿਸ ਕੋਲ ਬਹੁਤ ਕੁਝ ਹੋਵੇਗਾ",
+        "Who will have had a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "think",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "Who will have had whose mother",
+        "kisadī māṁ hōvēgī",
+        "ਕਿਸਦੀ ਮਾਂ ਹੋਵੇਗੀ",
+        "Who will have had whose mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "think",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "Who will have had a problem",
+        "kisa nū kō'ī samasi'ā hō'ēgī",
+        "ਕਿਸ ਨੂੰ ਕੋਈ ਸਮੱਸਿਆ ਹੋਏਗੀ",
+        "Who will have had a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "think",
+            "noun": "money"
+        }
+    ],
+    [
+        "Who will have had a question",
+        "kisanū kō'ī savāla hō'ēgā",
+        "ਕਿਸਨੂੰ ਕੋਈ ਸਵਾਲ ਹੋਏਗਾ",
+        "Who will have had a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "think",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who will have had the right",
+        "kisa dā haka hōvēgā",
+        "ਕਿਸ ਦਾ ਹੱਕ ਹੋਵੇਗਾ",
+        "Who will have had the right",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "think",
+            "noun": "people"
+        }
+    ],
+    [
+        "Who will have had a story",
+        "jisadī kahāṇī hōvēgī",
+        "ਜਿਸਦੀ ਕਹਾਣੀ ਹੋਵੇਗੀ",
+        "Who will have had a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "think",
+            "noun": "right"
+        }
+    ],
+    [
+        "Who will have had a thing",
+        "kisa kōla ika cīza hōvēgī",
+        "ਕਿਸ ਕੋਲ ਇੱਕ ਚੀਜ਼ ਹੋਵੇਗੀ",
+        "Who will have had a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "think",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "Who will have had time",
+        "kisa kōla samāṁ hōvēgā",
+        "ਕਿਸ ਕੋਲ ਸਮਾਂ ਹੋਵੇਗਾ",
+        "Who will have had time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "think",
+            "noun": "work"
+        }
+    ],
+    [
+        "Who will have had a week",
+        "jisanē ika haphatā kītā hōvēgā",
+        "ਜਿਸਨੇ ਇੱਕ ਹਫਤਾ ਕੀਤਾ ਹੋਵੇਗਾ",
+        "Who will have had a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "look",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "Who will have had a year",
+        "jisanū ika sāla hō'ēgā",
+        "ਜਿਸਨੂੰ ਇਕ ਸਾਲ ਹੋਏਗਾ",
+        "Who will have had a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "look",
+            "noun": "family",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who will have done a job",
+        "jisa nē kō'ī kama kītā hōvēgā",
+        "ਜਿਸ ਨੇ ਕੋਈ ਕੰਮ ਕੀਤਾ ਹੋਵੇਗਾ",
+        "Who will have done a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "look",
+            "noun": "money"
+        }
+    ],
+    [
+        "Who will have done a lot",
+        "jisa nē bahuta kujha kītā hōvēgā",
+        "ਜਿਸ ਨੇ ਬਹੁਤ ਕੁਝ ਕੀਤਾ ਹੋਵੇਗਾ",
+        "Who will have done a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "look",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who will have done a part",
+        "jisa nē hisā li'ā hōvēgā",
+        "ਜਿਸ ਨੇ ਹਿੱਸਾ ਲਿਆ ਹੋਵੇਗਾ",
+        "Who will have done a part",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "look",
+            "noun": "people"
+        }
+    ],
+    [
+        "Who will have done a thing",
+        "jisa nē kō'ī kama kītā hōvēgā",
+        "ਜਿਸ ਨੇ ਕੋਈ ਕੰਮ ਕੀਤਾ ਹੋਵੇਗਾ",
+        "Who will have done a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "look",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "Who will have done work",
+        "kama kauṇa karēgā",
+        "ਕੰਮ ਕੌਣ ਕਰੇਗਾ",
+        "Who will have done work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "look",
+            "noun": "work"
+        }
+    ],
+    [
+        "Who will have said a word",
+        "jisanē ika śabada kahē hōṇagē",
+        "ਜਿਸਨੇ ਇਕ ਸ਼ਬਦ ਕਹੇ ਹੋਣਗੇ",
+        "Who will have said a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "want",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "Who will have gotten a book",
+        "jisa nē ika kitāba prāpata kītī hōvēgī",
+        "ਜਿਸ ਨੇ ਇੱਕ ਕਿਤਾਬ ਪ੍ਰਾਪਤ ਕੀਤੀ ਹੋਵੇਗੀ",
+        "Who will have gotten a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "want",
+            "noun": "family",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who will have gotten a day",
+        "jisanū ika dina mila gi'ā hōvēgā",
+        "ਜਿਸਨੂੰ ਇੱਕ ਦਿਨ ਮਿਲ ਗਿਆ ਹੋਵੇਗਾ",
+        "Who will have gotten a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "want",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "Who will have gotten a job",
+        "jisanū naukarī mila ga'ī hōvēgī",
+        "ਜਿਸਨੂੰ ਨੌਕਰੀ ਮਿਲ ਗਈ ਹੋਵੇਗੀ",
+        "Who will have gotten a job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "want",
+            "noun": "job",
+            "det": "a"
+        }
+    ],
+    [
+        "Who will have gotten money",
+        "kisanē paisē kamā'ē hōṇagē",
+        "ਕਿਸਨੇ ਪੈਸੇ ਕਮਾਏ ਹੋਣਗੇ",
+        "Who will have gotten money",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "want",
+            "noun": "money"
+        }
+    ],
+    [
+        "Who will have gotten whose mother",
+        "kisadī māṁ pa'ī hōvēgī",
+        "ਕਿਸਦੀ ਮਾਂ ਪਈ ਹੋਵੇਗੀ",
+        "Who will have gotten whose mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "want",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "Who will have gotten a part",
+        "jisa nē hisā pā'i'ā hōvēgā",
+        "ਜਿਸ ਨੇ ਹਿੱਸਾ ਪਾਇਆ ਹੋਵੇਗਾ",
+        "Who will have gotten a part",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "want",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "Who will have gotten a point",
+        "kauṇa ika bidū prāpata karēgā",
+        "ਕੌਣ ਇੱਕ ਬਿੰਦੂ ਪ੍ਰਾਪਤ ਕਰੇਗਾ",
+        "Who will have gotten a point",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "want",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "Who will have gotten time",
+        "kisa kōla samāṁ hō jāvēgā",
+        "ਕਿਸ ਕੋਲ ਸਮਾਂ ਹੋ ਜਾਵੇਗਾ",
+        "Who will have gotten time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "want",
+            "noun": "work"
+        }
+    ],
+    [
+        "Who will have made a home",
+        "jisanē ghara baṇā'i'ā hōvēgā",
+        "ਜਿਸਨੇ ਘਰ ਬਣਾਇਆ ਹੋਵੇਗਾ",
+        "Who will have made a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "give",
+            "noun": "money"
+        }
+    ],
+    [
+        "Who will have made a lot",
+        "jisa nē bahuta kujha baṇā'i'ā hōvēgā",
+        "ਜਿਸ ਨੇ ਬਹੁਤ ਕੁਝ ਬਣਾਇਆ ਹੋਵੇਗਾ",
+        "Who will have made a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "give",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "Who will have seen a point",
+        "jisa nē ika bidū vēkhi'ā hōvēgā",
+        "ਜਿਸ ਨੇ ਇੱਕ ਬਿੰਦੂ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "Who will have seen a point",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "work",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "Who will have seen a problem",
+        "kisa nē kō'ī samasi'ā vēkhī hōvēgī",
+        "ਕਿਸ ਨੇ ਕੋਈ ਸਮੱਸਿਆ ਵੇਖੀ ਹੋਵੇਗੀ",
+        "Who will have seen a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "work",
+            "noun": "family",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who will have seen a room",
+        "jisa nē ika kamarā vēkhi'ā hōvēgā",
+        "ਜਿਸ ਨੇ ਇੱਕ ਕਮਰਾ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "Who will have seen a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "work",
+            "noun": "government",
+            "det": "the"
+        }
+    ],
+    [
+        "Who will have seen a student",
+        "jisanē ika vidi'ārathī nū vēkhi'ā hōvēgā",
+        "ਜਿਸਨੇ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖਿਆ ਹੋਵੇਗਾ",
+        "Who will have seen a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "work",
+            "noun": "group",
+            "det": "the"
+        }
+    ],
+    [
+        "Who will have seen water",
+        "jisanē pāṇī dēkhi'ā hōvēgā",
+        "ਜਿਸਨੇ ਪਾਣੀ ਦੇਖਿਆ ਹੋਵੇਗਾ",
+        "Who will have seen water",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "work",
+            "noun": "money"
+        }
+    ],
+    [
+        "Who will have come to the country",
+        "kauṇa dēśa ā'i'ā hōvēgā",
+        "ਕੌਣ ਦੇਸ਼ ਆਇਆ ਹੋਵੇਗਾ",
+        "Who will have come to the country",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "work",
+            "noun": "people"
+        }
+    ]
+]

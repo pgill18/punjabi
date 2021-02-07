@@ -1,0 +1,6052 @@
+[
+    [
+        "They will see money too",
+        "Uha paisē vī vēkhaṇagē",
+        "ਉਹ ਪੈਸੇ ਵੀ ਵੇਖਣਗੇ",
+        "They will see money too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "be",
+            "noun": "child",
+            "det": "thier",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will see their mother here",
+        "uha āpaṇī māṁ nū ithē vēkhaṇagē",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਇੱਥੇ ਵੇਖਣਗੇ",
+        "They will see their mother here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "be",
+            "noun": "child",
+            "det": "thier",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will see their mother too",
+        "uha āpaṇī māṁ nū vī vēkhaṇagē",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਵੀ ਵੇਖਣਗੇ",
+        "They will see their mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will see people here",
+        "uha ithē lōkāṁ nū vēkhaṇagē",
+        "ਉਹ ਇੱਥੇ ਲੋਕਾਂ ਨੂੰ ਵੇਖਣਗੇ",
+        "They will see people here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will see people now",
+        "uha huṇa lōkāṁ nū vēkhaṇagē",
+        "ਉਹ ਹੁਣ ਲੋਕਾਂ ਨੂੰ ਵੇਖਣਗੇ",
+        "They will see people now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "book",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will see people well",
+        "uha lōkāṁ nū cagī tar'hāṁ vēkhaṇagē",
+        "ਉਹ ਲੋਕਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਣਗੇ",
+        "They will see people well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "book",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will see a place now",
+        "uha huṇa ika jag'hā vēkhaṇagē",
+        "ਉਹ ਹੁਣ ਇੱਕ ਜਗ੍ਹਾ ਵੇਖਣਗੇ",
+        "They will see a place now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "child",
+            "det": "thier",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will see a place well",
+        "uha ika jag'hā cagī tar'hāṁ vēkhaṇagē",
+        "ਉਹ ਇੱਕ ਜਗ੍ਹਾ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਣਗੇ",
+        "They will see a place well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "child",
+            "det": "thier",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will see a point too",
+        "uha ika bidū vī vēkhaṇagē",
+        "ਉਹ ਇੱਕ ਬਿੰਦੂ ਵੀ ਵੇਖਣਗੇ",
+        "They will see a point too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "family",
+            "det": "thier",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will see a problem here",
+        "uha ithē ika samasi'ā vēkhaṇagē",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਸਮੱਸਿਆ ਵੇਖਣਗੇ",
+        "They will see a problem here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "family",
+            "det": "thier",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will see a problem too",
+        "uha ika samasi'ā vī vēkhaṇagē",
+        "ਉਹ ਇੱਕ ਸਮੱਸਿਆ ਵੀ ਵੇਖਣਗੇ",
+        "They will see a problem too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "hand",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will see a room here",
+        "uha ithē ika kamarā dēkhaṇagē",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਕਮਰਾ ਦੇਖਣਗੇ",
+        "They will see a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "hand",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will see a room now",
+        "uha huṇa ika kamarā vēkhaṇagē",
+        "ਉਹ ਹੁਣ ਇੱਕ ਕਮਰਾ ਵੇਖਣਗੇ",
+        "They will see a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "home",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will see a room well",
+        "uha ika kamarā cagī tar'hāṁ vēkhaṇagē",
+        "ਉਹ ਇਕ ਕਮਰਾ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਣਗੇ",
+        "They will see a room well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "home",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will see a thing now",
+        "Uha huṇa ika cīza vēkhaṇagē",
+        "ਉਹ ਹੁਣ ਇਕ ਚੀਜ਼ ਵੇਖਣਗੇ",
+        "They will see a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "mother",
+            "det": "thier",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will see a thing well",
+        "uha ika cīza cagī tar'hāṁ vēkhaṇagē",
+        "ਉਹ ਇੱਕ ਚੀਜ਼ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਣਗੇ",
+        "They will see a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "mother",
+            "det": "thier",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will see the world now",
+        "uha huṇa dunī'āṁ nū vēkhaṇagē",
+        "ਉਹ ਹੁਣ ਦੁਨੀਆਂ ਨੂੰ ਵੇਖਣਗੇ",
+        "They will see the world now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will see the world well",
+        "uha dunī'āṁ nū cagī tar'hāṁ vēkhaṇagē",
+        "ਉਹ ਦੁਨੀਆਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਣਗੇ",
+        "They will see the world well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will come to their family now",
+        "uha huṇa āpaṇē parivāra kōla ā'uṇagē",
+        "ਉਹ ਹੁਣ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਆਉਣਗੇ",
+        "They will come to their family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will come to their family well",
+        "uha cagī tar'hāṁ āpaṇē parivāra kōla ā'uṇagē",
+        "ਉਹ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਆਉਣਗੇ",
+        "They will come to their family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will come from the government now",
+        "uha huṇa sarakāra tōṁ ā'uṇagē",
+        "ਉਹ ਹੁਣ ਸਰਕਾਰ ਤੋਂ ਆਉਣਗੇ",
+        "They will come from the government now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "water",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will come from the government well",
+        "uha sarakāra tōṁ cagī tar'hāṁ ā'uṇagē",
+        "ਉਹ ਸਰਕਾਰ ਤੋਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਉਣਗੇ",
+        "They will come from the government well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "water",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will come from the group now",
+        "uha huṇa garupa vicōṁ ā'uṇagē",
+        "ਉਹ ਹੁਣ ਗਰੁੱਪ ਵਿਚੋਂ ਆਉਣਗੇ",
+        "They will come from the group now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will come from the group well",
+        "uha garupa tōṁ cagī tar'hāṁ ā'uṇagē",
+        "ਉਹ ਗਰੁੱਪ ਤੋਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਉਣਗੇ",
+        "They will come from the group well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will come from the group too",
+        "Uha vī garupa vicōṁ ā'uṇagē",
+        "ਉਹ ਵੀ ਗਰੁੱਪ ਵਿਚੋਂ ਆਉਣਗੇ",
+        "They will come from the group too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will come home here",
+        "uha ithē ghara ā'uṇagē",
+        "ਉਹ ਇਥੇ ਘਰ ਆਉਣਗੇ",
+        "They will come home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "have",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will come to a place now",
+        "uha huṇa kisē jag'hā'tē ā'uṇagē",
+        "ਉਹ ਹੁਣ ਕਿਸੇ ਜਗ੍ਹਾ 'ਤੇ ਆਉਣਗੇ",
+        "They will come to a place now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will come to a place well",
+        "uha cagī jag'hā'tē ā'uṇagē",
+        "ਉਹ ਚੰਗੀ ਜਗ੍ਹਾ 'ਤੇ ਆਉਣਗੇ",
+        "They will come to a place well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will come to a place too",
+        "uha vī kisē jag'hā'tē ā'uṇagē",
+        "ਉਹ ਵੀ ਕਿਸੇ ਜਗ੍ਹਾ 'ਤੇ ਆਉਣਗੇ",
+        "They will come to a place too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "do",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will come to a room here",
+        "uha ithē ika kamarē vica ā'uṇagē",
+        "ਉਹ ਇਥੇ ਇਕ ਕਮਰੇ ਵਿਚ ਆਉਣਗੇ",
+        "They will come to a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "do",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will look at a problem well",
+        "uha ika samasi'ā nū cagī tar'hāṁ vēkhaṇagē",
+        "ਉਹ ਇੱਕ ਸਮੱਸਿਆ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਣਗੇ",
+        "They will look at a problem well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "family",
+            "det": "thier",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will look at a problem too",
+        "uha kisē samasi'ā nū vī vēkhaṇagē",
+        "ਉਹ ਕਿਸੇ ਸਮੱਸਿਆ ਨੂੰ ਵੀ ਵੇਖਣਗੇ",
+        "They will look at a problem too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "family",
+            "det": "thier",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will look at a woman here",
+        "uha ithē ika atrata nū vēkhaṇagē",
+        "ਉਹ ਇੱਥੇ ਇੱਕ atਰਤ ਨੂੰ ਵੇਖਣਗੇ",
+        "They will look at a woman here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "family",
+            "det": "thier",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will look at a woman now",
+        "uha huṇa ika atrata vala vēkhaṇagē",
+        "ਉਹ ਹੁਣ ਇੱਕ atਰਤ ਵੱਲ ਵੇਖਣਗੇ",
+        "They will look at a woman now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "family",
+            "det": "thier",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will look at the world well",
+        "uha dunī'āṁ nū cagī tar'hāṁ vēkhaṇagē",
+        "ਉਹ ਦੁਨੀਆਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਣਗੇ",
+        "They will look at the world well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "home",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will look at the world too",
+        "uha dunī'āṁ nū vī vēkhaṇagē",
+        "ਉਹ ਦੁਨੀਆਂ ਨੂੰ ਵੀ ਵੇਖਣਗੇ",
+        "They will look at the world too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "home",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will want a book here",
+        "uha ithē ika kitāba cāhudē hana",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਕਿਤਾਬ ਚਾਹੁੰਦੇ ਹਨ",
+        "They will want a book here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "home",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will want a book now",
+        "uha huṇa ika kitāba cāhudē hana",
+        "ਉਹ ਹੁਣ ਇੱਕ ਕਿਤਾਬ ਚਾਹੁੰਦੇ ਹਨ",
+        "They will want a book now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "home",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will want their family well",
+        "uha āpaṇē parivāra nū cagī tar'hāṁ cāhuṇagē",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਚਾਹੁਣਗੇ",
+        "They will want their family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "mother",
+            "det": "thier",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will want their family too",
+        "Uha āpaṇē parivāra nū vī cāhudē hōṇagē",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਵੀ ਚਾਹੁੰਦੇ ਹੋਣਗੇ",
+        "They will want their family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "mother",
+            "det": "thier",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will want the group here",
+        "uha ithē samūha cāhudē hōṇagē",
+        "ਉਹ ਇਥੇ ਸਮੂਹ ਚਾਹੁੰਦੇ ਹੋਣਗੇ",
+        "They will want the group here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "mother",
+            "det": "thier",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will want the group now",
+        "uha huṇa samūha cāhudē hana",
+        "ਉਹ ਹੁਣ ਸਮੂਹ ਚਾਹੁੰਦੇ ਹਨ",
+        "They will want the group now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "mother",
+            "det": "thier",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will want a home well",
+        "uha ika ghara khūha cāhudē hana",
+        "ਉਹ ਇੱਕ ਘਰ ਖੂਹ ਚਾਹੁੰਦੇ ਹਨ",
+        "They will want a home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will want a home too",
+        "uha vī ika ghara cāhudē hana",
+        "ਉਹ ਵੀ ਇੱਕ ਘਰ ਚਾਹੁੰਦੇ ਹਨ",
+        "They will want a home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will want a job here",
+        "uha ithē ika naukarī cāhudē hōṇagē",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਨੌਕਰੀ ਚਾਹੁੰਦੇ ਹੋਣਗੇ",
+        "They will want a job here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will want a job now",
+        "uha huṇa ika naukarī cāhudē hōṇagē",
+        "ਉਹ ਹੁਣ ਇੱਕ ਨੌਕਰੀ ਚਾਹੁੰਦੇ ਹੋਣਗੇ",
+        "They will want a job now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will want a place well",
+        "uha ika jag'hā cagī tar'hāṁ cāhudē hōṇagē",
+        "ਉਹ ਇੱਕ ਜਗ੍ਹਾ ਚੰਗੀ ਤਰ੍ਹਾਂ ਚਾਹੁੰਦੇ ਹੋਣਗੇ",
+        "They will want a place well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will want a place too",
+        "uha vī ika jag'hā cāhudē hōṇagē",
+        "ਉਹ ਵੀ ਇੱਕ ਜਗ੍ਹਾ ਚਾਹੁੰਦੇ ਹੋਣਗੇ",
+        "They will want a place too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will want a room here",
+        "uha ithē ika kamarā cāhudē hōṇagē",
+        "ਉਹ ਇਥੇ ਇੱਕ ਕਮਰਾ ਚਾਹੁੰਦੇ ਹੋਣਗੇ",
+        "They will want a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will want a room now",
+        "uha huṇa ika kamarā cāhuṇagē",
+        "ਉਹ ਹੁਣ ਇੱਕ ਕਮਰਾ ਚਾਹੁਣਗੇ",
+        "They will want a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will want a story well",
+        "uha cagī kahāṇī cāhudē hana",
+        "ਉਹ ਚੰਗੀ ਕਹਾਣੀ ਚਾਹੁੰਦੇ ਹਨ",
+        "They will want a story well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will want a story too",
+        "uha ika kahāṇī vī cāhudē hōṇagē",
+        "ਉਹ ਇੱਕ ਕਹਾਣੀ ਵੀ ਚਾਹੁੰਦੇ ਹੋਣਗੇ",
+        "They will want a story too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will want a system here",
+        "uha ithē ika sisaṭama cāhudē hana",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਸਿਸਟਮ ਚਾਹੁੰਦੇ ਹਨ",
+        "They will want a system here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will want a system now",
+        "Uha huṇa ika sisaṭama cāhudē hana",
+        "ਉਹ ਹੁਣ ਇੱਕ ਸਿਸਟਮ ਚਾਹੁੰਦੇ ਹਨ",
+        "They will want a system now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will want a system well",
+        "uha ika sisaṭama cagī tar'hāṁ cāhudē hōṇagē",
+        "ਉਹ ਇੱਕ ਸਿਸਟਮ ਚੰਗੀ ਤਰ੍ਹਾਂ ਚਾਹੁੰਦੇ ਹੋਣਗੇ",
+        "They will want a system well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will want a system too",
+        "uha ika sisaṭama vī cāhudē hōṇagē",
+        "ਉਹ ਇੱਕ ਸਿਸਟਮ ਵੀ ਚਾਹੁੰਦੇ ਹੋਣਗੇ",
+        "They will want a system too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will want a thing here",
+        "uha ithē ika cīza cāhudē hōṇagē",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਚੀਜ਼ ਚਾਹੁੰਦੇ ਹੋਣਗੇ",
+        "They will want a thing here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will want a thing now",
+        "uha huṇa kujha cāhudē hōṇagē",
+        "ਉਹ ਹੁਣ ਕੁਝ ਚਾਹੁੰਦੇ ਹੋਣਗੇ",
+        "They will want a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "go",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will want water well",
+        "uha pāṇī cagī tar'hāṁ cāhuṇagē",
+        "ਉਹ ਪਾਣੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਚਾਹੁਣਗੇ",
+        "They will want water well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "child",
+            "det": "thier",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will want water too",
+        "uha pāṇī vī cāhudē hōṇagē",
+        "ਉਹ ਪਾਣੀ ਵੀ ਚਾਹੁੰਦੇ ਹੋਣਗੇ",
+        "They will want water too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "child",
+            "det": "thier",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will want a week here",
+        "uha ithē ika hafatā cāhudē hana",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਹਫ਼ਤਾ ਚਾਹੁੰਦੇ ਹਨ",
+        "They will want a week here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "child",
+            "det": "thier",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will want a week now",
+        "uha huṇa ika hafatā cāhudē hana",
+        "ਉਹ ਹੁਣ ਇੱਕ ਹਫ਼ਤਾ ਚਾਹੁੰਦੇ ਹਨ",
+        "They will want a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "child",
+            "det": "thier",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will want work well",
+        "uha vadhī'ā kama karanā cāhuṇagē",
+        "ਉਹ ਵਧੀਆ ਕੰਮ ਕਰਨਾ ਚਾਹੁਣਗੇ",
+        "They will want work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "family",
+            "det": "thier",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will want work too",
+        "uha kama vī cāhudē hōṇagē",
+        "ਉਹ ਕੰਮ ਵੀ ਚਾਹੁੰਦੇ ਹੋਣਗੇ",
+        "They will want work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "family",
+            "det": "thier",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will want a year here",
+        "uha ithē ika sāla cāhudē hana",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਸਾਲ ਚਾਹੁੰਦੇ ਹਨ",
+        "They will want a year here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "family",
+            "det": "thier",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will want a year now",
+        "uha huṇa ika sāla cāhudē hana",
+        "ਉਹ ਹੁਣ ਇਕ ਸਾਲ ਚਾਹੁੰਦੇ ਹਨ",
+        "They will want a year now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "family",
+            "det": "thier",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will get a year well",
+        "uha ika sāla cagī tar'hāṁ prāpata karanagē",
+        "ਉਹ ਇੱਕ ਸਾਲ ਚੰਗੀ ਤਰ੍ਹਾਂ ਪ੍ਰਾਪਤ ਕਰਨਗੇ",
+        "They will get a year well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will get a year too",
+        "unhāṁ nū ika sāla vī milēgā",
+        "ਉਨ੍ਹਾਂ ਨੂੰ ਇਕ ਸਾਲ ਵੀ ਮਿਲੇਗਾ",
+        "They will get a year too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will make a home here",
+        "uha ithē ika ghara baṇā dēṇagē",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਘਰ ਬਣਾ ਦੇਣਗੇ",
+        "They will make a home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will make a home now",
+        "uha huṇa ika ghara baṇā laiṇagē",
+        "ਉਹ ਹੁਣ ਇੱਕ ਘਰ ਬਣਾ ਲੈਣਗੇ",
+        "They will make a home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will make a home well",
+        "uha ghara nū cagī tar'hāṁ baṇā'uṇagē",
+        "ਉਹ ਘਰ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਬਣਾਉਣਗੇ",
+        "They will make a home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "mother",
+            "det": "thier",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will make a home too",
+        "uha ghara vī baṇā laiṇagē",
+        "ਉਹ ਘਰ ਵੀ ਬਣਾ ਲੈਣਗੇ",
+        "They will make a home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "mother",
+            "det": "thier",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will make a lot here",
+        "uha ithē bahuta kujha karanagē",
+        "ਉਹ ਇੱਥੇ ਬਹੁਤ ਕੁਝ ਕਰਨਗੇ",
+        "They will make a lot here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "mother",
+            "det": "thier",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will make a lot now",
+        "uha huṇa bahuta kujha karanagē",
+        "ਉਹ ਹੁਣ ਬਹੁਤ ਕੁਝ ਕਰਨਗੇ",
+        "They will make a lot now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "mother",
+            "det": "thier",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will make a story well",
+        "uha ika kahāṇī cagī tar'hāṁ baṇā'uṇagē",
+        "ਉਹ ਇਕ ਕਹਾਣੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਬਣਾਉਣਗੇ",
+        "They will make a story well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will make a story too",
+        "uha ika kahāṇī vī baṇā'uṇagē",
+        "ਉਹ ਇਕ ਕਹਾਣੀ ਵੀ ਬਣਾਉਣਗੇ",
+        "They will make a story too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will make a system here",
+        "uha ithē ika sisaṭama baṇā'ēgā",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਸਿਸਟਮ ਬਣਾਏਗਾ",
+        "They will make a system here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will make a system now",
+        "uha huṇa ika sisaṭama baṇā'ēgā",
+        "ਉਹ ਹੁਣ ਇੱਕ ਸਿਸਟਮ ਬਣਾਏਗਾ",
+        "They will make a system now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will make a thing well",
+        "uha ika cīza nū cagī tar'hāṁ baṇā'uṇagē",
+        "ਉਹ ਇੱਕ ਚੀਜ਼ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਬਣਾਉਣਗੇ",
+        "They will make a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will make a thing too",
+        "uha ika cīza vī baṇā dēṇagē",
+        "ਉਹ ਇੱਕ ਚੀਜ਼ ਵੀ ਬਣਾ ਦੇਣਗੇ",
+        "They will make a thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will make time here",
+        "uha ithē samāṁ baṇā'uṇagē",
+        "ਉਹ ਇੱਥੇ ਸਮਾਂ ਬਣਾਉਣਗੇ",
+        "They will make time here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will make time now",
+        "uha huṇa samāṁ baṇā'uṇagē",
+        "ਉਹ ਹੁਣ ਸਮਾਂ ਬਣਾਉਣਗੇ",
+        "They will make time now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will go to a business well",
+        "uha ika kārōbāra'tē jāṇagē",
+        "ਉਹ ਇੱਕ ਕਾਰੋਬਾਰ 'ਤੇ ਜਾਣਗੇ",
+        "They will go to a business well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will go to a business too",
+        "Uha kisē kārōbāra vica vī jāṇagē",
+        "ਉਹ ਕਿਸੇ ਕਾਰੋਬਾਰ ਵਿਚ ਵੀ ਜਾਣਗੇ",
+        "They will go to a business too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will go to the country here",
+        "uha ithōṁ dē dēśa jāṇagē",
+        "ਉਹ ਇਥੋਂ ਦੇ ਦੇਸ਼ ਜਾਣਗੇ",
+        "They will go to the country here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will go to the country now",
+        "uha huṇa dēśa jāṇagē",
+        "ਉਹ ਹੁਣ ਦੇਸ਼ ਜਾਣਗੇ",
+        "They will go to the country now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will go to the country well",
+        "uha cagī tar'hāṁ dēśa jāṇagē",
+        "ਉਹ ਚੰਗੀ ਤਰ੍ਹਾਂ ਦੇਸ਼ ਜਾਣਗੇ",
+        "They will go to the country well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will go to the country too",
+        "uha dēśa vī jāṇagē",
+        "ਉਹ ਦੇਸ਼ ਵੀ ਜਾਣਗੇ",
+        "They will go to the country too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will go to their family here",
+        "uha ithē āpaṇē parivāra kōla jāṇagē",
+        "ਉਹ ਇੱਥੇ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਜਾਣਗੇ",
+        "They will go to their family here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will go to their family now",
+        "uha huṇa āpaṇē parivāra kōla jāṇagē",
+        "ਉਹ ਹੁਣ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਜਾਣਗੇ",
+        "They will go to their family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will go to their family well",
+        "uha cagī tar'hāṁ āpaṇē parivāra kōla jāṇagē",
+        "ਉਹ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਜਾਣਗੇ",
+        "They will go to their family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will go to their family too",
+        "uha āpaṇē parivāra kōla vī jāṇagē",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਵੀ ਜਾਣਗੇ",
+        "They will go to their family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will go to the government here",
+        "uha ithē sarakāra jāṇagē",
+        "ਉਹ ਇੱਥੇ ਸਰਕਾਰ ਜਾਣਗੇ",
+        "They will go to the government here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will go to the government now",
+        "uha huṇa sarakāra kōla jāṇagē",
+        "ਉਹ ਹੁਣ ਸਰਕਾਰ ਕੋਲ ਜਾਣਗੇ",
+        "They will go to the government now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "know",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will go to a study well",
+        "uha cagī tar'hāṁ adhi'aina karana jāṇagē",
+        "ਉਹ ਚੰਗੀ ਤਰ੍ਹਾਂ ਅਧਿਐਨ ਕਰਨ ਜਾਣਗੇ",
+        "They will go to a study well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will go to a study too",
+        "uha vī adhi'aina karana jāṇagē",
+        "ਉਹ ਵੀ ਅਧਿਐਨ ਕਰਨ ਜਾਣਗੇ",
+        "They will go to a study too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will go for a week here",
+        "uha ithē ika hafatē la'ī jāṇagē",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਜਾਣਗੇ",
+        "They will go for a week here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will go for a week now",
+        "uha huṇa ika hafatē la'ī jāṇagē",
+        "ਉਹ ਹੁਣ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਜਾਣਗੇ",
+        "They will go for a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will go for a week well",
+        "uha ika hafatē la'ī cagī tar'hāṁ jāṇagē",
+        "ਉਹ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਗੇ",
+        "They will go for a week well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "child",
+            "det": "thier",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will go for a week too",
+        "Uha ika hafatē vī jāṇagē",
+        "ਉਹ ਇੱਕ ਹਫ਼ਤੇ ਵੀ ਜਾਣਗੇ",
+        "They will go for a week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "child",
+            "det": "thier",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will go to work here",
+        "uha ithē kama tē jāṇagē",
+        "ਉਹ ਇਥੇ ਕੰਮ ਤੇ ਜਾਣਗੇ",
+        "They will go to work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "child",
+            "det": "thier",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will go to work now",
+        "uha huṇa kama tē jāṇagē",
+        "ਉਹ ਹੁਣ ਕੰਮ ਤੇ ਜਾਣਗੇ",
+        "They will go to work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "child",
+            "det": "thier",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will go for a year well",
+        "uha ika sāla cagī tar'hāṁ rahiṇagē",
+        "ਉਹ ਇੱਕ ਸਾਲ ਚੰਗੀ ਤਰ੍ਹਾਂ ਰਹਿਣਗੇ",
+        "They will go for a year well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "family",
+            "det": "thier",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will go for a year too",
+        "uha ika sāla la'ī vī jāṇagē",
+        "ਉਹ ਇੱਕ ਸਾਲ ਲਈ ਵੀ ਜਾਣਗੇ",
+        "They will go for a year too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "family",
+            "det": "thier",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will know their business here",
+        "uha ithē unhāṁ dē kārōbāra nū jāṇa sakaṇagē",
+        "ਉਹ ਇੱਥੇ ਉਨ੍ਹਾਂ ਦੇ ਕਾਰੋਬਾਰ ਨੂੰ ਜਾਣ ਸਕਣਗੇ",
+        "They will know their business here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "family",
+            "det": "thier",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will know their business now",
+        "uha huṇa unhāṁ dē kārōbāra nū jāṇa laiṇagē",
+        "ਉਹ ਹੁਣ ਉਨ੍ਹਾਂ ਦੇ ਕਾਰੋਬਾਰ ਨੂੰ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their business now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "family",
+            "det": "thier",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will know their child well",
+        "uha āpaṇē bacē nū cagī tar'hāṁ jāṇa sakaṇagē",
+        "ਉਹ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣ ਸਕਣਗੇ",
+        "They will know their child well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will know their child too",
+        "uha āpaṇē bacē nū vī jāṇa laiṇagē",
+        "ਉਹ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੀ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their child too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will know their country here",
+        "uha āpaṇē dēśa nū ithē jāṇa laiṇagē",
+        "ਉਹ ਆਪਣੇ ਦੇਸ਼ ਨੂੰ ਇੱਥੇ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their country here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will know their country now",
+        "uha huṇa āpaṇē dēśa nū jāṇa laiṇagē",
+        "ਉਹ ਹੁਣ ਆਪਣੇ ਦੇਸ਼ ਨੂੰ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their country now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will know their country well",
+        "uha āpaṇē dēśa nū cagī tar'hāṁ jāṇa laiṇagē",
+        "ਉਹ ਆਪਣੇ ਦੇਸ਼ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their country well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "home",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will know their country too",
+        "uha āpaṇē dēśa nū vī jāṇa laiṇagē",
+        "ਉਹ ਆਪਣੇ ਦੇਸ਼ ਨੂੰ ਵੀ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their country too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "home",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will know a fact here",
+        "uha ithē ika tatha jāṇanagē",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਤੱਥ ਜਾਣਨਗੇ",
+        "They will know a fact here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "home",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will know a fact now",
+        "uha huṇa ika tatha jāṇa laiṇagē",
+        "ਉਹ ਹੁਣ ਇਕ ਤੱਥ ਜਾਣ ਲੈਣਗੇ",
+        "They will know a fact now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "home",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will know a fact well",
+        "uha ika tatha nū cagī tar'hāṁ jāṇa laiṇagē",
+        "ਉਹ ਇੱਕ ਤੱਥ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣ ਲੈਣਗੇ",
+        "They will know a fact well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will know a fact too",
+        "uha ika tatha vī jāṇadē hōṇagē",
+        "ਉਹ ਇੱਕ ਤੱਥ ਵੀ ਜਾਣਦੇ ਹੋਣਗੇ",
+        "They will know a fact too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will know their family here",
+        "uha āpaṇē parivāra nū ithē jāṇa sakaṇagē",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਇੱਥੇ ਜਾਣ ਸਕਣਗੇ",
+        "They will know their family here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will know their family now",
+        "uha huṇa āpaṇē parivāra nū jāṇa laiṇagē",
+        "ਉਹ ਹੁਣ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will know their group well",
+        "uha āpaṇē samūha nū cagī tar'hāṁ jāṇa sakaṇagē",
+        "ਉਹ ਆਪਣੇ ਸਮੂਹ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣ ਸਕਣਗੇ",
+        "They will know their group well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "mother",
+            "det": "thier",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will know their group too",
+        "uha āpaṇē samūha nū vī jāṇa laiṇagē",
+        "ਉਹ ਆਪਣੇ ਸਮੂਹ ਨੂੰ ਵੀ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their group too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "mother",
+            "det": "thier",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will know their job here",
+        "uha āpaṇī naukarī ithē jāṇa laiṇagē",
+        "ਉਹ ਆਪਣੀ ਨੌਕਰੀ ਇੱਥੇ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their job here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "mother",
+            "det": "thier",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will know their job now",
+        "uha huṇa āpaṇī naukarī jāṇa laiṇagē",
+        "ਉਹ ਹੁਣ ਆਪਣੀ ਨੌਕਰੀ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their job now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "mother",
+            "det": "thier",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will know a number well",
+        "uha ika nabara nū cagī tar'hāṁ jāṇa sakaṇagē",
+        "ਉਹ ਇਕ ਨੰਬਰ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣ ਸਕਣਗੇ",
+        "They will know a number well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will know a number too",
+        "uha ika nabara vī jāṇadē hōṇagē",
+        "ਉਹ ਇੱਕ ਨੰਬਰ ਵੀ ਜਾਣਦੇ ਹੋਣਗੇ",
+        "They will know a number too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will know their part here",
+        "uha āpaṇā hisā ithē jāṇa laiṇagē",
+        "ਉਹ ਆਪਣਾ ਹਿੱਸਾ ਇੱਥੇ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their part here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will know their part now",
+        "uha huṇa āpaṇā hisā jāṇa laiṇagē",
+        "ਉਹ ਹੁਣ ਆਪਣਾ ਹਿੱਸਾ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their part now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will know their part well",
+        "uha āpaṇē hisē nū cagī tar'hāṁ jāṇa laiṇagē",
+        "ਉਹ ਆਪਣੇ ਹਿੱਸੇ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their part well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will know their part too",
+        "uha āpaṇā hisā vī jāṇa laiṇagē",
+        "ਉਹ ਆਪਣਾ ਹਿੱਸਾ ਵੀ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their part too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will know their place here",
+        "uha ithē unhāṁ dī jag'hā jāṇa laiṇagē",
+        "ਉਹ ਇੱਥੇ ਉਨ੍ਹਾਂ ਦੀ ਜਗ੍ਹਾ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their place here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will know their place now",
+        "unhāṁ nū huṇa unhāṁ dī jag'hā dā patā laga jāvēgā",
+        "ਉਨ੍ਹਾਂ ਨੂੰ ਹੁਣ ਉਨ੍ਹਾਂ ਦੀ ਜਗ੍ਹਾ ਦਾ ਪਤਾ ਲੱਗ ਜਾਵੇਗਾ",
+        "They will know their place now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will know their place well",
+        "uha āpaṇī jag'hā nū cagī tar'hāṁ jāṇa laiṇagē",
+        "ਉਹ ਆਪਣੀ ਜਗ੍ਹਾ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their place well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will know their place too",
+        "Uha āpaṇī jag'hā nū vī jāṇa laiṇagē",
+        "ਉਹ ਆਪਣੀ ਜਗ੍ਹਾ ਨੂੰ ਵੀ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their place too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will know their problem here",
+        "uha āpaṇī samasi'ā nū ithē jāṇadē hōṇagē",
+        "ਉਹ ਆਪਣੀ ਸਮੱਸਿਆ ਨੂੰ ਇੱਥੇ ਜਾਣਦੇ ਹੋਣਗੇ",
+        "They will know their problem here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will know their problem now",
+        "uha huṇa āpaṇī samasi'ā nū jāṇadē hōṇagē",
+        "ਉਹ ਹੁਣ ਆਪਣੀ ਸਮੱਸਿਆ ਨੂੰ ਜਾਣਦੇ ਹੋਣਗੇ",
+        "They will know their problem now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will know their problem well",
+        "uha āpaṇī samasi'ā nū cagī tar'hāṁ jāṇa laiṇagē",
+        "ਉਹ ਆਪਣੀ ਸਮੱਸਿਆ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their problem well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "water",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will know their problem too",
+        "uha āpaṇī samasi'ā nū vī jāṇadē hōṇagē",
+        "ਉਹ ਆਪਣੀ ਸਮੱਸਿਆ ਨੂੰ ਵੀ ਜਾਣਦੇ ਹੋਣਗੇ",
+        "They will know their problem too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "water",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will know their story here",
+        "uha ithē unhāṁ dī kahāṇī jāṇanagē",
+        "ਉਹ ਇੱਥੇ ਉਨ੍ਹਾਂ ਦੀ ਕਹਾਣੀ ਜਾਣਨਗੇ",
+        "They will know their story here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "water",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will know their story now",
+        "uha huṇa unhāṁ dī kahāṇī jāṇa laiṇagē",
+        "ਉਹ ਹੁਣ ਉਨ੍ਹਾਂ ਦੀ ਕਹਾਣੀ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their story now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "water",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will know their story well",
+        "uha āpaṇī kahāṇī cagī tar'hāṁ jāṇa laiṇagē",
+        "ਉਹ ਆਪਣੀ ਕਹਾਣੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their story well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will know their story too",
+        "unhāṁ nū unhāṁ dī kahāṇī vī patā hōvēgī",
+        "ਉਨ੍ਹਾਂ ਨੂੰ ਉਨ੍ਹਾਂ ਦੀ ਕਹਾਣੀ ਵੀ ਪਤਾ ਹੋਵੇਗੀ",
+        "They will know their story too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will know a student here",
+        "uha ithē ika vidi'ārathī nū jāṇanagē",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਨਗੇ",
+        "They will know a student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will know a student now",
+        "uha huṇa ika vidi'ārathī nū jāṇanagē",
+        "ਉਹ ਹੁਣ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਨਗੇ",
+        "They will know a student now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will know their thing well",
+        "uha āpaṇī gala cagī tar'hāṁ jāṇa laiṇagē",
+        "ਉਹ ਆਪਣੀ ਗੱਲ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "come",
+            "noun": "family",
+            "det": "thier",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will know their thing too",
+        "uha āpaṇī gala vī jāṇa laiṇagē",
+        "ਉਹ ਆਪਣੀ ਗੱਲ ਵੀ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "come",
+            "noun": "family",
+            "det": "thier",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will know their time here",
+        "uha āpaṇā samāṁ ithē jāṇa laiṇagē",
+        "ਉਹ ਆਪਣਾ ਸਮਾਂ ਇੱਥੇ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their time here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "come",
+            "noun": "family",
+            "det": "thier",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will know their time now",
+        "uha huṇa āpaṇā samāṁ jāṇa laiṇagē",
+        "ਉਹ ਹੁਣ ਆਪਣਾ ਸਮਾਂ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their time now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "come",
+            "noun": "family",
+            "det": "thier",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will know a woman well",
+        "uha ika womanrata nū cagī tar'hāṁ jāṇa sakaṇagē",
+        "ਉਹ ਇਕ womanਰਤ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣ ਸਕਣਗੇ",
+        "They will know a woman well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "come",
+            "noun": "home",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will know a woman too",
+        "uha ika womanrata nū vī jāṇadē hōṇagē",
+        "ਉਹ ਇੱਕ womanਰਤ ਨੂੰ ਵੀ ਜਾਣਦੇ ਹੋਣਗੇ",
+        "They will know a woman too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "come",
+            "noun": "home",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will know a word here",
+        "uha ithē ika śabada jāṇadē hōṇagē",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਸ਼ਬਦ ਜਾਣਦੇ ਹੋਣਗੇ",
+        "They will know a word here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "come",
+            "noun": "home",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will know a word now",
+        "uha huṇa ika śabada jāṇadē hōṇagē",
+        "ਉਹ ਹੁਣ ਇੱਕ ਸ਼ਬਦ ਜਾਣਦੇ ਹੋਣਗੇ",
+        "They will know a word now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "come",
+            "noun": "home",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will know their work well",
+        "uha āpaṇē kama nū cagī tar'hāṁ jāṇa laiṇagē",
+        "ਉਹ ਆਪਣੇ ਕੰਮ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "come",
+            "noun": "mother",
+            "det": "thier",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will know their work too",
+        "uha āpaṇē kama nū vī jāṇa laiṇagē",
+        "ਉਹ ਆਪਣੇ ਕੰਮ ਨੂੰ ਵੀ ਜਾਣ ਲੈਣਗੇ",
+        "They will know their work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "come",
+            "noun": "mother",
+            "det": "thier",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will take a book here",
+        "uha ithē ika kitāba laiṇagē",
+        "ਉਹ ਇੱਥੇ ਇਕ ਕਿਤਾਬ ਲੈਣਗੇ",
+        "They will take a book here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "come",
+            "noun": "mother",
+            "det": "thier",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will take a book now",
+        "uha huṇa ika kitāba laiṇagē",
+        "ਉਹ ਹੁਣ ਇਕ ਕਿਤਾਬ ਲੈਣਗੇ",
+        "They will take a book now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "come",
+            "noun": "mother",
+            "det": "thier",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will take a day well",
+        "uha ika dina cagī tar'hāṁ laiṇagē",
+        "ਉਹ ਇੱਕ ਦਿਨ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲੈਣਗੇ",
+        "They will take a day well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will take a day too",
+        "uha ika dina vī laiṇagē",
+        "ਉਹ ਇੱਕ ਦਿਨ ਵੀ ਲੈਣਗੇ",
+        "They will take a day too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will take it home here",
+        "uha isa nū ithē ghara lai jāṇagē",
+        "ਉਹ ਇਸ ਨੂੰ ਇੱਥੇ ਘਰ ਲੈ ਜਾਣਗੇ",
+        "They will take it home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will take it home now",
+        "uha huṇa isa nū ghara lai jāṇagē",
+        "ਉਹ ਹੁਣ ਇਸ ਨੂੰ ਘਰ ਲੈ ਜਾਣਗੇ",
+        "They will take it home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will take money well",
+        "uha paisā cagī tar'hāṁ laiṇagē",
+        "ਉਹ ਪੈਸਾ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲੈਣਗੇ",
+        "They will take money well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will take money too",
+        "Uha paisē vī laiṇagē",
+        "ਉਹ ਪੈਸੇ ਵੀ ਲੈਣਗੇ",
+        "They will take money too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will take a point here",
+        "uha ithē ika bidū laiṇagē",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਬਿੰਦੂ ਲੈਣਗੇ",
+        "They will take a point here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will take a point now",
+        "uha huṇa ika bidū laiṇagē",
+        "ਉਹ ਹੁਣ ਇੱਕ ਬਿੰਦੂ ਲੈਣਗੇ",
+        "They will take a point now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will take a point well",
+        "uha ika bidū nū cagī tar'hāṁ laiṇagē",
+        "ਉਹ ਇੱਕ ਬਿੰਦੂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲੈਣਗੇ",
+        "They will take a point well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "come",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will take a point too",
+        "uha vī ika bidū laiṇagē",
+        "ਉਹ ਵੀ ਇੱਕ ਬਿੰਦੂ ਲੈਣਗੇ",
+        "They will take a point too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "come",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will take a thing here",
+        "uha ithē ika cīza laiṇagē",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਚੀਜ਼ ਲੈਣਗੇ",
+        "They will take a thing here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "come",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will take a thing now",
+        "uha huṇa ika cīza laiṇagē",
+        "ਉਹ ਹੁਣ ਇੱਕ ਚੀਜ਼ ਲੈਣਗੇ",
+        "They will take a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "come",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will have a problem too",
+        "unhāṁ nū vī kō'ī samasi'ā hō'ēgī",
+        "ਉਨ੍ਹਾਂ ਨੂੰ ਵੀ ਕੋਈ ਸਮੱਸਿਆ ਹੋਏਗੀ",
+        "They will have a problem too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will have a question now",
+        "unhāṁ kōla huṇa ika praśana hōvēgā",
+        "ਉਨ੍ਹਾਂ ਕੋਲ ਹੁਣ ਇੱਕ ਪ੍ਰਸ਼ਨ ਹੋਵੇਗਾ",
+        "They will have a question now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will have a question too",
+        "unhāṁ kōla vī ika praśana hōvēgā",
+        "ਉਨ੍ਹਾਂ ਕੋਲ ਵੀ ਇੱਕ ਪ੍ਰਸ਼ਨ ਹੋਵੇਗਾ",
+        "They will have a question too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will have the right now",
+        "unhāṁ dā huṇa haka hōvēgā",
+        "ਉਨ੍ਹਾਂ ਦਾ ਹੁਣ ਹੱਕ ਹੋਵੇਗਾ",
+        "They will have the right now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will have the right too",
+        "unhāṁ dā vī haka hōvēgā",
+        "ਉਨ੍ਹਾਂ ਦਾ ਵੀ ਹੱਕ ਹੋਵੇਗਾ",
+        "They will have the right too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will have a room now",
+        "unhāṁ kōla huṇa ika kamarā hōvēgā",
+        "ਉਨ੍ਹਾਂ ਕੋਲ ਹੁਣ ਇੱਕ ਕਮਰਾ ਹੋਵੇਗਾ",
+        "They will have a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will have a room too",
+        "unhāṁ kōla ika kamarā vī hōvēgā",
+        "ਉਨ੍ਹਾਂ ਕੋਲ ਇਕ ਕਮਰਾ ਵੀ ਹੋਵੇਗਾ",
+        "They will have a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will have school now",
+        "unhāṁ dā huṇa sakūla hōvēgā",
+        "ਉਨ੍ਹਾਂ ਦਾ ਹੁਣ ਸਕੂਲ ਹੋਵੇਗਾ",
+        "They will have school now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will have their work too",
+        "unhāṁ dē kama vī hōṇagē",
+        "ਉਨ੍ਹਾਂ ਦੇ ਕੰਮ ਵੀ ਹੋਣਗੇ",
+        "They will have their work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will have a year now",
+        "unhāṁ kōla huṇa ika sāla hōvēgā",
+        "ਉਨ੍ਹਾਂ ਕੋਲ ਹੁਣ ਇਕ ਸਾਲ ਹੋਵੇਗਾ",
+        "They will have a year now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will have a year too",
+        "unhāṁ dā ika sāla vī hōvēgā",
+        "ਉਨ੍ਹਾਂ ਦਾ ਇਕ ਸਾਲ ਵੀ ਹੋਵੇਗਾ",
+        "They will have a year too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will do a business now",
+        "uha huṇa ika kārōbāra karanagē",
+        "ਉਹ ਹੁਣ ਇੱਕ ਕਾਰੋਬਾਰ ਕਰਨਗੇ",
+        "They will do a business now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will do it right well",
+        "uha isa nū cagī tar'hāṁ karanagē",
+        "ਉਹ ਇਸ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਰਨਗੇ",
+        "They will do it right well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will do a thing now",
+        "uha huṇa ika kama karanagē",
+        "ਉਹ ਹੁਣ ਇੱਕ ਕੰਮ ਕਰਨਗੇ",
+        "They will do a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will do a thing well",
+        "uha ika kama cagī tar'hāṁ karanagē",
+        "ਉਹ ਇੱਕ ਕੰਮ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਰਨਗੇ",
+        "They will do a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will do work now",
+        "uha huṇa kama karanagē",
+        "ਉਹ ਹੁਣ ਕੰਮ ਕਰਨਗੇ",
+        "They will do work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will say a thing now",
+        "uha huṇa ika gala kahiṇagē",
+        "ਉਹ ਹੁਣ ਇੱਕ ਗੱਲ ਕਹਿਣਗੇ",
+        "They will say a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "water",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will say a thing well",
+        "uha cagī gala kahiṇagē",
+        "ਉਹ ਚੰਗੀ ਗੱਲ ਕਹਿਣਗੇ",
+        "They will say a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "water",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will say a thing too",
+        "uha vī kujha kahiṇagē",
+        "ਉਹ ਵੀ ਕੁਝ ਕਹਿਣਗੇ",
+        "They will say a thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "water",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will say a word now",
+        "uha huṇa ika śabada kahiṇagē",
+        "ਉਹ ਹੁਣ ਇੱਕ ਸ਼ਬਦ ਕਹਿਣਗੇ",
+        "They will say a word now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "water",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will say a word well",
+        "uha ika śabada cagī tar'hāṁ kahiṇagē",
+        "ਉਹ ਇਕ ਸ਼ਬਦ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਹਿਣਗੇ",
+        "They will say a word well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will say a word too",
+        "uha ika śabada vī kahiṇagē",
+        "ਉਹ ਇੱਕ ਸ਼ਬਦ ਵੀ ਕਹਿਣਗੇ",
+        "They will say a word too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will get a book here",
+        "uha ithē ika kitāba prāpata karanagē",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਕਿਤਾਬ ਪ੍ਰਾਪਤ ਕਰਨਗੇ",
+        "They will get a book here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will get a book now",
+        "unhāṁ nū huṇa ika kitāba milēgī",
+        "ਉਨ੍ਹਾਂ ਨੂੰ ਹੁਣ ਇਕ ਕਿਤਾਬ ਮਿਲੇਗੀ",
+        "They will get a book now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will get a book well",
+        "uha ika kitāba cagī tar'hāṁ prāpata karanagē",
+        "ਉਹ ਇਕ ਕਿਤਾਬ ਚੰਗੀ ਤਰ੍ਹਾਂ ਪ੍ਰਾਪਤ ਕਰਨਗੇ",
+        "They will get a book well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will get a book too",
+        "Unhāṁ nū ika kitāba vī milēgī",
+        "ਉਨ੍ਹਾਂ ਨੂੰ ਇਕ ਕਿਤਾਬ ਵੀ ਮਿਲੇਗੀ",
+        "They will get a book too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will get a day here",
+        "unhāṁ nū ithē ika dina milēgā",
+        "ਉਨ੍ਹਾਂ ਨੂੰ ਇਥੇ ਇਕ ਦਿਨ ਮਿਲੇਗਾ",
+        "They will get a day here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will get a day now",
+        "unhāṁ nū huṇa ika dina milēgā",
+        "ਉਨ੍ਹਾਂ ਨੂੰ ਹੁਣ ਇਕ ਦਿਨ ਮਿਲੇਗਾ",
+        "They will get a day now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will get the group well",
+        "uha samūha nū cagī tar'hāṁ prāpata karanagē",
+        "ਉਹ ਸਮੂਹ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਪ੍ਰਾਪਤ ਕਰਨਗੇ",
+        "They will get the group well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will get the group too",
+        "uha samūha vī prāpata karanagē",
+        "ਉਹ ਸਮੂਹ ਵੀ ਪ੍ਰਾਪਤ ਕਰਨਗੇ",
+        "They will get the group too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will get a job here",
+        "unhāṁ nū ithē naukarī milēgī",
+        "ਉਨ੍ਹਾਂ ਨੂੰ ਇਥੇ ਨੌਕਰੀ ਮਿਲੇਗੀ",
+        "They will get a job here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will get a job now",
+        "unhāṁ nū huṇa naukarī milēgī",
+        "ਉਨ੍ਹਾਂ ਨੂੰ ਹੁਣ ਨੌਕਰੀ ਮਿਲੇਗੀ",
+        "They will get a job now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will get money well",
+        "unhāṁ nū paisē vadhī'ā milaṇagē",
+        "ਉਨ੍ਹਾਂ ਨੂੰ ਪੈਸੇ ਵਧੀਆ ਮਿਲਣਗੇ",
+        "They will get money well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "home",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will get money too",
+        "unhāṁ nū paisē vī milaṇagē",
+        "ਉਨ੍ਹਾਂ ਨੂੰ ਪੈਸੇ ਵੀ ਮਿਲਣਗੇ",
+        "They will get money too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "home",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will get a month here",
+        "unhāṁ nū ithē ika mahīnā milēgā",
+        "ਉਨ੍ਹਾਂ ਨੂੰ ਇੱਥੇ ਇੱਕ ਮਹੀਨਾ ਮਿਲੇਗਾ",
+        "They will get a month here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "home",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will get a month now",
+        "unhāṁ nū huṇa ika mahīnā milēgā",
+        "ਉਨ੍ਹਾਂ ਨੂੰ ਹੁਣ ਇਕ ਮਹੀਨਾ ਮਿਲੇਗਾ",
+        "They will get a month now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "home",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will get a point well",
+        "uha ika bidū cagī tar'hāṁ prāpata karanagē",
+        "ਉਹ ਇਕ ਬਿੰਦੂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਪ੍ਰਾਪਤ ਕਰਨਗੇ",
+        "They will get a point well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will get a point too",
+        "uha vī ika bidū prāpata karēgā",
+        "ਉਹ ਵੀ ਇੱਕ ਬਿੰਦੂ ਪ੍ਰਾਪਤ ਕਰੇਗਾ",
+        "They will get a point too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will get a question here",
+        "unhāṁ nū ithē ika praśana milēgā",
+        "ਉਨ੍ਹਾਂ ਨੂੰ ਇਥੇ ਇਕ ਪ੍ਰਸ਼ਨ ਮਿਲੇਗਾ",
+        "They will get a question here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will get a question now",
+        "unhāṁ nū huṇa ika praśana milēgā",
+        "ਉਨ੍ਹਾਂ ਨੂੰ ਹੁਣ ਇਕ ਪ੍ਰਸ਼ਨ ਮਿਲੇਗਾ",
+        "They will get a question now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will get a question well",
+        "uha ika savāla cagī tar'hāṁ prāpata karanagē",
+        "ਉਹ ਇੱਕ ਸਵਾਲ ਚੰਗੀ ਤਰ੍ਹਾਂ ਪ੍ਰਾਪਤ ਕਰਨਗੇ",
+        "They will get a question well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will get a question too",
+        "unhāṁ nū vī ika praśana milēgā",
+        "ਉਨ੍ਹਾਂ ਨੂੰ ਵੀ ਇਕ ਪ੍ਰਸ਼ਨ ਮਿਲੇਗਾ",
+        "They will get a question too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will get it right here",
+        "uha isa nū ithē prāpata karanagē",
+        "ਉਹ ਇਸ ਨੂੰ ਇੱਥੇ ਪ੍ਰਾਪਤ ਕਰਨਗੇ",
+        "They will get it right here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will get it right now",
+        "uha isa nū huṇa prāpata karanagē",
+        "ਉਹ ਇਸ ਨੂੰ ਹੁਣ ਪ੍ਰਾਪਤ ਕਰਨਗੇ",
+        "They will get it right now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will get a room well",
+        "unhāṁ nū ika kamarā vadhī'ā milēgā",
+        "ਉਨ੍ਹਾਂ ਨੂੰ ਇਕ ਕਮਰਾ ਵਧੀਆ ਮਿਲੇਗਾ",
+        "They will get a room well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "water",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will get a room too",
+        "unhāṁ nū ika kamarā vī milēgā",
+        "ਉਨ੍ਹਾਂ ਨੂੰ ਇਕ ਕਮਰਾ ਵੀ ਮਿਲੇਗਾ",
+        "They will get a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "water",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will get a thing here",
+        "uha ithē ika cīza prāpata karanagē",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਚੀਜ਼ ਪ੍ਰਾਪਤ ਕਰਨਗੇ",
+        "They will get a thing here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "water",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will get a thing now",
+        "uha huṇa ika cīza prāpata karanagē",
+        "ਉਹ ਹੁਣ ਇੱਕ ਚੀਜ਼ ਪ੍ਰਾਪਤ ਕਰਨਗੇ",
+        "They will get a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "water",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will get time well",
+        "uha samāṁ cagī tar'hāṁ prāpata karanagē",
+        "ਉਹ ਸਮਾਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਪ੍ਰਾਪਤ ਕਰਨਗੇ",
+        "They will get time well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will get time too",
+        "unhāṁ nū samāṁ vī milēgā",
+        "ਉਨ੍ਹਾਂ ਨੂੰ ਸਮਾਂ ਵੀ ਮਿਲੇਗਾ",
+        "They will get time too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will get water here",
+        "unhāṁ nū ithē pāṇī milēgā",
+        "ਉਨ੍ਹਾਂ ਨੂੰ ਇੱਥੇ ਪਾਣੀ ਮਿਲੇਗਾ",
+        "They will get water here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will get water now",
+        "unhāṁ nū huṇa pāṇī milēgā",
+        "ਉਨ੍ਹਾਂ ਨੂੰ ਹੁਣ ਪਾਣੀ ਮਿਲੇਗਾ",
+        "They will get water now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will get water well",
+        "unhāṁ nū pāṇī cagī tar'hāṁ milēgā",
+        "ਉਨ੍ਹਾਂ ਨੂੰ ਪਾਣੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਮਿਲੇਗਾ",
+        "They will get water well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will find a word now",
+        "Uha huṇa ika śabada labhaṇagē",
+        "ਉਹ ਹੁਣ ਇੱਕ ਸ਼ਬਦ ਲੱਭਣਗੇ",
+        "They will find a word now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will find a word well",
+        "uha ika śabada cagī tar'hāṁ labhaṇagē",
+        "ਉਹ ਇੱਕ ਸ਼ਬਦ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲੱਭਣਗੇ",
+        "They will find a word well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will find a word too",
+        "uha ika śabada vī labhaṇagē",
+        "ਉਹ ਇੱਕ ਸ਼ਬਦ ਵੀ ਲੱਭਣਗੇ",
+        "They will find a word too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "They will find work here",
+        "uha ithē kama labhaṇagē",
+        "ਉਹ ਇੱਥੇ ਕੰਮ ਲੱਭਣਗੇ",
+        "They will find work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "They will find work now",
+        "uha huṇa kama labhaṇagē",
+        "ਉਹ ਹੁਣ ਕੰਮ ਲੱਭਣਗੇ",
+        "They will find work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "They will find work well",
+        "uha kama nū cagī tar'hāṁ labhaṇagē",
+        "ਉਹ ਕੰਮ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲੱਭਣਗੇ",
+        "They will find work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "They will find work too",
+        "uha kama vī labhaṇagē",
+        "ਉਹ ਕੰਮ ਵੀ ਲੱਭਣਗੇ",
+        "They will find work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "future",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "they",
+            "verb": "find",
+            "noun": "work",
+            "adv": "too"
+        }
+    ]
+]

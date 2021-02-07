@@ -1,0 +1,6160 @@
+[
+    [
+        "She had been being her child here",
+        "Uha ithē usadā bacā rihā sī",
+        "ਉਹ ਇੱਥੇ ਉਸਦਾ ਬੱਚਾ ਰਿਹਾ ਸੀ",
+        "She had been being her child here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "child",
+            "det": "her",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been being her child too",
+        "uha vī usadā bacā rihā sī",
+        "ਉਹ ਵੀ ਉਸਦਾ ਬੱਚਾ ਰਿਹਾ ਸੀ",
+        "She had been being her child too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "child",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been being her mother here",
+        "uha ithē usadī māṁ rahī sī",
+        "ਉਹ ਇਥੇ ਉਸਦੀ ਮਾਂ ਰਹੀ ਸੀ",
+        "She had been being her mother here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "mother",
+            "det": "her",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been being her mother too",
+        "uha āpaṇī māṁ vī rahī sī",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਵੀ ਰਹੀ ਸੀ",
+        "She had been being her mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "mother",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been being a student here",
+        "uha ithē ika vidi'ārathī rahī sī",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਵਿਦਿਆਰਥੀ ਰਹੀ ਸੀ",
+        "She had been being a student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been being a student too",
+        "uha ika vidi'ārathī vī rahī sī",
+        "ਉਹ ਇੱਕ ਵਿਦਿਆਰਥੀ ਵੀ ਰਹੀ ਸੀ",
+        "She had been being a student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been being a woman here",
+        "uha ithē ika beingrata hō rahī sī",
+        "ਉਹ ਇੱਥੇ ਇੱਕ beingਰਤ ਹੋ ਰਹੀ ਸੀ",
+        "She had been being a woman here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "woman",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been being a woman too",
+        "uha ika beingrata vī rahī sī",
+        "ਉਹ ਇੱਕ beingਰਤ ਵੀ ਰਹੀ ਸੀ",
+        "She had been being a woman too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "be",
+            "noun": "woman",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been having a book now",
+        "usa kōla huṇa ika kitāba sī",
+        "ਉਸ ਕੋਲ ਹੁਣ ਇਕ ਕਿਤਾਬ ਸੀ",
+        "She had been having a book now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "book",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been having a book too",
+        "usa dī kitāba vī sī",
+        "ਉਸ ਦੀ ਕਿਤਾਬ ਵੀ ਸੀ",
+        "She had been having a book too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "book",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been having her child now",
+        "uha huṇa āpaṇē bacē nū janama rahī sī",
+        "ਉਹ ਹੁਣ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਜਨਮ ਰਹੀ ਸੀ",
+        "She had been having her child now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "child",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been having her child too",
+        "usa nē āpaṇē bacē nū vī kītā gi'ā sī",
+        "ਉਸ ਨੇ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੀ ਕੀਤਾ ਗਿਆ ਸੀ",
+        "She had been having her child too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "child",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been having her family now",
+        "uha huṇa āpaṇā parivāra rakhadā rihā sī",
+        "ਉਹ ਹੁਣ ਆਪਣਾ ਪਰਿਵਾਰ ਰੱਖਦਾ ਰਿਹਾ ਸੀ",
+        "She had been having her family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "family",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been having her family too",
+        "uha āpaṇē parivāra nāla vī rahī sī",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਨਾਲ ਵੀ ਰਹੀ ਸੀ",
+        "She had been having her family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "family",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been having a hand now",
+        "usadā huṇa hatha rihā sī",
+        "ਉਸਦਾ ਹੁਣ ਹੱਥ ਰਿਹਾ ਸੀ",
+        "She had been having a hand now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "hand",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been having a hand too",
+        "usadā vī hatha rihā sī",
+        "ਉਸਦਾ ਵੀ ਹੱਥ ਰਿਹਾ ਸੀ",
+        "She had been having a hand too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "hand",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been having a home now",
+        "uha huṇa ika ghara rihā sī",
+        "ਉਹ ਹੁਣ ਇੱਕ ਘਰ ਰਿਹਾ ਸੀ",
+        "She had been having a home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "home",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been having a home too",
+        "usadā vī ghara rihā sī",
+        "ਉਸਦਾ ਵੀ ਘਰ ਰਿਹਾ ਸੀ",
+        "She had been having a home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "home",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been having her mother now",
+        "uha huṇa āpaṇī māṁ nū karadī ā rahī sī",
+        "ਉਹ ਹੁਣ ਆਪਣੀ ਮਾਂ ਨੂੰ ਕਰਦੀ ਆ ਰਹੀ ਸੀ",
+        "She had been having her mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "mother",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been having her mother too",
+        "usadī māṁ vī rahī sī",
+        "ਉਸਦੀ ਮਾਂ ਵੀ ਰਹੀ ਸੀ",
+        "She had been having her mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "mother",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been having a room now",
+        "uha huṇa ika kamarā lai rahī sī",
+        "ਉਹ ਹੁਣ ਇੱਕ ਕਮਰਾ ਲੈ ਰਹੀ ਸੀ",
+        "She had been having a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been having a room too",
+        "usa dā kamarā vī rihā sī",
+        "ਉਸ ਦਾ ਕਮਰਾ ਵੀ ਰਿਹਾ ਸੀ",
+        "She had been having a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been having a thing now",
+        "uha huṇa kujha kara rahī sī",
+        "ਉਹ ਹੁਣ ਕੁਝ ਕਰ ਰਹੀ ਸੀ",
+        "She had been having a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been having a thing too",
+        "usa nū vī kujha hō gi'ā sī",
+        "ਉਸ ਨੂੰ ਵੀ ਕੁਝ ਹੋ ਗਿਆ ਸੀ",
+        "She had been having a thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been having water now",
+        "uha huṇa pāṇī pī rahī sī",
+        "ਉਹ ਹੁਣ ਪਾਣੀ ਪੀ ਰਹੀ ਸੀ",
+        "She had been having water now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "water",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been having water too",
+        "uha vī pāṇī pī rahī sī",
+        "ਉਹ ਵੀ ਪਾਣੀ ਪੀ ਰਹੀ ਸੀ",
+        "She had been having water too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "water",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been having a week now",
+        "usa nū huṇa ika hafatā hō gi'ā sī",
+        "ਉਸ ਨੂੰ ਹੁਣ ਇੱਕ ਹਫ਼ਤਾ ਹੋ ਗਿਆ ਸੀ",
+        "She had been having a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been having a week too",
+        "usa nū ika hafatā vī hō'i'ā sī",
+        "ਉਸ ਨੂੰ ਇੱਕ ਹਫ਼ਤਾ ਵੀ ਹੋਇਆ ਸੀ",
+        "She had been having a week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been having her work now",
+        "uha huṇa āpaṇā kama kara rahī sī",
+        "ਉਹ ਹੁਣ ਆਪਣਾ ਕੰਮ ਕਰ ਰਹੀ ਸੀ",
+        "She had been having her work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been having her work too",
+        "uha āpaṇā kama vī kara rahī sī",
+        "ਉਹ ਆਪਣਾ ਕੰਮ ਵੀ ਕਰ ਰਹੀ ਸੀ",
+        "She had been having her work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "have",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been doing a thing now",
+        "uha huṇa kujha kara rahī sī",
+        "ਉਹ ਹੁਣ ਕੁਝ ਕਰ ਰਹੀ ਸੀ",
+        "She had been doing a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been doing a thing well",
+        "uha ika cīza cagī tar'hāṁ kara rahī sī",
+        "ਉਹ ਇੱਕ ਚੀਜ਼ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਰ ਰਹੀ ਸੀ",
+        "She had been doing a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been doing work now",
+        "uha huṇa kama kara rahī sī",
+        "ਉਹ ਹੁਣ ਕੰਮ ਕਰ ਰਹੀ ਸੀ",
+        "She had been doing work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been doing work well",
+        "uha vadhī'ā kama kara rahī sī",
+        "ਉਹ ਵਧੀਆ ਕੰਮ ਕਰ ਰਹੀ ਸੀ",
+        "She had been doing work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "do",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been going to her family here",
+        "uha ithē āpaṇē parivāra nū jā rahī sī",
+        "ਉਹ ਇਥੇ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਜਾ ਰਹੀ ਸੀ",
+        "She had been going to her family here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "family",
+            "det": "her",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been going to her family now",
+        "uha huṇa āpaṇē parivāra kōla ga'ī hō'ī sī",
+        "ਉਹ ਹੁਣ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਗਈ ਹੋਈ ਸੀ",
+        "She had been going to her family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "family",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been going to her family well",
+        "uha cagī tar'hāṁ āpaṇē parivāra kōla jā rahī sī",
+        "ਉਹ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਜਾ ਰਹੀ ਸੀ",
+        "She had been going to her family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "family",
+            "det": "her",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been going to her family too",
+        "uha āpaṇē parivāra kōla vī ga'ī hō'ī sī",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਵੀ ਗਈ ਹੋਈ ਸੀ",
+        "She had been going to her family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "family",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been going home here",
+        "uha ithē ghara jā rahī sī",
+        "ਉਹ ਇਥੇ ਘਰ ਜਾ ਰਹੀ ਸੀ",
+        "She had been going home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "home",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been going home now",
+        "uha huṇa ghara jā rahī sī",
+        "ਉਹ ਹੁਣ ਘਰ ਜਾ ਰਹੀ ਸੀ",
+        "She had been going home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "home",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been going home well",
+        "uha cagī tar'hāṁ ghara jā rahī sī",
+        "ਉਹ ਚੰਗੀ ਤਰ੍ਹਾਂ ਘਰ ਜਾ ਰਹੀ ਸੀ",
+        "She had been going home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "home",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been going home too",
+        "uha vī ghara jā rahī sī",
+        "ਉਹ ਵੀ ਘਰ ਜਾ ਰਹੀ ਸੀ",
+        "She had been going home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "home",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been going to her mother here",
+        "uha ithē āpaṇī māṁ kōla jā rahī sī",
+        "ਉਹ ਇਥੇ ਆਪਣੀ ਮਾਂ ਕੋਲ ਜਾ ਰਹੀ ਸੀ",
+        "She had been going to her mother here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "mother",
+            "det": "her",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been going to her mother now",
+        "uha huṇa āpaṇī māṁ kōla jā rahī sī",
+        "ਉਹ ਹੁਣ ਆਪਣੀ ਮਾਂ ਕੋਲ ਜਾ ਰਹੀ ਸੀ",
+        "She had been going to her mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "mother",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been going to her mother well",
+        "uha cagī tar'hāṁ āpaṇī māṁ kōla jā rahī sī",
+        "ਉਹ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਪਣੀ ਮਾਂ ਕੋਲ ਜਾ ਰਹੀ ਸੀ",
+        "She had been going to her mother well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "mother",
+            "det": "her",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been going to her mother too",
+        "uha āpaṇī māṁ kōla vī gi'ā hō'i'ā sī",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਕੋਲ ਵੀ ਗਿਆ ਹੋਇਆ ਸੀ",
+        "She had been going to her mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "mother",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been going to a room here",
+        "uha ithē ika kamarē vica jā rahī sī",
+        "ਉਹ ਇਥੇ ਇਕ ਕਮਰੇ ਵਿਚ ਜਾ ਰਹੀ ਸੀ",
+        "She had been going to a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been going to a room now",
+        "uha huṇa ika kamarē vica jā rahī sī",
+        "ਉਹ ਹੁਣ ਇੱਕ ਕਮਰੇ ਵਿੱਚ ਜਾ ਰਹੀ ਸੀ",
+        "She had been going to a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been going to a room well",
+        "uha ika kamarē vica cagī tar'hāṁ jā rahī sī",
+        "ਉਹ ਇਕ ਕਮਰੇ ਵਿਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਹੀ ਸੀ",
+        "She had been going to a room well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been going to a room too",
+        "uha vī ika kamarē vica jā rahī sī",
+        "ਉਹ ਵੀ ਇੱਕ ਕਮਰੇ ਵਿੱਚ ਜਾ ਰਹੀ ਸੀ",
+        "She had been going to a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been going to a student here",
+        "uha ithē ika vidi'ārathī kōla ga'ī hō'ī sī",
+        "ਉਹ ਇਥੇ ਇਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਗਈ ਹੋਈ ਸੀ",
+        "She had been going to a student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been going to a student now",
+        "uha huṇa ika vidi'ārathī kōla ga'ī hō'ī sī",
+        "ਉਹ ਹੁਣ ਇਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਗਈ ਹੋਈ ਸੀ",
+        "She had been going to a student now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been going to a student well",
+        "uha ika vidi'ārathī kōla cagī tar'hāṁ jā rahī sī",
+        "ਉਹ ਇਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾ ਰਹੀ ਸੀ",
+        "She had been going to a student well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been going to a student too",
+        "uha vī ika vidi'ārathī kōla ga'ī hō'ī sī",
+        "ਉਹ ਵੀ ਇੱਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਗਈ ਹੋਈ ਸੀ",
+        "She had been going to a student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been going for a week here",
+        "uha ithē ika hafatē la'ī jā rahī sī",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਜਾ ਰਹੀ ਸੀ",
+        "She had been going for a week here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been going for a week now",
+        "uha huṇa ika hafatē la'ī jā rahī sī",
+        "ਉਹ ਹੁਣ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਜਾ ਰਹੀ ਸੀ",
+        "She had been going for a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been going for a week well",
+        "uha ika hafatē la'ī cagī tar'hāṁ cala rahī sī",
+        "ਉਹ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਚੰਗੀ ਤਰ੍ਹਾਂ ਚਲ ਰਹੀ ਸੀ",
+        "She had been going for a week well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been going for a week too",
+        "uha ika hafatē vī gi'ā hō'i'ā sī",
+        "ਉਹ ਇੱਕ ਹਫ਼ਤੇ ਵੀ ਗਿਆ ਹੋਇਆ ਸੀ",
+        "She had been going for a week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been going to work here",
+        "uha ithē kama karana ga'ī sī",
+        "ਉਹ ਇੱਥੇ ਕੰਮ ਕਰਨ ਗਈ ਸੀ",
+        "She had been going to work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been going to work now",
+        "uha huṇa kama tē jā rahī sī",
+        "ਉਹ ਹੁਣ ਕੰਮ ਤੇ ਜਾ ਰਹੀ ਸੀ",
+        "She had been going to work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been going to work well",
+        "uha vadhī'ā kama karana jā rahī sī",
+        "ਉਹ ਵਧੀਆ ਕੰਮ ਕਰਨ ਜਾ ਰਹੀ ਸੀ",
+        "She had been going to work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been going to work too",
+        "uha vī kama tē jā rahī sī",
+        "ਉਹ ਵੀ ਕੰਮ ਤੇ ਜਾ ਰਹੀ ਸੀ",
+        "She had been going to work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "go",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had known her child here",
+        "usanē āpaṇē bacē nū ithē jāṇa li'ā sī",
+        "ਉਸਨੇ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਇੱਥੇ ਜਾਣ ਲਿਆ ਸੀ",
+        "She had known her child here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "child",
+            "det": "her",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had known her child now",
+        "uha huṇa āpaṇē bacē nū jāṇadā sī",
+        "ਉਹ ਹੁਣ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਜਾਣਦਾ ਸੀ",
+        "She had known her child now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "child",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had known her child well",
+        "uha āpaṇē bacē nū cagī tar'hāṁ jāṇadī sī",
+        "ਉਹ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੀ ਸੀ",
+        "She had known her child well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "child",
+            "det": "her",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had known her child too",
+        "uha āpaṇē bacē nū vī jāṇadī sī",
+        "ਉਹ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੀ ਜਾਣਦੀ ਸੀ",
+        "She had known her child too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "child",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had known her family here",
+        "uha āpaṇē parivāra nū ithē jāṇadī sī",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਇੱਥੇ ਜਾਣਦੀ ਸੀ",
+        "She had known her family here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "family",
+            "det": "her",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had known her family now",
+        "Uha huṇa āpaṇē parivāra nū jāṇadī sī",
+        "ਉਹ ਹੁਣ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਜਾਣਦੀ ਸੀ",
+        "She had known her family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "family",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had known her family well",
+        "uha āpaṇē parivāra nū cagī tar'hāṁ jāṇadī sī",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੀ ਸੀ",
+        "She had known her family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "family",
+            "det": "her",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had known her family too",
+        "uha āpaṇē parivāra nū vī jāṇadī sī",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਵੀ ਜਾਣਦੀ ਸੀ",
+        "She had known her family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "family",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had known a man here",
+        "usanē ithē ika ādamī nū jāṇi'ā sī",
+        "ਉਸਨੇ ਇੱਥੇ ਇੱਕ ਆਦਮੀ ਨੂੰ ਜਾਣਿਆ ਸੀ",
+        "She had known a man here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had known a man now",
+        "uha huṇa ika ādamī nū jāṇadī sī",
+        "ਉਹ ਹੁਣ ਇਕ ਆਦਮੀ ਨੂੰ ਜਾਣਦੀ ਸੀ",
+        "She had known a man now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had known a man well",
+        "uha ika ādamī nū cagī tar'hāṁ jāṇadī sī",
+        "ਉਹ ਇਕ ਆਦਮੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੀ ਸੀ",
+        "She had known a man well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had known a man too",
+        "uha ika ādamī nū vī jāṇadī sī",
+        "ਉਹ ਇਕ ਆਦਮੀ ਨੂੰ ਵੀ ਜਾਣਦੀ ਸੀ",
+        "She had known a man too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had known her mother here",
+        "uha āpaṇī māṁ nū ithē jāṇadī sī",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਇੱਥੇ ਜਾਣਦੀ ਸੀ",
+        "She had known her mother here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "mother",
+            "det": "her",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had known her mother now",
+        "uha huṇa āpaṇī māṁ nū jāṇadā sī",
+        "ਉਹ ਹੁਣ ਆਪਣੀ ਮਾਂ ਨੂੰ ਜਾਣਦਾ ਸੀ",
+        "She had known her mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "mother",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had known her mother well",
+        "uha āpaṇī māṁ nū cagī tar'hāṁ jāṇadā sī",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦਾ ਸੀ",
+        "She had known her mother well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "mother",
+            "det": "her",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had known her mother too",
+        "uha āpaṇī māṁ nū vī jāṇadā sī",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਵੀ ਜਾਣਦਾ ਸੀ",
+        "She had known her mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "mother",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had known a student here",
+        "uha ithē ika vidi'ārathī nū jāṇadī sī",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦੀ ਸੀ",
+        "She had known a student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had known a student now",
+        "uha huṇa ika vidi'ārathī nū jāṇadī sī",
+        "ਉਹ ਹੁਣ ਇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦੀ ਸੀ",
+        "She had known a student now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had known a student well",
+        "uha ika vidi'ārathī nū cagī tar'hāṁ jāṇadī sī",
+        "ਉਹ ਇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੀ ਸੀ",
+        "She had known a student well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had known a student too",
+        "uha ika vidi'ārathī nū vī jāṇadī sī",
+        "ਉਹ ਇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੀ ਜਾਣਦੀ ਸੀ",
+        "She had known a student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had known her thing here",
+        "usanē āpaṇī cīza ithē jāṇa la'ī sī",
+        "ਉਸਨੇ ਆਪਣੀ ਚੀਜ਼ ਇੱਥੇ ਜਾਣ ਲਈ ਸੀ",
+        "She had known her thing here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had known her thing now",
+        "uhanū huṇa uhadī gala patā laga ga'ī sī",
+        "ਉਹਨੂੰ ਹੁਣ ਉਹਦੀ ਗੱਲ ਪਤਾ ਲੱਗ ਗਈ ਸੀ",
+        "She had known her thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had known her think well",
+        "uha usa dē vicāra nū cagī tar'hāṁ jāṇadī sī",
+        "ਉਹ ਉਸ ਦੇ ਵਿਚਾਰ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੀ ਸੀ",
+        "She had known her think well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had known her thing too",
+        "uha āpaṇī gala vī jāṇadī sī",
+        "ਉਹ ਆਪਣੀ ਗੱਲ ਵੀ ਜਾਣਦੀ ਸੀ",
+        "She had known her thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had known a woman here",
+        "usanē ithē ika knownrata nū jāṇi'ā sī",
+        "ਉਸਨੇ ਇੱਥੇ ਇੱਕ knownਰਤ ਨੂੰ ਜਾਣਿਆ ਸੀ",
+        "She had known a woman here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had known a woman now",
+        "uha huṇa ika knownrata nū jāṇadā sī",
+        "ਉਹ ਹੁਣ ਇਕ knownਰਤ ਨੂੰ ਜਾਣਦਾ ਸੀ",
+        "She had known a woman now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had known a woman well",
+        "uha ika womanrata nū cagī tar'hāṁ jāṇadī sī",
+        "ਉਹ ਇਕ womanਰਤ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੀ ਸੀ",
+        "She had known a woman well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had known a woman too",
+        "uha ika womanrata nū vī jāṇadī sī",
+        "ਉਹ ਇਕ womanਰਤ ਨੂੰ ਵੀ ਜਾਣਦੀ ਸੀ",
+        "She had known a woman too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had known a word here",
+        "usa nū ithē ika śabada patā sī",
+        "ਉਸ ਨੂੰ ਇਥੇ ਇਕ ਸ਼ਬਦ ਪਤਾ ਸੀ",
+        "She had known a word here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had known a word now",
+        "usa nū huṇa ika śabada patā sī",
+        "ਉਸ ਨੂੰ ਹੁਣ ਇਕ ਸ਼ਬਦ ਪਤਾ ਸੀ",
+        "She had known a word now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had known a word well",
+        "uha ika śabada cagī tar'hāṁ jāṇadī sī",
+        "ਉਹ ਇਕ ਸ਼ਬਦ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੀ ਸੀ",
+        "She had known a word well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had known a word too",
+        "uhanū ika śabada vī patā sī",
+        "ਉਹਨੂੰ ਇੱਕ ਸ਼ਬਦ ਵੀ ਪਤਾ ਸੀ",
+        "She had known a word too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had known her work here",
+        "uha āpaṇē kama nū ithē jāṇadī sī",
+        "ਉਹ ਆਪਣੇ ਕੰਮ ਨੂੰ ਇੱਥੇ ਜਾਣਦੀ ਸੀ",
+        "She had known her work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had known her work now",
+        "uha huṇa āpaṇā kama jāṇadī sī",
+        "ਉਹ ਹੁਣ ਆਪਣਾ ਕੰਮ ਜਾਣਦੀ ਸੀ",
+        "She had known her work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had known her work well",
+        "uha āpaṇē kama nū cagī tar'hāṁ jāṇadī sī",
+        "ਉਹ ਆਪਣੇ ਕੰਮ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਜਾਣਦੀ ਸੀ",
+        "She had known her work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had known her work too",
+        "uha āpaṇā kama vī jāṇadī sī",
+        "ਉਹ ਆਪਣਾ ਕੰਮ ਵੀ ਜਾਣਦੀ ਸੀ",
+        "She had known her work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "know",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been seeing a book here",
+        "uha ithē ika kitāba vēkha rahī sī",
+        "ਉਹ ਇਥੇ ਇਕ ਕਿਤਾਬ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing a book here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been seeing a book now",
+        "Uha huṇa ika kitāba vēkha rahī sī",
+        "ਉਹ ਹੁਣ ਇਕ ਕਿਤਾਬ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing a book now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been seeing a book well",
+        "uha ika kitāba cagī tar'hāṁ vēkha rahī sī",
+        "ਉਹ ਇਕ ਕਿਤਾਬ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing a book well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been seeing a book too",
+        "uha ika kitāba vī vēkha rahī sī",
+        "ਉਹ ਇਕ ਕਿਤਾਬ ਵੀ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing a book too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been seeing her child here",
+        "uha āpaṇē bacē nū ithē vēkhadī rahī sī",
+        "ਉਹ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਇੱਥੇ ਵੇਖਦੀ ਰਹੀ ਸੀ",
+        "She had been seeing her child here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "child",
+            "det": "her",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been seeing her child now",
+        "uha huṇa āpaṇē bacē nū vēkha rahī sī",
+        "ਉਹ ਹੁਣ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing her child now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "child",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been seeing her child well",
+        "uha āpaṇē bacē nū cagī tar'hāṁ vēkha rahī sī",
+        "ਉਹ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing her child well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "child",
+            "det": "her",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been seeing her child too",
+        "uha āpaṇē bacē nū vī vēkhadī rahī sī",
+        "ਉਹ ਆਪਣੇ ਬੱਚੇ ਨੂੰ ਵੀ ਵੇਖਦੀ ਰਹੀ ਸੀ",
+        "She had been seeing her child too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "child",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been seeing her family here",
+        "uha ithē āpaṇē parivāra nū vēkhadī rahī sī",
+        "ਉਹ ਇੱਥੇ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਵੇਖਦੀ ਰਹੀ ਸੀ",
+        "She had been seeing her family here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "family",
+            "det": "her",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been seeing her family now",
+        "uha huṇa āpaṇē parivāra nū vēkha rahī sī",
+        "ਉਹ ਹੁਣ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing her family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "family",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been seeing her family well",
+        "uha āpaṇē parivāra nū cagī tar'hāṁ vēkha rahī sī",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing her family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "family",
+            "det": "her",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been seeing her family too",
+        "uha āpaṇē parivāra nū vī vēkhadī rahī sī",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਨੂੰ ਵੀ ਵੇਖਦੀ ਰਹੀ ਸੀ",
+        "She had been seeing her family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "family",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been seeing a hand here",
+        "uha ithē ika hatha vēkha rahī sī",
+        "ਉਹ ਇਥੇ ਇੱਕ ਹੱਥ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing a hand here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been seeing a hand now",
+        "uha huṇa ika hatha vēkha rahī sī",
+        "ਉਹ ਹੁਣ ਇੱਕ ਹੱਥ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing a hand now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been seeing a hand well",
+        "uha ika hatha cagī tar'hāṁ vēkha rahī sī",
+        "ਉਹ ਇੱਕ ਹੱਥ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing a hand well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been seeing a hand too",
+        "uha vī ika hatha vēkha rihā sī",
+        "ਉਹ ਵੀ ਇੱਕ ਹੱਥ ਵੇਖ ਰਿਹਾ ਸੀ",
+        "She had been seeing a hand too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been seeing a home here",
+        "uha ithē ika ghara vēkha rahī sī",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਘਰ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing a home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "home",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been seeing a home now",
+        "uha huṇa ika ghara vēkha rahī sī",
+        "ਉਹ ਹੁਣ ਇੱਕ ਘਰ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing a home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "home",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been seeing a home well",
+        "uha ghara dā khūha dēkha rahī sī",
+        "ਉਹ ਘਰ ਦਾ ਖੂਹ ਦੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing a home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "home",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been seeing a home too",
+        "uha vī ika ghara vēkha rahī sī",
+        "ਉਹ ਵੀ ਇੱਕ ਘਰ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing a home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "home",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been seeing a man here",
+        "uha ithē ika ādamī nū vēkhadī rahī sī",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਆਦਮੀ ਨੂੰ ਵੇਖਦੀ ਰਹੀ ਸੀ",
+        "She had been seeing a man here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been seeing a man now",
+        "uha huṇa ika ādamī nū vēkha rahī sī",
+        "ਉਹ ਹੁਣ ਇਕ ਆਦਮੀ ਨੂੰ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing a man now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been seeing a man well",
+        "uha ika ādamī nū cagī tar'hāṁ vēkha rahī sī",
+        "ਉਹ ਇਕ ਆਦਮੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing a man well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been seeing a man too",
+        "Uha ika ādamī nū vī vēkha rahī sī",
+        "ਉਹ ਇੱਕ ਆਦਮੀ ਨੂੰ ਵੀ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing a man too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been seeing her mother here",
+        "uha āpaṇī māṁ nū ithē vēkhadā rihā sī",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਇੱਥੇ ਵੇਖਦਾ ਰਿਹਾ ਸੀ",
+        "She had been seeing her mother here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "mother",
+            "det": "her",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been seeing her mother now",
+        "uha huṇa āpaṇī māṁ nū vēkha rahī sī",
+        "ਉਹ ਹੁਣ ਆਪਣੀ ਮਾਂ ਨੂੰ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing her mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "mother",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been seeing her mother well",
+        "uha āpaṇī māṁ nū cagī tar'hāṁ vēkha rahī sī",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing her mother well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "mother",
+            "det": "her",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been seeing her mother too",
+        "uha āpaṇī māṁ nū vī vēkhadā rihā sī",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਨੂੰ ਵੀ ਵੇਖਦਾ ਰਿਹਾ ਸੀ",
+        "She had been seeing her mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "mother",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been seeing a room here",
+        "uha ithē ika kamarā vēkhadī rahī sī",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਕਮਰਾ ਵੇਖਦੀ ਰਹੀ ਸੀ",
+        "She had been seeing a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been seeing a room now",
+        "uha huṇa ika kamarā vēkha rahī sī",
+        "ਉਹ ਹੁਣ ਇੱਕ ਕਮਰਾ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been seeing a room well",
+        "uha ika kamarā cagī tar'hāṁ vēkha rahī sī",
+        "ਉਹ ਇਕ ਕਮਰਾ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing a room well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been seeing a room too",
+        "uha ika kamarā vī vēkha rahī sī",
+        "ਉਹ ਇੱਕ ਕਮਰਾ ਵੀ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been seeing a student here",
+        "uha ithē ika vidi'ārathī nū vēkhadī rahī sī",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖਦੀ ਰਹੀ ਸੀ",
+        "She had been seeing a student here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been seeing a student now",
+        "Uha huṇa ika vidi'ārathī nū vēkhadī rahī sī",
+        "ਉਹ ਹੁਣ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖਦੀ ਰਹੀ ਸੀ",
+        "She had been seeing a student now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been seeing a student well",
+        "uha ika vidi'ārathī nū cagī tar'hāṁ vēkha rahī sī",
+        "ਉਹ ਇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing a student well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been seeing a student too",
+        "uha vī ika vidi'ārathī nū vēkhadī rahī sī",
+        "ਉਹ ਵੀ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖਦੀ ਰਹੀ ਸੀ",
+        "She had been seeing a student too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been seeing a thing here",
+        "uha ithē ika cīja vēkha rahī sī",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਚੀਜ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing a thing here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been seeing a thing now",
+        "uha huṇa ika cīza dēkha rahī sī",
+        "ਉਹ ਹੁਣ ਇਕ ਚੀਜ਼ ਦੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been seeing a thing well",
+        "uha ika cīza cagī tar'hāṁ vēkha rahī sī",
+        "ਉਹ ਇੱਕ ਚੀਜ਼ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been seeing a thing too",
+        "uha vī ika cīza dēkha rahī sī",
+        "ਉਹ ਵੀ ਇਕ ਚੀਜ਼ ਦੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing a thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been seeing water here",
+        "uha ithē pāṇī dēkha rahī sī",
+        "ਉਹ ਇੱਥੇ ਪਾਣੀ ਦੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing water here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "water",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been seeing water now",
+        "uha huṇa pāṇī dēkha rahī sī",
+        "ਉਹ ਹੁਣ ਪਾਣੀ ਦੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing water now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "water",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been seeing water well",
+        "uha pāṇī cagī tar'hāṁ vēkha rahī sī",
+        "ਉਹ ਪਾਣੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing water well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "water",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been seeing water too",
+        "uha pāṇī vī dēkha rahī sī",
+        "ਉਹ ਪਾਣੀ ਵੀ ਦੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing water too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "water",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been seeing a woman here",
+        "uha ithē ika seeingrata nū vēkhadā rihā sī",
+        "ਉਹ ਇੱਥੇ ਇੱਕ seeingਰਤ ਨੂੰ ਵੇਖਦਾ ਰਿਹਾ ਸੀ",
+        "She had been seeing a woman here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been seeing a woman now",
+        "uha huṇa ika seeingrata nū vēkha rahī sī",
+        "ਉਹ ਹੁਣ ਇਕ seeingਰਤ ਨੂੰ ਵੇਖ ਰਹੀ ਸੀ",
+        "She had been seeing a woman now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been seeing a woman well",
+        "uha ika womanrata nū cagī tar'hāṁ vēkhadā rihā sī",
+        "ਉਹ ਇਕ womanਰਤ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵੇਖਦਾ ਰਿਹਾ ਸੀ",
+        "She had been seeing a woman well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been seeing a woman too",
+        "uha ika womanrata nū vī vēkhadā rihā sī",
+        "ਉਹ ਇਕ womanਰਤ ਨੂੰ ਵੀ ਵੇਖਦਾ ਰਿਹਾ ਸੀ",
+        "She had been seeing a woman too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been coming to her family here",
+        "uha ithē āpaṇē parivāra kōla ā rahī sī",
+        "ਉਹ ਇਥੇ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਆ ਰਹੀ ਸੀ",
+        "She had been coming to her family here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "family",
+            "det": "her",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been coming to her family now",
+        "uha huṇa āpaṇē parivāra kōla ā rahī sī",
+        "ਉਹ ਹੁਣ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਆ ਰਹੀ ਸੀ",
+        "She had been coming to her family now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "family",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been coming to her family well",
+        "uha āpaṇē parivāra kōla cagī tar'hāṁ ā rahī sī",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆ ਰਹੀ ਸੀ",
+        "She had been coming to her family well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "family",
+            "det": "her",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been coming to her family too",
+        "uha āpaṇē parivāra kōla vī ā'undī rahī sī",
+        "ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਕੋਲ ਵੀ ਆਉਂਦੀ ਰਹੀ ਸੀ",
+        "She had been coming to her family too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "family",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been coming home here",
+        "uha ithē ghara ā rahī sī",
+        "ਉਹ ਇਥੇ ਘਰ ਆ ਰਹੀ ਸੀ",
+        "She had been coming home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "home",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been coming home now",
+        "uha huṇa ghara ā rahī sī",
+        "ਉਹ ਹੁਣ ਘਰ ਆ ਰਹੀ ਸੀ",
+        "She had been coming home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "home",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been coming home well",
+        "uha cagī tar'hāṁ ghara ā rahī sī",
+        "ਉਹ ਚੰਗੀ ਤਰ੍ਹਾਂ ਘਰ ਆ ਰਹੀ ਸੀ",
+        "She had been coming home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "home",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been coming home too",
+        "uha vī ghara ā rahī sī",
+        "ਉਹ ਵੀ ਘਰ ਆ ਰਹੀ ਸੀ",
+        "She had been coming home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "home",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been coming to her mother here",
+        "uha ithē āpaṇī māṁ kōla ā'undī rahī sī",
+        "ਉਹ ਇੱਥੇ ਆਪਣੀ ਮਾਂ ਕੋਲ ਆਉਂਦੀ ਰਹੀ ਸੀ",
+        "She had been coming to her mother here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "mother",
+            "det": "her",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been coming to her mother now",
+        "uha huṇa āpaṇī māṁ kōla ā rahī sī",
+        "ਉਹ ਹੁਣ ਆਪਣੀ ਮਾਂ ਕੋਲ ਆ ਰਹੀ ਸੀ",
+        "She had been coming to her mother now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "mother",
+            "det": "her",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been coming to her mother well",
+        "uha cagī tar'hāṁ āpaṇī māṁ kōla ā rahī sī",
+        "ਉਹ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਪਣੀ ਮਾਂ ਕੋਲ ਆ ਰਹੀ ਸੀ",
+        "She had been coming to her mother well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "mother",
+            "det": "her",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been coming to her mother too",
+        "uha āpaṇī māṁ kōla vī ā'undī rahī sī",
+        "ਉਹ ਆਪਣੀ ਮਾਂ ਕੋਲ ਵੀ ਆਉਂਦੀ ਰਹੀ ਸੀ",
+        "She had been coming to her mother too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "mother",
+            "det": "her",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been coming to a room here",
+        "uha ithē ika kamarē vica ā rahī sī",
+        "ਉਹ ਇਥੇ ਇਕ ਕਮਰੇ ਵਿਚ ਆ ਰਹੀ ਸੀ",
+        "She had been coming to a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been coming to a room now",
+        "uha huṇa ika kamarē vica ā rahī sī",
+        "ਉਹ ਹੁਣ ਇਕ ਕਮਰੇ ਵਿਚ ਆ ਰਹੀ ਸੀ",
+        "She had been coming to a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been coming to a room well",
+        "uha ika kamarē vica cagī tar'hāṁ ā rahī sī",
+        "ਉਹ ਇਕ ਕਮਰੇ ਵਿਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆ ਰਹੀ ਸੀ",
+        "She had been coming to a room well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been coming to a room too",
+        "uha vī ika kamarē vica ā'undī rahī sī",
+        "ਉਹ ਵੀ ਇਕ ਕਮਰੇ ਵਿਚ ਆਉਂਦੀ ਰਹੀ ਸੀ",
+        "She had been coming to a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been coming for a week here",
+        "uha ithē ika hafatē tōṁ ā rahī sī",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਹਫ਼ਤੇ ਤੋਂ ਆ ਰਹੀ ਸੀ",
+        "She had been coming for a week here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been coming for a week now",
+        "uha huṇa ika hafatē tōṁ ā rahī sī",
+        "ਉਹ ਹੁਣ ਇੱਕ ਹਫ਼ਤੇ ਤੋਂ ਆ ਰਹੀ ਸੀ",
+        "She had been coming for a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been coming for a week well",
+        "uha ika haphatē tōṁ cagī tar'hāṁ ā rahī sī",
+        "ਉਹ ਇੱਕ ਹਫਤੇ ਤੋਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆ ਰਹੀ ਸੀ",
+        "She had been coming for a week well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been coming for a week too",
+        "uha ika hafatē tōṁ vī ā rahī sī",
+        "ਉਹ ਇੱਕ ਹਫ਼ਤੇ ਤੋਂ ਵੀ ਆ ਰਹੀ ਸੀ",
+        "She had been coming for a week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been coming to work here",
+        "uha ithē kama'tē ā'undī rahī sī",
+        "ਉਹ ਇਥੇ ਕੰਮ 'ਤੇ ਆਉਂਦੀ ਰਹੀ ਸੀ",
+        "She had been coming to work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been coming to work now",
+        "uha huṇa kama tē ā ga'ī sī",
+        "ਉਹ ਹੁਣ ਕੰਮ ਤੇ ਆ ਗਈ ਸੀ",
+        "She had been coming to work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been coming to work well",
+        "uha cagī tar'hāṁ kama karana la'ī ā rahī sī",
+        "ਉਹ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕੰਮ ਕਰਨ ਲਈ ਆ ਰਹੀ ਸੀ",
+        "She had been coming to work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been coming to work too",
+        "uha vī kama'tē ā ga'ī sī",
+        "ਉਹ ਵੀ ਕੰਮ 'ਤੇ ਆ ਗਈ ਸੀ",
+        "She had been coming to work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "come",
+            "noun": "work",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been using a book here",
+        "uha ithē ika kitāba dī varatōṁ kara rahī sī",
+        "ਉਹ ਇਥੇ ਇਕ ਕਿਤਾਬ ਦੀ ਵਰਤੋਂ ਕਰ ਰਹੀ ਸੀ",
+        "She had been using a book here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been using a book now",
+        "uha huṇa ika kitāba varata rahī sī",
+        "ਉਹ ਹੁਣ ਇਕ ਕਿਤਾਬ ਵਰਤ ਰਹੀ ਸੀ",
+        "She had been using a book now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been using a book well",
+        "uha ika kitāba cagī tar'hāṁ varata rahī sī",
+        "ਉਹ ਇਕ ਕਿਤਾਬ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤ ਰਹੀ ਸੀ",
+        "She had been using a book well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been using a book too",
+        "uha ika kitāba vī varata rahī sī",
+        "ਉਹ ਇਕ ਕਿਤਾਬ ਵੀ ਵਰਤ ਰਹੀ ਸੀ",
+        "She had been using a book too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been using a hand here",
+        "uha ithē hatha varata rahī sī",
+        "ਉਹ ਇਥੇ ਹੱਥ ਵਰਤ ਰਹੀ ਸੀ",
+        "She had been using a hand here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been using a hand now",
+        "uha huṇa hatha varata rahī sī",
+        "ਉਹ ਹੁਣ ਹੱਥ ਵਰਤ ਰਹੀ ਸੀ",
+        "She had been using a hand now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been using a hand well",
+        "uha ika hatha cagī tar'hāṁ varata rahī sī",
+        "ਉਹ ਇੱਕ ਹੱਥ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤ ਰਹੀ ਸੀ",
+        "She had been using a hand well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been using a hand too",
+        "uha hatha vī varata rahī sī",
+        "ਉਹ ਹੱਥ ਵੀ ਵਰਤ ਰਹੀ ਸੀ",
+        "She had been using a hand too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been using a room here",
+        "uha ithē ika kamarā varata rahī sī",
+        "ਉਹ ਇਥੇ ਇਕ ਕਮਰਾ ਵਰਤ ਰਹੀ ਸੀ",
+        "She had been using a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been using a room now",
+        "uha huṇa ika kamarā varata rahī sī",
+        "ਉਹ ਹੁਣ ਇੱਕ ਕਮਰਾ ਵਰਤ ਰਹੀ ਸੀ",
+        "She had been using a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been using a room well",
+        "uha ika kamarā cagī tar'hāṁ varata rahī sī",
+        "ਉਹ ਇਕ ਕਮਰਾ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤ ਰਹੀ ਸੀ",
+        "She had been using a room well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been using a room too",
+        "uha ika kamarā vī varata rahī sī",
+        "ਉਹ ਇੱਕ ਕਮਰਾ ਵੀ ਵਰਤ ਰਹੀ ਸੀ",
+        "She had been using a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been using a thing here",
+        "uha ithē ika cīza dī varatōṁ kara rahī sī",
+        "ਉਹ ਇਥੇ ਇਕ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰ ਰਹੀ ਸੀ",
+        "She had been using a thing here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been using a thing now",
+        "uha huṇa kō'ī cīza varata rahī sī",
+        "ਉਹ ਹੁਣ ਕੋਈ ਚੀਜ਼ ਵਰਤ ਰਹੀ ਸੀ",
+        "She had been using a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been using a thing well",
+        "uha ika cīza dī cagī tar'hāṁ varatōṁ kara rahī sī",
+        "ਉਹ ਇਕ ਚੀਜ਼ ਦੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤੋਂ ਕਰ ਰਹੀ ਸੀ",
+        "She had been using a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been using a thing too",
+        "uha ika cīza dī varatōṁ vī kara rahī sī",
+        "ਉਹ ਇਕ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਵੀ ਕਰ ਰਹੀ ਸੀ",
+        "She had been using a thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been using water here",
+        "uha ithē pāṇī dī varatōṁ kara rahī sī",
+        "ਉਹ ਇਥੇ ਪਾਣੀ ਦੀ ਵਰਤੋਂ ਕਰ ਰਹੀ ਸੀ",
+        "She had been using water here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "water",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been using water now",
+        "uha huṇa pāṇī dī varatōṁ kara rahī sī",
+        "ਉਹ ਹੁਣ ਪਾਣੀ ਦੀ ਵਰਤੋਂ ਕਰ ਰਹੀ ਸੀ",
+        "She had been using water now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "water",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been using water well",
+        "uha pāṇī dī cagī varatōṁ kara rahī sī",
+        "ਉਹ ਪਾਣੀ ਦੀ ਚੰਗੀ ਵਰਤੋਂ ਕਰ ਰਹੀ ਸੀ",
+        "She had been using water well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "water",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been using water too",
+        "uha pāṇī vī varata rahī sī",
+        "ਉਹ ਪਾਣੀ ਵੀ ਵਰਤ ਰਹੀ ਸੀ",
+        "She had been using water too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "water",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been using a week here",
+        "uha ithē ika hafatā varata rahī sī",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਹਫ਼ਤਾ ਵਰਤ ਰਹੀ ਸੀ",
+        "She had been using a week here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been using a week now",
+        "Uha huṇa ika hafatā varata rahī sī",
+        "ਉਹ ਹੁਣ ਇੱਕ ਹਫ਼ਤਾ ਵਰਤ ਰਹੀ ਸੀ",
+        "She had been using a week now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been using a week well",
+        "uha ika hafatā cagī tar'hāṁ varata rahī sī",
+        "ਉਹ ਇੱਕ ਹਫ਼ਤਾ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤ ਰਹੀ ਸੀ",
+        "She had been using a week well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been using a week too",
+        "uha ika hafatā vī varata rahī sī",
+        "ਉਹ ਇੱਕ ਹਫ਼ਤਾ ਵੀ ਵਰਤ ਰਹੀ ਸੀ",
+        "She had been using a week too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been using a word here",
+        "uha ithē ika śabada varata rahī sī",
+        "ਉਹ ਇਥੇ ਇੱਕ ਸ਼ਬਦ ਵਰਤ ਰਹੀ ਸੀ",
+        "She had been using a word here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been using a word now",
+        "uha huṇa ika śabada varata rahī sī",
+        "ਉਹ ਹੁਣ ਇੱਕ ਸ਼ਬਦ ਵਰਤ ਰਹੀ ਸੀ",
+        "She had been using a word now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been using a word well",
+        "uha ika śabada cagī tar'hāṁ varata rahī sī",
+        "ਉਹ ਇੱਕ ਸ਼ਬਦ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਰਤ ਰਹੀ ਸੀ",
+        "She had been using a word well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been using a word too",
+        "uha ika śabada vī varata rahī sī",
+        "ਉਹ ਇੱਕ ਸ਼ਬਦ ਵੀ ਵਰਤ ਰਹੀ ਸੀ",
+        "She had been using a word too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been finding a book here",
+        "uha ithē ika kitāba labha rahī sī",
+        "ਉਹ ਇਥੇ ਇਕ ਕਿਤਾਬ ਲੱਭ ਰਹੀ ਸੀ",
+        "She had been finding a book here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been finding a book now",
+        "uha huṇa ika kitāba labha rahī sī",
+        "ਉਹ ਹੁਣ ਇੱਕ ਕਿਤਾਬ ਲੱਭ ਰਹੀ ਸੀ",
+        "She had been finding a book now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been finding a book well",
+        "usa nū ika kitāba cagī tar'hāṁ mila rahī sī",
+        "ਉਸ ਨੂੰ ਇਕ ਕਿਤਾਬ ਚੰਗੀ ਤਰ੍ਹਾਂ ਮਿਲ ਰਹੀ ਸੀ",
+        "She had been finding a book well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been finding a book too",
+        "usanū ika kitāba vī mila rahī sī",
+        "ਉਸਨੂੰ ਇੱਕ ਕਿਤਾਬ ਵੀ ਮਿਲ ਰਹੀ ਸੀ",
+        "She had been finding a book too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been finding a home here",
+        "uha ithē ika ghara labha rahī sī",
+        "ਉਹ ਇੱਥੇ ਇੱਕ ਘਰ ਲੱਭ ਰਹੀ ਸੀ",
+        "She had been finding a home here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "home",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been finding a home now",
+        "uha huṇa ika ghara labha rahī sī",
+        "ਉਹ ਹੁਣ ਇੱਕ ਘਰ ਲੱਭ ਰਹੀ ਸੀ",
+        "She had been finding a home now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "home",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been finding a home well",
+        "uhanū ghara dā khūha mili'ā sī",
+        "ਉਹਨੂੰ ਘਰ ਦਾ ਖੂਹ ਮਿਲਿਆ ਸੀ",
+        "She had been finding a home well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "home",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been finding a home too",
+        "uhanū vī ika ghara mili'ā hō'i'ā sī",
+        "ਉਹਨੂੰ ਵੀ ਇੱਕ ਘਰ ਮਿਲਿਆ ਹੋਇਆ ਸੀ",
+        "She had been finding a home too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "home",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been finding a room here",
+        "uhanū ithē ika kamarā mili'ā hō'i'ā sī",
+        "ਉਹਨੂੰ ਇੱਥੇ ਇੱਕ ਕਮਰਾ ਮਿਲਿਆ ਹੋਇਆ ਸੀ",
+        "She had been finding a room here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been finding a room now",
+        "uha huṇa ika kamarā labha rahī sī",
+        "ਉਹ ਹੁਣ ਇੱਕ ਕਮਰਾ ਲੱਭ ਰਹੀ ਸੀ",
+        "She had been finding a room now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been finding a room well",
+        "uhanū ika kamarā cagā mili'ā sī",
+        "ਉਹਨੂੰ ਇੱਕ ਕਮਰਾ ਚੰਗਾ ਮਿਲਿਆ ਸੀ",
+        "She had been finding a room well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been finding a room too",
+        "uhanū ika kamarā vī mili'ā hō'i'ā sī",
+        "ਉਹਨੂੰ ਇੱਕ ਕਮਰਾ ਵੀ ਮਿਲਿਆ ਹੋਇਆ ਸੀ",
+        "She had been finding a room too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been finding a thing here",
+        "uhanū ithē kō'ī cīza mila rahī sī",
+        "ਉਹਨੂੰ ਇਥੇ ਕੋਈ ਚੀਜ਼ ਮਿਲ ਰਹੀ ਸੀ",
+        "She had been finding a thing here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been finding a thing now",
+        "usa nū huṇa kō'ī cīza mila rahī sī",
+        "ਉਸ ਨੂੰ ਹੁਣ ਕੋਈ ਚੀਜ਼ ਮਿਲ ਰਹੀ ਸੀ",
+        "She had been finding a thing now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been finding a thing well",
+        "uha ika cīza cagī tar'hāṁ labha rahī sī",
+        "ਉਹ ਇੱਕ ਚੀਜ਼ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲੱਭ ਰਹੀ ਸੀ",
+        "She had been finding a thing well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been finding a thing too",
+        "uhanū vī kō'ī cīza labha rahī sī",
+        "ਉਹਨੂੰ ਵੀ ਕੋਈ ਚੀਜ਼ ਲੱਭ ਰਹੀ ਸੀ",
+        "She had been finding a thing too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been finding water here",
+        "uha ithē pāṇī labha rahī sī",
+        "ਉਹ ਇੱਥੇ ਪਾਣੀ ਲੱਭ ਰਹੀ ਸੀ",
+        "She had been finding water here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "water",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been finding water now",
+        "uha huṇa pāṇī labha rahī sī",
+        "ਉਹ ਹੁਣ ਪਾਣੀ ਲੱਭ ਰਹੀ ਸੀ",
+        "She had been finding water now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "water",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been finding water well",
+        "uha pāṇī cagī tar'hāṁ labha rahī sī",
+        "ਉਹ ਪਾਣੀ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲੱਭ ਰਹੀ ਸੀ",
+        "She had been finding water well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "water",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been finding water too",
+        "usa nū pāṇī vī mila rihā sī",
+        "ਉਸ ਨੂੰ ਪਾਣੀ ਵੀ ਮਿਲ ਰਿਹਾ ਸੀ",
+        "She had been finding water too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "water",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been finding a woman here",
+        "uha ithē ika findingrata labha rahī sī",
+        "ਉਹ ਇੱਥੇ ਇੱਕ findingਰਤ ਲੱਭ ਰਹੀ ਸੀ",
+        "She had been finding a woman here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been finding a woman now",
+        "Uha huṇa ika findingrata labha rihā sī",
+        "ਉਹ ਹੁਣ ਇੱਕ findingਰਤ ਲੱਭ ਰਿਹਾ ਸੀ",
+        "She had been finding a woman now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been finding a woman well",
+        "uha ika womanrata nū cagī tar'hāṁ labha rahī sī",
+        "ਉਹ ਇੱਕ womanਰਤ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲੱਭ ਰਹੀ ਸੀ",
+        "She had been finding a woman well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been finding a woman too",
+        "uha ika findingrata vī labha rahī sī",
+        "ਉਹ ਇੱਕ findingਰਤ ਵੀ ਲੱਭ ਰਹੀ ਸੀ",
+        "She had been finding a woman too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been finding a word here",
+        "uhanū ithē ika śabada mila rihā sī",
+        "ਉਹਨੂੰ ਇਥੇ ਇੱਕ ਸ਼ਬਦ ਮਿਲ ਰਿਹਾ ਸੀ",
+        "She had been finding a word here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been finding a word now",
+        "uha huṇa ika śabada labha rahī sī",
+        "ਉਹ ਹੁਣ ਇੱਕ ਸ਼ਬਦ ਲੱਭ ਰਹੀ ਸੀ",
+        "She had been finding a word now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been finding a word well",
+        "uha ika śabada cagī tar'hāṁ labha rahī sī",
+        "ਉਹ ਇੱਕ ਸ਼ਬਦ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲੱਭ ਰਹੀ ਸੀ",
+        "She had been finding a word well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been finding a word too",
+        "uhanū ika śabada vī mili'ā sī",
+        "ਉਹਨੂੰ ਇੱਕ ਸ਼ਬਦ ਵੀ ਮਿਲਿਆ ਸੀ",
+        "She had been finding a word too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adv": "too"
+        }
+    ],
+    [
+        "She had been finding work here",
+        "uha ithē kama labha rahī sī",
+        "ਉਹ ਇਥੇ ਕੰਮ ਲੱਭ ਰਹੀ ਸੀ",
+        "She had been finding work here",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "work",
+            "adv": "here"
+        }
+    ],
+    [
+        "She had been finding work now",
+        "uha huṇa kama labha rahī sī",
+        "ਉਹ ਹੁਣ ਕੰਮ ਲੱਭ ਰਹੀ ਸੀ",
+        "She had been finding work now",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "work",
+            "adv": "now"
+        }
+    ],
+    [
+        "She had been finding work well",
+        "uha kama cagī tar'hāṁ labha rahī sī",
+        "ਉਹ ਕੰਮ ਚੰਗੀ ਤਰ੍ਹਾਂ ਲੱਭ ਰਹੀ ਸੀ",
+        "She had been finding work well",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "work",
+            "adv": "well"
+        }
+    ],
+    [
+        "She had been finding work too",
+        "usa nū kama vī mila rihā sī",
+        "ਉਸ ਨੂੰ ਕੰਮ ਵੀ ਮਿਲ ਰਿਹਾ ਸੀ",
+        "She had been finding work too",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": true,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 0
+        },
+        {
+            "pron": "she",
+            "verb": "find",
+            "noun": "work",
+            "adv": "too"
+        }
+    ]
+]

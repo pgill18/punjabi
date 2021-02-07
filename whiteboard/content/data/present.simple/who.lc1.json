@@ -1,0 +1,1651 @@
+[
+    [
+        "Who is whose child",
+        "Kauṇa hai jisadā bacā",
+        "ਕੌਣ ਹੈ ਜਿਸਦਾ ਬੱਚਾ",
+        "Who is whose child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "be",
+            "noun": "child",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who is a student",
+        "jō ika vidi'ārathī hai",
+        "ਜੋ ਇਕ ਵਿਦਿਆਰਥੀ ਹੈ",
+        "Who is a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "be",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has a book?",
+        "kisa kōla ika kitāba hai?",
+        "ਕਿਸ ਕੋਲ ਇੱਕ ਕਿਤਾਬ ਹੈ?",
+        "Who has a book?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "book",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has whose child?",
+        "Kisadā bacā hai?",
+        "ਕਿਸਦਾ ਬੱਚਾ ਹੈ?",
+        "Who has whose child?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "child",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who has whose family?",
+        "Kisadā parivāra hai?",
+        "ਕਿਸਦਾ ਪਰਿਵਾਰ ਹੈ?",
+        "Who has whose family?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "family",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who has a hand?",
+        "Kisadā hatha hai?",
+        "ਕਿਸਦਾ ਹੱਥ ਹੈ?",
+        "Who has a hand?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "hand",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has a home?",
+        "Kisadā ghara hai?",
+        "ਕਿਸਦਾ ਘਰ ਹੈ?",
+        "Who has a home?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "home"
+        }
+    ],
+    [
+        "Who has whose mother?",
+        "Kisadī māṁ hai?",
+        "ਕਿਸਦੀ ਮਾਂ ਹੈ?",
+        "Who has whose mother?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who has a room?",
+        "Kisa kōla ika kamarā hai?",
+        "ਕਿਸ ਕੋਲ ਇੱਕ ਕਮਰਾ ਹੈ?",
+        "Who has a room?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has a thing?",
+        "Kisa kōla cīza hai?",
+        "ਕਿਸ ਕੋਲ ਚੀਜ਼ ਹੈ?",
+        "Who has a thing?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has water?",
+        "Kisa kōla pāṇī hai?",
+        "ਕਿਸ ਕੋਲ ਪਾਣੀ ਹੈ?",
+        "Who has water?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "water"
+        }
+    ],
+    [
+        "Who has a week?",
+        "Ika hafatā kisa kōla hai?",
+        "ਇੱਕ ਹਫ਼ਤਾ ਕਿਸ ਕੋਲ ਹੈ?",
+        "Who has a week?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "Who has whose work?",
+        "Kisadā kama hai?",
+        "ਕਿਸਦਾ ਕੰਮ ਹੈ?",
+        "Who has whose work?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "have",
+            "noun": "work"
+        }
+    ],
+    [
+        "Who does a thing?",
+        "Ika cīza kauṇa karadā hai?",
+        "ਇਕ ਚੀਜ਼ ਕੌਣ ਕਰਦਾ ਹੈ?",
+        "Who does a thing?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "Who does work?",
+        "Kauṇa kama karadā hai?",
+        "ਕੌਣ ਕੰਮ ਕਰਦਾ ਹੈ?",
+        "Who does work?",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "do",
+            "noun": "work"
+        }
+    ],
+    [
+        "Who goes to whose family",
+        "kauṇa jāndā hai kisa dē parivāra nū",
+        "ਕੌਣ ਜਾਂਦਾ ਹੈ ਕਿਸ ਦੇ ਪਰਿਵਾਰ ਨੂੰ",
+        "Who goes to whose family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "family",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who goes home",
+        "jō ghara jāndā hai",
+        "ਜੋ ਘਰ ਜਾਂਦਾ ਹੈ",
+        "Who goes home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "home"
+        }
+    ],
+    [
+        "Who goes to whose mother",
+        "kauṇa jāndā hai kisadī māṁ nū",
+        "ਕੌਣ ਜਾਂਦਾ ਹੈ ਕਿਸਦੀ ਮਾਂ ਨੂੰ",
+        "Who goes to whose mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who goes to a room",
+        "kauṇa ika kamarē vica jāndā hai",
+        "ਕੌਣ ਇੱਕ ਕਮਰੇ ਵਿੱਚ ਜਾਂਦਾ ਹੈ",
+        "Who goes to a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "Who goes to a student",
+        "jō kisē vidi'ārathī kōla jāndā hai",
+        "ਜੋ ਕਿਸੇ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾਂਦਾ ਹੈ",
+        "Who goes to a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "Who goes for a week",
+        "jō ika hafatē la'ī jāndā hai",
+        "ਜੋ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਜਾਂਦਾ ਹੈ",
+        "Who goes for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "Who goes to work",
+        "jō kama tē jāndā hai",
+        "ਜੋ ਕੰਮ ਤੇ ਜਾਂਦਾ ਹੈ",
+        "Who goes to work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "go",
+            "noun": "work"
+        }
+    ],
+    [
+        "Who knows whose child",
+        "kauṇa jāṇadā hai kisadā bacā",
+        "ਕੌਣ ਜਾਣਦਾ ਹੈ ਕਿਸਦਾ ਬੱਚਾ",
+        "Who knows whose child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "child",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who knows whose family",
+        "kauṇa jāṇadā hai kisadā parivāra hai",
+        "ਕੌਣ ਜਾਣਦਾ ਹੈ ਕਿਸਦਾ ਪਰਿਵਾਰ ਹੈ",
+        "Who knows whose family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "family",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who knows a man",
+        "ika ādamī nū kauṇa jāṇadā hai",
+        "ਇੱਕ ਆਦਮੀ ਨੂੰ ਕੌਣ ਜਾਣਦਾ ਹੈ",
+        "Who knows a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "Who knows whose mother",
+        "kauṇa jāṇadā hai kisadī māṁ",
+        "ਕੌਣ ਜਾਣਦਾ ਹੈ ਕਿਸਦੀ ਮਾਂ",
+        "Who knows whose mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who knows a student",
+        "kauṇa ika vidi'ārathī nū jāṇadā hai",
+        "ਕੌਣ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦਾ ਹੈ",
+        "Who knows a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "Who knows whose thing",
+        "kauṇa jāṇadā hai kisadī cīza",
+        "ਕੌਣ ਜਾਣਦਾ ਹੈ ਕਿਸਦੀ ਚੀਜ਼",
+        "Who knows whose thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "Who knows a woman",
+        "kauṇa ika knowsrata nū jāṇadā hai",
+        "ਕੌਣ ਇੱਕ knowsਰਤ ਨੂੰ ਜਾਣਦਾ ਹੈ",
+        "Who knows a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "Who knows a word",
+        "kauṇa ika śabada jāṇadā hai",
+        "ਕੌਣ ਇੱਕ ਸ਼ਬਦ ਜਾਣਦਾ ਹੈ",
+        "Who knows a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "word",
+            "det": "a"
+        }
+    ],
+    [
+        "Who knows whose work",
+        "kauṇa jāṇadā hai kisadā kama",
+        "ਕੌਣ ਜਾਣਦਾ ਹੈ ਕਿਸਦਾ ਕੰਮ",
+        "Who knows whose work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "know",
+            "noun": "work"
+        }
+    ],
+    [
+        "Who sees a book",
+        "kauṇa ika kitāba vēkhadā hai",
+        "ਕੌਣ ਇੱਕ ਕਿਤਾਬ ਵੇਖਦਾ ਹੈ",
+        "Who sees a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "book",
+            "det": "a"
+        }
+    ],
+    [
+        "Who sees whose child",
+        "kauṇa dēkhadā hai kisadā bacā",
+        "ਕੌਣ ਦੇਖਦਾ ਹੈ ਕਿਸਦਾ ਬੱਚਾ",
+        "Who sees whose child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "child",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who sees whose family",
+        "kauṇa dēkhadā hai kisa dē parivāra nū",
+        "ਕੌਣ ਦੇਖਦਾ ਹੈ ਕਿਸ ਦੇ ਪਰਿਵਾਰ ਨੂੰ",
+        "Who sees whose family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "family",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who sees a hand",
+        "jihaṛā hatha vēkhadā hai",
+        "ਜਿਹੜਾ ਹੱਥ ਵੇਖਦਾ ਹੈ",
+        "Who sees a hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a"
+        }
+    ],
+    [
+        "Who sees a home",
+        "jō ghara vēkhadā hai",
+        "ਜੋ ਘਰ ਵੇਖਦਾ ਹੈ",
+        "Who sees a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "home"
+        }
+    ],
+    [
+        "Who sees a man",
+        "jō ika ādamī nū vēkhadā hai",
+        "ਜੋ ਇੱਕ ਆਦਮੀ ਨੂੰ ਵੇਖਦਾ ਹੈ",
+        "Who sees a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "Who sees whose mother",
+        "kauṇa dēkhadā hai kisadī māṁ",
+        "ਕੌਣ ਦੇਖਦਾ ਹੈ ਕਿਸਦੀ ਮਾਂ",
+        "Who sees whose mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who sees a room",
+        "kauṇa ika kamarā vēkhadā hai",
+        "ਕੌਣ ਇੱਕ ਕਮਰਾ ਵੇਖਦਾ ਹੈ",
+        "Who sees a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "Who sees a student",
+        "jō ika vidi'ārathī nū vēkhadā hai",
+        "ਜੋ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖਦਾ ਹੈ",
+        "Who sees a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "Who sees a thing",
+        "jō kō'ī cīza vēkhadā hai",
+        "ਜੋ ਕੋਈ ਚੀਜ਼ ਵੇਖਦਾ ਹੈ",
+        "Who sees a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "Who sees water",
+        "jō pāṇī dēkhadā hai",
+        "ਜੋ ਪਾਣੀ ਦੇਖਦਾ ਹੈ",
+        "Who sees water",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "water"
+        }
+    ],
+    [
+        "Who sees a woman",
+        "jō ika seesrata nū vēkhadā hai",
+        "ਜੋ ਇਕ seesਰਤ ਨੂੰ ਵੇਖਦਾ ਹੈ",
+        "Who sees a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "Who comes to whose family",
+        "kauṇa ā'undā hai kisa dē parivāra vica",
+        "ਕੌਣ ਆਉਂਦਾ ਹੈ ਕਿਸ ਦੇ ਪਰਿਵਾਰ ਵਿਚ",
+        "Who comes to whose family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "come",
+            "noun": "family",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who comes home",
+        "jō ghara ā'undī hai",
+        "ਜੋ ਘਰ ਆਉਂਦੀ ਹੈ",
+        "Who comes home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "come",
+            "noun": "home"
+        }
+    ],
+    [
+        "Who comes to whose mother",
+        "Kisa dī māṁ kōla ā'undī hai",
+        "ਕਿਸ ਦੀ ਮਾਂ ਕੋਲ ਆਉਂਦੀ ਹੈ",
+        "Who comes to whose mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "come",
+            "noun": "mother",
+            "det": "whose"
+        }
+    ],
+    [
+        "Who comes to a room",
+        "jō ika kamarē vica ā'undā hai",
+        "ਜੋ ਇਕ ਕਮਰੇ ਵਿਚ ਆਉਂਦਾ ਹੈ",
+        "Who comes to a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "come",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "Who comes for a week",
+        "jō ika haphatē la'ī ā'undā hai",
+        "ਜੋ ਇੱਕ ਹਫਤੇ ਲਈ ਆਉਂਦਾ ਹੈ",
+        "Who comes for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "come",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "Who comes to work",
+        "jō kama tē ā'undā hai",
+        "ਜੋ ਕੰਮ ਤੇ ਆਉਂਦਾ ਹੈ",
+        "Who comes to work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "come",
+            "noun": "work"
+        }
+    ],
+    [
+        "Who uses a book",
+        "jō ika kitāba varatadā hai",
+        "ਜੋ ਇੱਕ ਕਿਤਾਬ ਵਰਤਦਾ ਹੈ",
+        "Who uses a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "book",
+            "det": "a"
+        }
+    ],
+    [
+        "Who uses a hand",
+        "jō hatha varatadā hai",
+        "ਜੋ ਹੱਥ ਵਰਤਦਾ ਹੈ",
+        "Who uses a hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a"
+        }
+    ],
+    [
+        "Who uses a room",
+        "kauṇa ika kamarā varatadā hai",
+        "ਕੌਣ ਇੱਕ ਕਮਰਾ ਵਰਤਦਾ ਹੈ",
+        "Who uses a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "Who uses a thing",
+        "jō kō'ī cīza varatadā hai",
+        "ਜੋ ਕੋਈ ਚੀਜ਼ ਵਰਤਦਾ ਹੈ",
+        "Who uses a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "Who uses water",
+        "jō pāṇī dī varatōṁ karadā hai",
+        "ਜੋ ਪਾਣੀ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ",
+        "Who uses water",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "water"
+        }
+    ],
+    [
+        "Who uses a week",
+        "jō ika hafatā varatadā hai",
+        "ਜੋ ਇੱਕ ਹਫ਼ਤਾ ਵਰਤਦਾ ਹੈ",
+        "Who uses a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "Who uses a word",
+        "jō kō'ī śabada varatadā hai",
+        "ਜੋ ਕੋਈ ਸ਼ਬਦ ਵਰਤਦਾ ਹੈ",
+        "Who uses a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "use",
+            "noun": "word",
+            "det": "a"
+        }
+    ],
+    [
+        "Who finds a book",
+        "jisanū kō'ī kitāba miladī hai",
+        "ਜਿਸਨੂੰ ਕੋਈ ਕਿਤਾਬ ਮਿਲਦੀ ਹੈ",
+        "Who finds a book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "book",
+            "det": "a"
+        }
+    ],
+    [
+        "Who finds a home",
+        "jō ghara labhadā hai",
+        "ਜੋ ਘਰ ਲੱਭਦਾ ਹੈ",
+        "Who finds a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "home"
+        }
+    ],
+    [
+        "Who finds a room",
+        "jisanū ika kamarā mili'ā",
+        "ਜਿਸਨੂੰ ਇੱਕ ਕਮਰਾ ਮਿਲਿਆ",
+        "Who finds a room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "room",
+            "det": "a"
+        }
+    ],
+    [
+        "Who finds a thing",
+        "Jō kō'ī cīza labhadā hai",
+        "ਜੋ ਕੋਈ ਚੀਜ਼ ਲੱਭਦਾ ਹੈ",
+        "Who finds a thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a"
+        }
+    ],
+    [
+        "Who finds water",
+        "jō pāṇī labhadā hai",
+        "ਜੋ ਪਾਣੀ ਲੱਭਦਾ ਹੈ",
+        "Who finds water",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "water"
+        }
+    ],
+    [
+        "Who finds a woman",
+        "jō ika findsrata nū labhadā hai",
+        "ਜੋ ਇਕ findsਰਤ ਨੂੰ ਲੱਭਦਾ ਹੈ",
+        "Who finds a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "Who finds a word",
+        "jō kō'ī śabada labhadā hai",
+        "ਜੋ ਕੋਈ ਸ਼ਬਦ ਲੱਭਦਾ ਹੈ",
+        "Who finds a word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "word",
+            "det": "a"
+        }
+    ],
+    [
+        "Who finds work",
+        "jō kama labhadā hai",
+        "ਜੋ ਕੰਮ ਲੱਭਦਾ ਹੈ",
+        "Who finds work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "who",
+            "verb": "find",
+            "noun": "work"
+        }
+    ]
+]

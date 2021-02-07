@@ -1,0 +1,5115 @@
+[
+    [
+        "I am the first child",
+        "Maiṁ pahilā bacā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਬੱਚਾ ਹਾਂ",
+        "I am the first child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "child",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am my many children",
+        "maiṁ āpaṇē bahuta sārē bacē hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚੇ ਹਾਂ",
+        "I am my many children",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "child",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am each child",
+        "maiṁ hara bacā hāṁ",
+        "ਮੈਂ ਹਰ ਬੱਚਾ ਹਾਂ",
+        "I am each child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "child",
+            "adj": "each"
+        }
+    ],
+    [
+        "I am a good student",
+        "maiṁ ika cagā vidi'ārathī hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗਾ ਵਿਦਿਆਰਥੀ ਹਾਂ",
+        "I am a good student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I am the first student",
+        "maiṁ pahilā vidi'ārathī hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਵਿਦਿਆਰਥੀ ਹਾਂ",
+        "I am the first student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I am a many students",
+        "maiṁ bahuta sārē vidi'ārathī hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀ ਹਾਂ",
+        "I am a many students",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I am each student",
+        "maiṁ hara vidi'ārathī hāṁ",
+        "ਮੈਂ ਹਰ ਵਿਦਿਆਰਥੀ ਹਾਂ",
+        "I am each student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "be",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have a good book",
+        "mērē kōla cagī kitāba hai",
+        "ਮੇਰੇ ਕੋਲ ਚੰਗੀ ਕਿਤਾਬ ਹੈ",
+        "I have a good book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "book",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have each book",
+        "mērē kōla hara kitāba hai",
+        "ਮੇਰੇ ਕੋਲ ਹਰ ਕਿਤਾਬ ਹੈ",
+        "I have each book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "book",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have the first child",
+        "mērā pahilā bacā hai",
+        "ਮੇਰਾ ਪਹਿਲਾ ਬੱਚਾ ਹੈ",
+        "I have the first child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "child",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have my many children",
+        "mērē bahuta sārē bacē hana",
+        "ਮੇਰੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚੇ ਹਨ",
+        "I have my many children",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "child",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have each child",
+        "mērā hara bacā hai",
+        "ਮੇਰਾ ਹਰ ਬੱਚਾ ਹੈ",
+        "I have each child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "child",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have the first family",
+        "mērā pahilā parivāra hai",
+        "ਮੇਰਾ ਪਹਿਲਾ ਪਰਿਵਾਰ ਹੈ",
+        "I have the first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have my many families",
+        "mērē bahuta sārē parivāra hana",
+        "ਮੇਰੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰ ਹਨ",
+        "I have my many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "family",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have each family",
+        "mērē kōla hara ika parivāra hai",
+        "ਮੇਰੇ ਕੋਲ ਹਰ ਇੱਕ ਪਰਿਵਾਰ ਹੈ",
+        "I have each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have a many hands",
+        "mērē bahuta sārē hatha hana",
+        "ਮੇਰੇ ਬਹੁਤ ਸਾਰੇ ਹੱਥ ਹਨ",
+        "I have a many hands",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "hand",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have each hand",
+        "mērā ika hatha hai",
+        "ਮੇਰਾ ਇਕ ਹੱਥ ਹੈ",
+        "I have each hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "hand",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have a first home",
+        "Mērā pahilā ghara hai",
+        "ਮੇਰਾ ਪਹਿਲਾ ਘਰ ਹੈ",
+        "I have a first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have a many home",
+        "mērē kōla bahuta sārā ghara hai",
+        "ਮੇਰੇ ਕੋਲ ਬਹੁਤ ਸਾਰਾ ਘਰ ਹੈ",
+        "I have a many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have a home",
+        "mērē kōla ika ghara hai",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਘਰ ਹੈ",
+        "I have a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have the first mother",
+        "mērī pahilī māṁ hai",
+        "ਮੇਰੀ ਪਹਿਲੀ ਮਾਂ ਹੈ",
+        "I have the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have my many mothers",
+        "mērī'āṁ bahuta sārī'āṁ māvāṁ hana",
+        "ਮੇਰੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਹਨ",
+        "I have my many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have each mother",
+        "mērī hara māṁ hai",
+        "ਮੇਰੀ ਹਰ ਮਾਂ ਹੈ",
+        "I have each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have the first room",
+        "mērē kōla pahilā kamarā hai",
+        "ਮੇਰੇ ਕੋਲ ਪਹਿਲਾ ਕਮਰਾ ਹੈ",
+        "I have the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have a many rooms",
+        "Mērē kōla bahuta sārē kamarē hana",
+        "ਮੇਰੇ ਕੋਲ ਬਹੁਤ ਸਾਰੇ ਕਮਰੇ ਹਨ",
+        "I have a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have each room",
+        "mērē kōla hara kamarā hai",
+        "ਮੇਰੇ ਕੋਲ ਹਰ ਕਮਰਾ ਹੈ",
+        "I have each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have a good thing",
+        "mērē kōla cagī cīza hai",
+        "ਮੇਰੇ ਕੋਲ ਚੰਗੀ ਚੀਜ਼ ਹੈ",
+        "I have a good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have the first thing",
+        "mērē kōla pahilī cīza hai",
+        "ਮੇਰੇ ਕੋਲ ਪਹਿਲੀ ਚੀਜ਼ ਹੈ",
+        "I have the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have a many things",
+        "mērē kōla bahuta sārī'āṁ cīzāṁ hana",
+        "ਮੇਰੇ ਕੋਲ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਹਨ",
+        "I have a many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have each thing",
+        "mērē kōla hara cīza hai",
+        "ਮੇਰੇ ਕੋਲ ਹਰ ਚੀਜ਼ ਹੈ",
+        "I have each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have a good week",
+        "mērē kōla ika cagā hafatā hai",
+        "ਮੇਰੇ ਕੋਲ ਇੱਕ ਚੰਗਾ ਹਫ਼ਤਾ ਹੈ",
+        "I have a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have the first week",
+        "mērē kōla pahilā haphatā hai",
+        "ਮੇਰੇ ਕੋਲ ਪਹਿਲਾ ਹਫਤਾ ਹੈ",
+        "I have the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have a many weeks",
+        "mērē kōla bahuta sārē haphatē hana",
+        "ਮੇਰੇ ਕੋਲ ਬਹੁਤ ਸਾਰੇ ਹਫਤੇ ਹਨ",
+        "I have a many weeks",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I have each week",
+        "mērē kōla hara hafatē",
+        "ਮੇਰੇ ਕੋਲ ਹਰ ਹਫ਼ਤੇ",
+        "I have each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "I have my good work",
+        "mērē kōla mērā cagā kama hai",
+        "ਮੇਰੇ ਕੋਲ ਮੇਰਾ ਚੰਗਾ ਕੰਮ ਹੈ",
+        "I have my good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "I have my first work",
+        "mērā pahilā kama hai",
+        "ਮੇਰਾ ਪਹਿਲਾ ਕੰਮ ਹੈ",
+        "I have my first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I have my each work",
+        "Mērē kōla mērā hara kama hai",
+        "ਮੇਰੇ ਕੋਲ ਮੇਰਾ ਹਰ ਕੰਮ ਹੈ",
+        "I have my each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "have",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "I do a good thing",
+        "maiṁ ika cagā kama karadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗਾ ਕੰਮ ਕਰਦਾ ਹਾਂ",
+        "I do a good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I do the first thing",
+        "maiṁ pahilā kama karadā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਕੰਮ ਕਰਦਾ ਹਾਂ",
+        "I do the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I do a many things",
+        "maiṁ bahuta sārī'āṁ cīzāṁ karadā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਕਰਦਾ ਹਾਂ",
+        "I do a many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I do each thing",
+        "maiṁ hara cīza karadā hāṁ",
+        "ਮੈਂ ਹਰ ਚੀਜ਼ ਕਰਦਾ ਹਾਂ",
+        "I do each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "I do good work",
+        "maiṁ cagā kama karadā hāṁ",
+        "ਮੈਂ ਚੰਗਾ ਕੰਮ ਕਰਦਾ ਹਾਂ",
+        "I do good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "I do the first work",
+        "maiṁ pahilā kama karadā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਕੰਮ ਕਰਦਾ ਹਾਂ",
+        "I do the first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I do each work",
+        "maiṁ hara kama karadā hāṁ",
+        "ਮੈਂ ਹਰ ਕੰਮ ਕਰਦਾ ਹਾਂ",
+        "I do each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "do",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "I go to the first family",
+        "maiṁ pahilē parivāra kōla jāndā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਪਰਿਵਾਰ ਕੋਲ ਜਾਂਦਾ ਹਾਂ",
+        "I go to the first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I go to my many families",
+        "maiṁ āpaṇē bahuta sārē parivārāṁ kōla jāndā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਕੋਲ ਜਾਂਦਾ ਹਾਂ",
+        "I go to my many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "family",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I go to each family",
+        "maiṁ hara parivāra vica jāndā hāṁ",
+        "ਮੈਂ ਹਰ ਪਰਿਵਾਰ ਵਿਚ ਜਾਂਦਾ ਹਾਂ",
+        "I go to each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "I go to the first home",
+        "maiṁ pahilē ghara jāndā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਘਰ ਜਾਂਦਾ ਹਾਂ",
+        "I go to the first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I go many home",
+        "maiṁ bahuta sārē ghara jāndā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਘਰ ਜਾਂਦਾ ਹਾਂ",
+        "I go many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "I go each home",
+        "maiṁ hara ghara jāndā hāṁ",
+        "ਮੈਂ ਹਰ ਘਰ ਜਾਂਦਾ ਹਾਂ",
+        "I go each home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "I go to the first mother",
+        "maiṁ pahilī māṁ kōla jāndā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਮਾਂ ਕੋਲ ਜਾਂਦਾ ਹਾਂ",
+        "I go to the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I go to my many mothers",
+        "maiṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ kōla jāndā hāṁ",
+        "ਮੈਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਕੋਲ ਜਾਂਦਾ ਹਾਂ",
+        "I go to my many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "mother",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I go to each mother",
+        "maiṁ hara māṁ kōla jāndā hāṁ",
+        "ਮੈਂ ਹਰ ਮਾਂ ਕੋਲ ਜਾਂਦਾ ਹਾਂ",
+        "I go to each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "I go to the first room",
+        "maiṁ pahilē kamarē vica jāndā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਕਮਰੇ ਵਿਚ ਜਾਂਦਾ ਹਾਂ",
+        "I go to the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I go to a many rooms",
+        "maiṁ bahuta sārē kamari'āṁ vica jāndā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਕਮਰਿਆਂ ਵਿਚ ਜਾਂਦਾ ਹਾਂ",
+        "I go to a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I go to each room",
+        "Maiṁ hara kamarē vica jāndā hāṁ",
+        "ਮੈਂ ਹਰ ਕਮਰੇ ਵਿਚ ਜਾਂਦਾ ਹਾਂ",
+        "I go to each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "I go to a good student",
+        "maiṁ ika cagē vidi'ārathī kōla jāndā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗੇ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾਂਦਾ ਹਾਂ",
+        "I go to a good student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I go to the first student",
+        "maiṁ pahilē vidi'ārathī kōla jāndā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾਂਦਾ ਹਾਂ",
+        "I go to the first student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I go to a many students",
+        "maiṁ bahuta sārē vidi'ārathī'āṁ kōla jāndā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਕੋਲ ਜਾਂਦਾ ਹਾਂ",
+        "I go to a many students",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I go to each student",
+        "maiṁ hara vidi'ārathī kōla jāndā hāṁ",
+        "ਮੈਂ ਹਰ ਵਿਦਿਆਰਥੀ ਕੋਲ ਜਾਂਦਾ ਹਾਂ",
+        "I go to each student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "I go for a good week",
+        "maiṁ ika cagē haphatē la'ī jāndā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗੇ ਹਫਤੇ ਲਈ ਜਾਂਦਾ ਹਾਂ",
+        "I go for a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I go for the first week",
+        "maiṁ pahilē haphatē jāndā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਹਫਤੇ ਜਾਂਦਾ ਹਾਂ",
+        "I go for the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I go for a many a week",
+        "maiṁ bahuta sārē haphatē vica jāndā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਹਫਤੇ ਵਿਚ ਜਾਂਦਾ ਹਾਂ",
+        "I go for a many a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I go for each week",
+        "maiṁ hara haphatē jāndā hāṁ",
+        "ਮੈਂ ਹਰ ਹਫਤੇ ਜਾਂਦਾ ਹਾਂ",
+        "I go for each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "I go to good work",
+        "maiṁ cagē kama tē jāndā hāṁ",
+        "ਮੈਂ ਚੰਗੇ ਕੰਮ ਤੇ ਜਾਂਦਾ ਹਾਂ",
+        "I go to good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "I go to the first work",
+        "maiṁ pahilē kama tē jāndā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਕੰਮ ਤੇ ਜਾਂਦਾ ਹਾਂ",
+        "I go to the first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I go to each work",
+        "maiṁ hara kama tē jāndā hāṁ",
+        "ਮੈਂ ਹਰ ਕੰਮ ਤੇ ਜਾਂਦਾ ਹਾਂ",
+        "I go to each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "go",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "I know the first child",
+        "maiṁ pahilē bacē nū jāṇadā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਬੱਚੇ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know the first child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "child",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I know my many children",
+        "maiṁ āpaṇē bahuta sārē baci'āṁ nū jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚਿਆਂ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know my many children",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "child",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I know each child",
+        "maiṁ hara bacē nū jāṇadā hāṁ",
+        "ਮੈਂ ਹਰ ਬੱਚੇ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know each child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "child",
+            "adj": "each"
+        }
+    ],
+    [
+        "I know my first family",
+        "Maiṁ āpaṇē pahilē parivāra nū jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਪਹਿਲੇ ਪਰਿਵਾਰ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know my first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I know my many families",
+        "maiṁ āpaṇē bahuta sārē parivārāṁ nū jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know my many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "family",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I know my each family",
+        "maiṁ āpaṇē harēka parivāra nū jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਹਰੇਕ ਪਰਿਵਾਰ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know my each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "I know a good man",
+        "maiṁ ika cagē ādamī nū jāṇadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗੇ ਆਦਮੀ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know a good man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I know the first man",
+        "maiṁ pahilē ādamī nū jāṇadā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know the first man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "man",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I know a many men",
+        "maiṁ bahuta sārē ādamī'āṁ nū jāṇadā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਆਦਮੀਆਂ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know a many men",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I know each man",
+        "maiṁ hara ādamī nū jāṇadā hāṁ",
+        "ਮੈਂ ਹਰ ਆਦਮੀ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know each man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "man",
+            "adj": "each"
+        }
+    ],
+    [
+        "I know the first mother",
+        "maiṁ pahilī māṁ nū jāṇadī hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਮਾਂ ਨੂੰ ਜਾਣਦੀ ਹਾਂ",
+        "I know the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I know my many mothers",
+        "maiṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ nū jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know my many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "mother",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I know each mother",
+        "maiṁ hara māṁ nū jāṇadā hāṁ",
+        "ਮੈਂ ਹਰ ਮਾਂ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "I know a good student",
+        "maiṁ ika cagā vidi'ārathī jāṇadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗਾ ਵਿਦਿਆਰਥੀ ਜਾਣਦਾ ਹਾਂ",
+        "I know a good student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I know the first student",
+        "maiṁ pahilē vidi'ārathī nū jāṇadā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know the first student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I know a many students",
+        "maiṁ bahuta sārē vidi'ārathī'āṁ nū jāṇadā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know a many students",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I know each student",
+        "maiṁ harēka vidi'ārathī nū jāṇadā hāṁ",
+        "ਮੈਂ ਹਰੇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know each student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "I know my good thing",
+        "maiṁ āpaṇī cagī cīza jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਚੰਗੀ ਚੀਜ਼ ਜਾਣਦਾ ਹਾਂ",
+        "I know my good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I know my first thing",
+        "maiṁ āpaṇī pahilī cīza jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਪਹਿਲੀ ਚੀਜ਼ ਜਾਣਦਾ ਹਾਂ",
+        "I know my first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I know my many things",
+        "maiṁ āpaṇī'āṁ bahuta sārī'āṁ cīzāṁ jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਜਾਣਦਾ ਹਾਂ",
+        "I know my many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I know my each thing",
+        "maiṁ āpaṇī hara cīja nū jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣੀ ਹਰ ਚੀਜ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know my each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "I know the first woman",
+        "maiṁ pahilī knowrata nū jāṇadā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ knowਰਤ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know the first woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I know a many women",
+        "maiṁ bahuta sārī'āṁ knowratāṁ nū jāṇadā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ knowਰਤਾਂ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know a many women",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I know each woman",
+        "maiṁ harēka knowrata nū jāṇadā hāṁ",
+        "ਮੈਂ ਹਰੇਕ knowਰਤ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know each woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "I know a good word",
+        "maiṁ ika cagā śabada jāṇadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗਾ ਸ਼ਬਦ ਜਾਣਦਾ ਹਾਂ",
+        "I know a good word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I know the first word",
+        "mainū pahilā śabada patā hai",
+        "ਮੈਨੂੰ ਪਹਿਲਾ ਸ਼ਬਦ ਪਤਾ ਹੈ",
+        "I know the first word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "word",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I know a many words",
+        "Maiṁ bahuta sārē śabada jāṇadā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਸ਼ਬਦ ਜਾਣਦਾ ਹਾਂ",
+        "I know a many words",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I know each word",
+        "maiṁ harēka śabada nū jāṇadā hāṁ",
+        "ਮੈਂ ਹਰੇਕ ਸ਼ਬਦ ਨੂੰ ਜਾਣਦਾ ਹਾਂ",
+        "I know each word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "word",
+            "adj": "each"
+        }
+    ],
+    [
+        "I know my good work",
+        "mainū mērā cagā kama patā hai",
+        "ਮੈਨੂੰ ਮੇਰਾ ਚੰਗਾ ਕੰਮ ਪਤਾ ਹੈ",
+        "I know my good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "I know my first work",
+        "mainū mērā pahilā kama patā hai",
+        "ਮੈਨੂੰ ਮੇਰਾ ਪਹਿਲਾ ਕੰਮ ਪਤਾ ਹੈ",
+        "I know my first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I know my each work",
+        "maiṁ āpaṇā hara kama jāṇadā hāṁ",
+        "ਮੈਂ ਆਪਣਾ ਹਰ ਕੰਮ ਜਾਣਦਾ ਹਾਂ",
+        "I know my each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "know",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "I see a good book",
+        "maiṁ ika cagī kitāba vēkha rihā hāṁ",
+        "ਮੈਂ ਇਕ ਚੰਗੀ ਕਿਤਾਬ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a good book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I see each book",
+        "maiṁ hara kitāba vēkhadā hāṁ",
+        "ਮੈਂ ਹਰ ਕਿਤਾਬ ਵੇਖਦਾ ਹਾਂ",
+        "I see each book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "book",
+            "adj": "each"
+        }
+    ],
+    [
+        "I see the first child",
+        "maiṁ pahilā bacā vēkhi'ā",
+        "ਮੈਂ ਪਹਿਲਾ ਬੱਚਾ ਵੇਖਿਆ",
+        "I see the first child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "child",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I see my many children",
+        "maiṁ āpaṇē bahuta sārē baci'āṁ nū vēkhadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚਿਆਂ ਨੂੰ ਵੇਖਦਾ ਹਾਂ",
+        "I see my many children",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "child",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I see each child",
+        "maiṁ hara bacē nū vēkhadā hāṁ",
+        "ਮੈਂ ਹਰ ਬੱਚੇ ਨੂੰ ਵੇਖਦਾ ਹਾਂ",
+        "I see each child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "child",
+            "adj": "each"
+        }
+    ],
+    [
+        "I see the first family",
+        "maiṁ pahilē parivāra nū vēkhadā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਪਰਿਵਾਰ ਨੂੰ ਵੇਖਦਾ ਹਾਂ",
+        "I see the first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I see my many families",
+        "maiṁ āpaṇē bahuta sārē parivāra vēkhadā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰ ਵੇਖਦਾ ਹਾਂ",
+        "I see my many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "family",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I see each family",
+        "maiṁ hara parivāra nū vēkhadā hāṁ",
+        "ਮੈਂ ਹਰ ਪਰਿਵਾਰ ਨੂੰ ਵੇਖਦਾ ਹਾਂ",
+        "I see each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "I see a many hands",
+        "maiṁ bahuta sārē hatha dēkhē",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਹੱਥ ਦੇਖੇ",
+        "I see a many hands",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I see each hand",
+        "maiṁ hara ika hatha nū vēkhi'ā",
+        "ਮੈਂ ਹਰ ਇਕ ਹੱਥ ਨੂੰ ਵੇਖਿਆ",
+        "I see each hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "hand",
+            "adj": "each"
+        }
+    ],
+    [
+        "I see a first home",
+        "maiṁ ika pahilā ghara vēkhi'ā",
+        "ਮੈਂ ਇੱਕ ਪਹਿਲਾ ਘਰ ਵੇਖਿਆ",
+        "I see a first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I see a many home",
+        "maiṁ bahuta sārā ghara vēkhadā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰਾ ਘਰ ਵੇਖਦਾ ਹਾਂ",
+        "I see a many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "I see a home",
+        "maiṁ ika ghara vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਘਰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "I see a good man",
+        "maiṁ ika cagā ādamī vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗਾ ਆਦਮੀ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a good man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I see the first man",
+        "maiṁ pahilē ādamī nū vēkha rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see the first man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "man",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I see a many men",
+        "maiṁ bahuta sārē ādamī vēkha rihā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਆਦਮੀ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a many men",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I see each man",
+        "maiṁ hara ādamī nū vēkha rihā hāṁ",
+        "ਮੈਂ ਹਰ ਆਦਮੀ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see each man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "man",
+            "adj": "each"
+        }
+    ],
+    [
+        "I see the first mother",
+        "maiṁ pahilī māṁ nū vēkhadī hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਮਾਂ ਨੂੰ ਵੇਖਦੀ ਹਾਂ",
+        "I see the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I see my many mothers",
+        "maiṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ nū vēkhadā hāṁ",
+        "ਮੈਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਵੇਖਦਾ ਹਾਂ",
+        "I see my many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "mother",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I see each mother",
+        "maiṁ hara māṁ nū vēkhadā hāṁ",
+        "ਮੈਂ ਹਰ ਮਾਂ ਨੂੰ ਵੇਖਦਾ ਹਾਂ",
+        "I see each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "I see the first room",
+        "maiṁ pahilā kamarā vēkha rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਕਮਰਾ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I see a many rooms",
+        "mainū bahuta sārē kamarē miladē hana",
+        "ਮੈਨੂੰ ਬਹੁਤ ਸਾਰੇ ਕਮਰੇ ਮਿਲਦੇ ਹਨ",
+        "I see a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I see each room",
+        "maiṁ hara kamarā vēkha rihā hāṁ",
+        "ਮੈਂ ਹਰ ਕਮਰਾ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "I see a good student",
+        "maiṁ ika cagā vidi'ārathī vēkhadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗਾ ਵਿਦਿਆਰਥੀ ਵੇਖਦਾ ਹਾਂ",
+        "I see a good student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I see the first student",
+        "maiṁ pahilē vidi'ārathī nū vēkha rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see the first student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I see a many students",
+        "maiṁ bahuta sārē vidi'ārathī vēkhadā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀ ਵੇਖਦਾ ਹਾਂ",
+        "I see a many students",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I see each student",
+        "maiṁ hara vidi'ārathī nū vēkhadā hāṁ",
+        "ਮੈਂ ਹਰ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੇਖਦਾ ਹਾਂ",
+        "I see each student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "I see a good thing",
+        "maiṁ ika cagī cīza vēkha rihā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗੀ ਚੀਜ਼ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see a good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I see the first thing",
+        "maiṁ pahilī cīza vēkha rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਚੀਜ਼ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I see a many things",
+        "maiṁ bahuta sārī'āṁ cīzāṁ vēkhadā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਵੇਖਦਾ ਹਾਂ",
+        "I see a many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I see each thing",
+        "maiṁ hara cīja nū vēkhadā hāṁ",
+        "ਮੈਂ ਹਰ ਚੀਜ ਨੂੰ ਵੇਖਦਾ ਹਾਂ",
+        "I see each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "I see the first woman",
+        "maiṁ pahilī seerata nū vēkha rihā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ seeਰਤ ਨੂੰ ਵੇਖ ਰਿਹਾ ਹਾਂ",
+        "I see the first woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I see a many women",
+        "maiṁ bahuta sārī'āṁ seeratāṁ nū vēkhadā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ seeਰਤਾਂ ਨੂੰ ਵੇਖਦਾ ਹਾਂ",
+        "I see a many women",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I see each woman",
+        "maiṁ hara seerata nū vēkhadā hāṁ",
+        "ਮੈਂ ਹਰ seeਰਤ ਨੂੰ ਵੇਖਦਾ ਹਾਂ",
+        "I see each woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "see",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "I come to the first family",
+        "maiṁ pahilē parivāra kōla ā'i'ā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਪਰਿਵਾਰ ਕੋਲ ਆਇਆ ਹਾਂ",
+        "I come to the first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I come to my many families",
+        "Maiṁ āpaṇē bahuta sārē parivārāṁ kōla ā'undā hāṁ",
+        "ਮੈਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਕੋਲ ਆਉਂਦਾ ਹਾਂ",
+        "I come to my many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "family",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I come to each family",
+        "maiṁ hara parivāra vica ā'undā hāṁ",
+        "ਮੈਂ ਹਰ ਪਰਿਵਾਰ ਵਿਚ ਆਉਂਦਾ ਹਾਂ",
+        "I come to each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "I come the first home",
+        "maiṁ pahilē ghara ā'i'ā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਘਰ ਆਇਆ ਹਾਂ",
+        "I come the first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I come many home",
+        "maiṁ bahuta sārē ghara ā'undī hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਘਰ ਆਉਂਦੀ ਹਾਂ",
+        "I come many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "I come to each home",
+        "maiṁ hara ghara ā'undā hāṁ",
+        "ਮੈਂ ਹਰ ਘਰ ਆਉਂਦਾ ਹਾਂ",
+        "I come to each home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "I come to the first mother",
+        "maiṁ pahilī māṁ kōla ā'undī hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਮਾਂ ਕੋਲ ਆਉਂਦੀ ਹਾਂ",
+        "I come to the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I come to my many mothers",
+        "maiṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ kōla ā'undā hāṁ",
+        "ਮੈਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਕੋਲ ਆਉਂਦਾ ਹਾਂ",
+        "I come to my many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "mother",
+            "det": "my",
+            "adj": "many"
+        }
+    ],
+    [
+        "I come to each mother",
+        "maiṁ hara māṁ kōla ā'undā hāṁ",
+        "ਮੈਂ ਹਰ ਮਾਂ ਕੋਲ ਆਉਂਦਾ ਹਾਂ",
+        "I come to each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "I come to the first room",
+        "maiṁ pahilē kamarē vica ā'i'ā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਕਮਰੇ ਵਿਚ ਆਇਆ ਹਾਂ",
+        "I come to the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I come to a many rooms",
+        "maiṁ bahuta sārē kamari'āṁ vica ā'undī hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਕਮਰਿਆਂ ਵਿਚ ਆਉਂਦੀ ਹਾਂ",
+        "I come to a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I come to each room",
+        "maiṁ hara kamarē vica ā'undā hāṁ",
+        "ਮੈਂ ਹਰ ਕਮਰੇ ਵਿਚ ਆਉਂਦਾ ਹਾਂ",
+        "I come to each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "I come for a good week",
+        "maiṁ ika cagē haphatē la'ī ā'i'ā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗੇ ਹਫਤੇ ਲਈ ਆਇਆ ਹਾਂ",
+        "I come for a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I come for the first week",
+        "maiṁ pahilē haphatē ā'i'ā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਹਫਤੇ ਆਇਆ ਹਾਂ",
+        "I come for the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I come for a many a week",
+        "maiṁ bahuta sārē haphatē la'ī ā'undā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਹਫਤੇ ਲਈ ਆਉਂਦਾ ਹਾਂ",
+        "I come for a many a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I come for each week",
+        "Maiṁ hara haphatē ā'undā hāṁ",
+        "ਮੈਂ ਹਰ ਹਫਤੇ ਆਉਂਦਾ ਹਾਂ",
+        "I come for each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "I come to good work",
+        "maiṁ cagē kama tē ā'i'ā hāṁ",
+        "ਮੈਂ ਚੰਗੇ ਕੰਮ ਤੇ ਆਇਆ ਹਾਂ",
+        "I come to good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "I come to the first work",
+        "maiṁ pahilē kama tē ā'i'ā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਕੰਮ ਤੇ ਆਇਆ ਹਾਂ",
+        "I come to the first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I come to each work",
+        "maiṁ hara kama tē ā'undā hāṁ",
+        "ਮੈਂ ਹਰ ਕੰਮ ਤੇ ਆਉਂਦਾ ਹਾਂ",
+        "I come to each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "come",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "I use a good book",
+        "maiṁ ika cagī kitāba dī varatōṁ karadā hāṁ",
+        "ਮੈਂ ਇਕ ਚੰਗੀ ਕਿਤਾਬ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹਾਂ",
+        "I use a good book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I use each book",
+        "maiṁ hara kitāba dī varatōṁ karadā hāṁ",
+        "ਮੈਂ ਹਰ ਕਿਤਾਬ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹਾਂ",
+        "I use each book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "book",
+            "adj": "each"
+        }
+    ],
+    [
+        "I use a many hands",
+        "maiṁ bahuta sārē hathāṁ dī varatōṁ karadā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਹੱਥਾਂ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹਾਂ",
+        "I use a many hands",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I use each hand",
+        "maiṁ hara ika hatha dī varatōṁ karadā hāṁ",
+        "ਮੈਂ ਹਰ ਇਕ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹਾਂ",
+        "I use each hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "hand",
+            "adj": "each"
+        }
+    ],
+    [
+        "I use the first room",
+        "maiṁ pahilē kamarē dī varatōṁ karadā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਕਮਰੇ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹਾਂ",
+        "I use the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I use a many rooms",
+        "maiṁ bahuta sārē kamarē varatadā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਕਮਰੇ ਵਰਤਦਾ ਹਾਂ",
+        "I use a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I use each room",
+        "maiṁ hara kamarē dī varatōṁ karadā hāṁ",
+        "ਮੈਂ ਹਰ ਕਮਰੇ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹਾਂ",
+        "I use each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "I use a good thing",
+        "maiṁ ika cagī cīza dī varatōṁ karadā hāṁ",
+        "ਮੈਂ ਇਕ ਚੰਗੀ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹਾਂ",
+        "I use a good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I use the first thing",
+        "maiṁ pahilī cīza varatadā hāṁ",
+        "ਮੈਂ ਪਹਿਲੀ ਚੀਜ਼ ਵਰਤਦਾ ਹਾਂ",
+        "I use the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I use a many things",
+        "maiṁ bahuta sārī'āṁ cīzāṁ dī varatōṁ karadā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹਾਂ",
+        "I use a many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I use each thing",
+        "maiṁ hara cīza dī varatōṁ karadā hāṁ",
+        "ਮੈਂ ਹਰ ਚੀਜ਼ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹਾਂ",
+        "I use each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "I use a good week",
+        "maiṁ ika cagā haphatā varatadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗਾ ਹਫਤਾ ਵਰਤਦਾ ਹਾਂ",
+        "I use a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I use the first week",
+        "maiṁ pahilē haphatē dī varatōṁ karadā hāṁ",
+        "ਮੈਂ ਪਹਿਲੇ ਹਫਤੇ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹਾਂ",
+        "I use the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I use a many a week",
+        "maiṁ haphatē vica bahuta varatadā hāṁ",
+        "ਮੈਂ ਹਫਤੇ ਵਿਚ ਬਹੁਤ ਵਰਤਦਾ ਹਾਂ",
+        "I use a many a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I use each week",
+        "maiṁ hara haphatē varatadā hāṁ",
+        "ਮੈਂ ਹਰ ਹਫਤੇ ਵਰਤਦਾ ਹਾਂ",
+        "I use each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "I use a good word",
+        "maiṁ ika cagā śabada varatadā hāṁ",
+        "ਮੈਂ ਇੱਕ ਚੰਗਾ ਸ਼ਬਦ ਵਰਤਦਾ ਹਾਂ",
+        "I use a good word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I use the first word",
+        "maiṁ pahilā śabada varatadā hāṁ",
+        "ਮੈਂ ਪਹਿਲਾ ਸ਼ਬਦ ਵਰਤਦਾ ਹਾਂ",
+        "I use the first word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "word",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I use a many words",
+        "maiṁ bahuta sārē śabada varatadā hāṁ",
+        "ਮੈਂ ਬਹੁਤ ਸਾਰੇ ਸ਼ਬਦ ਵਰਤਦਾ ਹਾਂ",
+        "I use a many words",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I use each word",
+        "maiṁ hara śabada dī varatōṁ karadā hāṁ",
+        "ਮੈਂ ਹਰ ਸ਼ਬਦ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹਾਂ",
+        "I use each word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "use",
+            "noun": "word",
+            "adj": "each"
+        }
+    ],
+    [
+        "I find a good book",
+        "mainū ika cagī kitāba milī hai",
+        "ਮੈਨੂੰ ਇੱਕ ਚੰਗੀ ਕਿਤਾਬ ਮਿਲੀ ਹੈ",
+        "I find a good book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I find each book",
+        "mainū hara kitāba miladī hai",
+        "ਮੈਨੂੰ ਹਰ ਕਿਤਾਬ ਮਿਲਦੀ ਹੈ",
+        "I find each book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "book",
+            "adj": "each"
+        }
+    ],
+    [
+        "I find a first home",
+        "mainū pahilā ghara mili'ā",
+        "ਮੈਨੂੰ ਪਹਿਲਾ ਘਰ ਮਿਲਿਆ",
+        "I find a first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I find a many home",
+        "mainū bahuta sārā ghara mila gi'ā",
+        "ਮੈਨੂੰ ਬਹੁਤ ਸਾਰਾ ਘਰ ਮਿਲ ਗਿਆ",
+        "I find a many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "I find a home",
+        "Mainū ika ghara mila gi'ā",
+        "ਮੈਨੂੰ ਇੱਕ ਘਰ ਮਿਲ ਗਿਆ",
+        "I find a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "I find the first room",
+        "mainū pahilā kamarā mili'ā",
+        "ਮੈਨੂੰ ਪਹਿਲਾ ਕਮਰਾ ਮਿਲਿਆ",
+        "I find the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I find a many rooms",
+        "mainū bahuta sārē kamarē miladē hana",
+        "ਮੈਨੂੰ ਬਹੁਤ ਸਾਰੇ ਕਮਰੇ ਮਿਲਦੇ ਹਨ",
+        "I find a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I find each room",
+        "mainū hara kamarā mili'ā hai",
+        "ਮੈਨੂੰ ਹਰ ਕਮਰਾ ਮਿਲਿਆ ਹੈ",
+        "I find each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "I find a good thing",
+        "mainū ika cagī cīza milī",
+        "ਮੈਨੂੰ ਇਕ ਚੰਗੀ ਚੀਜ਼ ਮਿਲੀ",
+        "I find a good thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I find the first thing",
+        "mainū pahilī cīza mila ga'ī",
+        "ਮੈਨੂੰ ਪਹਿਲੀ ਚੀਜ਼ ਮਿਲ ਗਈ",
+        "I find the first thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I find a many things",
+        "mainū bahuta sārī'āṁ cīzāṁ milī'āṁ",
+        "ਮੈਨੂੰ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਮਿਲੀਆਂ",
+        "I find a many things",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I find each thing",
+        "mainū hara cīja miladī hai",
+        "ਮੈਨੂੰ ਹਰ ਚੀਜ ਮਿਲਦੀ ਹੈ",
+        "I find each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "I find the first woman",
+        "mainū pahilī findrata milī",
+        "ਮੈਨੂੰ ਪਹਿਲੀ findਰਤ ਮਿਲੀ",
+        "I find the first woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I find a many women",
+        "mainū bahuta sārī'āṁ findratāṁ miladī'āṁ hana",
+        "ਮੈਨੂੰ ਬਹੁਤ ਸਾਰੀਆਂ findਰਤਾਂ ਮਿਲਦੀਆਂ ਹਨ",
+        "I find a many women",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I find each woman",
+        "maiṁ hara findrata nū labhadā hāṁ",
+        "ਮੈਂ ਹਰ findਰਤ ਨੂੰ ਲੱਭਦਾ ਹਾਂ",
+        "I find each woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "I find a good word",
+        "mainū ika cagā śabada mili'ā hai",
+        "ਮੈਨੂੰ ਇੱਕ ਚੰਗਾ ਸ਼ਬਦ ਮਿਲਿਆ ਹੈ",
+        "I find a good word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "I find the first word",
+        "mainū pahilā śabada mili'ā",
+        "ਮੈਨੂੰ ਪਹਿਲਾ ਸ਼ਬਦ ਮਿਲਿਆ",
+        "I find the first word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "word",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I find a many words",
+        "mainū bahuta sārē śabada miladē hana",
+        "ਮੈਨੂੰ ਬਹੁਤ ਸਾਰੇ ਸ਼ਬਦ ਮਿਲਦੇ ਹਨ",
+        "I find a many words",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "I find each word",
+        "Mainū hara śabada miladā hai",
+        "ਮੈਨੂੰ ਹਰ ਸ਼ਬਦ ਮਿਲਦਾ ਹੈ",
+        "I find each word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "word",
+            "adj": "each"
+        }
+    ],
+    [
+        "I find good work",
+        "mainū cagā kama miladā hai",
+        "ਮੈਨੂੰ ਚੰਗਾ ਕੰਮ ਮਿਲਦਾ ਹੈ",
+        "I find good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "I find the first work",
+        "mainū pahilā kama mili'ā",
+        "ਮੈਨੂੰ ਪਹਿਲਾ ਕੰਮ ਮਿਲਿਆ",
+        "I find the first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "I find each work",
+        "mainū hara kama miladā hai",
+        "ਮੈਨੂੰ ਹਰ ਕੰਮ ਮਿਲਦਾ ਹੈ",
+        "I find each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "i",
+            "verb": "find",
+            "noun": "work",
+            "adj": "each"
+        }
+    ]
+]

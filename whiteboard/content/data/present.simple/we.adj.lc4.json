@@ -1,0 +1,2455 @@
+[
+    [
+        "We are a good student",
+        "asīṁ cagē vidi'ārathī hāṁ",
+        "ਅਸੀਂ ਚੰਗੇ ਵਿਦਿਆਰਥੀ ਹਾਂ",
+        "We are a good student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "We are the first student",
+        "asīṁ pahilē vidi'ārathī hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਹਾਂ",
+        "We are the first student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "be",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "We are a many students",
+        "asīṁ bahuta sārē vidi'ārathī hāṁ",
+        "ਅਸੀਂ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀ ਹਾਂ",
+        "We are a many students",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "We are each student",
+        "asīṁ hara vidi'ārathī hāṁ",
+        "ਅਸੀਂ ਹਰ ਵਿਦਿਆਰਥੀ ਹਾਂ",
+        "We are each student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "be",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "We have a good business",
+        "sāḍā cagā kārōbāra hai",
+        "ਸਾਡਾ ਚੰਗਾ ਕਾਰੋਬਾਰ ਹੈ",
+        "We have a good business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "business",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "We have each business",
+        "sāḍā hara kārōbāra hai",
+        "ਸਾਡਾ ਹਰ ਕਾਰੋਬਾਰ ਹੈ",
+        "We have each business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "business",
+            "adj": "each"
+        }
+    ],
+    [
+        "We have a good day",
+        "sāḍē kōla ika cagā dina hai",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਚੰਗਾ ਦਿਨ ਹੈ",
+        "We have a good day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "We have the first day",
+        "sāḍē kōla pahilā dina hai",
+        "ਸਾਡੇ ਕੋਲ ਪਹਿਲਾ ਦਿਨ ਹੈ",
+        "We have the first day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "day",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "We have a many days",
+        "sāḍē kōla bahuta dina hana",
+        "ਸਾਡੇ ਕੋਲ ਬਹੁਤ ਦਿਨ ਹਨ",
+        "We have a many days",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "We have each day",
+        "sāḍē kōla hara dina hai",
+        "ਸਾਡੇ ਕੋਲ ਹਰ ਦਿਨ ਹੈ",
+        "We have each day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "day",
+            "adj": "each"
+        }
+    ],
+    [
+        "We have a first lot",
+        "sāḍē kōla pahilāṁ bahuta hai",
+        "ਸਾਡੇ ਕੋਲ ਪਹਿਲਾਂ ਬਹੁਤ ਹੈ",
+        "We have a first lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "lot",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "We have a many lots",
+        "sāḍē kōla bahuta sārī'āṁ cīzāṁ hana",
+        "ਸਾਡੇ ਕੋਲ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਹਨ",
+        "We have a many lots",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "lot",
+            "adj": "many"
+        }
+    ],
+    [
+        "We have a lot",
+        "sāḍē kōla bahuta hai",
+        "ਸਾਡੇ ਕੋਲ ਬਹੁਤ ਹੈ",
+        "We have a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "lot",
+            "adj": "each"
+        }
+    ],
+    [
+        "We have the first mother",
+        "sāḍī pahilī māṁ hai",
+        "ਸਾਡੀ ਪਹਿਲੀ ਮਾਂ ਹੈ",
+        "We have the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "We have our many mothers",
+        "sāḍī'āṁ bahuta sārī'āṁ māvāṁ hana",
+        "ਸਾਡੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਹਨ",
+        "We have our many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "mother",
+            "det": "our",
+            "adj": "many"
+        }
+    ],
+    [
+        "We have each mother",
+        "sāḍī ika māṁ hai",
+        "ਸਾਡੀ ਇਕ ਮਾਂ ਹੈ",
+        "We have each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "We have the first problem",
+        "sānū pahilī samasi'ā hai",
+        "ਸਾਨੂੰ ਪਹਿਲੀ ਸਮੱਸਿਆ ਹੈ",
+        "We have the first problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "problem",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "We have a many problems",
+        "sānū bahuta sārī'āṁ muśakalāṁ hana",
+        "ਸਾਨੂੰ ਬਹੁਤ ਸਾਰੀਆਂ ਮੁਸ਼ਕਲਾਂ ਹਨ",
+        "We have a many problems",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "We have each problem",
+        "sāḍī hara samasi'ā hai",
+        "ਸਾਡੀ ਹਰ ਸਮੱਸਿਆ ਹੈ",
+        "We have each problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "problem",
+            "adj": "each"
+        }
+    ],
+    [
+        "We have a good question",
+        "sāḍē kōla ika cagā savāla hai",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਚੰਗਾ ਸਵਾਲ ਹੈ",
+        "We have a good question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "question",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "We have the first question",
+        "sāḍē kōla pahilā praśana hai",
+        "ਸਾਡੇ ਕੋਲ ਪਹਿਲਾ ਪ੍ਰਸ਼ਨ ਹੈ",
+        "We have the first question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "question",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "We have a many questions",
+        "sāḍē kōla bahuta sārē praśana hana",
+        "ਸਾਡੇ ਕੋਲ ਬਹੁਤ ਸਾਰੇ ਪ੍ਰਸ਼ਨ ਹਨ",
+        "We have a many questions",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "question",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "We have each question",
+        "sāḍē kōla hara praśana hai",
+        "ਸਾਡੇ ਕੋਲ ਹਰ ਪ੍ਰਸ਼ਨ ਹੈ",
+        "We have each question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "question",
+            "adj": "each"
+        }
+    ],
+    [
+        "We have a good story",
+        "sāḍī ika cagī kahāṇī hai",
+        "ਸਾਡੀ ਇਕ ਚੰਗੀ ਕਹਾਣੀ ਹੈ",
+        "We have a good story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "story",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "We have the first story",
+        "sāḍī pahilī kahāṇī hai",
+        "ਸਾਡੀ ਪਹਿਲੀ ਕਹਾਣੀ ਹੈ",
+        "We have the first story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "story",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "We have a many stories",
+        "sāḍē kōla bahuta sārī'āṁ kahāṇī'āṁ hana",
+        "ਸਾਡੇ ਕੋਲ ਬਹੁਤ ਸਾਰੀਆਂ ਕਹਾਣੀਆਂ ਹਨ",
+        "We have a many stories",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "story",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "We have each story",
+        "sāḍē kōla hara ika kahāṇī hai",
+        "ਸਾਡੇ ਕੋਲ ਹਰ ਇਕ ਕਹਾਣੀ ਹੈ",
+        "We have each story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "story",
+            "adj": "each"
+        }
+    ],
+    [
+        "We have a good week",
+        "sāḍē kōla ika cagā hafatā hai",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਚੰਗਾ ਹਫ਼ਤਾ ਹੈ",
+        "We have a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "We have the first week",
+        "sāḍē kōla pahilā haphatā hai",
+        "ਸਾਡੇ ਕੋਲ ਪਹਿਲਾ ਹਫਤਾ ਹੈ",
+        "We have the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "We have a many weeks",
+        "sāḍē kōla bahuta sārē hafatē hana",
+        "ਸਾਡੇ ਕੋਲ ਬਹੁਤ ਸਾਰੇ ਹਫ਼ਤੇ ਹਨ",
+        "We have a many weeks",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "We have each week",
+        "sāḍē kōla hara hafatē",
+        "ਸਾਡੇ ਕੋਲ ਹਰ ਹਫ਼ਤੇ",
+        "We have each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "We do a good business",
+        "asīṁ ika cagā kārōbāra karadē hāṁ",
+        "ਅਸੀਂ ਇਕ ਚੰਗਾ ਕਾਰੋਬਾਰ ਕਰਦੇ ਹਾਂ",
+        "We do a good business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "business",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "We do each business",
+        "asīṁ hara kārōbāra karadē hāṁ",
+        "ਅਸੀਂ ਹਰ ਕਾਰੋਬਾਰ ਕਰਦੇ ਹਾਂ",
+        "We do each business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "business",
+            "adj": "each"
+        }
+    ],
+    [
+        "We do a first lot",
+        "asīṁ bahuta kujha karadē hāṁ",
+        "ਅਸੀਂ ਬਹੁਤ ਕੁਝ ਕਰਦੇ ਹਾਂ",
+        "We do a first lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "lot",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "We do a many lots",
+        "asīṁ bahuta sārē karadē hāṁ",
+        "ਅਸੀਂ ਬਹੁਤ ਸਾਰੇ ਕਰਦੇ ਹਾਂ",
+        "We do a many lots",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "lot",
+            "adj": "many"
+        }
+    ],
+    [
+        "We do a lot",
+        "asīṁ bahuta kujha karadē hāṁ",
+        "ਅਸੀਂ ਬਹੁਤ ਕੁਝ ਕਰਦੇ ਹਾਂ",
+        "We do a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "lot",
+            "adj": "each"
+        }
+    ],
+    [
+        "We tell about much life",
+        "asīṁ bahuta sārī zidagī bārē dasadē hāṁ",
+        "ਅਸੀਂ ਬਹੁਤ ਸਾਰੀ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਦੱਸਦੇ ਹਾਂ",
+        "We tell about much life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "life",
+            "adj": "many"
+        }
+    ],
+    [
+        "We tell about each life",
+        "asīṁ hara ika jīvana bārē dasadē hāṁ",
+        "ਅਸੀਂ ਹਰ ਇੱਕ ਜੀਵਨ ਬਾਰੇ ਦੱਸਦੇ ਹਾਂ",
+        "We tell about each life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "life",
+            "adj": "each"
+        }
+    ],
+    [
+        "We tell a good man",
+        "asīṁ ika cagē ādamī nū kahidē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਚੰਗੇ ਆਦਮੀ ਨੂੰ ਕਹਿੰਦੇ ਹਾਂ",
+        "We tell a good man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "We tell the first man",
+        "asīṁ pahilē ādamī nū dasadē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਦੱਸਦੇ ਹਾਂ",
+        "We tell the first man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "man",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "We tell a many men",
+        "asīṁ bahuta sārē badi'āṁ nū dasadē hāṁ",
+        "ਅਸੀਂ ਬਹੁਤ ਸਾਰੇ ਬੰਦਿਆਂ ਨੂੰ ਦੱਸਦੇ ਹਾਂ",
+        "We tell a many men",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "We tell each man",
+        "asīṁ hara ādamī nū dasadē hāṁ",
+        "ਅਸੀਂ ਹਰ ਆਦਮੀ ਨੂੰ ਦੱਸਦੇ ਹਾਂ",
+        "We tell each man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "man",
+            "adj": "each"
+        }
+    ],
+    [
+        "We tell the first mother",
+        "asīṁ pahilī māṁ nū dasadē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੀ ਮਾਂ ਨੂੰ ਦੱਸਦੇ ਹਾਂ",
+        "We tell the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "We tell our many mothers",
+        "Asīṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ nū kahidē hāṁ",
+        "ਅਸੀਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਕਹਿੰਦੇ ਹਾਂ",
+        "We tell our many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "our",
+            "adj": "many"
+        }
+    ],
+    [
+        "We tell each mother",
+        "asīṁ hara māṁ nū dasadē hāṁ",
+        "ਅਸੀਂ ਹਰ ਮਾਂ ਨੂੰ ਦੱਸਦੇ ਹਾਂ",
+        "We tell each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "We tell about the first problem",
+        "asīṁ pahilī samasi'ā bārē dasadē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੀ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸਦੇ ਹਾਂ",
+        "We tell about the first problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "We tell about a many problems",
+        "asīṁ bahuta sārī'āṁ muśakalāṁ bārē dasadē hāṁ",
+        "ਅਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮੁਸ਼ਕਲਾਂ ਬਾਰੇ ਦੱਸਦੇ ਹਾਂ",
+        "We tell about a many problems",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "We tell about each problem",
+        "asīṁ hara samasi'ā bārē dasadē hāṁ",
+        "ਅਸੀਂ ਹਰ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸਦੇ ਹਾਂ",
+        "We tell about each problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "problem",
+            "adj": "each"
+        }
+    ],
+    [
+        "We tell a good story",
+        "asīṁ ika cagī kahāṇī suṇā'undē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਚੰਗੀ ਕਹਾਣੀ ਸੁਣਾਉਂਦੇ ਹਾਂ",
+        "We tell a good story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "We tell the first story",
+        "asīṁ pahilī kahāṇī suṇā'undē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੀ ਕਹਾਣੀ ਸੁਣਾਉਂਦੇ ਹਾਂ",
+        "We tell the first story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "story",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "We tell a many stories",
+        "asīṁ bahuta sārī'āṁ kahāṇī'āṁ suṇā'undē hāṁ",
+        "ਅਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਕਹਾਣੀਆਂ ਸੁਣਾਉਂਦੇ ਹਾਂ",
+        "We tell a many stories",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "We tell each story",
+        "asīṁ hara ika kahāṇī suṇā'undē hāṁ",
+        "ਅਸੀਂ ਹਰ ਇਕ ਕਹਾਣੀ ਸੁਣਾਉਂਦੇ ਹਾਂ",
+        "We tell each story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "story",
+            "adj": "each"
+        }
+    ],
+    [
+        "We tell about the first study",
+        "asīṁ pahilē adhi'aina bārē dasadē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੇ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸਦੇ ਹਾਂ",
+        "We tell about the first study",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "study",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "We tell about a many studies",
+        "asīṁ bahuta sārē adhi'aināṁ bārē dasadē hāṁ",
+        "ਅਸੀਂ ਬਹੁਤ ਸਾਰੇ ਅਧਿਐਨਾਂ ਬਾਰੇ ਦੱਸਦੇ ਹਾਂ",
+        "We tell about a many studies",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "We tell about each study",
+        "asīṁ harēka adhi'aina bārē dasadē hāṁ",
+        "ਅਸੀਂ ਹਰੇਕ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸਦੇ ਹਾਂ",
+        "We tell about each study",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "study",
+            "adj": "each"
+        }
+    ],
+    [
+        "We tell the first woman",
+        "asīṁ pahilī tellrata nū dasadē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੀ tellਰਤ ਨੂੰ ਦੱਸਦੇ ਹਾਂ",
+        "We tell the first woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "We tell a many women",
+        "Asīṁ bahuta sārī'āṁ tellratāṁ nū dasadē hāṁ",
+        "ਅਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ tellਰਤਾਂ ਨੂੰ ਦੱਸਦੇ ਹਾਂ",
+        "We tell a many women",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "We tell each woman",
+        "asīṁ hara tellrata nū dasadē hāṁ",
+        "ਅਸੀਂ ਹਰ tellਰਤ ਨੂੰ ਦੱਸਦੇ ਹਾਂ",
+        "We tell each woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "We ask a good man",
+        "asīṁ ika cagē ādamī nū puchadē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਚੰਗੇ ਆਦਮੀ ਨੂੰ ਪੁੱਛਦੇ ਹਾਂ",
+        "We ask a good man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "We ask the first man",
+        "asīṁ pahilē ādamī nū puchadē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਪੁੱਛਦੇ ਹਾਂ",
+        "We ask the first man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "man",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "We ask a many men",
+        "asīṁ bahuta sārē ādamī'āṁ nū puchadē hāṁ",
+        "ਅਸੀਂ ਬਹੁਤ ਸਾਰੇ ਆਦਮੀਆਂ ਨੂੰ ਪੁੱਛਦੇ ਹਾਂ",
+        "We ask a many men",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "We ask each man",
+        "asīṁ hara ādamī nū puchadē hāṁ",
+        "ਅਸੀਂ ਹਰ ਆਦਮੀ ਨੂੰ ਪੁੱਛਦੇ ਹਾਂ",
+        "We ask each man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "man",
+            "adj": "each"
+        }
+    ],
+    [
+        "We ask the first mother",
+        "asīṁ pahilī māṁ nū puchadē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੀ ਮਾਂ ਨੂੰ ਪੁੱਛਦੇ ਹਾਂ",
+        "We ask the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "We ask our many mothers",
+        "asīṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ nū puchadē hāṁ",
+        "ਅਸੀਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਪੁੱਛਦੇ ਹਾਂ",
+        "We ask our many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "our",
+            "adj": "many"
+        }
+    ],
+    [
+        "We ask each mother",
+        "Asīṁ hara māṁ nū puchadē hāṁ",
+        "ਅਸੀਂ ਹਰ ਮਾਂ ਨੂੰ ਪੁੱਛਦੇ ਹਾਂ",
+        "We ask each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "We ask a good question",
+        "asīṁ ika cagā savāla puchadē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਚੰਗਾ ਸਵਾਲ ਪੁੱਛਦੇ ਹਾਂ",
+        "We ask a good question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "We ask the first question",
+        "asīṁ pahilā praśana puchadē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲਾ ਪ੍ਰਸ਼ਨ ਪੁੱਛਦੇ ਹਾਂ",
+        "We ask the first question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "question",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "We ask a many questions",
+        "asīṁ bahuta sārē praśana puchadē hāṁ",
+        "ਅਸੀਂ ਬਹੁਤ ਸਾਰੇ ਪ੍ਰਸ਼ਨ ਪੁੱਛਦੇ ਹਾਂ",
+        "We ask a many questions",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "We ask each question",
+        "asīṁ hara praśana puchadē hāṁ",
+        "ਅਸੀਂ ਹਰ ਪ੍ਰਸ਼ਨ ਪੁੱਛਦੇ ਹਾਂ",
+        "We ask each question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "question",
+            "adj": "each"
+        }
+    ],
+    [
+        "We ask a good student",
+        "asīṁ ika cagē vidi'ārathī nū puchadē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਚੰਗੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛਦੇ ਹਾਂ",
+        "We ask a good student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "We ask the first student",
+        "asīṁ pahilē vidi'ārathī nū puchadē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛਦੇ ਹਾਂ",
+        "We ask the first student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "We ask a many students",
+        "asīṁ bahuta sārē vidi'ārathī'āṁ nū puchadē hāṁ",
+        "ਅਸੀਂ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਪੁੱਛਦੇ ਹਾਂ",
+        "We ask a many students",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "We ask each student",
+        "asīṁ harēka vidi'ārathī nū puchadē hāṁ",
+        "ਅਸੀਂ ਹਰੇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛਦੇ ਹਾਂ",
+        "We ask each student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "We ask the first woman",
+        "asīṁ pahilī askrata nū puchadē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੀ askਰਤ ਨੂੰ ਪੁੱਛਦੇ ਹਾਂ",
+        "We ask the first woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "We ask a many women",
+        "asīṁ bahuta sārī'āṁ askratāṁ nū puchadē hāṁ",
+        "ਅਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ askਰਤਾਂ ਨੂੰ ਪੁੱਛਦੇ ਹਾਂ",
+        "We ask a many women",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "We ask each woman",
+        "asīṁ harēka askrata nū puchadē hāṁ",
+        "ਅਸੀਂ ਹਰੇਕ askਰਤ ਨੂੰ ਪੁੱਛਦੇ ਹਾਂ",
+        "We ask each woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "We try for a good day",
+        "asīṁ cagē dina dī kōśiśa karadē hāṁ",
+        "ਅਸੀਂ ਚੰਗੇ ਦਿਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹਾਂ",
+        "We try for a good day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "day",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "We try for the first day",
+        "asīṁ pahilē dina la'ī kōśiśa karadē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੇ ਦਿਨ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹਾਂ",
+        "We try for the first day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "day",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "We try for a many a day",
+        "asīṁ dina vica bahuta sārē kōśiśa karadē hāṁ",
+        "ਅਸੀਂ ਦਿਨ ਵਿੱਚ ਬਹੁਤ ਸਾਰੇ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹਾਂ",
+        "We try for a many a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "day",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "We try for each day",
+        "asīṁ hara dina la'ī kōśiśa karadē hāṁ",
+        "ਅਸੀਂ ਹਰ ਦਿਨ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹਾਂ",
+        "We try for each day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "day",
+            "adj": "each"
+        }
+    ],
+    [
+        "We try for the first month",
+        "asīṁ pahilē mahīnē la'ī kōśiśa karadē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੇ ਮਹੀਨੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹਾਂ",
+        "We try for the first month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "month",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "We try for a many a month",
+        "asīṁ bahuta sārē ika mahīnē la'ī kōśiśa karadē hāṁ",
+        "ਅਸੀਂ ਬਹੁਤ ਸਾਰੇ ਇੱਕ ਮਹੀਨੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹਾਂ",
+        "We try for a many a month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "month",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "We try for each month",
+        "asīṁ hara mahīnē kōśiśa karadē hāṁ",
+        "ਅਸੀਂ ਹਰ ਮਹੀਨੇ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹਾਂ",
+        "We try for each month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "month",
+            "adj": "each"
+        }
+    ],
+    [
+        "We try for a good week",
+        "asīṁ ika cagē haphatē la'ī kōśiśa karadē hāṁ",
+        "ਅਸੀਂ ਇੱਕ ਚੰਗੇ ਹਫਤੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹਾਂ",
+        "We try for a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "We try for the first week",
+        "asīṁ pahilē haphatē kōśiśa karadē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੇ ਹਫਤੇ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹਾਂ",
+        "We try for the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "We try for a many a week",
+        "asīṁ haphatē vica bahuta sārē kōśiśa karadē hāṁ",
+        "ਅਸੀਂ ਹਫਤੇ ਵਿੱਚ ਬਹੁਤ ਸਾਰੇ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹਾਂ",
+        "We try for a many a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "We try for each week",
+        "asīṁ hara haphatē kōśiśa karadē hāṁ",
+        "ਅਸੀਂ ਹਰ ਹਫਤੇ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹਾਂ",
+        "We try for each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "We leave a good business",
+        "asīṁ ika cagā kārōbāra chaḍadē hāṁ",
+        "ਅਸੀਂ ਇਕ ਚੰਗਾ ਕਾਰੋਬਾਰ ਛੱਡਦੇ ਹਾਂ",
+        "We leave a good business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "We leave each business",
+        "asīṁ harēka kārōbāra nū chaḍa didē hāṁ",
+        "ਅਸੀਂ ਹਰੇਕ ਕਾਰੋਬਾਰ ਨੂੰ ਛੱਡ ਦਿੰਦੇ ਹਾਂ",
+        "We leave each business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "leave",
+            "noun": "business",
+            "adj": "each"
+        }
+    ],
+    [
+        "We call the first mother",
+        "asīṁ pahilī māṁ nū bulā'undē hāṁ",
+        "ਅਸੀਂ ਪਹਿਲੀ ਮਾਂ ਨੂੰ ਬੁਲਾਉਂਦੇ ਹਾਂ",
+        "We call the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "call",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "We call our many mothers",
+        "asīṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ nū bulā'undē hāṁ",
+        "ਅਸੀਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਬੁਲਾਉਂਦੇ ਹਾਂ",
+        "We call our many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "call",
+            "noun": "mother",
+            "det": "our",
+            "adj": "many"
+        }
+    ],
+    [
+        "We call each mother",
+        "asīṁ hara māṁ nū bulā'undē hāṁ",
+        "ਅਸੀਂ ਹਰ ਮਾਂ ਨੂੰ ਬੁਲਾਉਂਦੇ ਹਾਂ",
+        "We call each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "call",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ]
+]

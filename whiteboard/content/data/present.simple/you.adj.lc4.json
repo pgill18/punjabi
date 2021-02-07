@@ -1,0 +1,2455 @@
+[
+    [
+        "You are a good student",
+        "tusīṁ ika cagē vidi'ārathī hō",
+        "ਤੁਸੀਂ ਇੱਕ ਚੰਗੇ ਵਿਦਿਆਰਥੀ ਹੋ",
+        "You are a good student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You are the first student",
+        "tusīṁ pahilē vidi'ārathī hō",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਹੋ",
+        "You are the first student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You are a many students",
+        "tusīṁ bahuta sārē vidi'ārathī hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀ ਹੋ",
+        "You are a many students",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You are each student",
+        "tusīṁ hara vidi'ārathī hō",
+        "ਤੁਸੀਂ ਹਰ ਵਿਦਿਆਰਥੀ ਹੋ",
+        "You are each student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "You have a good business",
+        "tuhāḍā cagā kārōbāra hai",
+        "ਤੁਹਾਡਾ ਚੰਗਾ ਕਾਰੋਬਾਰ ਹੈ",
+        "You have a good business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "business",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You have each business",
+        "tuhāḍā hara kārōbāra hai",
+        "ਤੁਹਾਡਾ ਹਰ ਕਾਰੋਬਾਰ ਹੈ",
+        "You have each business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "business",
+            "adj": "each"
+        }
+    ],
+    [
+        "You have a good day",
+        "tuhāḍā dina vadhī'ā rihā",
+        "ਤੁਹਾਡਾ ਦਿਨ ਵਧੀਆ ਰਿਹਾ",
+        "You have a good day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You have the first day",
+        "tuhāḍē kōla pahilā dina hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਪਹਿਲਾ ਦਿਨ ਹੈ",
+        "You have the first day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "day",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You have a many days",
+        "tuhāḍē kōla bahuta dina hana",
+        "ਤੁਹਾਡੇ ਕੋਲ ਬਹੁਤ ਦਿਨ ਹਨ",
+        "You have a many days",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "day",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You have each day",
+        "tuhāḍē kōla hara dina hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹਰ ਦਿਨ ਹੈ",
+        "You have each day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "day",
+            "adj": "each"
+        }
+    ],
+    [
+        "You have a first lot",
+        "tuhāḍē kōla pahilāṁ bahuta hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਪਹਿਲਾਂ ਬਹੁਤ ਹੈ",
+        "You have a first lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "lot",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You have a many lots",
+        "tuhāḍē kōla bahuta sārī'āṁ cīzāṁ hana",
+        "ਤੁਹਾਡੇ ਕੋਲ ਬਹੁਤ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਹਨ",
+        "You have a many lots",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "lot",
+            "adj": "many"
+        }
+    ],
+    [
+        "You have a lot",
+        "tuhāḍē kōla bahuta hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਬਹੁਤ ਹੈ",
+        "You have a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "lot",
+            "adj": "each"
+        }
+    ],
+    [
+        "You have the first mother",
+        "tuhāḍī pahilī māṁ hai",
+        "ਤੁਹਾਡੀ ਪਹਿਲੀ ਮਾਂ ਹੈ",
+        "You have the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You have your many mothers",
+        "tuhāḍī'āṁ tuhāḍī'āṁ māvāṁ hana",
+        "ਤੁਹਾਡੀਆਂ ਤੁਹਾਡੀਆਂ ਮਾਵਾਂ ਹਨ",
+        "You have your many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You have each mother",
+        "tuhāḍī hara māṁ hai",
+        "ਤੁਹਾਡੀ ਹਰ ਮਾਂ ਹੈ",
+        "You have each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "You have the first problem",
+        "tuhānū pahilī samasi'ā hai",
+        "ਤੁਹਾਨੂੰ ਪਹਿਲੀ ਸਮੱਸਿਆ ਹੈ",
+        "You have the first problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "problem",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You have a many problems",
+        "tuhānū bahuta sārī'āṁ samasi'āvāṁ hana",
+        "ਤੁਹਾਨੂੰ ਬਹੁਤ ਸਾਰੀਆਂ ਸਮੱਸਿਆਵਾਂ ਹਨ",
+        "You have a many problems",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You have each problem",
+        "tuhānū hara samasi'ā hai",
+        "ਤੁਹਾਨੂੰ ਹਰ ਸਮੱਸਿਆ ਹੈ",
+        "You have each problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "problem",
+            "adj": "each"
+        }
+    ],
+    [
+        "You have a good question",
+        "tuhāḍē kōla ika cagā savāla hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਇਕ ਚੰਗਾ ਸਵਾਲ ਹੈ",
+        "You have a good question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "question",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You have the first question",
+        "tuhāḍē kōla pahilā praśana hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਪਹਿਲਾ ਪ੍ਰਸ਼ਨ ਹੈ",
+        "You have the first question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "question",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You have a many questions",
+        "tuhāḍē kōla bahuta sārē praśana hana",
+        "ਤੁਹਾਡੇ ਕੋਲ ਬਹੁਤ ਸਾਰੇ ਪ੍ਰਸ਼ਨ ਹਨ",
+        "You have a many questions",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "question",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You have each question",
+        "tuhāḍē kōla hara ika praśana hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹਰ ਇਕ ਪ੍ਰਸ਼ਨ ਹੈ",
+        "You have each question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "question",
+            "adj": "each"
+        }
+    ],
+    [
+        "You have a good story",
+        "tuhāḍī ika cagī kahāṇī hai",
+        "ਤੁਹਾਡੀ ਇਕ ਚੰਗੀ ਕਹਾਣੀ ਹੈ",
+        "You have a good story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "story",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You have the first story",
+        "tuhāḍī pahilī kahāṇī hai",
+        "ਤੁਹਾਡੀ ਪਹਿਲੀ ਕਹਾਣੀ ਹੈ",
+        "You have the first story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "story",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You have a many stories",
+        "tuhāḍē kōla bahuta sārī'āṁ kahāṇī'āṁ hana",
+        "ਤੁਹਾਡੇ ਕੋਲ ਬਹੁਤ ਸਾਰੀਆਂ ਕਹਾਣੀਆਂ ਹਨ",
+        "You have a many stories",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "story",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You have each story",
+        "tuhāḍē kōla hara ika kahāṇī hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹਰ ਇਕ ਕਹਾਣੀ ਹੈ",
+        "You have each story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "story",
+            "adj": "each"
+        }
+    ],
+    [
+        "You have a good week",
+        "tuhāḍā hafatā cagā rihā",
+        "ਤੁਹਾਡਾ ਹਫ਼ਤਾ ਚੰਗਾ ਰਿਹਾ",
+        "You have a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You have the first week",
+        "tuhāḍē kōla pahilā haphatā hai",
+        "ਤੁਹਾਡੇ ਕੋਲ ਪਹਿਲਾ ਹਫਤਾ ਹੈ",
+        "You have the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You have a many weeks",
+        "tuhāḍē kōla bahuta sārē haphatē hana",
+        "ਤੁਹਾਡੇ ਕੋਲ ਬਹੁਤ ਸਾਰੇ ਹਫਤੇ ਹਨ",
+        "You have a many weeks",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You have each week",
+        "tuhāḍē kōla hara hafatē",
+        "ਤੁਹਾਡੇ ਕੋਲ ਹਰ ਹਫ਼ਤੇ",
+        "You have each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "You do a good business",
+        "tusīṁ ika cagā kārōbāra karadē hō",
+        "ਤੁਸੀਂ ਇੱਕ ਚੰਗਾ ਕਾਰੋਬਾਰ ਕਰਦੇ ਹੋ",
+        "You do a good business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "business",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You do each business",
+        "tusīṁ harēka kārōbāra karadē hō",
+        "ਤੁਸੀਂ ਹਰੇਕ ਕਾਰੋਬਾਰ ਕਰਦੇ ਹੋ",
+        "You do each business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "business",
+            "adj": "each"
+        }
+    ],
+    [
+        "You do a first lot",
+        "tusīṁ bahuta sārā karadē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰਾ ਕਰਦੇ ਹੋ",
+        "You do a first lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "lot",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You do a many lots",
+        "tusīṁ bahuta sārē karadē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਕਰਦੇ ਹੋ",
+        "You do a many lots",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "lot",
+            "adj": "many"
+        }
+    ],
+    [
+        "You do a lot",
+        "tusīṁ bahuta kujha karadē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਕੁਝ ਕਰਦੇ ਹੋ",
+        "You do a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "lot",
+            "adj": "each"
+        }
+    ],
+    [
+        "You tell about much life",
+        "tusīṁ bahuta jidagī bārē dasadē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਜਿੰਦਗੀ ਬਾਰੇ ਦੱਸਦੇ ਹੋ",
+        "You tell about much life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "life",
+            "adj": "many"
+        }
+    ],
+    [
+        "You tell about each life",
+        "tusīṁ hara ika zidagī bārē dasadē hō",
+        "ਤੁਸੀਂ ਹਰ ਇਕ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਦੱਸਦੇ ਹੋ",
+        "You tell about each life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "life",
+            "adj": "each"
+        }
+    ],
+    [
+        "You tell a good man",
+        "tusīṁ ika cagē ādamī nū dasō",
+        "ਤੁਸੀਂ ਇਕ ਚੰਗੇ ਆਦਮੀ ਨੂੰ ਦੱਸੋ",
+        "You tell a good man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You tell the first man",
+        "tusīṁ pahilē ādamī nū dasō",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਦੱਸੋ",
+        "You tell the first man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "man",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You tell a many men",
+        "tusīṁ bahuta sārē ādamī'āṁ nū dasō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਆਦਮੀਆਂ ਨੂੰ ਦੱਸੋ",
+        "You tell a many men",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You tell each man",
+        "tusīṁ hara ādamī nū dasō",
+        "ਤੁਸੀਂ ਹਰ ਆਦਮੀ ਨੂੰ ਦੱਸੋ",
+        "You tell each man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "man",
+            "adj": "each"
+        }
+    ],
+    [
+        "You tell the first mother",
+        "tusīṁ pahilī māṁ nū dasō",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਮਾਂ ਨੂੰ ਦੱਸੋ",
+        "You tell the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You tell your many mothers",
+        "Tusīṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ nū dasō",
+        "ਤੁਸੀਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਦੱਸੋ",
+        "You tell your many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You tell each mother",
+        "tusīṁ hara māṁ nū dasō",
+        "ਤੁਸੀਂ ਹਰ ਮਾਂ ਨੂੰ ਦੱਸੋ",
+        "You tell each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "You tell about the first problem",
+        "tusīṁ pahilī samasi'ā bārē dasō",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸੋ",
+        "You tell about the first problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You tell about a many problems",
+        "tusīṁ bahuta sārī'āṁ muśakalāṁ bārē dasadē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮੁਸ਼ਕਲਾਂ ਬਾਰੇ ਦੱਸਦੇ ਹੋ",
+        "You tell about a many problems",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You tell about each problem",
+        "tusīṁ hara samasi'ā bārē dasadē hō",
+        "ਤੁਸੀਂ ਹਰ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸਦੇ ਹੋ",
+        "You tell about each problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "problem",
+            "adj": "each"
+        }
+    ],
+    [
+        "You tell a good story",
+        "tusīṁ ika cagī kahāṇī suṇā'undē hō",
+        "ਤੁਸੀਂ ਇਕ ਚੰਗੀ ਕਹਾਣੀ ਸੁਣਾਉਂਦੇ ਹੋ",
+        "You tell a good story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You tell the first story",
+        "tusīṁ pahilī kahāṇī suṇā'ō",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਕਹਾਣੀ ਸੁਣਾਓ",
+        "You tell the first story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "story",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You tell a many stories",
+        "tusīṁ bahuta sārī'āṁ kahāṇī'āṁ suṇā'undē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਕਹਾਣੀਆਂ ਸੁਣਾਉਂਦੇ ਹੋ",
+        "You tell a many stories",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You tell each story",
+        "tusīṁ hara ika kahāṇī suṇā'undē hō",
+        "ਤੁਸੀਂ ਹਰ ਇਕ ਕਹਾਣੀ ਸੁਣਾਉਂਦੇ ਹੋ",
+        "You tell each story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "story",
+            "adj": "each"
+        }
+    ],
+    [
+        "You tell about the first study",
+        "tusīṁ pahilē adhi'aina bārē dasō",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸੋ",
+        "You tell about the first study",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "study",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You tell about a many studies",
+        "tusīṁ bahuta sārē adhi'aināṁ bārē dasadē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਅਧਿਐਨਾਂ ਬਾਰੇ ਦੱਸਦੇ ਹੋ",
+        "You tell about a many studies",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You tell about each study",
+        "tusīṁ hara adhi'aina bārē dasadē hō",
+        "ਤੁਸੀਂ ਹਰ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸਦੇ ਹੋ",
+        "You tell about each study",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "study",
+            "adj": "each"
+        }
+    ],
+    [
+        "You tell the first woman",
+        "tusīṁ pahilī tellrata nū dasō",
+        "ਤੁਸੀਂ ਪਹਿਲੀ tellਰਤ ਨੂੰ ਦੱਸੋ",
+        "You tell the first woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You tell a many women",
+        "Tusīṁ bahuta sārī'āṁ tellratāṁ nū dasō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ tellਰਤਾਂ ਨੂੰ ਦੱਸੋ",
+        "You tell a many women",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You tell each woman",
+        "tusīṁ hara tellrata nū dasō",
+        "ਤੁਸੀਂ ਹਰ tellਰਤ ਨੂੰ ਦੱਸੋ",
+        "You tell each woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "tell",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "You ask a good man",
+        "tusīṁ ika cagē ādamī nū puchō",
+        "ਤੁਸੀਂ ਇਕ ਚੰਗੇ ਆਦਮੀ ਨੂੰ ਪੁੱਛੋ",
+        "You ask a good man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You ask the first man",
+        "tusīṁ pahilē ādamī nū puchō",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਪੁੱਛੋ",
+        "You ask the first man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "man",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You ask a many men",
+        "tusīṁ bahuta sārē ādamī'āṁ nū puchō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਆਦਮੀਆਂ ਨੂੰ ਪੁੱਛੋ",
+        "You ask a many men",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You ask each man",
+        "tusīṁ hara ādamī nū puchō",
+        "ਤੁਸੀਂ ਹਰ ਆਦਮੀ ਨੂੰ ਪੁੱਛੋ",
+        "You ask each man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "man",
+            "adj": "each"
+        }
+    ],
+    [
+        "You ask the first mother",
+        "tusīṁ pahilī māṁ nū puchō",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਮਾਂ ਨੂੰ ਪੁੱਛੋ",
+        "You ask the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You ask your many mothers",
+        "tusīṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ nū puchō",
+        "ਤੁਸੀਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਪੁੱਛੋ",
+        "You ask your many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You ask each mother",
+        "Tusīṁ hara māṁ nū puchō",
+        "ਤੁਸੀਂ ਹਰ ਮਾਂ ਨੂੰ ਪੁੱਛੋ",
+        "You ask each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "You ask a good question",
+        "tusīṁ ika cagā savāla puchadē hō",
+        "ਤੁਸੀਂ ਇਕ ਚੰਗਾ ਸਵਾਲ ਪੁੱਛਦੇ ਹੋ",
+        "You ask a good question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You ask the first question",
+        "tusīṁ pahilā praśana puchadē hō",
+        "ਤੁਸੀਂ ਪਹਿਲਾ ਪ੍ਰਸ਼ਨ ਪੁੱਛਦੇ ਹੋ",
+        "You ask the first question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "question",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You ask a many questions",
+        "tusīṁ bahuta sārē praśana puchadē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਪ੍ਰਸ਼ਨ ਪੁੱਛਦੇ ਹੋ",
+        "You ask a many questions",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You ask each question",
+        "tusīṁ hara praśana puchadē hō",
+        "ਤੁਸੀਂ ਹਰ ਪ੍ਰਸ਼ਨ ਪੁੱਛਦੇ ਹੋ",
+        "You ask each question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "question",
+            "adj": "each"
+        }
+    ],
+    [
+        "You ask a good student",
+        "tusīṁ ika cagē vidi'ārathī nū puchō",
+        "ਤੁਸੀਂ ਇਕ ਚੰਗੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛੋ",
+        "You ask a good student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You ask the first student",
+        "tusīṁ pahilē vidi'ārathī nū puchō",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛੋ",
+        "You ask the first student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You ask a many students",
+        "tusīṁ bahuta sārē vidi'ārathī'āṁ nū puchō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਪੁੱਛੋ",
+        "You ask a many students",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You ask each student",
+        "tusīṁ harēka vidi'ārathī nū puchō",
+        "ਤੁਸੀਂ ਹਰੇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛੋ",
+        "You ask each student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "You ask the first woman",
+        "tusīṁ pahilī askrata nū puchō",
+        "ਤੁਸੀਂ ਪਹਿਲੀ askਰਤ ਨੂੰ ਪੁੱਛੋ",
+        "You ask the first woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You ask a many women",
+        "tusīṁ bahuta sārī'āṁ askratāṁ nū puchadē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ askਰਤਾਂ ਨੂੰ ਪੁੱਛਦੇ ਹੋ",
+        "You ask a many women",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You ask each woman",
+        "tusīṁ hara askrata nū puchō",
+        "ਤੁਸੀਂ ਹਰ askਰਤ ਨੂੰ ਪੁੱਛੋ",
+        "You ask each woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "ask",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "You try for a good day",
+        "tusīṁ cagē dina dī kōśiśa kītī",
+        "ਤੁਸੀਂ ਚੰਗੇ ਦਿਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ",
+        "You try for a good day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "day",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You try for the first day",
+        "tusīṁ pahilē dina kōśiśa karō",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਦਿਨ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+        "You try for the first day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "day",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You try for a many a day",
+        "tusīṁ dina vica bahuta sārē kōśiśa karadē hō",
+        "ਤੁਸੀਂ ਦਿਨ ਵਿੱਚ ਬਹੁਤ ਸਾਰੇ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹੋ",
+        "You try for a many a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "day",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You try for each day",
+        "tusīṁ hara dina la'ī kōśiśa karō",
+        "ਤੁਸੀਂ ਹਰ ਦਿਨ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+        "You try for each day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "day",
+            "adj": "each"
+        }
+    ],
+    [
+        "You try for the first month",
+        "tusīṁ pahilē mahīnē kōśiśa karō",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਮਹੀਨੇ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+        "You try for the first month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "month",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You try for a many a month",
+        "tusīṁ bahuta sārē ika mahīnē la'ī kōśiśa karadē hō",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਇੱਕ ਮਹੀਨੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹੋ",
+        "You try for a many a month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "month",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You try for each month",
+        "tusīṁ hara mahīnē kōśiśa karadē hō",
+        "ਤੁਸੀਂ ਹਰ ਮਹੀਨੇ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹੋ",
+        "You try for each month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "month",
+            "adj": "each"
+        }
+    ],
+    [
+        "You try for a good week",
+        "tusīṁ ika cagē haphatē la'ī kōśiśa karō",
+        "ਤੁਸੀਂ ਇੱਕ ਚੰਗੇ ਹਫਤੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+        "You try for a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You try for the first week",
+        "tusīṁ pahilē haphatē kōśiśa karō",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਹਫਤੇ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+        "You try for the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You try for a many a week",
+        "tusīṁ haphatē vica bahuta sārē kōśiśa karadē hō",
+        "ਤੁਸੀਂ ਹਫਤੇ ਵਿਚ ਬਹੁਤ ਸਾਰੇ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹੋ",
+        "You try for a many a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You try for each week",
+        "tusīṁ hara haphatē kōśiśa karadē hō",
+        "ਤੁਸੀਂ ਹਰ ਹਫਤੇ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹੋ",
+        "You try for each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "try",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "You leave a good business",
+        "tusīṁ cagā kārōbāra chaḍa didē hō",
+        "ਤੁਸੀਂ ਚੰਗਾ ਕਾਰੋਬਾਰ ਛੱਡ ਦਿੰਦੇ ਹੋ",
+        "You leave a good business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You leave each business",
+        "tusīṁ harēka kārōbāra nū chaḍa didē hō",
+        "ਤੁਸੀਂ ਹਰੇਕ ਕਾਰੋਬਾਰ ਨੂੰ ਛੱਡ ਦਿੰਦੇ ਹੋ",
+        "You leave each business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "leave",
+            "noun": "business",
+            "adj": "each"
+        }
+    ],
+    [
+        "You call the first mother",
+        "tusīṁ pahilī māṁ nū bulā'ō",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਮਾਂ ਨੂੰ ਬੁਲਾਓ",
+        "You call the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "call",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You call your many mothers",
+        "tusīṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ nū bulā'undē hō",
+        "ਤੁਸੀਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਬੁਲਾਉਂਦੇ ਹੋ",
+        "You call your many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "call",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You call each mother",
+        "tusīṁ hara māṁ nū bulā'undē hō",
+        "ਤੁਸੀਂ ਹਰ ਮਾਂ ਨੂੰ ਬੁਲਾਉਂਦੇ ਹੋ",
+        "You call each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "present",
+            "continuous": false,
+            "perfect": false,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "call",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ]
+]

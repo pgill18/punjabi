@@ -1,0 +1,5115 @@
+[
+    [
+        "You had come for each week",
+        "Tusīṁ hara haphatē ā'ē sī",
+        "ਤੁਸੀਂ ਹਰ ਹਫਤੇ ਆਏ ਸੀ",
+        "You had come for each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "child",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had come to good work",
+        "tusīṁ cagē kama la'ī ā'ē sī",
+        "ਤੁਸੀਂ ਚੰਗੇ ਕੰਮ ਲਈ ਆਏ ਸੀ",
+        "You had come to good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "child",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had come to the first work",
+        "tusīṁ pahilē kama tē ā'ē sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਕੰਮ ਤੇ ਆਏ ਸੀ",
+        "You had come to the first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "child",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had come to the many worlds",
+        "tusīṁ bahuta sārē sasāra vica ā ga'ē sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਸੰਸਾਰ ਵਿਚ ਆ ਗਏ ਸੀ",
+        "You had come to the many worlds",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had come to each world",
+        "tusīṁ hara ika sasāra vica ā'ē sī",
+        "ਤੁਸੀਂ ਹਰ ਇਕ ਸੰਸਾਰ ਵਿਚ ਆਏ ਸੀ",
+        "You had come to each world",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had thought about a good book",
+        "tusīṁ ika cagī kitāba bārē sōci'ā sī",
+        "ਤੁਸੀਂ ਇਕ ਚੰਗੀ ਕਿਤਾਬ ਬਾਰੇ ਸੋਚਿਆ ਸੀ",
+        "You had thought about a good book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had thought about each book",
+        "tusīṁ hara kitāba bārē sōci'ā sī",
+        "ਤੁਸੀਂ ਹਰ ਕਿਤਾਬ ਬਾਰੇ ਸੋਚਿਆ ਸੀ",
+        "You had thought about each book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "be",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had thought about a good business",
+        "tusīṁ cagē kārōbāra bārē sōci'ā sī",
+        "ਤੁਸੀਂ ਚੰਗੇ ਕਾਰੋਬਾਰ ਬਾਰੇ ਸੋਚਿਆ ਸੀ",
+        "You had thought about a good business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "book",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had thought about each business",
+        "tusīṁ harēka kārōbāra bārē sōci'ā sī",
+        "ਤੁਸੀਂ ਹਰੇਕ ਕਾਰੋਬਾਰ ਬਾਰੇ ਸੋਚਿਆ ਸੀ",
+        "You had thought about each business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "book",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had thought about each child",
+        "tusīṁ harēka bacē bārē sōci'ā sī",
+        "ਤੁਸੀਂ ਹਰੇਕ ਬੱਚੇ ਬਾਰੇ ਸੋਚਿਆ ਸੀ",
+        "You had thought about each child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "child",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had thought about the many countries",
+        "tusīṁ bahuta sārē dēśāṁ bārē sōci'ā sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਬਾਰੇ ਸੋਚਿਆ ਸੀ",
+        "You had thought about the many countries",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "child",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had thought about each country",
+        "tusīṁ harēka dēśa bārē sōci'ā sī",
+        "ਤੁਸੀਂ ਹਰੇਕ ਦੇਸ਼ ਬਾਰੇ ਸੋਚਿਆ ਸੀ",
+        "You had thought about each country",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "child",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had thought about the first home",
+        "tusīṁ pahilē ghara bārē sōci'ā sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਘਰ ਬਾਰੇ ਸੋਚਿਆ ਸੀ",
+        "You had thought about the first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had thought about many home",
+        "tusīṁ bahuta sārē ghara bārē sōci'ā sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਘਰ ਬਾਰੇ ਸੋਚਿਆ ਸੀ",
+        "You had thought about many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "family",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had thought about each home",
+        "tusīṁ harēka ghara bārē sōci'ā sī",
+        "ਤੁਸੀਂ ਹਰੇਕ ਘਰ ਬਾਰੇ ਸੋਚਿਆ ਸੀ",
+        "You had thought about each home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had thought about much life",
+        "tusīṁ bahuta jidagī bārē sōci'ā sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਜਿੰਦਗੀ ਬਾਰੇ ਸੋਚਿਆ ਸੀ",
+        "You had thought about much life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "hand",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had thought about each life",
+        "tusīṁ hara ika jīvana bārē sōci'ā sī",
+        "ਤੁਸੀਂ ਹਰ ਇੱਕ ਜੀਵਨ ਬਾਰੇ ਸੋਚਿਆ ਸੀ",
+        "You had thought about each life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "hand",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had thought a first lot",
+        "Tusīṁ pahilāṁ bahuta sōci'ā sī",
+        "ਤੁਸੀਂ ਪਹਿਲਾਂ ਬਹੁਤ ਸੋਚਿਆ ਸੀ",
+        "You had thought a first lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had thought a many lots",
+        "tusīṁ bahuta sārā sōci'ā sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰਾ ਸੋਚਿਆ ਸੀ",
+        "You had thought a many lots",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had thought a lot",
+        "tusīṁ bahuta sōci'ā sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸੋਚਿਆ ਸੀ",
+        "You had thought a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had thought about a many problems",
+        "tusīṁ bahuta sārī'āṁ muśakalāṁ bārē sōci'ā sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮੁਸ਼ਕਲਾਂ ਬਾਰੇ ਸੋਚਿਆ ਸੀ",
+        "You had thought about a many problems",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had thought about each problem",
+        "tusīṁ hara samasi'ā bārē sōci'ā sī",
+        "ਤੁਸੀਂ ਹਰ ਸਮੱਸਿਆ ਬਾਰੇ ਸੋਚਿਆ ਸੀ",
+        "You had thought about each problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had thought about a good question",
+        "tusīṁ ika cagē praśana bārē sōci'ā sī",
+        "ਤੁਸੀਂ ਇਕ ਚੰਗੇ ਪ੍ਰਸ਼ਨ ਬਾਰੇ ਸੋਚਿਆ ਸੀ",
+        "You had thought about a good question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had thought about the many worlds",
+        "tusīṁ bahuta sārē sasāra bārē sōci'ā sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਸੰਸਾਰ ਬਾਰੇ ਸੋਚਿਆ ਸੀ",
+        "You had thought about the many worlds",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had thought about each world",
+        "Tusīṁ hara ika sasāra bārē sōci'ā sī",
+        "ਤੁਸੀਂ ਹਰ ਇਕ ਸੰਸਾਰ ਬਾਰੇ ਸੋਚਿਆ ਸੀ",
+        "You had thought about each world",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had looked at a good book",
+        "tusīṁ ika cagī kitāba vala vēkhi'ā sī",
+        "ਤੁਸੀਂ ਇਕ ਚੰਗੀ ਕਿਤਾਬ ਵੱਲ ਵੇਖਿਆ ਸੀ",
+        "You had looked at a good book",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had looked at a many men",
+        "tusīṁ bahuta sārē badi'āṁ vala vēkhi'ā sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਬੰਦਿਆਂ ਵੱਲ ਵੇਖਿਆ ਸੀ",
+        "You had looked at a many men",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had looked at each man",
+        "tusīṁ harēka ādamī vala vēkhi'ā sī",
+        "ਤੁਸੀਂ ਹਰੇਕ ਆਦਮੀ ਵੱਲ ਵੇਖਿਆ ਸੀ",
+        "You had looked at each man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had looked after the first mother",
+        "tusīṁ pahilī māṁ dī dēkhabhāla kītī sī",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਮਾਂ ਦੀ ਦੇਖਭਾਲ ਕੀਤੀ ਸੀ",
+        "You had looked after the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had looked after your many mothers",
+        "tusīṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ dī dēkhabhāla kītī sī",
+        "ਤੁਸੀਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਦੀ ਦੇਖਭਾਲ ਕੀਤੀ ਸੀ",
+        "You had looked after your many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had looked at a many women",
+        "tusīṁ bahuta sārī'āṁ.Ratāṁ vala vēkhi'ā sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ .ਰਤਾਂ ਵੱਲ ਵੇਖਿਆ ਸੀ",
+        "You had looked at a many women",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had looked at each woman",
+        "tusīṁ harēka atrata vala vēkhi'ā sī",
+        "ਤੁਸੀਂ ਹਰੇਕ atਰਤ ਵੱਲ ਵੇਖਿਆ ਸੀ",
+        "You had looked at each woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had looked for good work",
+        "tusīṁ cagē kama dī bhāla kītī sī",
+        "ਤੁਸੀਂ ਚੰਗੇ ਕੰਮ ਦੀ ਭਾਲ ਕੀਤੀ ਸੀ",
+        "You had looked for good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had looked for the first work",
+        "tusīṁ pahilē kama dī bhāla kītī sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਕੰਮ ਦੀ ਭਾਲ ਕੀਤੀ ਸੀ",
+        "You had looked for the first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had looked for each work",
+        "tusīṁ hara kama dī bhāla kītī sī",
+        "ਤੁਸੀਂ ਹਰ ਕੰਮ ਦੀ ਭਾਲ ਕੀਤੀ ਸੀ",
+        "You had looked for each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had looked at the first world",
+        "tusīṁ pahilē sasāra vala vēkhi'ā sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਸੰਸਾਰ ਵੱਲ ਵੇਖਿਆ ਸੀ",
+        "You had looked at the first world",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had looked at the many worlds",
+        "Tusīṁ bahuta sārē sasārāṁ vala vēkhi'ā sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਸੰਸਾਰਾਂ ਵੱਲ ਵੇਖਿਆ ਸੀ",
+        "You had looked at the many worlds",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "have",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had wanted a home",
+        "tuhānū ika ghara cāhīdā sī",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਘਰ ਚਾਹੀਦਾ ਸੀ",
+        "You had wanted a home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had wanted the first job",
+        "tusīṁ pahilī naukarī cāhudē sī",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਨੌਕਰੀ ਚਾਹੁੰਦੇ ਸੀ",
+        "You had wanted the first job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had wanted a many jobs",
+        "tuhānū bahuta sārī'āṁ naukarī'āṁ cāhīdī'āṁ sana",
+        "ਤੁਹਾਨੂੰ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਚਾਹੀਦੀਆਂ ਸਨ",
+        "You had wanted a many jobs",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had wanted each job",
+        "tuhānū hara naukarī cāhīdī sī",
+        "ਤੁਹਾਨੂੰ ਹਰ ਨੌਕਰੀ ਚਾਹੀਦੀ ਸੀ",
+        "You had wanted each job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had wanted the first place",
+        "tuhānū pahilā sathāna cāhīdā sī",
+        "ਤੁਹਾਨੂੰ ਪਹਿਲਾ ਸਥਾਨ ਚਾਹੀਦਾ ਸੀ",
+        "You had wanted the first place",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had wanted a many places",
+        "tuhānū bahuta sārī'āṁ thāvāṁ cāhīdī'āṁ sana",
+        "ਤੁਹਾਨੂੰ ਬਹੁਤ ਸਾਰੀਆਂ ਥਾਵਾਂ ਚਾਹੀਦੀਆਂ ਸਨ",
+        "You had wanted a many places",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had wanted each place",
+        "tusīṁ hara jag'hā cāhudē sī",
+        "ਤੁਸੀਂ ਹਰ ਜਗ੍ਹਾ ਚਾਹੁੰਦੇ ਸੀ",
+        "You had wanted each place",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "do",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had gone to the first family",
+        "tusīṁ pahilē parivāra vica ga'ē sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਪਰਿਵਾਰ ਵਿਚ ਗਏ ਸੀ",
+        "You had gone to the first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had gone to your many families",
+        "tusīṁ āpaṇē bahuta sārē parivārāṁ nū ga'ē sī",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਨੂੰ ਗਏ ਸੀ",
+        "You had gone to your many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "family",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had gone to each family",
+        "tusīṁ harēka parivāra vica ga'ē hō'ē sī",
+        "ਤੁਸੀਂ ਹਰੇਕ ਪਰਿਵਾਰ ਵਿਚ ਗਏ ਹੋਏ ਸੀ",
+        "You had gone to each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had gone the first home",
+        "tusīṁ pahilē ghara ga'ē sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਘਰ ਗਏ ਸੀ",
+        "You had gone the first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had gone many home",
+        "tusīṁ bahuta sārē ghara calē ga'ē sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਘਰ ਚਲੇ ਗਏ ਸੀ",
+        "You had gone many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had gone each home",
+        "tusīṁ hara ghara ga'ē sī",
+        "ਤੁਸੀਂ ਹਰ ਘਰ ਗਏ ਸੀ",
+        "You had gone each home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had gone to the first mother",
+        "tusīṁ pahilī māṁ kōla ga'ē sī",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਮਾਂ ਕੋਲ ਗਏ ਸੀ",
+        "You had gone to the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had gone to your many mothers",
+        "tusīṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ kōla ga'ē sī",
+        "ਤੁਸੀਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਕੋਲ ਗਏ ਸੀ",
+        "You had gone to your many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had gone to each mother",
+        "tusīṁ hara māṁ kōla ga'ē sī",
+        "ਤੁਸੀਂ ਹਰ ਮਾਂ ਕੋਲ ਗਏ ਸੀ",
+        "You had gone to each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had gone to the first room",
+        "tusīṁ pahilē kamarē vica calē ga'ē sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਕਮਰੇ ਵਿਚ ਚਲੇ ਗਏ ਸੀ",
+        "You had gone to the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had gone to a many rooms",
+        "tusīṁ bahuta sārē kamari'āṁ vica calē ga'ē sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਕਮਰਿਆਂ ਵਿਚ ਚਲੇ ਗਏ ਸੀ",
+        "You had gone to a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had gone to each room",
+        "Tusīṁ hara kamarē vica calē ga'ē sī",
+        "ਤੁਸੀਂ ਹਰ ਕਮਰੇ ਵਿਚ ਚਲੇ ਗਏ ਸੀ",
+        "You had gone to each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had gone to a good student",
+        "tusīṁ cagē vidi'ārathī kōla ga'ē sī",
+        "ਤੁਸੀਂ ਚੰਗੇ ਵਿਦਿਆਰਥੀ ਕੋਲ ਗਏ ਸੀ",
+        "You had gone to a good student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had gone to the first student",
+        "tusīṁ pahilē vidi'ārathī kōla ga'ē sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਕੋਲ ਗਏ ਸੀ",
+        "You had gone to the first student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had gone to a many students",
+        "tusīṁ bahuta sārē vidi'ārathī'āṁ kōla ga'ē sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਕੋਲ ਗਏ ਸੀ",
+        "You had gone to a many students",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had gone to each student",
+        "tusīṁ harēka vidi'ārathī kōla ga'ē sī",
+        "ਤੁਸੀਂ ਹਰੇਕ ਵਿਦਿਆਰਥੀ ਕੋਲ ਗਏ ਸੀ",
+        "You had gone to each student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had gone for a good week",
+        "tusīṁ ika cagē haphatē la'ī calē ga'ē sī",
+        "ਤੁਸੀਂ ਇੱਕ ਚੰਗੇ ਹਫਤੇ ਲਈ ਚਲੇ ਗਏ ਸੀ",
+        "You had gone for a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had gone for the first week",
+        "tusīṁ pahilē haphatē calē ga'ē sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਹਫਤੇ ਚਲੇ ਗਏ ਸੀ",
+        "You had gone for the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had gone for a many a week",
+        "tusīṁ ika haphatē vica bahuta sārē la'ī ga'ē sī",
+        "ਤੁਸੀਂ ਇੱਕ ਹਫਤੇ ਵਿੱਚ ਬਹੁਤ ਸਾਰੇ ਲਈ ਗਏ ਸੀ",
+        "You had gone for a many a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had gone for each week",
+        "tusīṁ hara haphatē ga'ē sī",
+        "ਤੁਸੀਂ ਹਰ ਹਫਤੇ ਗਏ ਸੀ",
+        "You had gone for each week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had gone to good work",
+        "tusīṁ cagē kama tē calē ga'ē sī",
+        "ਤੁਸੀਂ ਚੰਗੇ ਕੰਮ ਤੇ ਚਲੇ ਗਏ ਸੀ",
+        "You had gone to good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had gone to the first work",
+        "tusīṁ pahilē kama tē calē ga'ē sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਕੰਮ ਤੇ ਚਲੇ ਗਏ ਸੀ",
+        "You had gone to the first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had gone to each work",
+        "tusīṁ hara kama tē calē ga'ē sī",
+        "ਤੁਸੀਂ ਹਰ ਕੰਮ ਤੇ ਚਲੇ ਗਏ ਸੀ",
+        "You had gone to each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "go",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had known the first child",
+        "tusīṁ pahilē bacē nū jāṇi'ā sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਬੱਚੇ ਨੂੰ ਜਾਣਿਆ ਸੀ",
+        "You had known the first child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "child",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had known your many children",
+        "tusīṁ āpaṇē bahuta sārē baci'āṁ nū jāṇadē sī",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚਿਆਂ ਨੂੰ ਜਾਣਦੇ ਸੀ",
+        "You had known your many children",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "child",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had known each child",
+        "tusīṁ harēka bacē nū jāṇi'ā sī",
+        "ਤੁਸੀਂ ਹਰੇਕ ਬੱਚੇ ਨੂੰ ਜਾਣਿਆ ਸੀ",
+        "You had known each child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "child",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had known your first family",
+        "Tusīṁ āpaṇē pahilē parivāra nū jāṇi'ā sī",
+        "ਤੁਸੀਂ ਆਪਣੇ ਪਹਿਲੇ ਪਰਿਵਾਰ ਨੂੰ ਜਾਣਿਆ ਸੀ",
+        "You had known your first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had known your many families",
+        "tusīṁ āpaṇē bahuta sārē parivārāṁ nū jāṇi'ā sī",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਨੂੰ ਜਾਣਿਆ ਸੀ",
+        "You had known your many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "family",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had known your each family",
+        "tusīṁ āpaṇē harēka parivāra nū jāṇadē sī",
+        "ਤੁਸੀਂ ਆਪਣੇ ਹਰੇਕ ਪਰਿਵਾਰ ਨੂੰ ਜਾਣਦੇ ਸੀ",
+        "You had known your each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had known a good man",
+        "tusīṁ ika cagē ādamī nū jāṇi'ā sī",
+        "ਤੁਸੀਂ ਇੱਕ ਚੰਗੇ ਆਦਮੀ ਨੂੰ ਜਾਣਿਆ ਸੀ",
+        "You had known a good man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had known the first man",
+        "tusīṁ pahilē ādamī nū jāṇa li'ā sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਆਦਮੀ ਨੂੰ ਜਾਣ ਲਿਆ ਸੀ",
+        "You had known the first man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had known a many men",
+        "tusīṁ bahuta sārē ādamī jāṇadē sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਆਦਮੀ ਜਾਣਦੇ ਸੀ",
+        "You had known a many men",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had known each man",
+        "tusīṁ harēka ādamī nū jāṇi'ā sī",
+        "ਤੁਸੀਂ ਹਰੇਕ ਆਦਮੀ ਨੂੰ ਜਾਣਿਆ ਸੀ",
+        "You had known each man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "man",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had known the first mother",
+        "tusīṁ pahilī māṁ jāṇī sī",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਮਾਂ ਜਾਣੀ ਸੀ",
+        "You had known the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had known your many mothers",
+        "tusīṁ āpaṇī'āṁ bahuta sārī'āṁ māvāṁ nū jāṇi'ā sī",
+        "ਤੁਸੀਂ ਆਪਣੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਜਾਣਿਆ ਸੀ",
+        "You had known your many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had known each mother",
+        "tusīṁ hara māṁ nū jāṇi'ā sī",
+        "ਤੁਸੀਂ ਹਰ ਮਾਂ ਨੂੰ ਜਾਣਿਆ ਸੀ",
+        "You had known each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had given it many times",
+        "tusīṁ bahuta vāra ditā sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਵਾਰ ਦਿੱਤਾ ਸੀ",
+        "You had given it many times",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had given it each time",
+        "tusīṁ iha hara vāra ditā sī",
+        "ਤੁਸੀਂ ਇਹ ਹਰ ਵਾਰ ਦਿੱਤਾ ਸੀ",
+        "You had given it each time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had given it a good week",
+        "tusīṁ isa nū ika cagā haphatā ditā sī",
+        "ਤੁਸੀਂ ਇਸ ਨੂੰ ਇਕ ਚੰਗਾ ਹਫਤਾ ਦਿੱਤਾ ਸੀ",
+        "You had given it a good week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had given it the first week",
+        "tusīṁ isanū pahilē haphatē dē ditā sī",
+        "ਤੁਸੀਂ ਇਸਨੂੰ ਪਹਿਲੇ ਹਫਤੇ ਦੇ ਦਿੱਤਾ ਸੀ",
+        "You had given it the first week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had used a many hands",
+        "tusīṁ bahuta sārē hatha isatēmāla kītē sana",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਹੱਥ ਇਸਤੇਮਾਲ ਕੀਤੇ ਸਨ",
+        "You had used a many hands",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had used each hand",
+        "tusīṁ harēka hatha dī varatōṁ kītī sī",
+        "ਤੁਸੀਂ ਹਰੇਕ ਹੱਥ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਸੀ",
+        "You had used each hand",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had used the first month",
+        "tusīṁ pahilē mahīnē dī varatōṁ kītī sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਮਹੀਨੇ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਸੀ",
+        "You had used the first month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had used a many months",
+        "tusīṁ bahuta sārē mahīni'āṁ dī varatōṁ kītī sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਮਹੀਨਿਆਂ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਸੀ",
+        "You had used a many months",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had used each program",
+        "tusīṁ harēka prōgarāma dī varatōṁ kītī sī",
+        "ਤੁਸੀਂ ਹਰੇਕ ਪ੍ਰੋਗਰਾਮ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਸੀ",
+        "You had used each program",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had used the first room",
+        "tusīṁ pahilē kamarē dī varatōṁ kītī sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਕਮਰੇ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਸੀ",
+        "You had used the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had used a many rooms",
+        "tusīṁ bahuta sārē kamarē varatē sana",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਕਮਰੇ ਵਰਤੇ ਸਨ",
+        "You had used a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had used each room",
+        "tusīṁ harēka kamarē dī varatōṁ kītī sī",
+        "ਤੁਸੀਂ ਹਰੇਕ ਕਮਰੇ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਸੀ",
+        "You had used each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had used a good story",
+        "tusīṁ ika cagī kahāṇī varatī sī",
+        "ਤੁਸੀਂ ਇੱਕ ਚੰਗੀ ਕਹਾਣੀ ਵਰਤੀ ਸੀ",
+        "You had used a good story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "word",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had used the first story",
+        "Tusīṁ pahilī kahāṇī dī varatōṁ kītī sī",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਕਹਾਣੀ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਸੀ",
+        "You had used the first story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "word",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had used a many stories",
+        "tusīṁ bahuta sārī'āṁ kahāṇī'āṁ dī varatōṁ kītī sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਕਹਾਣੀਆਂ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਸੀ",
+        "You had used a many stories",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "word",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had used each story",
+        "tusīṁ harēka kahāṇī dī varatōṁ kītī sī",
+        "ਤੁਸੀਂ ਹਰੇਕ ਕਹਾਣੀ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਸੀ",
+        "You had used each story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had used a good system",
+        "tusīṁ ika vadhī'ā praṇālī dī varatōṁ kītī sī",
+        "ਤੁਸੀਂ ਇੱਕ ਵਧੀਆ ਪ੍ਰਣਾਲੀ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਸੀ",
+        "You had used a good system",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had used the first system",
+        "tusīṁ pahilā sisaṭama varati'ā sī",
+        "ਤੁਸੀਂ ਪਹਿਲਾ ਸਿਸਟਮ ਵਰਤਿਆ ਸੀ",
+        "You had used the first system",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "know",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had found each job",
+        "tuhānū hara naukarī mila ga'ī sī",
+        "ਤੁਹਾਨੂੰ ਹਰ ਨੌਕਰੀ ਮਿਲ ਗਈ ਸੀ",
+        "You had found each job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "book",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had found the first place",
+        "tuhānū pahilā sathāna mili'ā sī",
+        "ਤੁਹਾਨੂੰ ਪਹਿਲਾ ਸਥਾਨ ਮਿਲਿਆ ਸੀ",
+        "You had found the first place",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "book",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had found a many places",
+        "tuhānū bahuta sārī'āṁ thāvāṁ milī'āṁ sana",
+        "ਤੁਹਾਨੂੰ ਬਹੁਤ ਸਾਰੀਆਂ ਥਾਵਾਂ ਮਿਲੀਆਂ ਸਨ",
+        "You had found a many places",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "child",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had found each place",
+        "tuhānū hara jag'hā mila ga'ī sī",
+        "ਤੁਹਾਨੂੰ ਹਰ ਜਗ੍ਹਾ ਮਿਲ ਗਈ ਸੀ",
+        "You had found each place",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "child",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had found the first problem",
+        "tuhānū pahilī samasi'ā milī sī",
+        "ਤੁਹਾਨੂੰ ਪਹਿਲੀ ਸਮੱਸਿਆ ਮਿਲੀ ਸੀ",
+        "You had found the first problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "child",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had found the first room",
+        "tuhānū pahilā kamarā mili'ā sī",
+        "ਤੁਹਾਨੂੰ ਪਹਿਲਾ ਕਮਰਾ ਮਿਲਿਆ ਸੀ",
+        "You had found the first room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had found a many rooms",
+        "tuhānū bahuta sārē kamarē mila ga'ē sana",
+        "ਤੁਹਾਨੂੰ ਬਹੁਤ ਸਾਰੇ ਕਮਰੇ ਮਿਲ ਗਏ ਸਨ",
+        "You had found a many rooms",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "family",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had found each room",
+        "tusīṁ hara kamarā labha li'ā sī",
+        "ਤੁਸੀਂ ਹਰ ਕਮਰਾ ਲੱਭ ਲਿਆ ਸੀ",
+        "You had found each room",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had found each thing",
+        "tuhānū hara cīza mila ga'ī sī",
+        "ਤੁਹਾਨੂੰ ਹਰ ਚੀਜ਼ ਮਿਲ ਗਈ ਸੀ",
+        "You had found each thing",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "hand",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had found good time",
+        "tuhānū cagā samāṁ mili'ā sī",
+        "ਤੁਹਾਨੂੰ ਚੰਗਾ ਸਮਾਂ ਮਿਲਿਆ ਸੀ",
+        "You had found good time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "hand",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had found the first time",
+        "tuhānū pahilī vāra mili'ā sī",
+        "ਤੁਹਾਨੂੰ ਪਹਿਲੀ ਵਾਰ ਮਿਲਿਆ ਸੀ",
+        "You had found the first time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had found many times",
+        "tuhānū bahuta vāra mili'ā sī",
+        "ਤੁਹਾਨੂੰ ਬਹੁਤ ਵਾਰ ਮਿਲਿਆ ਸੀ",
+        "You had found many times",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had found each time",
+        "tuhānū hara vāra mili'ā sī",
+        "ਤੁਹਾਨੂੰ ਹਰ ਵਾਰ ਮਿਲਿਆ ਸੀ",
+        "You had found each time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had found a first way",
+        "tusīṁ pahilā rasatā labha li'ā sī",
+        "ਤੁਸੀਂ ਪਹਿਲਾ ਰਸਤਾ ਲੱਭ ਲਿਆ ਸੀ",
+        "You had found a first way",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had found a many ways",
+        "tusīṁ bahuta sārē tarīkē labha la'ē sana",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਤਰੀਕੇ ਲੱਭ ਲਏ ਸਨ",
+        "You had found a many ways",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "man",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had found a way",
+        "tusīṁ ika rasatā labha li'ā sī",
+        "ਤੁਸੀਂ ਇੱਕ ਰਸਤਾ ਲੱਭ ਲਿਆ ਸੀ",
+        "You had found a way",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "man",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had found the first woman",
+        "tuhānū pahilī foundrata milī sī",
+        "ਤੁਹਾਨੂੰ ਪਹਿਲੀ foundਰਤ ਮਿਲੀ ਸੀ",
+        "You had found the first woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "man",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had found a many women",
+        "tuhānū bahuta sārī'āṁ foundratāṁ milī'āṁ sana",
+        "ਤੁਹਾਨੂੰ ਬਹੁਤ ਸਾਰੀਆਂ foundਰਤਾਂ ਮਿਲੀਆਂ ਸਨ",
+        "You had found a many women",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had found each woman",
+        "tusīṁ hara foundrata nū labha li'ā sī",
+        "ਤੁਸੀਂ ਹਰ foundਰਤ ਨੂੰ ਲੱਭ ਲਿਆ ਸੀ",
+        "You had found each woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had found a good word",
+        "tuhānū ika cagā śabada mili'ā sī",
+        "ਤੁਹਾਨੂੰ ਇੱਕ ਚੰਗਾ ਸ਼ਬਦ ਮਿਲਿਆ ਸੀ",
+        "You had found a good word",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had told each fact",
+        "tusīṁ hara tatha nū dasi'ā sī",
+        "ਤੁਸੀਂ ਹਰ ਤੱਥ ਨੂੰ ਦੱਸਿਆ ਸੀ",
+        "You had told each fact",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had told about the first family",
+        "tusīṁ pahilē parivāra bārē dasi'ā sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਪਰਿਵਾਰ ਬਾਰੇ ਦੱਸਿਆ ਸੀ",
+        "You had told about the first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had told about your many families",
+        "tusīṁ āpaṇē bahuta sārē parivārāṁ bārē dasi'ā sī",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਬਾਰੇ ਦੱਸਿਆ ਸੀ",
+        "You had told about your many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had told about each family",
+        "tusīṁ harēka parivāra bārē dasi'ā sī",
+        "ਤੁਸੀਂ ਹਰੇਕ ਪਰਿਵਾਰ ਬਾਰੇ ਦੱਸਿਆ ਸੀ",
+        "You had told about each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had told about the first group",
+        "tusīṁ pahilē samūha bārē dasi'ā sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਸਮੂਹ ਬਾਰੇ ਦੱਸਿਆ ਸੀ",
+        "You had told about the first group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "student",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had told about the many groups",
+        "tusīṁ bahuta sārē samūhāṁ bārē dasi'ā sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਸਮੂਹਾਂ ਬਾਰੇ ਦੱਸਿਆ ਸੀ",
+        "You had told about the many groups",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "student",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had told about each group",
+        "tusīṁ harēka samūha bārē dasi'ā sī",
+        "ਤੁਸੀਂ ਹਰੇਕ ਸਮੂਹ ਬਾਰੇ ਦੱਸਿਆ ਸੀ",
+        "You had told about each group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "student",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had told about the first home",
+        "tusīṁ pahilē ghara bārē dasi'ā sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਘਰ ਬਾਰੇ ਦੱਸਿਆ ਸੀ",
+        "You had told about the first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had told about many home",
+        "tusīṁ bahuta sārē ghara bārē dasi'ā sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਘਰ ਬਾਰੇ ਦੱਸਿਆ ਸੀ",
+        "You had told about many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had told about each home",
+        "tusīṁ harēka ghara bārē dasi'ā sī",
+        "ਤੁਸੀਂ ਹਰੇਕ ਘਰ ਬਾਰੇ ਦੱਸਿਆ ਸੀ",
+        "You had told about each home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had told about the first job",
+        "tusīṁ pahilī naukarī bārē dasi'ā sī",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਨੌਕਰੀ ਬਾਰੇ ਦੱਸਿਆ ਸੀ",
+        "You had told about the first job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had told about a many jobs",
+        "tusīṁ bahuta sārī'āṁ naukarī'āṁ bārē dasi'ā sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਬਾਰੇ ਦੱਸਿਆ ਸੀ",
+        "You had told about a many jobs",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had told about each job",
+        "tusīṁ hara kama bārē dasi'ā sī",
+        "ਤੁਸੀਂ ਹਰ ਕੰਮ ਬਾਰੇ ਦੱਸਿਆ ਸੀ",
+        "You had told about each job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had told about much life",
+        "tusīṁ bahuta jidagī bārē dasi'ā sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਜਿੰਦਗੀ ਬਾਰੇ ਦੱਸਿਆ ਸੀ",
+        "You had told about much life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "see",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had told the first mother",
+        "tusīṁ pahilī māṁ nū kihā sī",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਮਾਂ ਨੂੰ ਕਿਹਾ ਸੀ",
+        "You had told the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "family",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had told you many mothers",
+        "Tusīṁ bahuta sārī'āṁ māvāṁ nū dasi'ā sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮਾਵਾਂ ਨੂੰ ਦੱਸਿਆ ਸੀ",
+        "You had told you many mothers",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "family",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had told each mother",
+        "tusīṁ hara māṁ nū kihā sī",
+        "ਤੁਸੀਂ ਹਰ ਮਾਂ ਨੂੰ ਕਿਹਾ ਸੀ",
+        "You had told each mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "family",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had told about a many problems",
+        "tusīṁ bahuta sārī'āṁ muśakalāṁ bārē dasi'ā sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮੁਸ਼ਕਲਾਂ ਬਾਰੇ ਦੱਸਿਆ ਸੀ",
+        "You had told about a many problems",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had told about each problem",
+        "tusīṁ hara samasi'ā bārē dasi'ā sī",
+        "ਤੁਸੀਂ ਹਰ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸਿਆ ਸੀ",
+        "You had told about each problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had told about the first school",
+        "tusīṁ pahilē sakūla bārē dasi'ā sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਸਕੂਲ ਬਾਰੇ ਦੱਸਿਆ ਸੀ",
+        "You had told about the first school",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had told the first story",
+        "tusīṁ pahilī kahāṇī dasī sī",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਕਹਾਣੀ ਦੱਸੀ ਸੀ",
+        "You had told the first story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "mother",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had told a many stories",
+        "tusīṁ bahuta sārī'āṁ kahāṇī'āṁ suṇā ditī'āṁ sana",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਕਹਾਣੀਆਂ ਸੁਣਾ ਦਿੱਤੀਆਂ ਸਨ",
+        "You had told a many stories",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "mother",
+            "det": "your",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had told each story",
+        "tusīṁ harēka kahāṇī suṇā ditī sī",
+        "ਤੁਸੀਂ ਹਰੇਕ ਕਹਾਣੀ ਸੁਣਾ ਦਿੱਤੀ ਸੀ",
+        "You had told each story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "mother",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had told about a good system",
+        "tusīṁ ika cagī praṇālī bārē dasi'ā sī",
+        "ਤੁਸੀਂ ਇਕ ਚੰਗੀ ਪ੍ਰਣਾਲੀ ਬਾਰੇ ਦੱਸਿਆ ਸੀ",
+        "You had told about a good system",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had told about the first system",
+        "tusīṁ pahilē sisaṭama bārē dasi'ā sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਸਿਸਟਮ ਬਾਰੇ ਦੱਸਿਆ ਸੀ",
+        "You had told about the first system",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had told about a many systems",
+        "tusīṁ bahuta sārē praṇālī'āṁ bārē dasi'ā sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਪ੍ਰਣਾਲੀਆਂ ਬਾਰੇ ਦੱਸਿਆ ਸੀ",
+        "You had told about a many systems",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had told many times",
+        "tusīṁ ka'ī vāra dasi'ā sī",
+        "ਤੁਸੀਂ ਕਈ ਵਾਰ ਦੱਸਿਆ ਸੀ",
+        "You had told many times",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had told each time",
+        "tusīṁ hara vāra dasi'ā sī",
+        "ਤੁਸੀਂ ਹਰ ਵਾਰ ਦੱਸਿਆ ਸੀ",
+        "You had told each time",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had told the first woman",
+        "tusīṁ pahilī womanrata nū kihā sī",
+        "ਤੁਸੀਂ ਪਹਿਲੀ womanਰਤ ਨੂੰ ਕਿਹਾ ਸੀ",
+        "You had told the first woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had known your many problems",
+        "Tuhānū tuhāḍī'āṁ bahuta sārī'āṁ muśakalāṁ bārē patā sī",
+        "ਤੁਹਾਨੂੰ ਤੁਹਾਡੀਆਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮੁਸ਼ਕਲਾਂ ਬਾਰੇ ਪਤਾ ਸੀ",
+        "You had known your many problems",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had known your each problem",
+        "tusīṁ āpaṇī hara samasi'ā jāṇadē sī",
+        "ਤੁਸੀਂ ਆਪਣੀ ਹਰ ਸਮੱਸਿਆ ਜਾਣਦੇ ਸੀ",
+        "You had known your each problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had known your good story",
+        "tusīṁ āpaṇī cagī kahāṇī jāṇadē sī",
+        "ਤੁਸੀਂ ਆਪਣੀ ਚੰਗੀ ਕਹਾਣੀ ਜਾਣਦੇ ਸੀ",
+        "You had known your good story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had known your first story",
+        "tusīṁ āpaṇī pahilī kahāṇī jāṇī sī",
+        "ਤੁਸੀਂ ਆਪਣੀ ਪਹਿਲੀ ਕਹਾਣੀ ਜਾਣੀ ਸੀ",
+        "You had known your first story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "come",
+            "noun": "work",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had asked the first child",
+        "tusīṁ pahilē bacē nū puchi'ā sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਬੱਚੇ ਨੂੰ ਪੁੱਛਿਆ ਸੀ",
+        "You had asked the first child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "book",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had asked you many children",
+        "tusīṁ bahuta sārē baci'āṁ nū puchi'ā sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਬੱਚਿਆਂ ਨੂੰ ਪੁੱਛਿਆ ਸੀ",
+        "You had asked you many children",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "book",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had asked each child",
+        "tusīṁ harēka bacē nū puchi'ā sī",
+        "ਤੁਸੀਂ ਹਰੇਕ ਬੱਚੇ ਨੂੰ ਪੁੱਛਿਆ ਸੀ",
+        "You had asked each child",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "hand",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had asked the first family",
+        "tusīṁ pahilē parivāra nū kihā sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਪਰਿਵਾਰ ਨੂੰ ਕਿਹਾ ਸੀ",
+        "You had asked the first family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "hand",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had asked a many men",
+        "tusīṁ bahuta sārē badi'āṁ nū puchi'ā sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਬੰਦਿਆਂ ਨੂੰ ਪੁੱਛਿਆ ਸੀ",
+        "You had asked a many men",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had asked each man",
+        "tusīṁ harēka ādamī nū puchi'ā sī",
+        "ਤੁਸੀਂ ਹਰੇਕ ਆਦਮੀ ਨੂੰ ਪੁੱਛਿਆ ਸੀ",
+        "You had asked each man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had asked the first mother",
+        "tusīṁ pahilī māṁ nū puchi'ā sī",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਮਾਂ ਨੂੰ ਪੁੱਛਿਆ ਸੀ",
+        "You had asked the first mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had asked a good student",
+        "tusīṁ ika cagē vidi'ārathī nū kihā sī",
+        "ਤੁਸੀਂ ਇੱਕ ਚੰਗੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਕਿਹਾ ਸੀ",
+        "You had asked a good student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had asked the first student",
+        "tusīṁ pahilē vidi'ārathī nū puchi'ā sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛਿਆ ਸੀ",
+        "You had asked the first student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had asked a many students",
+        "tusīṁ bahuta sārē vidi'ārathī'āṁ nū puchi'ā sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਪੁੱਛਿਆ ਸੀ",
+        "You had asked a many students",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had asked each student",
+        "tusīṁ harēka vidi'ārathī nū puchi'ā sī",
+        "ਤੁਸੀਂ ਹਰੇਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛਿਆ ਸੀ",
+        "You had asked each student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had asked the first woman",
+        "tusīṁ pahilī womanrata nū puchi'ā sī",
+        "ਤੁਸੀਂ ਪਹਿਲੀ womanਰਤ ਨੂੰ ਪੁੱਛਿਆ ਸੀ",
+        "You had asked the first woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had asked a many women",
+        "tusīṁ bahuta sārī'āṁ.Ratāṁ nū kihā sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ .ਰਤਾਂ ਨੂੰ ਕਿਹਾ ਸੀ",
+        "You had asked a many women",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "week",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had asked each woman",
+        "tusīṁ harēka askedrata nū puchi'ā sī",
+        "ਤੁਸੀਂ ਹਰੇਕ askedਰਤ ਨੂੰ ਪੁੱਛਿਆ ਸੀ",
+        "You had asked each woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "week",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had asked at good work",
+        "tusīṁ cagē kama bārē puchi'ā sī",
+        "ਤੁਸੀਂ ਚੰਗੇ ਕੰਮ ਬਾਰੇ ਪੁੱਛਿਆ ਸੀ",
+        "You had asked at good work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "week",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had asked at the first work",
+        "tusīṁ pahilē kama tē puchi'ā sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਕੰਮ ਤੇ ਪੁੱਛਿਆ ਸੀ",
+        "You had asked at the first work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had asked at each work",
+        "tusīṁ hara kama bārē puchi'ā sī",
+        "ਤੁਸੀਂ ਹਰ ਕੰਮ ਬਾਰੇ ਪੁੱਛਿਆ ਸੀ",
+        "You had asked at each work",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "word",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had worked for the many countries",
+        "tusīṁ bahuta sārē dēśāṁ la'ī kama kītā sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਦੇਸ਼ਾਂ ਲਈ ਕੰਮ ਕੀਤਾ ਸੀ",
+        "You had worked for the many countries",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "word",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had worked for each country",
+        "tusīṁ harēka dēśa la'ī kama kītā sī",
+        "ਤੁਸੀਂ ਹਰੇਕ ਦੇਸ਼ ਲਈ ਕੰਮ ਕੀਤਾ ਸੀ",
+        "You had worked for each country",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "use",
+            "noun": "word",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had worked for a good day",
+        "tusīṁ cagē dina la'ī kama kītā sī",
+        "ਤੁਸੀਂ ਚੰਗੇ ਦਿਨ ਲਈ ਕੰਮ ਕੀਤਾ ਸੀ",
+        "You had worked for a good day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "book",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had worked for the first day",
+        "tusīṁ pahilē dina kama kītā sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਦਿਨ ਕੰਮ ਕੀਤਾ ਸੀ",
+        "You had worked for the first day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "book",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had worked for your many families",
+        "tusīṁ āpaṇē bahuta sārē parivārāṁ la'ī kama kītā sī",
+        "ਤੁਸੀਂ ਆਪਣੇ ਬਹੁਤ ਸਾਰੇ ਪਰਿਵਾਰਾਂ ਲਈ ਕੰਮ ਕੀਤਾ ਸੀ",
+        "You had worked for your many families",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "home",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had worked for each family",
+        "tusīṁ harēka parivāra la'ī kama kītā sī",
+        "ਤੁਸੀਂ ਹਰੇਕ ਪਰਿਵਾਰ ਲਈ ਕੰਮ ਕੀਤਾ ਸੀ",
+        "You had worked for each family",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "home",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had worked with the first group",
+        "Tusīṁ pahilē samūha nāla kama kītā sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਸਮੂਹ ਨਾਲ ਕੰਮ ਕੀਤਾ ਸੀ",
+        "You had worked with the first group",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "home",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had worked at many nights",
+        "tusīṁ ka'ī rāta kama kītā sī",
+        "ਤੁਸੀਂ ਕਈ ਰਾਤ ਕੰਮ ਕੀਤਾ ਸੀ",
+        "You had worked at many nights",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "room",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had worked at each night",
+        "tusīṁ hara rāta kama kītā sī",
+        "ਤੁਸੀਂ ਹਰ ਰਾਤ ਕੰਮ ਕੀਤਾ ਸੀ",
+        "You had worked at each night",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "room",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had worked with the first people",
+        "tusīṁ pahilē lōkāṁ nāla kama kītā sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਲੋਕਾਂ ਨਾਲ ਕੰਮ ਕੀਤਾ ਸੀ",
+        "You had worked with the first people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "room",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had worked with many people",
+        "tusīṁ bahuta sārē lōkāṁ nāla kama kītā sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਲੋਕਾਂ ਨਾਲ ਕੰਮ ਕੀਤਾ ਸੀ",
+        "You had worked with many people",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had worked on the first problem",
+        "tusīṁ pahilī samasi'ā'tē kama kītā sī",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਸਮੱਸਿਆ 'ਤੇ ਕੰਮ ਕੀਤਾ ਸੀ",
+        "You had worked on the first problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "thing",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had worked on a many problems",
+        "tusīṁ bahuta sārī'āṁ muśakalāṁ'tē kama kītā sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਮੁਸ਼ਕਲਾਂ 'ਤੇ ਕੰਮ ਕੀਤਾ ਸੀ",
+        "You had worked on a many problems",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "thing",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had worked on each problem",
+        "tusīṁ harēka samasi'ā tē kama kītā sī",
+        "ਤੁਸੀਂ ਹਰੇਕ ਸਮੱਸਿਆ ਤੇ ਕੰਮ ਕੀਤਾ ਸੀ",
+        "You had worked on each problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "thing",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had tried for a good day",
+        "tusīṁ cagē dina dī kōśiśa kītī sī",
+        "ਤੁਸੀਂ ਚੰਗੇ ਦਿਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਸੀ",
+        "You had tried for a good day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "woman",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had tried for the first day",
+        "tusīṁ pahilē dina kōśiśa kītī sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਦਿਨ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਸੀ",
+        "You had tried for the first day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "woman",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had tried for a many days",
+        "tusīṁ bahuta dināṁ la'ī kōśiśa kītī sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਦਿਨਾਂ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਸੀ",
+        "You had tried for a many days",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "woman",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had tried for each day",
+        "tusīṁ hara dina la'ī kōśiśa kītī sī",
+        "ਤੁਸੀਂ ਹਰ ਦਿਨ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਸੀ",
+        "You had tried for each day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had tried at the first home",
+        "tusīṁ pahilē ghara kōśiśa kītī sī",
+        "ਤੁਸੀਂ ਪਹਿਲੇ ਘਰ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਸੀ",
+        "You had tried at the first home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "word",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had tried at many home",
+        "tusīṁ bahuta sārē ghara vica kōśiśa kītī sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੇ ਘਰ ਵਿੱਚ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਸੀ",
+        "You had tried at many home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "word",
+            "det": "a",
+            "adj": "many"
+        }
+    ],
+    [
+        "You had tried at each home",
+        "Tusīṁ harēka ghara vica kōśiśa kītī sī",
+        "ਤੁਸੀਂ ਹਰੇਕ ਘਰ ਵਿੱਚ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਸੀ",
+        "You had tried at each home",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "word",
+            "adj": "each"
+        }
+    ],
+    [
+        "You had tried for the first job",
+        "tusīṁ pahilī naukarī la'ī kōśiśa kītī sī",
+        "ਤੁਸੀਂ ਪਹਿਲੀ ਨੌਕਰੀ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਸੀ",
+        "You had tried for the first job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "work",
+            "adj": "good"
+        }
+    ],
+    [
+        "You had tried for a many jobs",
+        "tusīṁ bahuta sārī'āṁ naukarī'āṁ la'ī kōśiśa kītī sī",
+        "ਤੁਸੀਂ ਬਹੁਤ ਸਾਰੀਆਂ ਨੌਕਰੀਆਂ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਸੀ",
+        "You had tried for a many jobs",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "work",
+            "det": "the",
+            "adj": "first"
+        }
+    ],
+    [
+        "You had tried for each job",
+        "tusīṁ harēka kama la'ī kōśiśa kītī sī",
+        "ਤੁਸੀਂ ਹਰੇਕ ਕੰਮ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਸੀ",
+        "You had tried for each job",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": true,
+            "plural": false,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "you",
+            "verb": "find",
+            "noun": "work",
+            "adj": "each"
+        }
+    ]
+]

@@ -1,0 +1,779 @@
+[
+    [
+        "We were a student",
+        "asīṁ ika vidi'ārathī sī",
+        "ਅਸੀਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਸੀ",
+        "We were a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "be",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "We had a business",
+        "sāḍā ika kārōbāra sī",
+        "ਸਾਡਾ ਇੱਕ ਕਾਰੋਬਾਰ ਸੀ",
+        "We had a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "We had a day",
+        "sāḍē kōla ika dina sī",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਦਿਨ ਸੀ",
+        "We had a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "We had a lot",
+        "sāḍē kōla bahuta sī",
+        "ਸਾਡੇ ਕੋਲ ਬਹੁਤ ਸੀ",
+        "We had a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "lot"
+        }
+    ],
+    [
+        "We had our mother",
+        "sāḍī māṁ sī",
+        "ਸਾਡੀ ਮਾਂ ਸੀ",
+        "We had our mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "mother",
+            "det": "our"
+        }
+    ],
+    [
+        "We had a problem",
+        "sānū ika samasi'ā sī",
+        "ਸਾਨੂੰ ਇੱਕ ਸਮੱਸਿਆ ਸੀ",
+        "We had a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "We had a question",
+        "sāḍē kōla ika praśana sī",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਪ੍ਰਸ਼ਨ ਸੀ",
+        "We had a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "We had a story",
+        "sāḍī ika kahāṇī sī",
+        "ਸਾਡੀ ਇਕ ਕਹਾਣੀ ਸੀ",
+        "We had a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "We had a week",
+        "sāḍē kōla ika hafatā sī",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਹਫ਼ਤਾ ਸੀ",
+        "We had a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "We had a year",
+        "sāḍē kōla ika sāla sī",
+        "ਸਾਡੇ ਕੋਲ ਇੱਕ ਸਾਲ ਸੀ",
+        "We had a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "have",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "We did a business",
+        "asīṁ ika kārōbāra kītā",
+        "ਅਸੀਂ ਇੱਕ ਕਾਰੋਬਾਰ ਕੀਤਾ",
+        "We did a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "We did a lot",
+        "asīṁ bahuta kujha kītā",
+        "ਅਸੀਂ ਬਹੁਤ ਕੁਝ ਕੀਤਾ",
+        "We did a lot",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "do",
+            "noun": "lot"
+        }
+    ],
+    [
+        "We told about life",
+        "asīṁ zidagī bārē dasi'ā",
+        "ਅਸੀਂ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਦੱਸਿਆ",
+        "We told about life",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "life"
+        }
+    ],
+    [
+        "We told a man",
+        "asīṁ ika ādamī nū dasi'ā",
+        "ਅਸੀਂ ਇਕ ਆਦਮੀ ਨੂੰ ਦੱਸਿਆ",
+        "We told a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "We told our mother",
+        "asīṁ āpaṇī māṁ nū dasi'ā",
+        "ਅਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਦੱਸਿਆ",
+        "We told our mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "mother",
+            "det": "our"
+        }
+    ],
+    [
+        "We told about a problem",
+        "asīṁ ika samasi'ā bārē dasi'ā",
+        "ਅਸੀਂ ਇੱਕ ਸਮੱਸਿਆ ਬਾਰੇ ਦੱਸਿਆ",
+        "We told about a problem",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "problem",
+            "det": "a"
+        }
+    ],
+    [
+        "We told a story",
+        "asīṁ ika kahāṇī dasī",
+        "ਅਸੀਂ ਇੱਕ ਕਹਾਣੀ ਦੱਸੀ",
+        "We told a story",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "story",
+            "det": "a"
+        }
+    ],
+    [
+        "We told about a study",
+        "asīṁ ika adhi'aina bārē dasi'ā",
+        "ਅਸੀਂ ਇਕ ਅਧਿਐਨ ਬਾਰੇ ਦੱਸਿਆ",
+        "We told about a study",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "study",
+            "det": "a"
+        }
+    ],
+    [
+        "We told a woman",
+        "asīṁ ika toldrata nū dasi'ā",
+        "ਅਸੀਂ ਇੱਕ toldਰਤ ਨੂੰ ਦੱਸਿਆ",
+        "We told a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "tell",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "We asked a man",
+        "asīṁ ika ādamī nū puchi'ā",
+        "ਅਸੀਂ ਇਕ ਆਦਮੀ ਨੂੰ ਪੁੱਛਿਆ",
+        "We asked a man",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "man",
+            "det": "a"
+        }
+    ],
+    [
+        "We asked our mother",
+        "asīṁ āpaṇī māṁ nū puchi'ā",
+        "ਅਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਪੁੱਛਿਆ",
+        "We asked our mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "mother",
+            "det": "our"
+        }
+    ],
+    [
+        "We asked a question",
+        "asīṁ ika praśana puchi'ā",
+        "ਅਸੀਂ ਇੱਕ ਪ੍ਰਸ਼ਨ ਪੁੱਛਿਆ",
+        "We asked a question",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "question",
+            "det": "a"
+        }
+    ],
+    [
+        "We asked a student",
+        "asīṁ ika vidi'ārathī nū puchi'ā",
+        "ਅਸੀਂ ਇੱਕ ਵਿਦਿਆਰਥੀ ਨੂੰ ਪੁੱਛਿਆ",
+        "We asked a student",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "student",
+            "det": "a"
+        }
+    ],
+    [
+        "We asked a woman",
+        "asīṁ ika askedrata nū puchi'ā",
+        "ਅਸੀਂ ਇਕ askedਰਤ ਨੂੰ ਪੁੱਛਿਆ",
+        "We asked a woman",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "ask",
+            "noun": "woman",
+            "det": "a"
+        }
+    ],
+    [
+        "We tried for a day",
+        "asīṁ ika dina kōśiśa kītī",
+        "ਅਸੀਂ ਇੱਕ ਦਿਨ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ",
+        "We tried for a day",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "day",
+            "det": "a"
+        }
+    ],
+    [
+        "We tried for a month",
+        "asīṁ ika mahīnē la'ī kōśiśa kītī",
+        "ਅਸੀਂ ਇੱਕ ਮਹੀਨੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ",
+        "We tried for a month",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "month",
+            "det": "a"
+        }
+    ],
+    [
+        "We tried for a week",
+        "asīṁ ika hafatē la'ī kōśiśa kītī",
+        "ਅਸੀਂ ਇੱਕ ਹਫ਼ਤੇ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ",
+        "We tried for a week",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "week",
+            "det": "a"
+        }
+    ],
+    [
+        "We tried for a year",
+        "asīṁ ika sāla kōśiśa kītī",
+        "ਅਸੀਂ ਇੱਕ ਸਾਲ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ",
+        "We tried for a year",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "try",
+            "noun": "year",
+            "det": "a"
+        }
+    ],
+    [
+        "We left a business",
+        "asīṁ ika kārōbāra chaḍa ditā",
+        "ਅਸੀਂ ਇੱਕ ਕਾਰੋਬਾਰ ਛੱਡ ਦਿੱਤਾ",
+        "We left a business",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "leave",
+            "noun": "business",
+            "det": "a"
+        }
+    ],
+    [
+        "We called our mother",
+        "asīṁ āpaṇī māṁ nū bulā'i'ā",
+        "ਅਸੀਂ ਆਪਣੀ ਮਾਂ ਨੂੰ ਬੁਲਾਇਆ",
+        "We called our mother",
+        {
+            "en-en": 0,
+            "pa-en": 1,
+            "pa-pa": 2,
+            "en-pa": 3
+        },
+        {
+            "form": "past",
+            "continuous": false,
+            "perfect": false,
+            "plural": 1,
+            "fem": 1,
+            "mas": 1
+        },
+        {
+            "pron": "we",
+            "verb": "call",
+            "noun": "mother",
+            "det": "our"
+        }
+    ]
+]
