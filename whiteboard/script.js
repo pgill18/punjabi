@@ -74,17 +74,17 @@ $(function () {
     }, 2500); // wait for tile.level to load at 2000ms
 });
 
-async function whiteboard_setup(index=0) {
+function whiteboard_setup(index=0) {
     whiteboard.list = (tile.level>2) ? whiteboard.list_long : whiteboard.list_short;
     whiteboard.list.map(type => whiteboard.costIncurred[type]=0);
     whiteboard.costStructure = (tile.level>2) ? whiteboard.costStructure_long : whiteboard.costStructure_short;
     whiteboard.attemptsLeft = 3;
     // whiteboard_fillReqs();
     // whiteboard_body();
-    await whiteboard_initialize(index);
+    whiteboard_initialize(index);
 }
 
-async function whiteboard_initialize(index) {
+function whiteboard_initialize(index) {
     whiteboard.content = whiteboard_rawdb[index].sequences1;
     whiteboard.shuffled = shuffle(whiteboard.content.slice(0));
     let nrows = Math.ceil(whiteboard.shuffled.length / whiteboard.ncols);
@@ -504,8 +504,8 @@ function whiteboard_refresh() {
     // whiteboard_fillReqs();
 }
 
-async function whiteboard_createWhiteboard(index) { 
-    await whiteboard_setup(index);
+function whiteboard_createWhiteboard(index) { 
+    whiteboard_setup(index);
 }
 
 function whiteboard_launchMiniWhiteboardModal_bak(dbindex, {zindex}={}) { 
@@ -547,7 +547,7 @@ function whiteboard_expedition_launchMiniWhiteboardModal(state, {coll,rewards,co
     $('#whiteboardModal1').on('hide.bs.modal', whiteboard_expedition_cb);
 }
 
-async function whiteboard_launchMiniWhiteboardModal(x=0, {zindex,reqcoll}={}) {
+function whiteboard_launchMiniWhiteboardModal(x=0, {zindex,reqcoll}={}) {
     // console.log(`whiteboard_launchMiniWhiteboardModal(x=${x}, zindex=${zindex})`)
     // whiteboard.parties = x===0 ? 4 : 5;
     whiteboard.attemptsLeft = 3;
@@ -580,7 +580,7 @@ async function whiteboard_launchMiniWhiteboardModal(x=0, {zindex,reqcoll}={}) {
     if(!whiteboard.reqqty) available_message = `random items`;
     // if(!whiteboard.reqqty) available_message = `3 attempts`;
 
-    await whiteboard_createWhiteboard(x);
+    whiteboard_createWhiteboard(x);
     // whiteboard_body();
     whiteboard_bscard();
     $('#whiteboard-available').text(available_message);

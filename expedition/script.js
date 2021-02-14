@@ -147,12 +147,28 @@ function expedition_complete_platform({ cost={}, coll={}, rewards={}, cb=0, done
         expedition.progress['attempts']--;
         if(rewards.attempts) expedition.progress['attempts'] += rewards.attempts;
     }
+    if(tenses) tenses.map(tense => credit_langscores(tense));
     expedition_updateScores({save: 1});
     $('#screenModal').modal('hide');
     console.log(expedition);
-    if(tenses) tenses.map(tense => credit_langscores(tense));
     expedition_loadLanguageData(expedition.state, {preload:1});
+    getLangScore();
+    console.log('langscores_overall=', langscores_overall);
+    if(langscores_overall > 0) {
+        let chance = 10 + langscores_overall;
+        console.log(`chance = ${chance}`)
+        if(Math.random()*100 < chance) {
+            console.log(`YESSSSS! Found nugget!!`)
+            let nugget = nugget_types[0][random(0,nugget_types[0].length-1)];
+            nuggets.push(nugget);
+            alert(`Congratulations! You have collected a 'key' ... { name: ${nugget.name}, value: ${nugget.value} }\n You will soon know how to use it.`);
+        } else {
+            console.log(`OOPSY! No nugget!!`)
+        }
+    }
+    console.log('nuggets=', nuggets)
 }
+
 function expedition_updateTrail(way, earnings) {
     let { level, platform } = expedition.state;
     let time = (new Date()).getTime();

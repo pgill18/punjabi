@@ -443,12 +443,15 @@
           $('#statusReportModal').modal()
       }
       function launchLanguageReportModal() {
-          let language_data = JSON.parse(localStorage.getItem('langscores')||"{}");
+          let language_data = langscores; //JSON.parse(localStorage.getItem('langscores')||"{}");
+          console.log(language_data)
           if(!language_data || !language_data.clusters) return alert(`No langauge scores data yet!`);
           let language_report = JSON.stringify(language_data.clusters[1]);
-          alert(language_report);
+          // alert(language_report);
           // callLanguageReportModal();
-          // $('#languageReportModal').modal()
+          // $('#langscoresModal').modal();
+          loadLangScores(language_data.clusters[1]);
+          $(`#langscoresModal`).modal('show');
       }
       $(() => {
           createMiniFormModal();
@@ -1481,6 +1484,208 @@ function cleanupElementsInnerHTML(id) {
         console.log(`{value=${value}, prev=${prev}, next=${next}}`);
       }
   </script>
+
+  <script>
+
+    function loadLangScores(json_data) {
+        load_data2(json_data);
+        // load_data();
+
+        function load_data2(json_data) {
+            console.log(`load_data2(json_data): json_data=`, json_data)
+            console.log(`load_data2(json_data): json_data.cards[0]=`, json_data.cards[0])
+            // $.getJSON(file_url, async function (scorecard) {
+            // function report(scorecard) {
+                // let card = scorecard.cards[0];
+                let card = json_data.cards[0] || {scores:{}};
+                let scores = { pron: {}, verb: {}, noun: {}, pos: {} };
+                for(let [key,value] of Object.entries(card.scores)) {
+                    console.log(`... [key,value] = [${key}, ${value}] ...`)
+                    if(key.match(/^verb=/)) { let word = get_word(key); inc_score(word,'verb',value); }
+                    if(key.match(/^noun=/)) { let word = get_word(key); inc_score(word,'noun',value); }
+                    if(key.match(/^pron=/)) { let word = get_word(key); inc_score(word,'pron',value); }
+                }
+                console.log('scores=', scores);
+                load_report(scores);
+                function get_word(key) { return key.split('=')[1]; }
+                function inc_score(word, pos, value) {
+                    console.log(`inc_score(${word}, ${pos}, ${value})`, scores)
+                    value = Math.round(+value*2);
+                    scores[pos][word] = value;
+                    scores.pos[pos] = value;
+                }
+            // }
+            // });
+        }
+
+        function load_data(file_url="langscores.json") {
+            $.getJSON(file_url, async function (scorecard) {
+            // function report(scorecard) {
+                let card = scorecard.cards[0];
+                let scores = { pron: {}, verb: {}, noun: {}, pos: {} };
+                for(let [key,value] of Object.entries(card)) {
+                    if(key.match(/^verb=/)) { let word = get_word(key); inc_score(word,'verb',value); }
+                    if(key.match(/^noun=/)) { let word = get_word(key); inc_score(word,'noun',value); }
+                    if(key.match(/^pron=/)) { let word = get_word(key); inc_score(word,'pron',value); }
+                }
+                console.log(scores);
+                load_report(scores);
+                function get_word(key) { return key.split('=')[1]; }
+                function inc_score(word, pos, value) {
+                    value = Math.round(+value*2);
+                    scores[pos][word] = value;
+                    scores.pos[pos] = value;
+                }
+            // }
+            });
+        }
+
+        function load_report(scores) {
+            let table = [];
+            table.push( get_keys(scores.verb, 'verbs').slice(0,8) )
+            table.push( get_values(scores.verb, 'verbs').slice(0,8) )
+            table.push( get_keys(scores.noun, 'nouns').slice(0,14) )
+            table.push( get_values(scores.noun, 'nouns').slice(0,14) )
+            table.push( get_keys(scores.pron, 'prons').slice(0,8) )
+            table.push( get_values(scores.pron, 'prons').slice(0,8) )
+            // table.push( Object.keys(scores.noun) )
+            // table.push( Object.values(scores.noun) )
+            // table.push( Object.keys(scores.pron) )
+            // table.push( Object.values(scores.pron) )
+            // let occupancy = Math.max(scores.verb.length, scores.noun.length, scores.pron.length);
+            let occupancy = Math.max(table[0].length, table[2].length, table[4].length);
+            let modal_size = (occupancy <= 5) ? '' : (occupancy <= 10) ? 'modal-lg' : 'modal-xl';
+            $(`#langscoresModalDialog`).addClass(modal_size)
+            let overall_score = Math.round((table[1][0] + table[3][0] + table[5][0])/3);
+            let circle_style = get_circle_style(get_color(overall_score), 55, 55);
+            let overall_score_html = `<h6 class="p-3 text-center" style="${circle_style}">${overall_score}</h6>`;
+            $(`#langscoresModalOverallScore`).html(overall_score_html)
+            console.log('table', table)
+            let report_html = table_html(table);
+            $(`#report`).html(report_html);
+            // $(`#report`).text(JSON.stringify(scores));
+            function get_keys(coll, name) {
+                return [name].concat(Object.keys(coll));
+            }
+            function get_values(coll, name) {
+                let coll_values = Object.values(coll);
+                coll_values = coll_values.map(value => Math.round(+value*get_mult(name)));
+                return [get_avg(coll_values)].concat(coll_values);
+            }
+            function get_avg(list) {
+                if(!list || !list.length) return 0;
+                let average = list.reduce((a,b) => +a+b,0)/list.length;
+                console.log(`average =`, average);
+                return Math.round(average);
+                // return list.reduce((a,b) => +a+b,0)/list.length;
+            }
+            function get_mult(name) {
+                let factor = 1/5;
+                switch(name) {
+                    case 'prons': return factor * 9/15;
+                    case 'verbs': return factor * 9/15;
+                    case 'nouns': return factor * 15/15;
+                }
+                return 1;
+            }
+        }
+        function heading_html(name, value, min, max) {
+            return `
+            <li class="list-group-item">
+                <h5 class="xdisplay-5">${name}: ${value}</h5>
+            </li>
+            `.trim();
+        }
+        function progress_html(name, value, min, max) {
+            return `
+            <li class="list-group-item">
+            <div class="progress" style="height: 20px;">
+              <div class="progress-bar progress-bar-striped" role="progressbar" style="width: ${value}%" aria-valuenow="${value}" aria-valuemin="${min}" aria-valuemax="${max}">${name}=${value}</div>
+            </div>
+            </li>
+            `.trim();
+        }
+        function table_html(table, index=0) {
+            let table_rows_html = ``;
+            for(let list of table) {
+                table_rows_html += table_row_html(list, index++);
+            }
+            return `
+                <table class="table table-borderless">
+                  <tbody>
+                    ${table_rows_html}
+                  </tbody>
+                </table>
+            `.trim();
+        }
+        function table_row_html(list, irow=0, icol=0) {
+            let table_cells_html = ``;
+            for(let entry of list) {
+                // let circle_style = (icol===0) ? get_circle_style('lightpink') : get_circle_style();
+                let circle_style = get_decoration(entry, icol);
+                if(irow%2===0) circle_style = ''; // no circle on names
+                let bold = (icol===0) ? 'h6' : '';
+                // let circle_style = get_circle_style();
+                table_cells_html += `                      <td class="${bold} text-center" style="${circle_style}">${entry}</td>\n`;
+                icol++;
+            }
+            return `
+                    <tr>
+                      ${table_cells_html}
+                    </tr>
+            `.trim();
+        }
+        function get_color(index) {
+            let color = flatten([
+                /* 00 */ ['GhostWhite', 'Linen', 'Linen', 'Linen', 'Linen', 'Linen', 'Linen', 'Linen', 'Linen', 'Linen'],
+                /* 20 */ ['SeaShell', 'SeaShell', 'SeaShell', 'SeaShell', 'SeaShell', 'SeaShell', 'SeaShell', 'SeaShell', 'SeaShell', 'SeaShell'],
+                /* 30 */ ['LightCyan', 'LightCyan', 'LightCyan', 'LightCyan', 'LightCyan', 'LightCyan', 'LightCyan', 'LightCyan', 'LightCyan', 'LightCyan'],
+                /* 40 */ ['PowderBlue', 'PowderBlue', 'PowderBlue', 'PowderBlue', 'PowderBlue', 'PowderBlue', 'PowderBlue', 'PowderBlue', 'PowderBlue', 'PowderBlue'],
+                /* 50 */ ['lightblue', 'lightblue', 'lightblue', 'lightblue', 'lightblue', 'lightblue', 'lightblue', 'lightblue', 'lightblue', 'lightblue'],
+                /* 60 */ ['Turquoise', 'Turquoise', 'Turquoise', 'Turquoise', 'Turquoise', 'Turquoise', 'Turquoise', 'Turquoise', 'Turquoise', 'Turquoise'],
+                /* 70 */ ['LightGreen', 'LightGreen', 'LightGreen', 'LightGreen', 'LightGreen', 'LightGreen', 'LightGreen', 'LightGreen', 'LightGreen', 'LightGreen'],
+                /* 80 */ ['SpringGreen', 'SpringGreen', 'SpringGreen', 'SpringGreen', 'SpringGreen', 'SpringGreen', 'SpringGreen', 'SpringGreen', 'SpringGreen', 'SpringGreen'],
+                /* 90 */ ['LimeGreen', 'LimeGreen', 'LimeGreen', 'LimeGreen', 'LimeGreen', 'LimeGreen', 'LimeGreen', 'LimeGreen', 'LimeGreen', 'LimeGreen'],
+            ]);
+            if(index >= 100) return 'LimeGreen';
+            return color[index] || 'GhostWhite';
+        }
+        function get_decoration(score, icol) {
+            // if(icol===0) return get_circle_style('LightCyan');
+            return get_circle_style(get_color(score));
+        }
+        function get_circle_style(color='lightblue', width=30, height=30) {
+            return `margin-top: 5px; width: ${width}px; height: ${height}px; shape-outside: circle(); clip-path: circle(); background: ${color};`;
+        }
+        function flatten(array, output=[]) {
+            array.map(list => list.map(word => output.push(word)));
+            return output;
+        }
+    }
+  </script>
+    <!-- Modal -->
+    <div class="modal fade" id="langscoresModal" tabindex="-1" aria-labelledby="langscoresModalLabel" aria-hidden="true">
+      <div class="modal-dialog xmodal-xl" id="langscoresModalDialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title col-3" id="langscoresModalLabel">Language scores</h5>
+            <h5 class="ml-auto mt-3 col-2 text-muted">Overall </h5>
+            <h5 class="col-1" id="langscoresModalOverallScore">1</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <ul class="list-group list-group-flush" id="report">
+            </ul>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
+          </div>
+        </div>
+      </div>
+    </div>
 
     <!-- Button trigger modal -->
     <!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal3"> -->
