@@ -11,7 +11,13 @@ let langscores = {
 let langscores_table;
 let langscores_overall;
 
-let nuggets = [];
+let nuggets = [
+    { name: 'goods', value: 20, type: 1 },
+    { name: 'finish', value: 4, type: 1 },
+    { name: 'speedx', value: 2, type: 1 },
+    { name: 'speedup', value: 4, type: 1 },
+    { name: 'attempts', value: 20, type: 1 },
+];
 let nugget_types = [
     [
         { name: 'goods', value: 20, type: 1 },
@@ -30,6 +36,8 @@ let nugget_types = [
     ],
 ];
 
+let admin_mode_on = 0;
+let key_mode_on = 0;
 
 function get_lang_cluster_sdb() {
     let cluster = langscores.cluster || 1;

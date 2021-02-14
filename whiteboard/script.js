@@ -38,11 +38,11 @@ whiteboard.costIncurred = {};
 whiteboard.costStructure = [];
 whiteboard.costStructure_short = [
     { coins: 10, supplies: 20, stone: 1, lumber: 1 }, // check cost
-    { coins: 10, supplies: 20, stone: 1, lumber: 1 }, // submit cost
+    { coins: 10, supplies: 20, stone: 2, lumber: 2 }, // submit cost
 ];
 whiteboard.costStructure_long = [
     { coins: 10, supplies: 20, stone: 1, lumber: 1, iron: 1, dye: 1 }, // check cost
-    { coins: 10, supplies: 20, stone: 1, lumber: 1, iron: 1, dye: 1 }, // submit cost
+    { coins: 10, supplies: 20, stone: 2, lumber: 2, iron: 2, dye: 2 }, // submit cost
 ];
 whiteboard.req = [
     { type: 'stone', qty: 15, n: 4 },
@@ -74,12 +74,30 @@ $(function () {
     }, 2500); // wait for tile.level to load at 2000ms
 });
 
+function whiteboard_fillReqs() {
+    let qty1 = tile.level>2 ? 16 : 16;
+    let qty2 = tile.level>2 ? 20 : 15;
+    let qty3 = tile.level>2 ? 50 : 25;
+    let list = whiteboard.list.slice(-2);
+    let type1 = list[random(0, list.length-1)];
+    let type2 = list[random(0, list.length-1)];
+    let type3 = list[random(0, list.length-1)];
+    if(type1===type2 && type2===type3 && list[1]) { // if all the same change the middle one
+        type2 = list[0]!==type2 ? list[0] : list[1];
+    }
+    whiteboard.req = [
+        { type: type1, qty: qty1, n: 4 },
+        { type: type2, qty: qty2, n: 5 },
+        { type: type3, qty: qty3, n: 5 },
+    ];
+}
+
 function whiteboard_setup(index=0) {
     whiteboard.list = (tile.level>2) ? whiteboard.list_long : whiteboard.list_short;
     whiteboard.list.map(type => whiteboard.costIncurred[type]=0);
     whiteboard.costStructure = (tile.level>2) ? whiteboard.costStructure_long : whiteboard.costStructure_short;
     whiteboard.attemptsLeft = 3;
-    // whiteboard_fillReqs();
+    whiteboard_fillReqs();
     // whiteboard_body();
     whiteboard_initialize(index);
 }
@@ -501,7 +519,7 @@ function whiteboard_refresh() {
     minigames.whiteboard[0].collected = 0;
     minigames.whiteboard[1].collected = 0;
     minigames.whiteboard[2].collected = 0;
-    // whiteboard_fillReqs();
+    whiteboard_fillReqs();
 }
 
 function whiteboard_createWhiteboard(index) { 

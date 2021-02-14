@@ -175,6 +175,9 @@ async function loop() {
         if(piece.entity.collected) return 0;
         let current_time = timenow();
         let duration = current_time - piece.entity.start_time;
+        let interval_mult = piece.entity.interval_mult;
+        let quantity_mult = piece.entity.quantity_mult;
+        if(defined(interval_mult)) duration = duration * interval_mult;
         let isel = piece.entity.isel || 0;
     // console.log(piece)
     // console.log(`location = ${location})`)

@@ -417,6 +417,7 @@ function store_gamedata(game_data) {
 }
 
 function runWithSpeedup(speedx, _this) {
+    // if(!admin_mode_on && !key_mode_on) return;
     if(_this) {
         // if(_this.parentNode.tagName==='a') _this = _this.parentNode;
         if(_this.parentNode.style.color==='red') {
@@ -424,6 +425,21 @@ function runWithSpeedup(speedx, _this) {
             _game_speedx = 1;  _delay_speedx = 1;
         } else {
             _this.parentNode.style.color="red";
+            _game_speedx = speedx;
+            _delay_speedx = (_game_speedx>100) ? 5 : 1;
+        }
+    }
+}
+function runWithSpeedupKey(speedx, _this) {
+    // if(!admin_mode_on && !key_mode_on) return;
+    if(_this) {
+        // if(_this.parentNode.tagName==='a') _this = _this.parentNode;
+        if(_this.parentNode.style.color==='forestgreen') {
+            _this.parentNode.style.color="dimgray";
+            _game_speedx = 1;  _delay_speedx = 1;
+        } else {
+            _this.parentNode.style.color="forestgreen";
+            _this.parentNode.style.fontWeight="bold";
             _game_speedx = speedx;
             _delay_speedx = (_game_speedx>100) ? 5 : 1;
         }

@@ -137,13 +137,27 @@
             <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-3" id="status-report" style="font-size:22px;color:gray;background:white; float-left" onclick="launchStatusReportModal()" data-toggle="tooltip" title="Production status">network_check</i></a>
           </li>
           <li class="nav-item">
-            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-3" id="status-report" style="font-size:22px;color:gray;background:white; float-left" onclick="launchLanguageReportModal()" data-toggle="tooltip" title="Langauge scores">view_carousel</i></a>
+            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-3" id="show-keycards" style="font-size:22px;color:gray;background:white; float-left" onclick="launchKeyCardsModal()" data-toggle="tooltip" title="Key cards">highlight</i></a>
           </li>
+          <li class="nav-item">
+            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-3" id="show-langscores" style="font-size:22px;color:gray;background:white; float-left" onclick="launchLanguageReportModal()" data-toggle="tooltip" title="Langauge scores">insights</i></a>
+          </li>
+          <div style="display: inline-flex;" id="keycards-alerts" hidden>
+              <li class="nav-item" id="keycard-speedx-2-li" hidden>
+                <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="keycard-speedx-2" style="font-size:24px;color:gray;background:white; float-left" onclick="runWithSpeedupKey(2,this,'lime')" data-toggle="tooltip" title="Production status">fast_forward</i>2x</a>
+              </li>
+              <li class="nav-item" id="keycard-speedx-4-li" hidden>
+                <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="keycard-speedx-4" style="font-size:24px;color:gray;background:white; float-left" onclick="runWithSpeedupKey(4,this,'lime')" data-toggle="tooltip" title="Production status">fast_forward</i>4x</a>
+              </li>
+              <li class="nav-item" id="keycard-speedx-8-li" hidden>
+                <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="keycard-speedx-8" style="font-size:24px;color:gray;background:white; float-left" onclick="runWithSpeedupKey(8,this,'lime')" data-toggle="tooltip" title="Production status">fast_forward</i>8x</a>
+              </li>
+              <li class="nav-item">
+                <span class="alert alert-success alert-dismissible fade show ml-2" id="keycard-bsalert"></span>
+              </li>
+          </div>
           <!-- <div class="col-2"></div> -->
           <div style="display: inline-flex;" hidden>
-              <li class="nav-item">
-                <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="status-report" style="font-size:24px;color:gray;background:white; float-left" onclick="runWithSpeedup(8,this)" data-toggle="tooltip" title="Production status">fast_forward</i>8x</a>
-              </li>
               <li class="nav-item">
                 <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="status-report" style="font-size:24px;color:gray;background:white; float-left" onclick="runWithSpeedup(24,this)" data-toggle="tooltip" title="Production status">fast_forward</i>24x</a>
               </li>
@@ -363,7 +377,7 @@
           <button class="btn btn-light material-icons" onclick="launchMiniExpeditionBasicModal()" data-toggle="tooltip" title="Unlock stages">view_comfy</button>
         </li>
         <li class="nav-item ml-2">
-          <button class="btn btn-outline-primary material-icons active" onclick="editTilesWrapper(this)" data-toggle="tooltip" title="Toggle edit mode" xdata-toggle="button" aria-pressed="true" active>open_with</button>
+          <button class="btn btn-outline-primary material-icons active" onclick="editTilesWrapper(this)" id="toggle-edit-mode" data-toggle="tooltip" title="Toggle edit mode" xdata-toggle="button" aria-pressed="true" active>open_with</button>
         </li>
         <li><div class="ml-2"></div></li>       
         <li class="nav-item">
@@ -415,6 +429,7 @@
           createMiniLeftProgressModal();
           createMiniGenericModal();
           createStatusReportModal();
+          $('.toast').toast({delay:3000});
       });
       // Register modal event listner 
       // $(() => {
@@ -441,6 +456,45 @@
       function launchStatusReportModal() {
           callStatusReportModal();
           $('#statusReportModal').modal()
+      }
+      function launchKeyCardsModal() {
+          console.log(nuggets)
+          if(!nuggets || !nuggets.length) return alert(`No key cards yet!`);
+          // keycards_html = nuggets.join("<hr>");
+          keycards_html = aaa(nuggets);
+          $(`#keycardsModal-body`).html(keycards_html);
+          $(`#keycardsModal`).modal('show');
+      }
+      function aaa(list) {
+          return `
+            <p>
+              <button class="btn btn-light" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
+                Speedup <span class="badge badge-light">1</span>
+                <span class="sr-only">keys available</span>
+              </button>
+              <button class="btn btn-light" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
+                Finish <span class="badge badge-light">1</span>
+                <span class="sr-only">keys available</span>
+              </button>
+              <button class="btn btn-light" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
+                Set of goods <span class="badge badge-light">1</span>
+                <span class="sr-only">keys available</span>
+              </button>
+            </p>
+            <div class="collapse" id="collapse1">
+              <div class="card card-body">
+                <button class="btn btn-light" type="button" onclick="use_keycard(this)">Use</button>
+                <button class="btn btn-light" type="button" onclick="use_keycard(this)">Use</button>
+                <button class="btn btn-light" type="button" onclick="use_keycard(this)">Use</button>
+                <button class="btn btn-light" type="button" onclick="use_keycard(this)">Use</button>
+                <button class="btn btn-light" type="button" onclick="use_keycard(this)">Use</button>
+                <button class="btn btn-light" type="button" onclick="use_keycard(this)">Use</button>
+              </div>
+            </div>
+          `.trim();
+      }
+      function use_keycard(_this) {
+          $('#use-key-toast').toast('show');
       }
       function launchLanguageReportModal() {
           let language_data = langscores; //JSON.parse(localStorage.getItem('langscores')||"{}");
@@ -712,6 +766,10 @@
           $('#miniNegotiatorModal').modal()
       }
       function launchMiniExpeditionBasicModal() {
+          if(! $(`#toggle-edit-mode`).hasClass('btn-outline-primary')) {
+              $(`#toggle-edit-mode`).click();
+          }
+          console.log(`launching ... exp`)
           createMiniExpeditionBasic();
           $('#miniExpeditionBasicModal').modal()
       }
@@ -1005,6 +1063,21 @@ function cleanupElementsInnerHTML(id) {
       </div>
     </div>
 
+    <div aria-live="polite" aria-atomic="true" style="position: absolute; min-height: 1px; min-width: 1px; top: 1px; right: 1px;">
+        <div class="toast toast-success" id="use-key-toast" role="alert" aria-live="assertive" aria-atomic="true">
+          <div class="toast-header">
+            <!-- <img src="..." class="rounded mr-2" alt="..."> -->
+            <strong class="mr-auto" id="toast1-title">Added</strong>
+            <small class="text-muted" id="toast1-subtitle">11 mins ago</small>
+            <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="toast-body" id="toast1-body">
+            Option added to list.
+          </div>
+        </div>
+    </div>
 
     <script type="text/javascript">
       let nrows = 4, ncols = 4; let colwidth = Math.round(12/ncols);
@@ -1621,9 +1694,11 @@ function cleanupElementsInnerHTML(id) {
         function table_row_html(list, irow=0, icol=0) {
             let table_cells_html = ``;
             for(let entry of list) {
+                if(entry==='prons') entry = 'pronouns';
                 // let circle_style = (icol===0) ? get_circle_style('lightpink') : get_circle_style();
                 let circle_style = get_decoration(entry, icol);
                 if(irow%2===0) circle_style = ''; // no circle on names
+                if(irow%2===0 && icol===0) entry = capitalizeFirstLetter(entry); // no circle on names
                 let bold = (icol===0) ? 'h6' : '';
                 // let circle_style = get_circle_style();
                 table_cells_html += `                      <td class="${bold} text-center" style="${circle_style}">${entry}</td>\n`;
@@ -1663,6 +1738,7 @@ function cleanupElementsInnerHTML(id) {
         }
     }
   </script>
+
     <!-- Modal -->
     <div class="modal fade" id="langscoresModal" tabindex="-1" aria-labelledby="langscoresModalLabel" aria-hidden="true">
       <div class="modal-dialog xmodal-xl" id="langscoresModalDialog">
@@ -1677,6 +1753,28 @@ function cleanupElementsInnerHTML(id) {
           </div>
           <div class="modal-body">
             <ul class="list-group list-group-flush" id="report">
+            </ul>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="keycardsModal" tabindex="-1" aria-labelledby="keycardsModalLabel" aria-hidden="true">
+      <div class="modal-dialog xmodal-xl" id="keycardsModalDialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="keycardsModalLabel">Keys and keycards</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <ul class="list-group list-group-flush" id="keycardsModal-body">
             </ul>
           </div>
           <div class="modal-footer">
@@ -1790,9 +1888,9 @@ function cleanupElementsInnerHTML(id) {
             <!-- <button type="button" class="btn btn-link col-1" onclick="whiteboard_hint()">Hint</button> -->
             <!-- <button type="button" class="btn btn-secondary" onclick="whiteboard_check('whiteboardModal1')">Check</button> -->
             <!-- <button type="button" class="btn btn-primary" onclick="whiteboard_submit('whiteboardModal1')">Submit</button> -->
-            <button type="button" class="btn btn-primary col-1" onclick="whiteboard_check()" id="whiteboard-check">Check</button>
-            <button type="button" class="btn btn-primary col-1" onclick="whiteboard_submit()" id="whiteboard-submit">Submit</button>
-            <button type="button" class="btn btn-primary col-1" onclick="whiteboard_finish()" id="whiteboard-finish" data-dismiss="modal" aria-label="Close" hidden>Finish</button>
+            <button type="button" class="btn btn-primary col-1" data-toggle="tooltip" data-placement="left" title="Check if correct. Costs half the submit amount. But you will need to submit again if correct. Good choice if you are NOT confident of your selection." onclick="whiteboard_check()" id="whiteboard-check">Check</button>
+            <button type="button" class="btn btn-primary col-1" data-toggle="tooltip" data-placement="right" title="Check and submit. Costs twice the check amount. But you don't need to submit again if correct. Good choice if you are confident of your selection." onclick="whiteboard_submit()" id="whiteboard-submit">Submit</button>
+            <button type="button" class="btn btn-primary col-1" data-toggle="tooltip" data-placement="top" title="Collect and dismiss." onclick="whiteboard_finish()" id="whiteboard-finish" data-dismiss="modal" aria-label="Close" hidden>Finish</button>
           </div>
         </div>
       </div>
@@ -1957,8 +2055,22 @@ function cleanupElementsInnerHTML(id) {
           // setTimeout(function() { $('#canvas').click(); }, 1000);
           setTimeout(function() { load_saved_data() }, 2000);
       });
+      function key_mode_speedx(on=true, key) {
+          key_mode(on, key)
+          document.getElementById('keycard-speedx-2-li').hidden = !on;
+          $(`#keycard-speedx-2`).click();
+      }
+      function key_mode(on=true, key) {
+          key_mode_on = on;
+          key_active = key;
+          document.getElementById('keycards-alerts').hidden = !on;
+          $(`#keycard-bsalert`).html(on ? `<em>active: ${key.name}, ${key.value}</em>` : "");
+          // $('#keycard-bsalert').alert();
+          setTimeout(() => $('#keycard-bsalert').alert('close'), 2000);
+      }
       function admin_mode(password) {
           if(!authorized(password)) return;
+          admin_mode_on = true;
           DEBUG_MODE = 1;
           $('nav#nav-1b').find('[hidden]').attr('hidden', false);
           $('nav#nav-2a').find('[hidden]').attr('hidden', false);

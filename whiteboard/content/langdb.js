@@ -108,7 +108,6 @@ function get_tense_setup(level, {adjArg,advArg,tenseCheck=1,tenseIdMin=0}={}) {
     }}}
     return {form:'present', perfect:false, continuous:false, adj:false, adv:false};
 }
-function defined(a) { return (a!==undefined && a!==null) }
 
 function get_cluster(i) {
     let clusters = [

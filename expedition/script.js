@@ -52,6 +52,9 @@ function expedition_reBindWhiteboardListeners() {
 }
 
 function expedition_launchWeeklyExpedition() {
+    if(! $(`#toggle-edit-mode`).hasClass('btn-outline-primary')) {
+        $(`#toggle-edit-mode`).click(); // make edit mode button  blue to stop interference
+    }
     expedition_drawExpeditionMap()
     $('#expeditionModal').modal({ keyboard: false });
     $(document).on('shown.bs.popover', expedition_reBindNegotiationListeners);
@@ -72,7 +75,7 @@ function expedition_genRewards(state, type=1) {
     let mult = state.level;
     let coll1 = (Math.random() > 0.5) ? {lumber:15*mult} : {stone:16*mult};
     let coll2 = (Math.random() > 0.5) ? {iron:15*mult} : {dye:16*mult};
-    let coll = (type===2 && tile.level>=3) ? coll2 : coll1;
+    let coll = (type===2 && tile.level>=1) ? coll2 : coll1;
     let rewards1 = (Math.random() > 0.9) ? {attempts:3} : {};
     let rewards2 = (Math.random() > 0.99) ? {attempts:3} : {};
     let rewards = type===1 ? rewards1 : rewards2;
@@ -154,16 +157,16 @@ function expedition_complete_platform({ cost={}, coll={}, rewards={}, cb=0, done
     expedition_loadLanguageData(expedition.state, {preload:1});
     getLangScore();
     console.log('langscores_overall=', langscores_overall);
-    if(langscores_overall > 0) {
+    if(done && langscores_overall > 0) {
         let chance = 10 + langscores_overall;
         console.log(`chance = ${chance}`)
         if(Math.random()*100 < chance) {
-            console.log(`YESSSSS! Found nugget!!`)
+            console.log(`YESSSSS! Collected a key!!`)
             let nugget = nugget_types[0][random(0,nugget_types[0].length-1)];
             nuggets.push(nugget);
             alert(`Congratulations! You have collected a 'key' ... { name: ${nugget.name}, value: ${nugget.value} }\n You will soon know how to use it.`);
         } else {
-            console.log(`OOPSY! No nugget!!`)
+            console.log(`OOPSY! No key!!`)
         }
     }
     console.log('nuggets=', nuggets)

@@ -42,14 +42,14 @@ negotiator.expedition = { cost: {}, coll: {}, rewards: {}, cb: 0, done: 0 };
 
 $(function () {
 	negotiator.popovers = negotiator_fillPopovers();
-	$('[data-toggle="popover"]').popover()
-	$('[data-toggle="tooltip"]').tooltip()
     // every5min_routines.push(negotiator_refresh);
 	daily_routines.push(negotiator_refresh);
 	setTimeout(() => {
 		negotiator.list = (tile.level>2) ? negotiator.list_long : negotiator.list_short;
 		negotiator_fillReqs();
 		negotiator_body();
+    $('[data-toggle="popover"]').popover()
+    $('[data-toggle="tooltip"]').tooltip()
 	}, 2500); // wait for tile.level to load at 2000ms
 });
 function negotiator_body() {
@@ -60,29 +60,34 @@ function negotiator_body() {
     $(`#negotiator-modal1-c5`).html( negotiator_createCard('card5', 5) );
     $('#negotiator-bsalert').html('');
     $('#negotiator-bsalert').attr('class', '');
+    $('[data-toggle="popover"]').popover()
+    $('[data-toggle="tooltip"]').tooltip()
 }
 function negotiator_fillPopovers() {
     let popovers = [''];
     popovers[1] = [`Turns`, `You have a total of ${negotiator.attemptsLeft} turns. Each Submit costs one turn. Check costs no turns.`, `Turns explanation`];
     popovers[2] = [`Hints`, `Hints are automatically created after check/submit. You can also pay for extra hints using Hints button below.`, `Hints explanation`];
-    popovers[3] = [`Submit cost`, `Each individual selection costs one of these: ${obj2string(negotiator.costStructure_long[1])}`, `Submit cost`];
-    popovers[4] = [`Check cost`, `Each individual selection costs one of these: ${obj2string(negotiator.costStructure_short[0])}`, `Check cost`];
+    popovers[3] = [`Submit cost`, `Each individual selection costs the amount you select as offer.`, `Submit cost`];
+    popovers[4] = [`Check cost`, `Each individual selection costs the amount you select as offer.`, `Check cost`];
     popovers[5] = ['', '', ''];
     return popovers;
 }
 function negotiator_fillReqs() {
-	let qty1 = tile.level>2 ? 16 : 16;
-	let qty2 = tile.level>2 ? 20 : 15;
-	let qty3 = tile.level>2 ? 35 : 25;
-	let list = negotiator.list.slice(2);
-	let type1 = list[random(0, list.length-1)];
-	let type2 = list[random(0, list.length-1)];
-	let type3 = list[random(0, list.length-1)];
-	negotiator.req = [
-		{ type: type1, qty: qty1, n: 4 },
-		{ type: type2, qty: qty2, n: 5 },
-		{ type: type3, qty: qty3, n: 5 },
-	];
+  	let qty1 = tile.level>2 ? 16 : 16;
+  	let qty2 = tile.level>2 ? 20 : 15;
+  	let qty3 = tile.level>2 ? 35 : 25;
+  	let list = negotiator.list.slice(2);
+  	let type1 = list[random(0, list.length-1)];
+  	let type2 = list[random(0, list.length-1)];
+  	let type3 = list[random(0, list.length-1)];
+    if(type1===type2 && type2===type3 && list[1]) { // if all the same change the middle one
+        type2 = list[0]!==type2 ? list[0] : list[1];
+    }
+    negotiator.req = [
+        { type: type1, qty: qty1, n: 4 },
+        { type: type2, qty: qty2, n: 5 },
+        { type: type3, qty: qty3, n: 5 },
+    ];
 }
 
 function negotiator_expedition_mode(value=true, {cb}={}) {

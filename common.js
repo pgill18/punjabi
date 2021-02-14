@@ -65,3 +65,4 @@ function clean(text, icase='') {
     }
     return text;
 }
+function defined(a) { return (a!==undefined && a!==null) }
