@@ -32,6 +32,7 @@
 
     <script src="common.js"></script>
     <script src="keeping.js"></script>
+    <script src="keycards.js"></script>
     <script src="langinfo.js"></script>
     <script src="settle_canvas.js"></script>
     <script src="settle_script.js"></script>
@@ -136,12 +137,6 @@
           <li class="nav-item">
             <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-3" id="status-report" style="font-size:22px;color:gray;background:white; float-left" onclick="launchStatusReportModal()" data-toggle="tooltip" title="Production status">network_check</i></a>
           </li>
-          <li class="nav-item">
-            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-3" id="show-keycards" style="font-size:22px;color:gray;background:white; float-left" onclick="launchKeyCardsModal()" data-toggle="tooltip" title="Key cards">highlight</i></a>
-          </li>
-          <li class="nav-item">
-            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-3" id="show-langscores" style="font-size:22px;color:gray;background:white; float-left" onclick="launchLanguageReportModal()" data-toggle="tooltip" title="Langauge scores">insights</i></a>
-          </li>
           <div style="display: inline-flex;" id="keycards-alerts" hidden>
               <li class="nav-item" id="keycard-speedx-2-li" hidden>
                 <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="keycard-speedx-2" style="font-size:24px;color:gray;background:white; float-left" onclick="runWithSpeedupKey(2,this,'lime')" data-toggle="tooltip" title="Production status">fast_forward</i>2x</a>
@@ -185,6 +180,12 @@
           </div>
         </ul>
         <ul class="navbar-nav nav-sm">
+          <li class="nav-item">
+            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-3" id="show-keycards" style="font-size:22px;color:gray;background:white; float-left" onclick="launchKeyCardsModal()" data-toggle="tooltip" title="Activate Keys Here">auto_awesome</i></a>
+          </li>
+          <li class="nav-item">
+            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="show-langscores" style="font-size:22px;color:gray;background:white; float-left" onclick="launchLanguageReportModal()" data-toggle="tooltip" title="Langauge scores">insights</i></a>
+          </li>
           <li class="nav-item">
             <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="unlock-space" style="font-size:24px;color:gray;background:white; float-right" onclick="unlock_space()" data-toggle="tooltip" title="Unlock space" hidden>filter_tilt_shift</i></a>
           </li>
@@ -429,7 +430,7 @@
           createMiniLeftProgressModal();
           createMiniGenericModal();
           createStatusReportModal();
-          $('.toast').toast({delay:3000});
+          // $('.toast').toast({delay:3000});
       });
       // Register modal event listner 
       // $(() => {
@@ -457,44 +458,137 @@
           callStatusReportModal();
           $('#statusReportModal').modal()
       }
+      function setTileEditMode(on=true) {
+          if($(`#toggle-edit-mode`).hasClass('btn-outline-primary') !== on) {
+              $(`#toggle-edit-mode`).click(); // make edit mode button  blue to stop interference
+          }
+      }
       function launchKeyCardsModal() {
-          console.log(nuggets)
-          if(!nuggets || !nuggets.length) return alert(`No key cards yet!`);
-          // keycards_html = nuggets.join("<hr>");
-          keycards_html = aaa(nuggets);
+          console.log(keycards.coll)
+          if(!keycards.coll || !keycards.coll.length) return alert(`No key cards yet!`);
+          setTileEditMode(true);
+          let keycards_html = getKeyCardsHtml(keycards.coll);
           $(`#keycardsModal-body`).html(keycards_html);
+          $('[data-toggle="tooltip"]').tooltip();
           $(`#keycardsModal`).modal('show');
       }
-      function aaa(list) {
+      function getKeyCardsHtml(list) {
+          let cards = list.map(getCard);
           return `
-            <p>
-              <button class="btn btn-light" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
-                Speedup <span class="badge badge-light">1</span>
-                <span class="sr-only">keys available</span>
-              </button>
-              <button class="btn btn-light" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
-                Finish <span class="badge badge-light">1</span>
-                <span class="sr-only">keys available</span>
-              </button>
-              <button class="btn btn-light" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
-                Set of goods <span class="badge badge-light">1</span>
-                <span class="sr-only">keys available</span>
-              </button>
-            </p>
-            <div class="collapse" id="collapse1">
-              <div class="card card-body">
-                <button class="btn btn-light" type="button" onclick="use_keycard(this)">Use</button>
-                <button class="btn btn-light" type="button" onclick="use_keycard(this)">Use</button>
-                <button class="btn btn-light" type="button" onclick="use_keycard(this)">Use</button>
-                <button class="btn btn-light" type="button" onclick="use_keycard(this)">Use</button>
-                <button class="btn btn-light" type="button" onclick="use_keycard(this)">Use</button>
-                <button class="btn btn-light" type="button" onclick="use_keycard(this)">Use</button>
+              <div class="card-columns">
+                  ${cards.join('\n')}
               </div>
-            </div>
           `.trim();
+          function getCard(keycard) {
+              let disabled = keycard.count<=0 ? "disabled" : "";
+              let onclick = keycard.count<=0 ? "xonclick" : "onclick";
+              let html = "";
+              if(keycard.id===4) html = finish_production(keycard);
+              if(keycard.id===5) html = allocate_goods(keycard);
+              return `
+                  <div class="card">
+                    <div class="card-body">
+                       <button class="btn btn-block btn-primary mb-2" type="button" data-toggle="collapse" data-target="#collapse${keycard.id}" aria-expanded="false" aria-controls="collapse${keycard.id}" ${disabled}>
+                          <span class="material-icons mr-2">whatshot</span>
+                          ${keycard.name}
+                          <span class="badge badge-light ml-3">${keycard.count}</span>
+                       </button>
+                       <div class="collapse" id="collapse${keycard.id}">
+                          <p>${keycard.details}</p>
+                           ${html?'<b>Select one from this list:<b>':''}
+                          <button class="btn btn-warning m-1" type="button" data-dismiss="modal" ${onclick}="use_keycard(${keycard.id})" ${disabled}  ${html?'hidden':''}>activate</button>
+                          <span class="badge badge-pill badge-light ml-5">${keycard.count}</span>
+                          ${html}
+                       </div>
+                     <p class="card-text"><small class="text-muted">Last added ${getDuration(keycard.date)} ago</small></p>
+                    </div>
+                  </div>
+              `.trim();
+          }
+          function getDuration(date) {
+              // if(!date) date = randomDate();
+              if(!date) date = new Date();
+              date = new Date(date);
+              let now = new Date();
+              let millisecs = now.getTime() - date.getTime();
+              // console.log('date ----------------', date);
+              // console.log('millisecs ----------------', millisecs);
+              let minutes = millisecs / (60 * 1000);
+              // console.log('minutes ----------------', minutes);
+              if(minutes < 60) return `${round(minutes)} mins`;
+              if(minutes < 60*24) return `${round(minutes/60)} hours`;
+              return round(minutes/(60*24)) + ` days`;
+          }
+          function randomDate() {
+              let date = new Date(); 
+              let a = (new Date()).getTime();
+              let b = random(0, 60*24*10)*60000;
+              // console.log(`------ a=${a}, b=${b}, mils=${a-b}`)
+              date.setTime(a-b);
+              return date;
+          }
       }
-      function use_keycard(_this) {
+      function use_keycard(i, option) {
+          if(typeof i==='string') i = parseInt(i);
+          let keycard = keycards.coll[i];
+          console.log(`use_keycard(${i}, ${option})`);
+          switch(i) {
+              case 0: case 1: case 2: case 3:
+                  keycard = activate_keycard(i);
+                  activate_keycard_on_existing_productions(keycard); break;
+              case 4:
+                  keycard = activate_keycard(i);
+                  activate_keycard_on_one_existing_productions(keycard, option); break;
+              case 5:
+                  let goods = {}; goods[option] = keycard.value || 20;
+                  if(option==='coins'||option==='supplies') goods[option] *= 100;
+                  credit_dependencies(goods)
+                  activate_keycard(i); break;
+              case 6:
+                  expedition.progress.attempts += keycard.value || 10;
+                  activate_keycard(i); break;
+              case 7:
+                  negotiator_refresh();
+                  activate_keycard(i); break;
+              case 8:
+                  whiteboard_refresh();
+                  activate_keycard(i); break;
+              case 9:
+                  expedition_refresh();
+                  activate_keycard(i); break;
+          }
+          $('#use-key-toast-msg').text('Key Activated! '+keycard.name);
           $('#use-key-toast').toast('show');
+          expedition_saveKeycards({save: 1});
+      }
+      function finish_production(keycard) {
+          let html = [], list = [];
+          for(let i=0; i<_pieces.length; i++) {
+              let piece = _pieces[i];
+              if(!piece || !piece.entity) continue;
+              let name = defined(piece.entity.content.index) ? name_lookup[piece.entity.content.index] : "";
+              let interval = piece.entity.interval;
+              let quantity = piece.entity.quantity;
+              let remaining = piece.entity.remaining;
+              if(remaining > 0 && piece.entity.running) {
+                  let minutes = round(remaining/60);
+                  list.push([i, piece]);
+                  html.push(`<a class="btn btn-sm btn-warning mb-1" data-dismiss="modal" onclick="use_keycard(${keycard.id}, ${i})">Loc ${i}, ${quantity} ${name}, ${minutes} mins remaining</a>`);
+              }
+          }
+          return `<div>${html.join('\n')}</div>`;
+      }
+      function allocate_goods(keycard) {
+          let html = [], list = [];
+          for(let i=0; i<name_lookup.length; i++) {
+              let goodname = name_lookup[i];
+              let quantity = keycard.value;
+              if(goodname==='coins'||goodname==='supplies') quantity *= 100;
+             if(goodname) {
+                  html.push(`<a class="btn btn-sm btn-warning btn-block mb-1" data-dismiss="modal" onclick="use_keycard(${keycard.id}, '${goodname}')">Get ${quantity} ${goodname}.</a>`);
+              }
+          }
+          return `<div>${html.join('\n')}</div>`;
       }
       function launchLanguageReportModal() {
           let language_data = langscores; //JSON.parse(localStorage.getItem('langscores')||"{}");
@@ -766,10 +860,6 @@
           $('#miniNegotiatorModal').modal()
       }
       function launchMiniExpeditionBasicModal() {
-          if(! $(`#toggle-edit-mode`).hasClass('btn-outline-primary')) {
-              $(`#toggle-edit-mode`).click();
-          }
-          console.log(`launching ... exp`)
           createMiniExpeditionBasic();
           $('#miniExpeditionBasicModal').modal()
       }
@@ -1063,18 +1153,20 @@ function cleanupElementsInnerHTML(id) {
       </div>
     </div>
 
-    <div aria-live="polite" aria-atomic="true" style="position: absolute; min-height: 1px; min-width: 1px; top: 1px; right: 1px;">
+    <div aria-live="polite" aria-atomic="true" style="position: absolute; min-height: 1px; min-width: 1px; top: 1px; right: 40%;">
         <div class="toast toast-success" id="use-key-toast" role="alert" aria-live="assertive" aria-atomic="true">
           <div class="toast-header">
             <!-- <img src="..." class="rounded mr-2" alt="..."> -->
-            <strong class="mr-auto" id="toast1-title">Added</strong>
-            <small class="text-muted" id="toast1-subtitle">11 mins ago</small>
+            <strong class="mr-auto" id="use-key-toast-title">Added</strong>
+            <small class="text-muted" id="use-key-toast-subtitle">1 sec ago</small>
             <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close">
               <span aria-hidden="true">&times;</span>
             </button>
           </div>
-          <div class="toast-body" id="toast1-body">
-            Option added to list.
+          <div class="toast-body" id="use-key-toast-body">
+            <div class="alert alert-success" id="use-key-toast-msg" role="alert">
+              Key Activated!
+            </div>
           </div>
         </div>
     </div>
@@ -1765,7 +1857,7 @@ function cleanupElementsInnerHTML(id) {
 
     <!-- Modal -->
     <div class="modal fade" id="keycardsModal" tabindex="-1" aria-labelledby="keycardsModalLabel" aria-hidden="true">
-      <div class="modal-dialog xmodal-xl" id="keycardsModalDialog">
+      <div class="modal-dialog modal-lg" id="keycardsModalDialog">
         <div class="modal-content">
           <div class="modal-header">
             <h5 class="modal-title" id="keycardsModalLabel">Keys and keycards</h5>

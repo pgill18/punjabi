@@ -175,9 +175,6 @@ async function loop() {
         if(piece.entity.collected) return 0;
         let current_time = timenow();
         let duration = current_time - piece.entity.start_time;
-        let interval_mult = piece.entity.interval_mult;
-        let quantity_mult = piece.entity.quantity_mult;
-        if(defined(interval_mult)) duration = duration * interval_mult;
         let isel = piece.entity.isel || 0;
     // console.log(piece)
     // console.log(`location = ${location})`)
@@ -191,9 +188,17 @@ async function loop() {
     //         return true;
     //     }
     // }
+        // let divisor = 1000/_game_speedx;
+        // let remaining = -(duration/divisor - piece.entity.duration[isel]*60)/_game_speedx;
+        // // console.log(`time remaining = ${remaining} seconds ...2i`)
         let divisor = 1000/_game_speedx;
-        let remaining = -(duration/divisor - piece.entity.duration[isel]*60)/_game_speedx;
+        let interval_mult = piece.entity.interval_mult;
+        let quantity_mult = piece.entity.quantity_mult;
+        if(defined(interval_mult)) divisor = divisor * interval_mult;
+
+        let remaining = -(duration/divisor - piece.entity.duration[isel]*60)/_game_speedx * interval_mult;
         // console.log(`time remaining = ${remaining} seconds ...2i`)
+
         if(remaining > 0) piece.entity.remaining = Math.floor(remaining);
         else piece.entity.remaining = 0;
         if(duration/divisor > piece.entity.duration[isel]*60) {
@@ -410,7 +415,8 @@ function addTile(index=0, level=0, variant=0, i=_scorner, {ready=1}={}) {
     // let image = _images[index][level];
     let image = _images[index][level][variant];
     let piece = _pieces[i];
-    let empty = piece.entity ? 0 : 1;
+    console.log(_pieces)
+    let empty = !piece || !piece.entity ? 1 : 0;
     if(!empty) return alert(`Space ${i} already occupied by ${piece.entity.toString()}`);
     let [found_people, available, needed, message] = allocate_people(index, level);
     if(empty) if(!found_people) return alert(message);

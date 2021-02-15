@@ -78,7 +78,10 @@ function whiteboard_fillReqs() {
     let qty1 = tile.level>2 ? 16 : 16;
     let qty2 = tile.level>2 ? 20 : 15;
     let qty3 = tile.level>2 ? 50 : 25;
-    let list = whiteboard.list.slice(-2);
+    let list = whiteboard.list.slice(2);
+    if(list.length>2) list = list.concat(list.slice(2,4)); // double the probability of the last two
+    if(list.length>2) list = list.concat(list.slice(2,4)); // triple the probability of the last two
+    console.log(`probables list: whiteboard =`, list)
     let type1 = list[random(0, list.length-1)];
     let type2 = list[random(0, list.length-1)];
     let type3 = list[random(0, list.length-1)];

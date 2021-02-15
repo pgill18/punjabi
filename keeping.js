@@ -11,34 +11,6 @@ let langscores = {
 let langscores_table;
 let langscores_overall;
 
-let nuggets = [
-    { name: 'goods', value: 20, type: 1 },
-    { name: 'finish', value: 4, type: 1 },
-    { name: 'speedx', value: 2, type: 1 },
-    { name: 'speedup', value: 4, type: 1 },
-    { name: 'attempts', value: 20, type: 1 },
-];
-let nugget_types = [
-    [
-        { name: 'goods', value: 20, type: 1 },
-        { name: 'speedx', value: 2, type: 1 },  // speedup all productions by 2x for 24 hours
-        { name: 'speedup', value: 4, type: 1 }, // speedup current productions by 4x
-    ],
-    [
-        { name: 'goods', value: 40, type: 2 },
-        { name: 'speedx', value: 5, type: 2 },  // speedup all productions by 5x for 24 hours
-        { name: 'speedup', value: 10, type: 2 }, // speedup current productions by 10x
-    ],
-    [
-        { name: 'goods', value: 60, type: 3 },
-        { name: 'speedx', value: 10, type: 3 },  // speedup all productions by 10x for 24 hours
-        { name: 'speedup', value: 100, type: 3 }, // speedup current productions by 100x
-    ],
-];
-
-let admin_mode_on = 0;
-let key_mode_on = 0;
-
 function get_lang_cluster_sdb() {
     let cluster = langscores.cluster || 1;
     let lang_cluster = langscores.clusters[cluster];

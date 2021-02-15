@@ -28,9 +28,15 @@ function expedition_updateScores({save=0}={}) {
     if(save) {
         localStorage.setItem('expedition', JSON.stringify(expedition));
         localStorage.setItem('langscores', JSON.stringify(langscores));
+        // localStorage.setItem('keycards', JSON.stringify(keycards));
         // localStorage.setItem('scorecard', JSON.stringify(scorecard));
         save_data();
     }
+}
+function expedition_saveKeycards({save=0}={}) {
+    // save state for later restore
+    localStorage.setItem('keycards', JSON.stringify(keycards));
+    if(save) { save_data(); }
 }
 function expedition_reBindNegotiationListeners() {
     $('a[id^="btn-negotiation-"]').each(function(index, el) {
@@ -160,16 +166,23 @@ function expedition_complete_platform({ cost={}, coll={}, rewards={}, cb=0, done
     if(done && langscores_overall > 0) {
         let chance = 10 + langscores_overall;
         console.log(`chance = ${chance}`)
-        if(Math.random()*100 < chance) {
+        if(Math.random()*100 < 100) {
             console.log(`YESSSSS! Collected a key!!`)
-            let nugget = nugget_types[0][random(0,nugget_types[0].length-1)];
-            nuggets.push(nugget);
-            alert(`Congratulations! You have collected a 'key' ... { name: ${nugget.name}, value: ${nugget.value} }\n You will soon know how to use it.`);
+            let id = random(0,keycards.types[0].length-1);
+            let keycard = keycards.types[0][id];
+            console.log(`id = ${id}, keycard =`, keycard)
+            console.log(`keycards.coll[id] =`, keycards.coll[id])
+            if(keycards.coll[id]) keycards.coll[id].count++;
+            else keycards.coll[id] = keycard;
+            keycards.coll[id].date = new Date(); // set latest to now
+            // keycards.coll.push(keycard);
+            expedition_saveKeycards({save: 0});
+            alert(`Congratulations! You have collected a 'key' ... { name: ${keycard.name}, value: ${keycard.value} }\n`);
         } else {
             console.log(`OOPSY! No key!!`)
         }
     }
-    console.log('nuggets=', nuggets)
+    console.log('keycards.coll=', keycards.coll)
 }
 
 function expedition_updateTrail(way, earnings) {
@@ -190,6 +203,10 @@ function expedition_restoreState() {
     let language_data = JSON.parse(localStorage.getItem('langscores')||"{}");
     // let scorecard_data = JSON.parse(localStorage.getItem('scorecard'));
     if(Object.keys(language_data).length) langscores = language_data;
+    // keycards data
+    let keycards_data = JSON.parse(localStorage.getItem('keycards')||"{}");
+    // let scorecard_data = JSON.parse(localStorage.getItem('scorecard'));
+    if(Object.keys(keycards_data).length) keycards = keycards_data;
 }
 function expedition_refresh() {
     console.log(`........ expedition_refresh()`)

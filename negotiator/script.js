@@ -77,6 +77,9 @@ function negotiator_fillReqs() {
   	let qty2 = tile.level>2 ? 20 : 15;
   	let qty3 = tile.level>2 ? 35 : 25;
   	let list = negotiator.list.slice(2);
+    if(list.length>2) list = list.concat(list.slice(0,2)); // double the probability of first two
+    if(list.length>2) list = list.concat(list.slice(0,2)); // triple the probability of first two
+    console.log(`probables list: negotiator =`, list)
   	let type1 = list[random(0, list.length-1)];
   	let type2 = list[random(0, list.length-1)];
   	let type3 = list[random(0, list.length-1)];

@@ -685,8 +685,14 @@ function ready(piece, location=-1) {
     // console.log(`piece.entity.start_time(${piece.entity.start_time})..2`)
     // console.log(`piece.entity.duration[isel]=${piece.entity.duration[isel]})..2`)
     // console.log(`ready(${piece.entity})..3`)
+    // let divisor = 1000/_game_speedx;
+    // let remaining = -(duration/divisor - piece.entity.duration[isel]*60)/_game_speedx;
+    // // console.log(`time remaining = ${remaining} seconds ...2i`)
     let divisor = 1000/_game_speedx;
-    let remaining = -(duration/divisor - piece.entity.duration[isel]*60)/_game_speedx;
+    let interval_mult = piece.entity.interval_mult;
+    let quantity_mult = piece.entity.quantity_mult;
+    if(defined(interval_mult)) divisor = divisor * interval_mult;
+    let remaining = -(duration/divisor - piece.entity.duration[isel]*60)/_game_speedx * interval_mult;
     // console.log(`time remaining = ${remaining} seconds ...2i`)
     if(duration/divisor > piece.entity.duration[isel]*60) {
         return true;
@@ -697,6 +703,7 @@ function ready(piece, location=-1) {
     // console.log(`ready(${piece.entity})..4`)
     return false; //TBD
 }
+
 function flag(piece) {
     if(!ready(piece)) return;
     _content_names = name_lookup;
@@ -710,6 +717,11 @@ function start(piece) {
     if(!piece || !piece.entity) return;
     if(!piece.entity.collected) return 0;
     update_status(piece);
+    // add active keys's effects
+    let {interval_mult, quantity_mult} = active_keycard_effects();
+    piece.entity.interval_mult = interval_mult;
+    piece.entity.quantity_mult = quantity_mult;
+    console.log({interval_mult, quantity_mult});
 
     let current_time = timenow();
     // piece.entity.entity.isel = isel; // comes from modal choice
@@ -740,6 +752,46 @@ function update_status(piece, {cancel=0}={}) {
     console.log(`added_time=`, added_time);
     console.log(`runtime=`, runtime);
     update_run_status();
+}
+function activate_keycard_on_existing_productions(keycard) {
+    console.log(`activate_keycard_on_existing_productions()`, keycard)
+    let remaining_time_overall = 0;
+    for(let piece of _pieces) {
+        if(!piece.entity || piece.entity.collected) continue;
+        if(!piece.entity.running) continue;
+        console.log(piece);
+        let remaining_time_piece = remaining_time(piece);
+        console.log(`before: `, {interval_mult: piece.entity.interval_mult, quantity_mult: piece.entity.quantity_mult, remaining_time_piece});
+        if(keycard.interval_mult) { if(piece.entity.interval_mult) piece.entity.interval_mult *= keycard.interval_mult; else piece.entity.interval_mult = keycard.interval_mult; }
+        if(keycard.quantity_mult) { if(piece.entity.quantity_mult) piece.entity.quantity_mult *= keycard.quantity_mult; else piece.entity.quantity_mult = keycard.quantity_mult; }
+        remaining_time_piece = remaining_time(piece);
+        console.log(`after: `, {interval_mult: piece.entity.interval_mult, quantity_mult: piece.entity.quantity_mult, remaining_time_piece});
+        if(remaining_time_piece < remaining_time_overall) continue;
+        remaining_time_overall = remaining_time_piece;
+    }
+    console.log(`remaining_time_overall=`, remaining_time_overall);
+    return remaining_time_overall;
+}
+function activate_keycard_on_one_existing_productions(keycard, loc) {
+    console.log(`activate_keycard_on_existing_productions()`, keycard)
+    let remaining_time_overall = 0, index = -1;
+    for(let piece of _pieces) {
+        index++;
+        if(!piece.entity || piece.entity.collected) continue;
+        if(!piece.entity.running) continue;
+        if(defined(loc) && index!==loc) continue;
+        console.log(piece);
+        let remaining_time_piece = remaining_time(piece);
+        console.log(`before: `, {interval_mult: piece.entity.interval_mult, quantity_mult: piece.entity.quantity_mult, remaining_time_piece});
+        if(defined(keycard.interval_mult)) { if(piece.entity.interval_mult) piece.entity.interval_mult *= keycard.interval_mult; else piece.entity.interval_mult = keycard.interval_mult; }
+        if(defined(keycard.quantity_mult)) { if(piece.entity.quantity_mult) piece.entity.quantity_mult *= keycard.quantity_mult; else piece.entity.quantity_mult = keycard.quantity_mult; }
+        remaining_time_piece = remaining_time(piece);
+        console.log(`after: `, {interval_mult: piece.entity.interval_mult, quantity_mult: piece.entity.quantity_mult, remaining_time_piece});
+        if(remaining_time_piece < remaining_time_overall) continue;
+        remaining_time_overall = remaining_time_piece;
+    }
+    console.log(`remaining_time_overall=`, remaining_time_overall);
+    return remaining_time_overall;
 }
 function remaining_time_overall() { // in ms (absolute)
     let remaining_time_overall = 0;
@@ -778,7 +830,9 @@ function collect(piece) {
     let id = "score-" + _content_names[piece.entity.content.index];
     console.log(`id=${id}, piece.entity.content.index=${piece.entity.content.index}, piece.entity.content.exists=${piece.entity}, piece.entity.content.value=${piece.entity.content.value}, _content_names=${_content_names[piece.entity.content.index]}`);
     let score_value = parseInt(document.getElementById(id).textContent);
-    document.getElementById(id).textContent = score_value + piece.entity.quantity;
+    let quantity_mult = piece.entity.quantity_mult || 1;
+    document.getElementById(id).textContent = score_value + piece.entity.quantity * quantity_mult;
+    // document.getElementById(id).textContent = score_value + piece.entity.quantity;
     // document.getElementById(id).textContent = score_value + piece.entity.content.value;
     piece.entity.collected = 1;
     piece.entity.running = 0;
@@ -1560,7 +1614,7 @@ function load_updated_data() {
     // console.log(people_db);
 }
 
-function load_saved_data(i=1, j=1) {
+function load_saved_data(i=1, j=1, level=0) {
     load_user();
     let db = window.localStorage.getItem(user.id);
     // console.log(db);
@@ -1576,6 +1630,7 @@ function load_saved_data(i=1, j=1) {
     if(!game_data_top) return;
     else tile.level = game_data_top.level || 0;
     let game_data = retrieve_scorecard(`build/space-${i}-${j}/${tile.level}`);
+    if(level) game_data = retrieve_scorecard(`build/space-${i}-${j}/${level}`);
     if(!game_data && !game_data_top.scorecard) return;
     if(!game_data) game_data = game_data_top; // older versions
     load_scorecard_saved_data(game_data.scorecard);
