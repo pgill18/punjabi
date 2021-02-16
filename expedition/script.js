@@ -166,7 +166,7 @@ function expedition_complete_platform({ cost={}, coll={}, rewards={}, cb=0, done
     if(done && langscores_overall > 0) {
         let chance = 10 + langscores_overall;
         console.log(`chance = ${chance}`)
-        if(Math.random()*100 < 100) {
+        if(Math.random()*100 < chance) {
             console.log(`YESSSSS! Collected a key!!`)
             let id = random(0,keycards.types[0].length-1);
             let keycard = keycards.types[0][id];
