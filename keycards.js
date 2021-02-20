@@ -54,7 +54,7 @@ function activate_keycard(keycard) {
 function active_keycard_effects() {
     let interval_mult = 1, quantity_mult = 1;
     for(let i=keycards.active.length-1; i>=0; i--) {
-        if(getDuration(keycards.active[i].init) >= 24*60*60) {
+        if(getDuration(keycards.active[i].init, i+1) >= 24*60*60) {
             keycards.active.splice(i, 1); // remove if been active for 24 hours
         }
     }
@@ -64,11 +64,12 @@ function active_keycard_effects() {
     }
     return {interval_mult, quantity_mult}
 }
-function getDuration(date) {
+function getDuration(date, exp=0) {
+    let mult = 2 ** exp; //Math.pow(2, exp);
     date = new Date(date)
     let now = new Date();
     let millisecs = now.getTime() - date.getTime();
-    return !date ? 0 : round(millisecs/1000);
+    return !date ? 0 : round(millisecs/1000) * mult;
 }
 
 let admin_mode_on = 0;

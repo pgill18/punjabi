@@ -177,7 +177,11 @@ function expedition_complete_platform({ cost={}, coll={}, rewards={}, cb=0, done
             keycards.coll[id].date = new Date(); // set latest to now
             // keycards.coll.push(keycard);
             expedition_saveKeycards({save: 0});
-            alert(`Congratulations! You have collected a 'key' ... { name: ${keycard.name}, value: ${keycard.value} }\n`);
+            if(keycard.value) {
+                alert(`Congratulations! You have collected a 'key' ... { name: ${keycard.name}, value: ${keycard.value} }\n`);
+            } else {
+                alert(`Congratulations! You have collected a 'key' ... { name: ${keycard.name} }\n`);
+            }
         } else {
             console.log(`OOPSY! No key!!`)
         }
