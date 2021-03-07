@@ -152,6 +152,7 @@ function whiteboard_initialize(index) {
         if(index===1) data.origlines = [].concat(idata[0].origlines.slice(0,2), idata[1].origlines.slice(0,2));
         if(index===2) data.origlines = [].concat(idata[0].origlines, idata[1].origlines);
         // data.origlines = [].concat(idata[0].origlines, idata[1].origlines, idata[2].origlines);
+        data.origlines3 = [].concat(idata[0].origlines.slice(0,3), idata[1].origlines.slice(0,3));
         whiteboard.idata = idata;
     }
 
@@ -169,6 +170,7 @@ function whiteboard_initialize(index) {
         let idata = db_lvl.slice(x);
         if(x >= db_lvl.length-2) idata = db_lvl.slice(-2);
         if(elevel===4) data.origlines = [].concat(idata[0].origlines, idata[1].origlines);
+        if(elevel===4) data.origlines3 = [].concat(idata[0].origlines.slice(0,3), idata[1].origlines.slice(0,3));
         // else data.origlines = [].concat(idata[0].origlines.slice(0,2), idata[1].origlines.slice(0,2));
         else {
             let platform = whiteboard.expedition.platform || 1;
@@ -178,6 +180,7 @@ function whiteboard_initialize(index) {
                 console.log(`... langdb =`, langdb)
                 console.log(`... elevel=${elevel}, platform=${platform}, idata =`, idata)
                 data.origlines = [].concat(idata[0].origlines.slice(0,2), idata[1].origlines.slice(0,2));
+                data.origlines3 = [].concat(idata[0].origlines.slice(0,3), idata[1].origlines.slice(0,3));
             }
             if(idata) {
                 console.log(`... idata =`, idata)
@@ -188,6 +191,7 @@ function whiteboard_initialize(index) {
         if(!data.origlines) {
             let idata = db_lvl.slice(x);
             data.origlines = [].concat(idata[0].origlines.slice(0,2), idata[1].origlines.slice(0,2));
+            data.origlines3 = [].concat(idata[0].origlines.slice(0,3), idata[1].origlines.slice(0,3));
         }
     }
 
@@ -432,7 +436,158 @@ function whiteboard_credit_langscore() {
         return text;
     }
 }
-function whiteboard_check(pay=1) {
+
+function whiteboard_listen() {
+    whiteboard.done = 0;
+    window.speechSynthesis.getVoices();
+    // const synthesis = { voices: [], pitch: 1, rate: 1, volume: 1 }; // defaults
+    const SpeechRecognition = window.speechRecognition || window.webkitSpeechRecognition;
+    const SpeechGrammarList = window.speechGrammarList || window.webkitSpeechGrammarList;
+    // setTimeout(() => synthesis.voices = window.speechSynthesis.getVoices(), 100);
+    // speak();
+    listen();
+
+    function speak() {
+        let correct_row_words = whiteboard.data.origlines[irow];
+        speakit(correct_row_words);
+    }
+
+    function listen() {
+        let recognition = new SpeechRecognition();
+        // recognition.lang = 'pa-Guru-IN'; //'hi-IN'; // 'pa-IN'; // info.lang = 'en-US';
+        recognition.lang = 'hi-IN'; // 'pa-IN'; // info.lang = 'en-US';
+        let speechGrammarList = new SpeechGrammarList();
+
+        speechGrammarList.addFromString(grammar(), 1);
+        recognition.grammars = speechGrammarList;
+        console.log(grammar());
+        // words.length=4 words=एचडी,एक,किताब,है
+
+        recognition.continuous = true;
+        recognition.start();
+        recognition.onresult = function(event) {
+            if (event.results.length > 0) {
+                let latest = event.results[event.results.length-1][0];
+                console.log(`... ${latest.transcript} `);
+                console.log(latest);
+
+                // keep only the last word
+                let transcript = latest.transcript.trim().toLowerCase();
+                transcript = hi2pa(transcript);
+                let words = transcript.split(/\s+/);
+                console.log(`words.length=${words.length} words=${words}`)
+                if(words.length > 1 || transcript.match(/number/i)) {
+                    let endword = words[words.length-1];
+                    console.log(`endword=${endword}`);
+                    let data_square = whiteboard_read_square();
+                    let mismatches = whiteboard_compare_square();
+                    let start1 = round(data_square.length/4) * 1;
+                    let start2 = round(data_square.length/4) * 2;
+                    let start3 = round(data_square.length/4) * 3;
+                    let start4 = round(data_square.length/4) * 4;
+                    console.log(`whiteboard.data.origlines3 =`, whiteboard.data.origlines3)
+                    let orig_words1 = whiteboard.data.origlines3[2]; // 0,1,2 (eng,pbe,pbi)
+                    let orig_words2 = whiteboard.data.origlines3[5]; // 3,4,5 (eng,pbe,pbi)
+                    let success = 0;
+                    if(mismatches[0] >= start1 && mismatches[0] < start3) success = whiteboard_voice_work_square(1, words, orig_words1);
+                    if(mismatches[0] >= start3 && mismatches[0] < start4) success = whiteboard_voice_work_square(3, words, orig_words2);
+                    if(success || whiteboard.done) recognition.stop();
+                }
+            }
+        }
+    }
+    function grammar() {
+        let grammar_words = [];
+        let data_square = whiteboard_read_square();
+        let mismatches = whiteboard_compare_square();
+        let start1 = round(data_square.length/4) * 1;
+        let start2 = round(data_square.length/4) * 2;
+        let start3 = round(data_square.length/4) * 3;
+        let start4 = round(data_square.length/4) * 4;
+        let orig_words1 = whiteboard.data.origlines3[2]; // 0,1,2 (eng,pbe,pbi)
+        let orig_words2 = whiteboard.data.origlines3[5]; // 3,4,5 (eng,pbe,pbi)
+        // let grammar_words = [].concat(orig_words1, orig_words2);
+        if(mismatches[0] >= start1 && mismatches[0] < start3) grammar_words = orig_words1.slice().map(word => pa2hi(word));
+        if(mismatches[0] >= start3 && mismatches[0] < start4) grammar_words = orig_words2.slice().map(word => pa2hi(word));
+        // let grammar_names = ['Tusīṁ', 'kī', 'kara', 'rahē', 'hō'];
+        return '#JSGF V1.0; grammar phrase; public <phrase> = ' + grammar_words.join(" | ") +' ;';
+    } 
+    function pa2hi(word) {
+        let oword = word.split('').map(c => c.charCodeAt(0)).map(c => c<2565||c>2694?c:c-256).map(c => String.fromCharCode(c)).join('');
+        console.log(`pa2hi(${word}) => ${oword}`)
+        return oword;
+        // return word.split('').map(c => c.charCodeAt(0)).map(c => c<2565||c>2694?c:c-256).map(c => String.fromCharCode(c)).join('');
+    }
+    function hi2pa(word) {
+        let oword = word.split('').map(c => c.charCodeAt(0)).map(c => c<2309||c>2438?c:c+256).map(c => String.fromCharCode(c)).join('')
+        console.log(`hi2pa(${word}) => ${oword}`)
+        return oword;
+        // return word.split('').map(c => c.charCodeAt(0)).map(c => c<2309||c>2438?c:c+256).map(c => String.fromCharCode(c)).join('')
+    }  
+}
+
+function whiteboard_voice_work_square(irow, words, orig_words) {
+    let data_square = whiteboard_read_square();
+    let start = round(data_square.length/4) * irow;
+    let end = round(data_square.length/4) * (irow+1);
+    let row_words = data_square.slice(start, end);
+    console.log('row_words', row_words);
+    console.log('origlines', whiteboard.data.origlines);
+    console.log('original', whiteboard.data.original);
+    console.log('orig_words', orig_words);
+    let correct_row_words = whiteboard.data.origlines[irow];
+    let beginword = words[0];
+    let endword = words[words.length-1];
+    // if(beginword && endword) {
+    if(match(words, orig_words)) {
+        whiteboard_voice_fix_square(irow, correct_row_words);
+        return 1;
+    }
+    return 0;
+    function match(words, orig_words) {
+        console.log(`... match(words, orig_words)`);
+        console.log('words', words)
+        console.log('orig_words', orig_words)
+        // let mismatches = orig_words.map((word,i) => [word,words[i]]).filter(([orig_word,new_word]) => new_word!==orig_word);
+        // let mismatches = orig_words.map((word,i) => word===words[i] ? 0 : 1).reduce((a,b) => a+b, 0);
+        let mismatches = deep_match(words, orig_words);
+        let mismatches_n =  round(mismatches.reduce((a,b) => a+b, 0));
+        let mismatches_pc =  round(mismatches.reduce((a,b) => a+b, 0)/mismatches.length * 100);
+        console.log('mismatches =', mismatches, ', mismatches % =', mismatches_pc);
+        // if(mismatches.length>1) whiteboard_bsalert(mismatches.map(([a,b]) => `${a}!==${b}`).join(' , '), 'Missed', 'warning');
+        if(mismatches_pc>30) whiteboard_bsalert(diffString(words.join(' '), orig_words.join(' ')), 'Missed', 'warning');
+        else whiteboard_bsalert('', 'Great job!', 'success');
+        return mismatches_n <= 1; // tolerate 1 error
+    }
+    function deep_match(words, orig_words, index=0) {
+        let mismatches = orig_words.map(a => 1);
+        for(let word of words) {
+            for(let i=index; i<orig_words.length; i++) {
+                if(word===orig_words[i]) {
+                    mismatches[i] = 0; index = i+1;
+                }
+            }
+        }
+        return mismatches;
+    }
+}
+function whiteboard_voice_fix_square(irow, row_words) {
+    let start = round(whiteboard.data.model.length/4) * irow;
+    row_words.map((a,i) => whiteboard.data.model[start+i] = row_words[i]);
+    $(`#whiteboard-content`).html( whiteboard_json2html( whiteboard.data ) );
+    $("#whiteboard-square").sortable({ tolerance: 'pointer' });
+}
+
+function whiteboard_voice_check(pay=0) {
+    whiteboard_listen();
+    // if(pay) whiteboard_deduct(whiteboard.costStructure[0]);
+    // console.log(whiteboard);
+    // let mismatches = whiteboard_compare_square();
+    // console.log(`mismatches=`, mismatches);
+    // return mismatches.length===0;  //return passed;
+}
+function whiteboard_voice_check2(pay=0) {
+    // whiteboard_listen();
     if(pay) whiteboard_deduct(whiteboard.costStructure[0]);
     console.log(whiteboard);
     let mismatches = whiteboard_compare_square();
@@ -440,12 +595,23 @@ function whiteboard_check(pay=1) {
     return mismatches.length===0;  //return passed;
 }
 
+function whiteboard_check(pay=1) {
+    if(pay) whiteboard_deduct(whiteboard.costStructure[0]);
+    console.log(whiteboard);
+    let mismatches = whiteboard_compare_square();
+    console.log(`mismatches=`, mismatches);
+    return mismatches.length===0;  //return passed;
+}
 function whiteboard_submit() {
     if(whiteboard.attemptsLeft<=0) {
         return whiteboard_bsalert(`Sorry, you ran out of attempts. Try again later.`, 'Missed', 'danger');
     }
     whiteboard.attemptsLeft--;
-    whiteboard_deduct(whiteboard.costStructure[1]);
+    if(whiteboard_check(0) && whiteboard.attemptsLeft>=2) {
+        console.log(`Hooray! You one shotted it!!`);
+    } else {
+        whiteboard_deduct(whiteboard.costStructure[1]);
+    }
     if(whiteboard.expedition_mode) { whiteboard.expedition.started = 1; }
     if(whiteboard_check(0)) {
         $(`#whiteboard-submit`).attr('hidden', true);
@@ -508,6 +674,7 @@ function whiteboard_finish() {
     }
     $(`#whiteboard-submit`).attr('hidden', false);
     $(`#whiteboard-finish`).attr('hidden', true);
+    whiteboard.done = 1;
     save_data();
 }
 
@@ -546,6 +713,7 @@ function whiteboard_expedition_mode(mode_value=true, {state,cb}={}) {
     // whiteboard.expedition.cb = cb;
 }
 function whiteboard_expedition_cb() {
+    whiteboard.done = 1;
     whiteboard_expedition_mode(false);
     if(!whiteboard.expedition.cb) return;
     if(typeof whiteboard.expedition.cb !== 'function') return;

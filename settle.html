@@ -34,6 +34,7 @@
     <script src="keeping.js"></script>
     <script src="keycards.js"></script>
     <script src="langinfo.js"></script>
+    <script src="lib/diff.js"></script>
     <script src="settle_canvas.js"></script>
     <script src="settle_script.js"></script>
     <link rel="stylesheet" href="settle_styles.css"></link>
@@ -1980,6 +1981,7 @@ function cleanupElementsInnerHTML(id) {
             <!-- <button type="button" class="btn btn-link col-1" onclick="whiteboard_hint()">Hint</button> -->
             <!-- <button type="button" class="btn btn-secondary" onclick="whiteboard_check('whiteboardModal1')">Check</button> -->
             <!-- <button type="button" class="btn btn-primary" onclick="whiteboard_submit('whiteboardModal1')">Submit</button> -->
+            <button type="button" class="btn btn-light px-2 py-1" data-toggle="tooltip" data-placement="left" title="Speak in Punjabi to Check if correct. Costs nothing. Always a good choice." onclick="whiteboard_voice_check()" id="whiteboard-voice"><span class="material-icons" style="font-size:22px;">keyboard_voice</span></button>
             <button type="button" class="btn btn-primary col-1" data-toggle="tooltip" data-placement="left" title="Check if correct. Costs half the submit amount. But you will need to submit again if correct. Good choice if you are NOT confident of your selection." onclick="whiteboard_check()" id="whiteboard-check">Check</button>
             <button type="button" class="btn btn-primary col-1" data-toggle="tooltip" data-placement="right" title="Check and submit. Costs twice the check amount. But you don't need to submit again if correct. Good choice if you are confident of your selection." onclick="whiteboard_submit()" id="whiteboard-submit">Submit</button>
             <button type="button" class="btn btn-primary col-1" data-toggle="tooltip" data-placement="top" title="Collect and dismiss." onclick="whiteboard_finish()" id="whiteboard-finish" data-dismiss="modal" aria-label="Close" hidden>Finish</button>
