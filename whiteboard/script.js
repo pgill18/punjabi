@@ -472,7 +472,7 @@ function whiteboard_listen() {
         let recognition = new SpeechRecognition();
         recognition.lang = 'pa-Guru-IN'; //'hi-IN'; // 'pa-IN'; // info.lang = 'en-US';
         // recognition.lang = 'hi-IN'; // 'pa-IN'; // info.lang = 'en-US';
-        recognition.maxAlternatives = 3;
+        recognition.maxAlternatives = 10;
         let speechGrammarList = new SpeechGrammarList();
 
         speechGrammarList.addFromString(grammar(), 1);
@@ -550,6 +550,7 @@ function whiteboard_listen() {
     function pa2hi0(word) { return word }
     function hi2pa0(word) { return word }
 }
+
 function pa2hi(word) {
     let oword = word.split('').map(c => c.charCodeAt(0)).map(c => c<2565||c>2694?c:c-256).map(c => String.fromCharCode(c))
         .filter(a => a!==2562).join('');
