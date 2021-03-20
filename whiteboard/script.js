@@ -443,8 +443,8 @@ function speakit(text){
     console.log(pa2hi(text));
     // let synth = window.speechSynthesis;
     let utterThis = new SpeechSynthesisUtterance(pa2hi(text));
-    utterThis.voice = voices[9];
-    // utterThis.voice = pickVoice('hi-IN', voices) || voices[3];
+    // utterThis.voice = voices[9];
+    utterThis.voice = pickVoice('hi-IN', voices) || voices[9];
     synth.speak(utterThis);
 }
 function pickVoice(lang, voices) {
