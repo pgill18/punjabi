@@ -444,7 +444,23 @@ function speakit(text){
     // let synth = window.speechSynthesis;
     let utterThis = new SpeechSynthesisUtterance(pa2hi(text));
     utterThis.voice = voices[9];
+    // utterThis.voice = pickVoice('hi-IN', voices) || voices[3];
     synth.speak(utterThis);
+}
+function pickVoice(lang, voices) {
+    for(let voice of voices) {
+        if(voice.lang===lang) return voice;
+    }
+}
+function whiteboard_speak() {
+    let data_square = whiteboard_read_square();
+    let mismatches = whiteboard_compare_square();
+    let start1 = round(data_square.length/4) * 1;
+    let start2 = round(data_square.length/4) * 2;
+    let start3 = round(data_square.length/4) * 3;
+    let start4 = round(data_square.length/4) * 4;
+    if(mismatches[0] >= start1 && mismatches[0] < start3) speakit(whiteboard.data.origlines3[2].join(" "));
+    if(mismatches[0] >= start3 && mismatches[0] < start4) speakit(whiteboard.data.origlines3[5].join(" "));
 }
 
 function whiteboard_listen() {
@@ -454,19 +470,8 @@ function whiteboard_listen() {
     const SpeechRecognition = window.speechRecognition || window.webkitSpeechRecognition;
     const SpeechGrammarList = window.speechGrammarList || window.webkitSpeechGrammarList;
     // setTimeout(() => synthesis.voices = window.speechSynthesis.getVoices(), 100);
-    speak();
+    // whiteboard_speak();
     listen();
-
-    function speak() {
-        let data_square = whiteboard_read_square();
-        let mismatches = whiteboard_compare_square();
-        let start1 = round(data_square.length/4) * 1;
-        let start2 = round(data_square.length/4) * 2;
-        let start3 = round(data_square.length/4) * 3;
-        let start4 = round(data_square.length/4) * 4;
-        if(mismatches[0] >= start1 && mismatches[0] < start3) speakit(whiteboard.data.origlines3[2].join(" "));
-        if(mismatches[0] >= start3 && mismatches[0] < start4) speakit(whiteboard.data.origlines3[5].join(" "));
-    }
 
     function listen() {
         let recognition = new SpeechRecognition();
@@ -482,10 +487,13 @@ function whiteboard_listen() {
 
         recognition.continuous = true;
         recognition.start();
+        setTimeout(restartMicWithTimer, 10000);
+        // startMicWithTimer();
         recognition.onresult = function(event) {
             // if (event.results.length > 0) {
             //     let latest = event.results[event.results.length-1][0];
             let resultsList = event.results[event.results.length-1];
+            let prev_count = 0;  whiteboard.candidates = [];
             for(let resindex=0; resindex<resultsList.length; resindex++) {
                 console.log(`....................... ${resindex} of ${resultsList.length} ................................`);
                 let latest = resultsList[resindex];
@@ -512,23 +520,94 @@ function whiteboard_listen() {
                     let success1 = 0, success2 = 0;
                     if(mismatches[0] >= start1 && mismatches[0] < start3) success1 = whiteboard_voice_work_square(1, words, orig_words1);
                     if(mismatches[0] >= start3 && mismatches[0] < start4) success2 = whiteboard_voice_work_square(3, words, orig_words2);
-                    if(success2 || whiteboard.done) recognition.stop();
-                    else if(success1) speak();
+                    if(success2 || whiteboard.done) { recognition.stop(); console.log(`recognition.stop() ... called after success2`); }
+                    // else if(success1) whiteboard_speak();
+                    if(whiteboard.candidates.length > prev_count) whiteboard.candidates[whiteboard.candidates.length-1].resindex = resindex;
+                    prev_count = whiteboard.candidates.length;
                     if(success1 || success2 || whiteboard.done) break;
                 }
             }
+            console.log( whiteboard.candidates.sort((a,b) => a.mismatches_pc-b.mismatches_pc) );
+            console.log(`All interpretations:`);
+            let index = -1;
+            for(let candidate of whiteboard.candidates.reverse()) {
+                console.log(`....................... ${++index} [index ${candidate.resindex}] ................................`);
+                console.log('said-words =', candidate.words);
+                console.log('orig_words =', candidate.orig_words);
+                console.log('mismatches =', candidate.mismatches);
+                console.log('mismatches_pc =', candidate.mismatches_pc);
+            }
         };
         recognition.onstart = function(event) {
+            console.log(`recognition.onstart() ... triggered`);
             let button = document.getElementById('whiteboard-voice');
             // if(button) button.style.backgroundColor = 'lime';
             if(button) $(button).removeClass('btn-light')
-            if(button) $(button).addClass('btn-success')
+            if(button) $(button).addClass('btn-warning')
+            // clearMicTimer();
+            // initMicTimer();
         }
         recognition.onend = function(event) {
+            console.log(`recognition.onend() ... triggered`);
             let button = document.getElementById('whiteboard-voice');
             // if(button) button.style.backgroundColor = 'white';
-            if(button) $(button).removeClass('btn-success')
+            if(button) $(button).removeClass('btn-warning')
             if(button) $(button).addClass('btn-light')
+        }
+        recognition.onspeechstart = function(event) {
+            console.log(`recognition.onspeechstart() ... triggered`);
+            // clearMicTimer();
+        }
+        recognition.onspeechend = function(event) {
+            console.log(`recognition.onspeechend() ... triggered`);
+            // initMicTimer();
+        }
+        recognition.onaudiostart = function(event) {
+            console.log(`recognition.onaudiostart() ... triggered`);
+            // clearMicTimer();
+        }
+        recognition.onaudioend = function(event) {
+            console.log(`recognition.onaudioend() ... triggered`);
+            // initMicTimer();
+        }
+        recognition.onsoundstart = function(event) {
+            console.log(`recognition.onsoundstart() ... triggered`);
+            // clearMicTimer();
+        }
+        recognition.onsoundend = function(event) {
+            console.log(`recognition.onsoundend() ... triggered`);
+            // initMicTimer();
+        }
+        recognition.onresult2 = function(event) {
+            console.log(`recognition.onresult() ... triggered`);
+            // initMicTimer();
+        }
+        recognition.onnomatch = function(event) {
+            console.log(`recognition.onnomatch() ... triggered`);
+            // initMicTimer();
+        }
+        recognition.onerror = function(event) {
+            console.log(`recognition.onerror() ... triggered`);
+            // initMicTimer();
+        }
+        // function initMicTimer() {
+        //     if(whiteboard.mic_timer) return;
+        //     whiteboard.mic_timer = setTimeout(function() {
+        //         recognition.stop();
+        //     }, 10000); // 10 secs to start speaking again
+        // }
+        // function clearMicTimer() {
+        //     if(whiteboard.mic_timer) clearTimeout(whiteboard.mic_timer);
+        //     whiteboard.mic_timer = undefined;
+        // }
+        function restartMicWithTimer(secs=10) {
+            if(whiteboard.done) return;
+            if(!whiteboard.speech_running) {
+                recognition.abort();
+                // recognition.start();
+                setTimeout(function() {recognition.start()}, 10);
+            }
+            setTimeout(restartMicWithTimer, secs*1000);
         }
     }
     function grammar() {
@@ -552,8 +631,8 @@ function whiteboard_listen() {
 }
 
 function pa2hi(word) {
-    let oword = word.split('').map(c => c.charCodeAt(0)).map(c => c<2565||c>2694?c:c-256).map(c => String.fromCharCode(c))
-        .filter(a => a!==2562).join('');
+    let oword = word.split('').map(c => c.charCodeAt(0)).map(c => c<2560||c>2694?c:c-256).filter(a => a!==2562)
+        .map(c => String.fromCharCode(c)).join('');
     console.log(`pa2hi(${word}) => ${oword}`)
     return oword;
     // return word.split('').map(c => c.charCodeAt(0)).map(c => c<2565||c>2694?c:c-256).map(c => String.fromCharCode(c)).join('');
@@ -595,6 +674,7 @@ function whiteboard_voice_work_square(irow, words, orig_words) {
         let mismatches_n =  round(mismatches.reduce((a,b) => a+b, 0));
         let mismatches_pc =  round(mismatches.reduce((a,b) => a+b, 0)/mismatches.length * 100);
         console.log('mismatches =', mismatches, ', mismatches % =', mismatches_pc);
+        whiteboard.candidates.push({words, orig_words, mismatches, mismatches_pc});
         // if(mismatches.length>1) whiteboard_bsalert(mismatches.map(([a,b]) => `${a}!==${b}`).join(' , '), 'Missed', 'warning');
         if(mismatches_pc>30) whiteboard_bsalert(diffString(words.join(' '), orig_words.join(' ')), 'Missed', 'warning');
         else whiteboard_bsalert('', 'Great job!', 'success');

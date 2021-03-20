@@ -10,6 +10,159 @@ let langscores = {
 };
 let langscores_table;
 let langscores_overall;
+let langwork = {
+    day: [], week: [], month: [], year: []
+};
+
+setTimeout(function() {
+    let score = getVoiceScoreAggregate();
+    console.log(`... getVoiceScoreAggregate() ... ${score}`);
+}, 3000);
+
+function getVoiceScoreAggregate() {
+    let lang_cluster = get_lang_cluster_sdb();
+    let score = getGridTotal( lang_cluster.records );
+    return score;
+}
+function getGridTotal( dbv ) {
+    return getBarsAggregate(dbv, 'day', 5) + getBarsAggregate(dbv, 'week', 5) + getBarsAggregate(dbv, 'month', 4) + getBarsAggregate(dbv, 'year', 4);
+}
+
+function getBarsAggregate(dbv, key, max=5) {
+    console.log(`getBarsAggregate(dbv, key=${key}, max=${max})`)
+    let lookup = {
+      day: { key: 'day', loop: 1 },
+      week: { key: 'day', loop: 7 },
+      month: { key: 'week', loop: 4 },
+      quarter: { key: 'month', loop: 3 },
+      year: { key: 'quarter', loop: 4 },
+    }
+    let loop_count = lookup[key].loop;
+    let sub_key = lookup[key].key;
+    let counter = 0;
+    for(let i=0; i<loop_count; i++) {
+        let count = getBarsTotal(dbv, sub_key, i, max);
+        counter += count;
+        console.log(`i=${i}, count=${count}, counter=${counter}`)
+    }
+    console.log(`return=${counter}`);
+    return counter;
+}
+
+function getBarsTotal(dbv, key, i, max=5) {
+    console.log(`getBarsTotal(dbv, key=${key}, max=${max})`)
+    let list = dbv; //dbv[key];
+    if(!list || !list.length) return 0;
+    let counter = 0;
+    for(let entry of list) {
+        // if(!entry.mode || entry.mode!=='voice') continue;
+        if(!entry.date) continue;
+        // console.log(entry)
+        let date = new Date(entry.date);
+        if(!isDateRange(date, key, i)) continue;
+        counter++
+        // console.log(`    key=${key}, counter=${counter}, entry:`, date.toLocaleString())
+        if(counter >= max) break;
+    }
+    // console.log(`return=${counter}`);
+    return counter;
+}
+
+function isDateRange(date, key, n) { // n = 0 to any integer
+    let min = new Date();
+    let max = new Date();
+    date = new Date(date);
+    date.setMilliseconds(0);
+    min.setMilliseconds(0);
+    max.setMilliseconds(0);
+    switch(key) {
+        case 'today': min.setDate(min.getDate() - 1); break;
+        case 'day': min.setDate(min.getDate() - (n+1)); max.setDate(max.getDate() - n); break;
+        case 'week': min.setDate(min.getDate() - ((n+1)*7)); max.setDate(max.getDate() - (n*7)); break; // 7 days in a week
+        case 'month': min.setDate(min.getDate() - ((n+1)*30)); max.setDate(max.getDate() - (n*30)); break; // 30 days in a month
+        case 'quarter': min.setDate(min.getDate() - ((n+1)*90)); max.setDate(max.getDate() - (n*90)); break; // 90 days in a quarter
+        case 'year': min.setDate(min.getDate() - ((n+1)*365)); max.setDate(max.getDate() - (n*365)); break; // 365 days in a year
+    }
+    // printDate(min, "min", ", ", false);
+    // printDate(date, "date", ", ", false);
+    // printDate(max, "max", ", ", false);
+    // console.log(`...........................................`);
+    return date > min && date <= max;
+}
+
+// function getGridTotal( dbv ) {
+//   return getBarsTotal(dbv, 'day', 5) + getBarsTotal(dbv, 'week', 5) + getBarsTotal(dbv, 'month', 4) + getBarsTotal(dbv, 'year', 4);
+// }
+
+// function getBarsAggregate(dbv, key, max=5) {
+//     let list = dbv[key];
+//     if(!list || !list.length) return 0;
+//     let counter = 0;
+//     for(let entry of list) {
+//         let date = new Date(entry);
+//         if(!isDateRange(date, key)) continue;
+//         if(++counter >= max) break;
+//     }
+//     return counter;
+// }
+
+// function getBarsTotal(dbv, key, max=5) {
+//     let list = dbv[key];
+//     if(!list || !list.length) return 0;
+//     let counter = 0;
+//     for(let entry of list) {
+//         let date = new Date(entry);
+//         if(!isDateRange(date, key)) continue;
+//         if(++counter >= max) break;
+//     }
+//     return counter;
+// }
+
+// function isDateRange(date, key, n) { // n = 0 to any integer
+//     let min = new Date();
+//     let max = new Date();
+//     switch(key) {
+//         case 'day': min.setDate(min.getDate() - 1); break;
+//         case 'week': min.setDate(min.getDate() - n+1); max.setDate(max.getDate() - n); break;
+//         case 'month': min.setDate(min.getDate() - ((n+1)*7)); max.setDate(max.getDate() - (n*7)); break; // 7 days in a week
+//         case 'year': min.setDate(min.getDate() - ((n+1)*90)); max.setDate(max.getDate() - (n*90)); break; // 90 days in a quarter
+//     }
+//     return date >= min && date <= max;
+// }
+
+function getBarsTotal__old(dbv, key, max=5) {
+    let list = dbv[key];
+    if(!list || !list.length) return 0;
+    let counter = 0;
+    for(let entry of list) {
+        let date = new Date(entry);
+        if(!isDateRange(date, key)) continue;
+        if(++counter >= max) break;
+    }
+    return counter;
+}
+
+function isDateRange__old(date, key) {
+    let deadline = new Date();
+    switch(key) {
+        case 'day': deadline.setDate(date.getDate() - 1);
+        case 'week': deadline.setDate(date.getDate() - 7);
+        case 'month': deadline.setDate(date.getDate() - 30);
+        case 'year': deadline.setDate(date.getDate() - 365);
+    }
+    return date > deadline;
+}
+
+function populate_langwork(mode='speech') {
+    for(let cluster of langscores.clusters) {
+        if(!cluster.records || !cluster.records.length) continue;
+        for(let record of cluster.records) {
+            if(!record || !record.date) continue;
+            if(!record.mode || record.mode!==mode) continue;
+            let date = new Date(record.date);
+        }
+    }
+}
 
 function get_lang_cluster_sdb() {
     let cluster = langscores.cluster || 1;
@@ -27,6 +180,7 @@ function credit_langscores(tense={}) {
         langcard.scores[`.${key}`] = ++langcard.scores[`.${key}`] || 1;
         langcard.scores[`${key}=${value}`] = ++langcard.scores[`${key}=${value}`] || 1;
     }
+    tense.date = new Date();
     lang_cluster.records.push(tense);
 }
 
