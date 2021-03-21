@@ -189,6 +189,9 @@
             <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="show-langscores" style="font-size:22px;color:gray;background:white; float-left" onclick="launchLanguageReportModal()" data-toggle="tooltip" title="Langauge scores">insights</i></a>
           </li>
           <li class="nav-item">
+            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="show-actscores" style="font-size:22px;color:gray;background:white; float-left" onclick="launchActivityReportModal()" data-toggle="tooltip" title="Activity scores">bar_chart</i></a>
+          </li>
+          <li class="nav-item">
             <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="unlock-space" style="font-size:24px;color:gray;background:white; float-right" onclick="unlock_space()" data-toggle="tooltip" title="Unlock space" hidden>filter_tilt_shift</i></a>
           </li>
           <li class="nav-item">
@@ -197,7 +200,7 @@
           <li class="nav-item">
             <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="delete-level" style="font-size:24px;color:gray;background:white; float-right" onclick="deleteLevelProgress()" data-toggle="tooltip" title="Delete progress of this level" hidden>clear</i></a>
           </li>
-          <li class="nav-item ml-auto mr-5">
+          <li class="nav-item ml-auto mr-3">
             <a type="button"><i class="material-icons btn-light mt-1" id="level-up" style="font-size:24px;color:gray;background:white;" onclick="levelUp(true)" data-toggle="tooltip" title="Level up. Deletes current level." hidden>plus_one</i></a>
           </li>
         </ul>
@@ -602,6 +605,18 @@
           // $('#langscoresModal').modal();
           loadLangScores(language_data.clusters[1]);
           $(`#langscoresModal`).modal('show');
+      }
+      function launchActivityReportModal() {
+          let language_data = langscores; //JSON.parse(localStorage.getItem('langscores')||"{}");
+          console.log(language_data)
+          if(!language_data || !language_data.clusters) return alert(`No activity scores data yet!`);
+          // let language_report = JSON.stringify(language_data.clusters[1]);
+          // alert(language_report);
+          // callLanguageReportModal();
+          // $('#langscoresModal').modal();
+          let cluster = language_data.clusters[1];
+          loadActivityScores(cluster.records);
+          $(`#actscoresModal`).modal('show');
       }
       $(() => {
           createMiniFormModal();
@@ -1653,6 +1668,59 @@ function cleanupElementsInnerHTML(id) {
   </script>
 
   <script>
+    function loadActivityScores(records) {
+      let dbv = getGridLists(records, ['voice']);
+      // console.log('dbv=', dbv);
+
+      $(`#activity-report`).html( getGrid( dbv ) );
+      $(`#activity-total`).html( `Total:: ` + getGridTotal(records, ['voice']));
+
+      function getGrid( dbv ) {
+        return getBars(dbv, 'day', 5) + getBars(dbv, 'week', 5) + getBars(dbv, 'month', 5); // + getBars(dbv, 'year');
+      }
+
+      function getBars(dbv, key, max=4) {
+        let list = dbv[key];
+        if(!list || !list.length) list = [];
+        let html_cols = '';
+        for(let entry of list) {
+          let date = new Date(entry);
+          html_cols += `
+              <div class="col mb-4">
+                <div class="card bg-success text-white h-100">
+                  <div class="card-body px-2">
+                    <p class="card-text" style="font-size: 15px">${date.toLocaleTimeString('en-US')}</p>
+                    <p class="card-text" style="font-size: 15px">${date.toLocaleDateString('en-US')}</p>
+                  </div>
+                </div>
+              </div>
+          `.trim();
+        }
+        for(let i=list.length; i<max; i++) {
+          html_cols += `
+              <div class="col mb-4">
+                <div class="card border-gray bg-light h-100">
+                  <div class="card-body px-2">
+                    <p class="card-text" style="font-size: 15px"></p>
+                    <p class="card-text" style="font-size: 15px"></p>
+                  </div>
+                </div>
+              </div>
+          `.trim();
+        }
+        let total = dbv[key].length;
+        return `
+          <div class="row row-cols-1 row-cols-md-6">
+            <lead class="col-1">${key} (${total})</lead>
+            ${html_cols}
+          </div>
+        `.trim();
+      }
+    }
+
+  </script>
+
+  <script>
 
     function loadLangScores(json_data) {
         load_data2(json_data);
@@ -1729,7 +1797,7 @@ function cleanupElementsInnerHTML(id) {
             $(`#langscoresModalOverallScore`).html(overall_score_html)
             console.log('table', table)
             let report_html = table_html(table);
-            $(`#report`).html(report_html);
+            $(`#language-report`).html(report_html);
             // $(`#report`).text(JSON.stringify(scores));
             function get_keys(coll, name) {
                 return [name].concat(Object.keys(coll));
@@ -1834,6 +1902,29 @@ function cleanupElementsInnerHTML(id) {
   </script>
 
     <!-- Modal -->
+    <div class="modal fade" id="actscoresModal" tabindex="-1" aria-labelledby="actscoresModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg" id="actscoresModalDialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title col-4" id="staticBackdropLabel">Activity</h5>
+            <p class="modal-title col-2" id="activity-total">Total: 0</p>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body" id="activity-report">
+            <!-- <ul class="list-group list-group-flush" id="activity-report"> -->
+            <!-- </ul> -->
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal -->
     <div class="modal fade" id="langscoresModal" tabindex="-1" aria-labelledby="langscoresModalLabel" aria-hidden="true">
       <div class="modal-dialog xmodal-xl" id="langscoresModalDialog">
         <div class="modal-content">
@@ -1846,7 +1937,7 @@ function cleanupElementsInnerHTML(id) {
             </button>
           </div>
           <div class="modal-body">
-            <ul class="list-group list-group-flush" id="report">
+            <ul class="list-group list-group-flush" id="language-report">
             </ul>
           </div>
           <div class="modal-footer">

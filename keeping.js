@@ -21,15 +21,27 @@ setTimeout(function() {
 
 function getVoiceScoreAggregate() {
     let lang_cluster = get_lang_cluster_sdb();
-    let score = getGridTotal( lang_cluster.records );
+    let score = getGridTotal( lang_cluster.records, ['voice'] );
     return score;
 }
-function getGridTotal( dbv ) {
-    return getBarsAggregate(dbv, 'day', 5) + getBarsAggregate(dbv, 'week', 5) + getBarsAggregate(dbv, 'month', 4) + getBarsAggregate(dbv, 'year', 4);
+function getGridTotal( records, filter ) {
+    if(filter && filter.length) records = records.filter(record => filter.includes(record.mode));
+    return getBarsAggregateTotal(records, 'day', 5) + getBarsAggregateTotal(records, 'week', 5) + getBarsAggregateTotal(records, 'month', 5); // + getBarsAggregateTotal(records, 'year', 4);
+}
+function getGridLists( records, filter ) {
+    console.log(`... getGridLists(records, filter) ...`);
+    console.log('records =', records);
+    console.log('filter =', filter);
+    if(filter && filter.length) records = records.filter(record => filter.includes(record.mode));
+    return { day: getBarsAggregateList(records, 'day', 5), week: getBarsAggregateList(records, 'week', 5), month: getBarsAggregateList(records, 'month', 5) }; //, year: getBarsAggregateList(records, 'year', 4) };
 }
 
-function getBarsAggregate(dbv, key, max=5) {
-    console.log(`getBarsAggregate(dbv, key=${key}, max=${max})`)
+function getBarsAggregateTotal(records, key, max=5) {
+    let output = getBarsAggregateList(records, key, max);
+    return output.length;
+}
+function getBarsAggregateList(records, key, max=5) {
+    console.log(`getBarsAggregate(records, key=${key}, max=${max})`)
     let lookup = {
       day: { key: 'day', loop: 1 },
       week: { key: 'day', loop: 7 },
@@ -39,33 +51,37 @@ function getBarsAggregate(dbv, key, max=5) {
     }
     let loop_count = lookup[key].loop;
     let sub_key = lookup[key].key;
-    let counter = 0;
+    let output = [];
     for(let i=0; i<loop_count; i++) {
-        let count = getBarsTotal(dbv, sub_key, i, max);
-        counter += count;
-        console.log(`i=${i}, count=${count}, counter=${counter}`)
+        let outlist = getBarsList(records, sub_key, i, 1);
+        if(outlist && outlist.length) output.push(...outlist);
+        console.log(`i=${i}, count=${outlist.length}, counter=${output.length}`)
     }
-    console.log(`return=${counter}`);
-    return counter;
+    console.log(`return=${output.length}`, output);
+    return output;
 }
 
-function getBarsTotal(dbv, key, i, max=5) {
-    console.log(`getBarsTotal(dbv, key=${key}, max=${max})`)
-    let list = dbv; //dbv[key];
+function getBarsTotal(records, key, i, max=1) {
+    let output = getBarsList(records, key, i, max);
+    return output.length;
+}
+function getBarsList(records, key, i, max=1) {
+    console.log(`getBars(records, key=${key}, max=${max})`)
+    let list = records; //dbv[key];
     if(!list || !list.length) return 0;
-    let counter = 0;
+    let output = [];
     for(let entry of list) {
         // if(!entry.mode || entry.mode!=='voice') continue;
         if(!entry.date) continue;
         // console.log(entry)
         let date = new Date(entry.date);
         if(!isDateRange(date, key, i)) continue;
-        counter++
+        output.push(date);
         // console.log(`    key=${key}, counter=${counter}, entry:`, date.toLocaleString())
-        if(counter >= max) break;
+        if(output.length >= max) break;
     }
     // console.log(`return=${counter}`);
-    return counter;
+    return output;
 }
 
 function isDateRange(date, key, n) { // n = 0 to any integer
@@ -90,68 +106,45 @@ function isDateRange(date, key, n) { // n = 0 to any integer
     return date > min && date <= max;
 }
 
-// function getGridTotal( dbv ) {
-//   return getBarsTotal(dbv, 'day', 5) + getBarsTotal(dbv, 'week', 5) + getBarsTotal(dbv, 'month', 4) + getBarsTotal(dbv, 'year', 4);
-// }
-
-// function getBarsAggregate(dbv, key, max=5) {
-//     let list = dbv[key];
-//     if(!list || !list.length) return 0;
-//     let counter = 0;
-//     for(let entry of list) {
-//         let date = new Date(entry);
-//         if(!isDateRange(date, key)) continue;
-//         if(++counter >= max) break;
+// function getBarsAggregateTotal(records, key, max=5) {
+//     console.log(`getBarsAggregate(records, key=${key}, max=${max})`)
+//     let lookup = {
+//       day: { key: 'day', loop: 1 },
+//       week: { key: 'day', loop: 7 },
+//       month: { key: 'week', loop: 4 },
+//       quarter: { key: 'month', loop: 3 },
+//       year: { key: 'quarter', loop: 4 },
 //     }
+//     let loop_count = lookup[key].loop;
+//     let sub_key = lookup[key].key;
+//     let counter = 0;
+//     for(let i=0; i<loop_count; i++) {
+//         let count = getBarsTotal(records, sub_key, i, max);
+//         counter += count;
+//         console.log(`i=${i}, count=${count}, counter=${counter}`)
+//     }
+//     console.log(`return=${counter}`);
 //     return counter;
 // }
 
-// function getBarsTotal(dbv, key, max=5) {
-//     let list = dbv[key];
+// function getBarsTotal(records, key, i, max=5) {
+//     console.log(`getBarsTotal(records, key=${key}, max=${max})`)
+//     let list = records; //dbv[key];
 //     if(!list || !list.length) return 0;
 //     let counter = 0;
 //     for(let entry of list) {
-//         let date = new Date(entry);
-//         if(!isDateRange(date, key)) continue;
-//         if(++counter >= max) break;
+//         // if(!entry.mode || entry.mode!=='voice') continue;
+//         if(!entry.date) continue;
+//         // console.log(entry)
+//         let date = new Date(entry.date);
+//         if(!isDateRange(date, key, i)) continue;
+//         counter++
+//         // console.log(`    key=${key}, counter=${counter}, entry:`, date.toLocaleString())
+//         if(counter >= max) break;
 //     }
+//     // console.log(`return=${counter}`);
 //     return counter;
 // }
-
-// function isDateRange(date, key, n) { // n = 0 to any integer
-//     let min = new Date();
-//     let max = new Date();
-//     switch(key) {
-//         case 'day': min.setDate(min.getDate() - 1); break;
-//         case 'week': min.setDate(min.getDate() - n+1); max.setDate(max.getDate() - n); break;
-//         case 'month': min.setDate(min.getDate() - ((n+1)*7)); max.setDate(max.getDate() - (n*7)); break; // 7 days in a week
-//         case 'year': min.setDate(min.getDate() - ((n+1)*90)); max.setDate(max.getDate() - (n*90)); break; // 90 days in a quarter
-//     }
-//     return date >= min && date <= max;
-// }
-
-function getBarsTotal__old(dbv, key, max=5) {
-    let list = dbv[key];
-    if(!list || !list.length) return 0;
-    let counter = 0;
-    for(let entry of list) {
-        let date = new Date(entry);
-        if(!isDateRange(date, key)) continue;
-        if(++counter >= max) break;
-    }
-    return counter;
-}
-
-function isDateRange__old(date, key) {
-    let deadline = new Date();
-    switch(key) {
-        case 'day': deadline.setDate(date.getDate() - 1);
-        case 'week': deadline.setDate(date.getDate() - 7);
-        case 'month': deadline.setDate(date.getDate() - 30);
-        case 'year': deadline.setDate(date.getDate() - 365);
-    }
-    return date > deadline;
-}
 
 function populate_langwork(mode='speech') {
     for(let cluster of langscores.clusters) {

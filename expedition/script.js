@@ -163,7 +163,7 @@ function expedition_complete_platform({ cost={}, coll={}, rewards={}, cb=0, done
     expedition_loadLanguageData(expedition.state, {preload:1});
     getLangScore();
     console.log('langscores_overall=', langscores_overall);
-    let voicescore_aggregate = 0; //getVoiceScoreAggregate();
+    let voicescore_aggregate = getVoiceScoreAggregate();
     console.log('voicescore_aggregate=', voicescore_aggregate);
     let langscores_aggregate = langscores_overall + voicescore_aggregate;
     console.log('langscores_aggregate=', langscores_aggregate);

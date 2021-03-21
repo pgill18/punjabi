@@ -453,6 +453,9 @@ function pickVoice(lang, voices) {
     }
 }
 function whiteboard_speak() {
+    if(whiteboard.speech) whiteboard.speech.autoRestartMode = 0;
+    if(whiteboard.recognition && whiteboard.recognition.abort) whiteboard.recognition.abort();
+    console.log(`1... whiteboard_speak()`, (new Date()).toLocaleString())
     let data_square = whiteboard_read_square();
     let mismatches = whiteboard_compare_square();
     let start1 = round(data_square.length/4) * 1;
@@ -461,23 +464,30 @@ function whiteboard_speak() {
     let start4 = round(data_square.length/4) * 4;
     if(mismatches[0] >= start1 && mismatches[0] < start3) speakit(whiteboard.data.origlines3[2].join(" "));
     if(mismatches[0] >= start3 && mismatches[0] < start4) speakit(whiteboard.data.origlines3[5].join(" "));
+    console.log(`2... whiteboard_speak()`, (new Date()).toLocaleString());
+    setTimeout(function() { whiteboard_listen() }, 4*1000);
 }
 
 function whiteboard_listen() {
-    whiteboard.done = 0;
     window.speechSynthesis.getVoices();
-    // const synthesis = { voices: [], pitch: 1, rate: 1, volume: 1 }; // defaults
-    const SpeechRecognition = window.speechRecognition || window.webkitSpeechRecognition;
-    const SpeechGrammarList = window.speechGrammarList || window.webkitSpeechGrammarList;
-    // setTimeout(() => synthesis.voices = window.speechSynthesis.getVoices(), 100);
-    // whiteboard_speak();
     listen();
 
     function listen() {
+        whiteboard.done = 0;
+        whiteboard.speech = { autoRestartMode: 1, lastStartedAt: new Date(), success1: 0, success2: 0 };
+        // const synthesis = { voices: [], pitch: 1, rate: 1, volume: 1 }; // defaults
+        const SpeechRecognition = window.speechRecognition || window.webkitSpeechRecognition;
+        const SpeechGrammarList = window.speechGrammarList || window.webkitSpeechGrammarList;
+        // setTimeout(() => synthesis.voices = window.speechSynthesis.getVoices(), 100);
+        // whiteboard_speak();
+        // said-words = (5) ["ਤੁਸੀਂ", "ਇਕ", "ਹਫ਼ਤੇ", "ਲਈ", "ਰੋਕ"]
+        // orig_words = (5) ["ਤੁਸੀਂ", "ਇੱਕ", "ਹਫ਼ਤੇ", "ਲਈ", "ਜਾਓ"]
+
         let recognition = new SpeechRecognition();
         recognition.lang = 'pa-Guru-IN'; //'hi-IN'; // 'pa-IN'; // info.lang = 'en-US';
         // recognition.lang = 'hi-IN'; // 'pa-IN'; // info.lang = 'en-US';
         recognition.maxAlternatives = 10;
+        whiteboard.recognition = recognition;
         let speechGrammarList = new SpeechGrammarList();
 
         speechGrammarList.addFromString(grammar(), 1);
@@ -487,7 +497,7 @@ function whiteboard_listen() {
 
         recognition.continuous = true;
         recognition.start();
-        setTimeout(restartMicWithTimer, 10000);
+        // setTimeout(restartMicWithTimer, 10000);
         // startMicWithTimer();
         recognition.onresult = function(event) {
             // if (event.results.length > 0) {
@@ -520,7 +530,11 @@ function whiteboard_listen() {
                     let success1 = 0, success2 = 0;
                     if(mismatches[0] >= start1 && mismatches[0] < start3) success1 = whiteboard_voice_work_square(1, words, orig_words1);
                     if(mismatches[0] >= start3 && mismatches[0] < start4) success2 = whiteboard_voice_work_square(3, words, orig_words2);
-                    if(success2 || whiteboard.done) { recognition.stop(); console.log(`recognition.stop() ... called after success2`); }
+                    whiteboard.speech.success1 = success1;
+                    whiteboard.speech.success2 = success2;
+                    if(success1 && whiteboard.expedition.tenses[0]) whiteboard.expedition.tenses[0].mode = "voice";
+                    if(success2 && whiteboard.expedition.tenses[1]) whiteboard.expedition.tenses[1].mode = "voice";
+                    if(success1 || success2 || whiteboard.done) { recognition.abort(); console.log(`recognition.abort() ... called after success2`); }
                     // else if(success1) whiteboard_speak();
                     if(whiteboard.candidates.length > prev_count) whiteboard.candidates[whiteboard.candidates.length-1].resindex = resindex;
                     prev_count = whiteboard.candidates.length;
@@ -537,6 +551,8 @@ function whiteboard_listen() {
                 console.log('mismatches =', candidate.mismatches);
                 console.log('mismatches_pc =', candidate.mismatches_pc);
             }
+            // if(whiteboard.speech.success1) { listen(); }
+            if(recognition.abort) { recognition.abort(); } // this forces starting over through onend()
         };
         recognition.onstart = function(event) {
             console.log(`recognition.onstart() ... triggered`);
@@ -547,13 +563,41 @@ function whiteboard_listen() {
             // clearMicTimer();
             // initMicTimer();
         }
-        recognition.onend = function(event) {
+        recognition.onend__orig = function(event) {
             console.log(`recognition.onend() ... triggered`);
             let button = document.getElementById('whiteboard-voice');
             // if(button) button.style.backgroundColor = 'white';
             if(button) $(button).removeClass('btn-warning')
             if(button) $(button).addClass('btn-light')
         }
+        recognition.onend = function(event) {
+            console.log(`recognition.onend() ... triggered`);
+            if(recognition.abort) { recognition.abort(); }
+            // remove hot-mic color
+            let button = document.getElementById('whiteboard-voice');
+            if(button) $(button).removeClass('btn-warning')
+            if(button) $(button).addClass('btn-light')
+            // too frequent start stops means audio malfunction
+            if(((new Date().getTime()) - whiteboard.speech.lastStartedAt) < 100) {
+                console.log(`Speech recognition stopping starting too much! Not restrating this time.`);
+                return;
+            }
+            // if(!whiteboard.done && whiteboard.speech.autoRestartMode) {
+            //     recognition.start();
+            //     whiteboard.speech.lastStartedAt = new Date();
+            // }
+            if(!whiteboard.done && whiteboard.speech.autoRestartMode) {
+                listen();
+            }
+        }
+        recognition.onerror = function(event) {
+            console.log(`recognition.onerror() ... triggered`);
+            switch (event.error) {
+                case 'not-allowed':
+                case 'service-not-allowed':
+                    whiteboard.speech.autoRestartMode = 0; break;
+            }
+        };
         recognition.onspeechstart = function(event) {
             console.log(`recognition.onspeechstart() ... triggered`);
             // clearMicTimer();
@@ -579,17 +623,17 @@ function whiteboard_listen() {
             // initMicTimer();
         }
         recognition.onresult2 = function(event) {
-            console.log(`recognition.onresult() ... triggered`);
+            // console.log(`recognition.onresult() ... triggered`);
             // initMicTimer();
         }
         recognition.onnomatch = function(event) {
-            console.log(`recognition.onnomatch() ... triggered`);
+            // console.log(`recognition.onnomatch() ... triggered`);
             // initMicTimer();
         }
-        recognition.onerror = function(event) {
-            console.log(`recognition.onerror() ... triggered`);
-            // initMicTimer();
-        }
+        // recognition.onerror = function(event) {
+        //     console.log(`recognition.onerror() ... triggered`);
+        //     // initMicTimer();
+        // }
         // function initMicTimer() {
         //     if(whiteboard.mic_timer) return;
         //     whiteboard.mic_timer = setTimeout(function() {
