@@ -2,21 +2,27 @@
 let langscores = {
     cluster: 1,
     clusters: [ {blank:1},
-        { degree: 0, cards: [], records: [] },
-        { degree: 0, cards: [], records: [] },
-        { degree: 0, cards: [], records: [] },
-        { degree: 0, cards: [], records: [] },
+        { degree: 0, cards: [], cards2: [], records: [] },
+        { degree: 0, cards: [], cards2: [], records: [] },
+        { degree: 0, cards: [], cards2: [], records: [] },
+        { degree: 0, cards: [], cards2: [], records: [] },
     ]
 };
-let langscores_table;
-let langscores_overall;
 let langwork = {
     day: [], week: [], month: [], year: []
 };
+let langscores_table;
+let langscores_overall = 0;
+let speechscores_table;
+let speechscores_overall = 0;
 
 setTimeout(function() {
     let score = getVoiceScoreAggregate();
     console.log(`... getVoiceScoreAggregate() ... ${score}`);
+    if(!langscores.clusters[1].cards2) langscores.clusters[1].cards2 = [];
+    if(!langscores.clusters[2].cards2) langscores.clusters[2].cards2 = [];
+    if(!langscores.clusters[3].cards2) langscores.clusters[3].cards2 = [];
+    if(!langscores.clusters[4].cards2) langscores.clusters[4].cards2 = [];
 }, 3000);
 
 function getVoiceScoreAggregate() {
@@ -169,11 +175,18 @@ function credit_langscores(tense={}) {
     let lang_cluster = get_lang_cluster_sdb();
     let degree = lang_cluster.degree;
     let langcard = lang_cluster.cards[degree];
+    let speechcard = lang_cluster.cards2[degree];
     if(!langcard) langcard = lang_cluster.cards[degree] = {scores:{}};
+    if(!speechcard) speechcard = lang_cluster.cards2[degree] = {scores:{}};
     for(let [key,value] of Object.entries(tense)) {
         langcard.scores[value] = ++langcard.scores[value] || 1;
         langcard.scores[`.${key}`] = ++langcard.scores[`.${key}`] || 1;
         langcard.scores[`${key}=${value}`] = ++langcard.scores[`${key}=${value}`] || 1;
+        if(tense.mode==='speech') {
+            speechcard.scores[value] = ++speechcard.scores[value] || 1;
+            speechcard.scores[`.${key}`] = ++speechcard.scores[`.${key}`] || 1;
+            speechcard.scores[`${key}=${value}`] = ++speechcard.scores[`${key}=${value}`] || 1;
+        }
     }
     tense.date = new Date();
     lang_cluster.records.push(tense);
@@ -188,13 +201,16 @@ function getLangScore() {
     let scores = calcLangScores(langscores.clusters[1]);
     langscores_table = scores.table;
     langscores_overall = scores.overall;
+    scores = calcLangScores(langscores.clusters[1], 'speech');
+    speechscores_table = scores.table;
+    speechscores_overall = scores.overall;
     return langscores_overall;
 }
 
-function calcLangScores(json_data) {
-    return load_data(json_data);
+function calcLangScores(json_data, mode) {
+    return load_data(json_data, mode);
 
-    function load_data(json_data) {
+    function load_data(json_data, mode) {
         console.log(`load_data(json_data): json_data=`, json_data)
         console.log(`load_data(json_data): json_data.cards[0]=`, json_data.cards[0])
         // $.getJSON(file_url, async function (scorecard) {
