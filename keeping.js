@@ -33,6 +33,7 @@ function getGridLists( records, filter ) {
     console.log('records =', records);
     console.log('filter =', filter);
     if(filter && filter.length) records = records.filter(record => filter.includes(record.mode));
+    console.log('filtered-records =', records);
     return { day: getBarsAggregateList(records, 'day', 5), week: getBarsAggregateList(records, 'week', 5), month: getBarsAggregateList(records, 'month', 5) }; //, year: getBarsAggregateList(records, 'year', 4) };
 }
 
@@ -53,7 +54,8 @@ function getBarsAggregateList(records, key, max=5) {
     let sub_key = lookup[key].key;
     let output = [];
     for(let i=0; i<loop_count; i++) {
-        let outlist = getBarsList(records, sub_key, i, 1);
+        let sub_max = key==='day' ? max : 1;
+        let outlist = getBarsList(records, sub_key, i, sub_max);
         if(outlist && outlist.length) output.push(...outlist);
         console.log(`i=${i}, count=${outlist.length}, counter=${output.length}`)
     }

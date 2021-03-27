@@ -165,7 +165,7 @@ function expedition_complete_platform({ cost={}, coll={}, rewards={}, cb=0, done
     console.log('langscores_overall=', langscores_overall);
     let voicescore_aggregate = getVoiceScoreAggregate();
     console.log('voicescore_aggregate=', voicescore_aggregate);
-    let langscores_aggregate = langscores_overall + voicescore_aggregate;
+    let langscores_aggregate = langscores_overall + speechscores_overall + voicescore_aggregate;
     console.log('langscores_aggregate=', langscores_aggregate);
     if(done && langscores_aggregate > 0) {
         let chance = 10 + langscores_aggregate;

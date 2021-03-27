@@ -189,6 +189,9 @@
             <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="show-langscores" style="font-size:22px;color:gray;background:white; float-left" onclick="launchLanguageReportModal()" data-toggle="tooltip" title="Langauge scores">insights</i></a>
           </li>
           <li class="nav-item">
+            <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="show-langscores" style="font-size:22px;color:gray;background:white; float-left" onclick="launchSpeechReportModal()" data-toggle="tooltip" title="Speaking scores">lens_blur</i></a>
+          </li>
+          <li class="nav-item">
             <a type="button"><i class="material-icons btn-light mt-1 ml-3 mr-0" id="show-actscores" style="font-size:22px;color:gray;background:white; float-left" onclick="launchActivityReportModal()" data-toggle="tooltip" title="Activity scores">bar_chart</i></a>
           </li>
           <li class="nav-item">
@@ -604,6 +607,17 @@
           // callLanguageReportModal();
           // $('#langscoresModal').modal();
           loadLangScores(language_data.clusters[1]);
+          $(`#langscoresModal`).modal('show');
+      }
+      function launchSpeechReportModal() {
+          let language_data = langscores; //JSON.parse(localStorage.getItem('langscores')||"{}");
+          console.log(language_data)
+          if(!language_data || !language_data.clusters) return alert(`No speech scores data yet!`);
+          let language_report = JSON.stringify(language_data.clusters[1]);
+          // alert(language_report);
+          // callLanguageReportModal();
+          // $('#langscoresModal').modal();
+          loadLangScores(language_data.clusters[1], 'speech');
           $(`#langscoresModal`).modal('show');
       }
       function launchActivityReportModal() {
@@ -1722,17 +1736,18 @@ function cleanupElementsInnerHTML(id) {
 
   <script>
 
-    function loadLangScores(json_data) {
-        load_data2(json_data);
+    function loadLangScores(json_data, mode) {
+        load_data2(json_data, mode);
         // load_data();
 
-        function load_data2(json_data) {
+        function load_data2(json_data, mode) {
             console.log(`load_data2(json_data): json_data=`, json_data)
             console.log(`load_data2(json_data): json_data.cards[0]=`, json_data.cards[0])
             // $.getJSON(file_url, async function (scorecard) {
             // function report(scorecard) {
                 // let card = scorecard.cards[0];
                 let card = json_data.cards[0] || {scores:{}};
+                if(mode==='speech') card = json_data.cards2 ? json_data.cards2[0] : {scores:{}};
                 let scores = { pron: {}, verb: {}, noun: {}, pos: {} };
                 for(let [key,value] of Object.entries(card.scores)) {
                     console.log(`... [key,value] = [${key}, ${value}] ...`)
