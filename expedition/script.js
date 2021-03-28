@@ -163,12 +163,14 @@ function expedition_complete_platform({ cost={}, coll={}, rewards={}, cb=0, done
     expedition_loadLanguageData(expedition.state, {preload:1});
     getLangScore();
     console.log('langscores_overall=', langscores_overall);
-    let voicescore_aggregate = getVoiceScoreAggregate();
-    console.log('voicescore_aggregate=', voicescore_aggregate);
-    let langscores_aggregate = langscores_overall + speechscores_overall + voicescore_aggregate;
+    console.log('speechscores_overall=', speechscores_overall);
+    let voicescore_regularity = getVoiceRegularityScore();
+    console.log('voicescore_regularity=', voicescore_regularity);
+    let langscores_aggregate = langscores_overall + speechscores_overall + voicescore_regularity;
     console.log('langscores_aggregate=', langscores_aggregate);
     if(done && langscores_aggregate > 0) {
-        let chance = 10 + langscores_aggregate;
+        // let chance = 10 + langscores_aggregate;
+        let chance = langscores_aggregate;
         console.log(`chance = ${chance}`)
         if(Math.random()*100 < chance) {
             console.log(`YESSSSS! Collected a key!!`)

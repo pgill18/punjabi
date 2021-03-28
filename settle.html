@@ -617,7 +617,7 @@
           // alert(language_report);
           // callLanguageReportModal();
           // $('#langscoresModal').modal();
-          loadLangScores(language_data.clusters[1], 'speech');
+          loadLangScores(language_data.clusters[1], 'voice');
           $(`#langscoresModal`).modal('show');
       }
       function launchActivityReportModal() {
@@ -1741,25 +1741,28 @@ function cleanupElementsInnerHTML(id) {
         // load_data();
 
         function load_data2(json_data, mode) {
-            console.log(`load_data2(json_data): json_data=`, json_data)
-            console.log(`load_data2(json_data): json_data.cards[0]=`, json_data.cards[0])
+            // console.log(`load_data2(json_data): json_data=`, json_data)
+            // console.log(`load_data2(json_data): json_data.cards[0]=`, json_data.cards[0])
+            // console.log(`load_data2(json_data): json_data.cards2[0]=`, json_data.cards2[0])
             // $.getJSON(file_url, async function (scorecard) {
             // function report(scorecard) {
                 // let card = scorecard.cards[0];
-                let card = json_data.cards[0] || {scores:{}};
-                if(mode==='speech') card = json_data.cards2 ? json_data.cards2[0] : {scores:{}};
+                // let card = json_data.cards[0] || {scores:{}};
+                let card = {scores:{}};
+                if(!mode) card = json_data.cards[0] || {scores:{}};
+                if(mode==='voice') card = json_data.cards2 ? json_data.cards2[0] : {scores:{}};
                 let scores = { pron: {}, verb: {}, noun: {}, pos: {} };
                 for(let [key,value] of Object.entries(card.scores)) {
-                    console.log(`... [key,value] = [${key}, ${value}] ...`)
+                    // console.log(`... [key,value] = [${key}, ${value}] ...`)
                     if(key.match(/^verb=/)) { let word = get_word(key); inc_score(word,'verb',value); }
                     if(key.match(/^noun=/)) { let word = get_word(key); inc_score(word,'noun',value); }
                     if(key.match(/^pron=/)) { let word = get_word(key); inc_score(word,'pron',value); }
                 }
-                console.log('scores=', scores);
+                // console.log('scores=', scores);
                 load_report(scores);
                 function get_word(key) { return key.split('=')[1]; }
                 function inc_score(word, pos, value) {
-                    console.log(`inc_score(${word}, ${pos}, ${value})`, scores)
+                    // console.log(`inc_score(${word}, ${pos}, ${value})`, scores)
                     value = Math.round(+value*2);
                     scores[pos][word] = value;
                     scores.pos[pos] = value;
@@ -1825,7 +1828,7 @@ function cleanupElementsInnerHTML(id) {
             function get_avg(list) {
                 if(!list || !list.length) return 0;
                 let average = list.reduce((a,b) => +a+b,0)/list.length;
-                console.log(`average =`, average);
+                // console.log(`average =`, average);
                 return Math.round(average);
                 // return list.reduce((a,b) => +a+b,0)/list.length;
             }

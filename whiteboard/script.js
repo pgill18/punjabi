@@ -211,6 +211,7 @@ function whiteboard_initialize(index) {
         } else {
             data.original = flatten_lines(data.origlines);
             data.model = flatten_lines(shuffle_lines(data.origlines));
+            data.model2 = flatten_lines(shuffle_lines2(data.origlines));
         }
     } else {
         if(index===0) {
@@ -220,10 +221,12 @@ function whiteboard_initialize(index) {
         if(index===1) {
             data.original = flatten_lines(data.origlines);
             data.model = flatten_lines(shuffle_lines(data.origlines));
+            data.model2 = flatten_lines(shuffle_lines2(data.origlines));
         }
         if(index===2) {
             data.original = flatten_lines(data.origlines);
             data.model = flatten_lines(shuffle_lines(data.origlines));
+            data.model2 = flatten_lines(shuffle_lines2(data.origlines));
         }
         if(index===3) { // all scrambled (never used)
             data.original = flatten_lines(data.origlines);
@@ -279,7 +282,30 @@ function whiteboard_refresh_html(data, auto=0) {
     $("#whiteboard-square").sortable({ tolerance: 'pointer' });
 }
 
-function whiteboard_json2html(data) {
+function whiteboard_json2html(data, auto=0) {
+    if(auto) if(data.model2) data.model = data.model2;
+    if(0 && auto) {
+        let data_model = flatten_lines(shuffle_lines2(data.origlines));
+        if(data.model[0]) data.model[0] = data_model[0];
+        if(data.model[2]) data.model[2] = data_model[2];
+        function flatten_lines(lines, list=[]) {
+            lines.map(line => list.push(...line));
+            return list;
+        }
+        function shuffle_lines(lines, output=[]) {
+            lines.map(line => output.push(shuffles(line.slice())));
+            return output;
+        }
+        function shuffle_lines2(lines, output=[]) {
+            lines.map((line,i) => output.push( i%2===1 ? shuffles(line.slice()) : line.slice() ));
+            return output;
+        }
+        function shuffles(list) { // shuffle but keep empty-words at the end
+            let spaces = list.filter(a => a==="");
+            list = shuffle(list).filter(a => a!=="");
+            return list.concat(spaces);
+        }
+    }
     // console.log(`... whiteboard_json2html`);
     // console.log(data);
     whiteboard.aaa = 1; //mismatches.reduce((a,b) => a+b, 0);
@@ -538,6 +564,7 @@ function whiteboard_listen() {
                     // else if(success1) whiteboard_speak();
                     if(whiteboard.candidates.length > prev_count) whiteboard.candidates[whiteboard.candidates.length-1].resindex = resindex;
                     prev_count = whiteboard.candidates.length;
+                    if(success2) whiteboard_submit();
                     if(success1 || success2 || whiteboard.done) break;
                 }
             }
@@ -752,7 +779,7 @@ function whiteboard_voice_work_square(irow, words, orig_words) {
 function whiteboard_voice_fix_square(irow, row_words) {
     let start = round(whiteboard.data.model.length/4) * irow;
     row_words.map((a,i) => whiteboard.data.model[start+i] = row_words[i]);
-    $(`#whiteboard-content`).html( whiteboard_json2html( whiteboard.data ) );
+    $(`#whiteboard-content`).html( whiteboard_json2html( whiteboard.data, 1 ) );
     $("#whiteboard-square").sortable({ tolerance: 'pointer' });
 }
 
@@ -792,6 +819,7 @@ function whiteboard_submit() {
     }
     if(whiteboard.expedition_mode) { whiteboard.expedition.started = 1; }
     if(whiteboard_check(0)) {
+        $(`#whiteboard-check`).attr('hidden', true);
         $(`#whiteboard-submit`).attr('hidden', true);
         $(`#whiteboard-finish`).attr('hidden', false);
         if(whiteboard.expedition_mode) {
@@ -850,6 +878,7 @@ function whiteboard_finish() {
         // whiteboard_credit_langscore();
         // localStorage.setItem('langscores', JSON.stringify(langscores));
     }
+    $(`#whiteboard-check`).attr('hidden', false);
     $(`#whiteboard-submit`).attr('hidden', false);
     $(`#whiteboard-finish`).attr('hidden', true);
     whiteboard.done = 1;
