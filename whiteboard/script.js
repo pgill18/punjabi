@@ -465,7 +465,7 @@ function whiteboard_speak() {
     if(mismatches[0] >= start1 && mismatches[0] < start3) speakit(whiteboard.data.origlines3[2].join(" "));
     if(mismatches[0] >= start3 && mismatches[0] < start4) speakit(whiteboard.data.origlines3[5].join(" "));
     console.log(`2... whiteboard_speak()`, (new Date()).toLocaleString());
-    setTimeout(function() { whiteboard_listen() }, 4*1000);
+    setTimeout(function() { whiteboard_listen() }, 3*1000);
 }
 
 function whiteboard_listen() {
