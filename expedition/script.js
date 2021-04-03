@@ -82,6 +82,7 @@ function expedition_genRewards(state, type=1) {
     let coll1 = (Math.random() > 0.5) ? {lumber:15*mult} : {stone:16*mult};
     let coll2 = (Math.random() > 0.5) ? {iron:15*mult} : {dye:16*mult};
     let coll = (type===2 && tile.level>=1) ? coll2 : coll1;
+    if(coll===coll2) if(Math.random()<0.5) coll = coll1; // 25% chance for all types
     let rewards1 = (Math.random() > 0.9) ? {attempts:3} : {};
     let rewards2 = (Math.random() > 0.99) ? {attempts:3} : {};
     let rewards = type===1 ? rewards1 : rewards2;
