@@ -38,7 +38,8 @@ async function whiteboard_loadWhiteboardData({level=1, platform=1, cluster=1, de
         let irow = Math.floor((platform-1)/5);
         console.log(`... load_url_data(nouns, verbs, irow=${irow}, elevel=${elevel}, difficulty-level=${level}, file_url)`, file_url)
         let {form, perfect, continuous, adj, adv} = get_tense_setup(level);
-        nouns = nouns[elevel-1];
+        if(tile.level<2) { nouns = nouns[elevel-1]; }
+        else { let index = random(0,nouns.length-1); nouns = nouns[index] }
         // let curr_row = Math.floor(platform/5);
         $.getJSON(file_url, async function (file_data) {
              // $.each(file_data, function (entry) {

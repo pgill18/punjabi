@@ -63,6 +63,7 @@ whiteboard.prev_data = {}; // = {model:[]};
 whiteboard.aaa = 0;
 
 $(function () {
+    whiteboard.voices = window.speechSynthesis.getVoices();
     $("#whiteboardModal1-dialog").css('max-width', (whiteboard.ncols*250)+'px');
     // whiteboard.popovers = whiteboard_fillPopovers();
     // $('[data-toggle="popover"]').popover()
@@ -172,9 +173,15 @@ function whiteboard_initialize(index) {
         if(elevel===4) data.origlines = [].concat(idata[0].origlines, idata[1].origlines);
         if(elevel===4) data.origlines3 = [].concat(idata[0].origlines.slice(0,3), idata[1].origlines.slice(0,3));
         // else data.origlines = [].concat(idata[0].origlines.slice(0,2), idata[1].origlines.slice(0,2));
+        if(0) {}
         else {
             let platform = whiteboard.expedition.platform || 1;
             idata = langdb[elevel-1][platform-1];
+            console.log({idata});
+            if(tile.level>3) console.log(`Shuffling idata because (tile.level>3)`)
+            if(tile.level>3) idata = shuffle(clone(idata));
+            function clone(obj) { return JSON.parse(JSON.stringify(obj)) }
+            console.log({idata});
             if(idata) {
                 if(idata.length===1) idata.push(idata[0]);
                 console.log(`... langdb =`, langdb)
@@ -470,12 +477,12 @@ function speakit(text){
     let synth = window.speechSynthesis;
     let utterThis = new SpeechSynthesisUtterance(pa2hi(text));
     // utterThis.voice = voices[9];
-    utterThis.voice = pickVoice('hi-IN', voices) || voices[9];
+    utterThis.voice = pickVoice('hi-IN') || whiteboard.voices[7];
     synth.speak(utterThis);
     return synth;
 }
-function pickVoice(lang, voices) {
-    for(let voice of voices) {
+function pickVoice(lang) {
+    for(let voice of whiteboard.voices) {
         if(voice.lang===lang) return voice;
     }
 }
@@ -509,7 +516,7 @@ async function whiteboard_speak(listen_while_speecking=false) {
 }
 
 function whiteboard_listen(get_voices=1) {
-    if(get_voices) window.speechSynthesis.getVoices();
+    if(get_voices) whiteboard.voices = window.speechSynthesis.getVoices();
     listen();
 
     function listen() {
